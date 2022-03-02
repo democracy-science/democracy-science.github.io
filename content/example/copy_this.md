@@ -1,5 +1,5 @@
 +++
-title = "Template you can copy"
++ title = "Template you can copy"
 date = 2021-01-01
 Summary = "...very short summary of the item "
 tags = ["Krause", "Advisory Panel"]
