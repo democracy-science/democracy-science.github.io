@@ -1,9 +1,9 @@
 +++
-+ title = "Template you can copy"
-+ date = 2021-01-01
-+ Summary = "...very short summary of the item "
-+ tags = ["Krause", "Advisory Panel"]
-+ category = "Journal"
+title = "Template you can copy"
+date = 2021-01-01
+Summary = "...very short summary of the item "
+tags = ["Krause", "Advisory Panel"]
+category = "Journal"
 +++
 
 To navigate the site, click on the title "Booster Timeline" to go to the home page that lists all items. 
