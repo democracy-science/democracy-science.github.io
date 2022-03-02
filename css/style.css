@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Lato&display=swap');
+
+* {
+    text-rendering: optimizeLegibility;
+}
+
+html,
+body {
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+/* font size  */
+nav {
+    font-size: 1.5rem;
+}
+
+.title {
+    font-size: 47pt;
+    font-weight: 700;
+    line-height: 1.25;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.sub-title {
+    font-size: 20pt;
+    font-weight: 700;
+    line-height: 1.32;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.article-title {
+    font-size: 1.75rem;
+    line-height: 1.2;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.primary-font {
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.content {
+    font-size: 1.15rem;
+    line-height: 1.8rem;
+    font-weight: 400;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+/* flex  */
+.d-flex {
+    display: flex;
+}
+
+.d-flex-space-between {
+    justify-content: space-between;
+}
+
+/* common classes  */
+.content {
+    flex: 1;
+}
+
+.container {
+    width: 80%;
+}
+
+footer {
+    background-color: #fff;
+    border-top: 1px solid #000;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+    line-height: 1.5rem;
+}
+
+footer span {
+    padding-right: 1rem;
+}
+
+.d-none {
+    display: none;
+}
+
+p code,
+li code {
+    padding: .2em .4em;
+    background-color: rgba(27, 31, 35, .05);
+}
+
+
+ol {
+    margin-bottom: 0;
+}
+
+/* paddings  */
+.p-1 {
+    padding: 1rem;
+}
+
+.pb-2 {
+    padding-bottom: 2rem;
+}
+
+.pl-1 {
+    padding-left: 2rem;
+}
+
+/* margins  */
+.m-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mt-1 {
+    margin-top: 1rem;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.mt-4 {
+    margin-top: 4rem;
+}
+
+/* text-  */
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-black {
+    color: #000;
+}
+
+.text-muted {
+    color: gray;
+}
+
+.text-small {
+    font-size: small;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.text-capitalize-letter::first-letter,
+a.text-capitalize-letter::first-letter {
+    text-transform: capitalize;
+}
+
+
+.article img {
+    max-width: 100%;
+}
+
+.button {
+    background: #6a00f4;
+    color: #fff;
+    padding: .375rem .75rem;
+    text-decoration: none;
+    border-radius: .25rem;
+    line-height: 1;
+    vertical-align: middle;
+    font-size: 1rem;
+
+}
+
+.mark {
+    padding: 2px 5px 2px 5px;
+    font-size: small;
+}
+
+.bg-yellow {
+    background: yellow;
+}
+
+.bg-red {
+    background: tomato;
+
+}
+
+
+.article-menu img {
+    height: 20px;
+    vertical-align: middle;
+}
+
+.article-menu .button {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.tldr {
+    border: 1px solid black;
+    padding: 2rem;
+}
+
+aside .toc {
+    position: fixed;
+    top: 20%;
+    left: 10px;
+    width: 20%;
+    border-radius: 5px;
+}
+
+.toc a {
+    text-decoration: none;
+    color: #000;
+}
+
+#TableOfContents {
+    display: none;
+}
+
+.ais-InfiniteHits--empty {
+    margin-top: 2rem;
+    font-size: 1rem;
+    color: gray;
+    text-align: center;
+}
+
+div.highlight  {
+    background-color: #f8f8f8;
+    margin-left: -5rem;
+    margin-right: -8rem;
+    margin-bottom: 2rem;
+
+    overflow-x: scroll;
+}
+
+li > code , div.highlight  {
+    font-size: 14px;
+}
+
+div.highlight pre {
+    overflow-x: scroll;
+    padding-left: 1rem;
+}
+
+p>code {
+    background-color: #f8f8f8;
+    font-size: 14px;
+}
+
+/* table */
+
+table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th { 
+    border-bottom: 1px solid #000;
+    background-color: #f8f8f8;
+}
+
+td {
+    padding: 5px;
+}
+
+td {    
+    border-bottom: 1px solid lightgray;
+}
+
+tr:last-child > td {
+    border-bottom: 1px solid #000;
+}
+
