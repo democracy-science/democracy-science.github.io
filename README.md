@@ -2,7 +2,7 @@
 
 This site provides the content for a webpage that you can find at this URL: 
 
-https://democracy-science-year-of-pandemic/github.io
+----
 
 # How the site is organized
 
