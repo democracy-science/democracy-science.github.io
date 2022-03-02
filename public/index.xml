@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booster Timeline</title>
+    <link>https://democracy.paulromer.net/</link>
+    <description>Recent content on Booster Timeline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://democracy.paulromer.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDC Overrules Advisory Panel</title>
+      <link>https://democracy.paulromer.net/news/cdc_overrules_panel/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://democracy.paulromer.net/news/cdc_overrules_panel/</guid>
+      <description>C.D.C. Chief Overrules Agency Panel and Recommends Pfizer-BioNTech Boosters for Workers at Risk</description>
+    </item>
+    
+    <item>
+      <title>F.D.A. Advisory Panel</title>
+      <link>https://democracy.paulromer.net/news/fda_panel/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://democracy.paulromer.net/news/fda_panel/</guid>
+      <description>insufficient evidence to recommend third shots for all adult recipients of the vaccine, as Pfizer had requested</description>
+    </item>
+    
+    <item>
+      <title>Lancet Letter Opposing Boosters</title>
+      <link>https://democracy.paulromer.net/journal/lancet/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://democracy.paulromer.net/journal/lancet/</guid>
+      <description>&amp;hellip;current vaccine supplies could save more lives if used in previously unvaccinated populations than if used as boosters in vaccinated populations.</description>
+    </item>
+    
+    <item>
+      <title>Mayo Clinic Study</title>
+      <link>https://democracy.paulromer.net/preprint/mayo_study/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://democracy.paulromer.net/preprint/mayo_study/</guid>
+      <description>&amp;hellip; effectiveness against infection was lower for both vaccines (mRNA-1273: 76%, 95% CI: 58-87%; BNT162b2: 42%, 95% CI: 13-62%)</description>
+    </item>
+    
+    <item>
+      <title>Template you can copy</title>
+      <link>https://democracy.paulromer.net/example/copy_this/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://democracy.paulromer.net/example/copy_this/</guid>
+      <description>&amp;hellip;very short summary of the item</description>
+    </item>
+    
+  </channel>
+</rss>

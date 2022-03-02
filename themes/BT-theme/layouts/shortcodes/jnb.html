@@ -1,0 +1,35 @@
+<!-- read the parameters -->
+{{- $notebook_name :=  .Get "src" -}}
+{{- $cell_tag := .Get "tag" -}}
+
+<!-- build the url to be able to fetch this as a json -->
+<!-- I did not use the data repo to keep things in one place -->
+{{- $baseurl := printf "%s" .Site.BaseURL -}}
+{{- $url := print $baseurl $notebook_name -}}
+
+<!-- check if the file exists to avoid build errors -->
+<!-- hugo doesn't seem able to handle errors with getJson and the build fails -->
+<!-- I am forcing the user to put the code in the repo
+    otherwise link will break over time -->
+{{- if (fileExists $notebook_name) -}}
+<!-- read the json -->
+{{- $data := getJSON $url -}}
+<!-- Jupyter notebook json structure is on -->
+<!-- https://nbformat.readthedocs.io/en/latest/format_description.html -->
+<!-- Loop through all the cells
+        check if the tag i am looking for is in cell.meta.tags -->
+{{- range $data.cells -}}
+    {{- $cells := . -}}
+    {{- range $cells.source -}}
+        <!-- make sure the cell has the meta data first -->
+        {{- if $cells.metadata -}}
+            <!-- tags is an array, use in -->
+            {{- if in $cells.metadata.tags $cell_tag -}}
+                {{- . | safeHTML -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- else -}}
+ {{ $url }}
+{{- end -}}

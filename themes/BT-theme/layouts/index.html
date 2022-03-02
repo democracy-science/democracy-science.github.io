@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+    <div class="container m-auto">
+        <div class="text-center mt-4">
+            <!-- title -->
+            <div class="title">Booster Timeline</div>
+<!--            -- search box --
+            <div class="mt-2 w-md-55 m-auto" id="searchbox"></div>
+            -- view all link --
+            <a class="mt-2 text-black text-decoration-none" href="{{ .Site.Params.viewall }}">view all</a>
+        </div> -->
+    </div>
+
+    {{- partial "recent.html" . -}}
+    
+{{ end }}

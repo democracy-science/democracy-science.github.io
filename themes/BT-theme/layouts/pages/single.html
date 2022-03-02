@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+{{- partial "header.html" . -}}
+
+<div class="container content m-auto">
+
+<div class="w-md-55 m-auto mt-2">
+
+    <h1>{{ .Title }} </h1>
+
+    <div>
+        {{ .Content | safeHTML }}
+    </div>
+
+</div>
+</div>
+
+{{ end }}

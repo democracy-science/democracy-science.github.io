@@ -1,0 +1,60 @@
+<!-- get the image source, size, alt, rotation, format, etc... -->
+{{ $image_src := .Get "src" }}
+{{ $size := .Get "size" }}
+{{ $alt := .Get "alt" }}
+{{ $format := .Get "format" }}
+{{ $quality := .Get "quality" }}
+{{ $rotation := .Get "rotate" }}
+
+<!-- get the original image as a resource -->
+<!-- this is needed for hugo to be able to do the processing -->
+{{ $original_image := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" $image_src ) }}
+
+<!-- Resize must take a parameter of width and height -->
+<!-- If those are not set, it means the author doesn't want the change -->
+<!-- and probably only wants to format or convert or rotate the image -->
+<!-- in this case, read the original width and height and keep things as is -->
+<!-- otherwise hugo gives an error -->
+{{ if eq (len $size) 0 }}  
+    <!-- use string to change the image size from integer to string -->
+    <!-- otherwise the printf doesn't really work -->
+    {{ $original_width := string $original_image.Width }}
+    {{ $original_height := string $original_image.Height }}
+    {{ $size = printf "%s%s%s" $original_width "x" $original_height }}
+{{ end }}
+
+<!-- read the file details -->
+{{ $file_details := split $image_src "." }}
+{{ $filename := index $file_details 0 }}
+
+<!-- if there is no alt or description -->
+<!-- get the file name, remove the extension  -->
+<!-- humanize the file name and use it as an alt -->
+{{ if eq (len $alt) 0 }}    
+    {{ $alt = humanize $filename }}
+{{ end }}
+
+<!-- set image quality -->
+<!-- https://gohugo.io/content-management/image-processing/#jpeg-and-webp-quality -->
+{{ if gt (len $quality) 0 }}
+    {{ $quality = printf "%s%s" "q" $quality }}
+{{ end }}
+
+<!-- set image rotation -->
+<!-- https://gohugo.io/content-management/image-processing/#rotate -->
+<!-- if rotate is set, format as r90 for example -->
+{{ if gt (len $rotation) 0 }}
+    {{ $rotation = printf "%s%s" "r" $rotation }}
+{{ end }}
+
+<!-- build the full image processing string -->
+{{ $image_setting := printf "%s %s %s %s" $size $format $rotation $quality }}
+
+
+<!-- process and generate the html -->
+{{ with $original_image }}
+    <!-- resize, use the size  -->
+    {{ $image := .Resize  $image_setting }} 
+    <!-- generate the html -->
+    <img alt="{{ $alt }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ end }}

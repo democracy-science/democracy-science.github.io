@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preprints on Booster Timeline</title>
+    <link>https://democracy.paulromer.net/preprint/</link>
+    <description>Recent content in Preprints on Booster Timeline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://democracy.paulromer.net/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mayo Clinic Study</title>
+      <link>https://democracy.paulromer.net/preprint/mayo_study/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://democracy.paulromer.net/preprint/mayo_study/</guid>
+      <description>&amp;hellip; effectiveness against infection was lower for both vaccines (mRNA-1273: 76%, 95% CI: 58-87%; BNT162b2: 42%, 95% CI: 13-62%)</description>
+    </item>
+    
+  </channel>
+</rss>
