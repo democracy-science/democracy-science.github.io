@@ -1,4 +1,4 @@
-baseURL = "https://democracy-science.github.io"
+baseURL = "https://democracy-science"
 
 [privacy]
   [privacy.disqus]
