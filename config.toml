@@ -1,3 +1,19 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Booster Timeline"
+theme = "BT-theme"
+enableGitInfo = true 
+enableEmoji = true 
+pygmentsUseClasses = true 
+
+[params]
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+
+[markup]
 
 [privacy]
   [privacy.disqus]
