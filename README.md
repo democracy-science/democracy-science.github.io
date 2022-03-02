@@ -2,7 +2,7 @@
 
 This site provides the content for a webpage that you can find at this URL: 
 
-----
+https://democracy-science.github.io/
 
 # How the site is organized
 
@@ -13,6 +13,7 @@ The content is contained in the folder called "content". It has 3 subfolders for
 - Journal 
 - News 
 - Preprint 
+- Opeds
 
 Each of these three sub-folders has a item that illustrates what you can do as you record information about an item you find. As we collect information, we might add other categories of items. 
 
