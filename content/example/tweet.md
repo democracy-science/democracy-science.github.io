@@ -8,7 +8,7 @@ category = "Twitter"
 
 To navigate the site, click on the title "Booster Timeline" to go to the home page that lists all items. 
 
-{{< tweet user="@EricTopol" id="1332771238771630080" >}}
+https://twitter.com/EricTopol/status/1332771238771630080
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+https://twitter.com/SanDiegoZoo/status/1453110110599868418
 
