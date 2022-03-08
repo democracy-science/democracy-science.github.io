@@ -4,7 +4,7 @@ title = "KFF Vaccine Monitor Polling - Partisan Differences in Booster Shot Enth
 
 date = 2021-12-15
 
-summary = "Polling among Democrats, Independents, Republicans about vaccination status and willingness to get booster displays that 40% more fully vaccinated Democrats than Republicans are likely to get booster."
+summary = "Polling among Democrats, Independents, and Republicans about vaccination status and willingness to get booster displays that 40% more fully vaccinated Democrats are likely to get booster than Republicans."
 
 tags = ["Journal", "Partisan"]
 
