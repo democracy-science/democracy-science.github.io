@@ -6,7 +6,8 @@ tags = ["Twitter"]
 category = "Twitter"
 +++
 
----
+# Tweets by Eric Topol 
+
 It's hard to make neurodegeneration aesthetic. But somehow @simonprades did. A @ScienceMagazine special issue covers genetics, sleep, glymphatics and more 
 https://t.co/uO8sZiVNGv https://t.co/xP3yGeoiwn
 
