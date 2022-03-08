@@ -1,7 +1,7 @@
 +++
-title = "Humoral immune response in inactivated SARS-CoV-2 vaccine: When should a booster dose be administered?"
+title = "Researchers in Turkey identify decreased vaccine immune response, recommend booster at months 6-12"
 date = 2021-07-13
-summary = "Antibody concentrations after vaccination with two doses were found to be decreased. A booster at months 6-12 is recommended for the inactive SARS-CoV-2 vaccination."
+summary = "Project supported by the Scientific Research Projects Office of the University of Cukurova, Turkey discovered that antibody concentrations after vaccination with two doses were found to be decreased. A booster at months 6-12 is recommended for the inactive SARS-CoV-2 vaccination."
 tags = ["booster shot", "vaccine efficacy", "Preprint"]
 category = "Preprint"
 +++
