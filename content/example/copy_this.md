@@ -1,6 +1,6 @@
 +++
 title = "Template you can copy"
-date = 2021-01-01
+date = 2021-01-31
 Summary = "...very short summary of the item "
 tags = ["Krause", "Advisory Panel"]
 category = "Journal"
