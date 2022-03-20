@@ -4,5 +4,7 @@ summary = "Although we see a push for boosters, the only people it really benefi
 tags = [ "Booster" , "Vaccine" , "Omicron" , "Delta" , "Resistance" ]
 +++
 
+By By Philip Krause, Marion F. Gruber and Paul A. Offit
+ 
 "The only way we can defeat this virus is by targeting the unvaccinated and getting them vaccinated rather than focusing our attention on the booster shots. This process of boosting is counterproductive because it delays vaccination in other countries and doesn't do much clinically. Boosters will do something, but trying to get everyone boosted should not be our main course of actiom right now." 
 [Link] https://www.washingtonpost.com/outlook/2021/11/29/booster-shots-universal-opinion/
