@@ -1,5 +1,5 @@
 +++ title = "We don't need universal booster shots. We need to reach the unvaccinated." 
-date = 11-29-21 
+date = 2021-11-29 
 summary = Although we see a push for boosters, the only people it really benefits are those that are high-risk, however, it is not a preventative against Delta, according to studies done. Current vaccines will do their part in preventing severe disease caused by the omicron variant, however, the booster will likely not be helpful in dealing with resistance against the variant. And these shots can be better used to help the unvaccinated. 
 "tags = [ "Booster" , "Vaccine" , "Omicron" , "Delta" , "Resistance" ]
 +++
