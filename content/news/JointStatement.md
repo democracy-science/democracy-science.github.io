@@ -1,7 +1,7 @@
 +++
 title = "Joint CDC and FDA Statement that boosters not currently needed"
 date = 2021-07-08
-summary = “The CDC and FDA released a joint statement that announced that a booster shot is not needed at that time for those who are fully vaccinated."
+summary = "The CDC and FDA released a joint statement that announced that a booster shot is not needed at that time for those who are fully vaccinated."
 tags = ["FDA", "CDC", "News"]
 category = "News"
 +++
