@@ -10,29 +10,28 @@ body {
 }
 
 body {
-    font-family: 'Lato', sans-serif;
-    display: flex;
+    font-family: sans-serif;
+/*    display: flex; */
     min-height: 100vh;
-    flex-direction: column;
+/*    flex-direction: column; */
 }
 
 /* font size  */
 nav {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
 }
 
 .title {
-    font-size: 47pt;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 1.25;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
 }
 
 .sub-title {
     font-size: 20pt;
-    font-weight: 700;
+    font-weight: 300;
     line-height: 1.32;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family:  sans-serif;
 }
 
 
@@ -40,16 +39,20 @@ nav {
     font-size: 1.75rem;
     line-height: 1.2;
     font-weight: 700;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
 }
+
+h3 {
+    font-family: serif;
+    font-style: italic;
+} 
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -58,19 +61,21 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
-    font-weight: 700;
-    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+    font-family:  sans-serif;
 }
 
 .primary-font {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
 
 }
 
+.hidden {
+    display: none !important;
+}
+
 .content {
-    font-size: 1.15rem;
-    line-height: 1.8rem;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .font-weight-bold {
@@ -152,6 +157,10 @@ ol {
     margin-top: 2rem;
 }
 
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
 .mt-4 {
     margin-top: 4rem;
 }
@@ -192,9 +201,15 @@ a.text-capitalize-letter::first-letter {
 
 
 .article img {
-    max-height: 10rem;
-    max-width: 100%;
+    max-width: 40%;
+    padding: 1rem;
 }
+
+.thread img {
+    max-width: 30%;
+    padding: 40px;
+}
+
 
 .button {
     background: #6a00f4;
@@ -252,7 +267,15 @@ aside .toc {
 }
 
 #TableOfContents {
-    display: none;
+    display: block;
+}
+
+#TableOfContents ul {
+    list-style: none;
+}
+
+#TableOfContents a.active {
+    color: blue;
 }
 
 .ais-InfiniteHits--empty {
@@ -309,3 +332,88 @@ tr:last-child > td {
     border-bottom: 1px solid #000;
 }
 
+.tweet-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+.tweet-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.tweet-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tweet-box {
+    width: 50%;
+}
+
+hr {
+    border: 1px dashed black;
+}
+
+.list-inline li {
+    display: inline;
+    margin-right: 10px;
+    text-align: center;
+}
+
+a.menu {
+    color: black;
+}
+
+
+.thread, .tweet {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 1rem;
+//*    width: 515px;     *// 
+    width = 40%; 
+    margin-top: 1rem;
+}
+
+.thread{
+    border-left: 4px solid rgb(216, 216, 216);
+    padding-left: 20px;
+}
+.in-reply-to {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.in-reply-to a {
+    color: #1DA1F2;
+}
+
+
+
+.thread hr {
+    border: none;
+    height: 1px;
+    background-color: lightgray;
+}
+
+.post-date {
+    font-size: 1.5rem;
+    font-family: serif;
+    font-style: italic;
+}
+
+.profile {
+    text-align: right;
+    padding-bottom: 0.3rem;
+    font-family: serif;
+    font-style: italic;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

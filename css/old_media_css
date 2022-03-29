@@ -1,0 +1,45 @@
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .w-md-55 {
+        width: 55%;
+    }
+    
+    .w-md-80 {
+        width: 80%;
+    }
+    
+    .article-menu  {
+        position: sticky;
+        background-color: #fff;
+        top: 0px;
+    }
+    
+    #TableOfContents {
+        font-size:  0.9rem;
+        display: block;
+    }
+    
+    #TableOfContents ul {
+        list-style: none;
+    }
+    
+    #TableOfContents ul li {
+        line-height: 1.3rem;
+        padding-top: 0.5rem;
+    }
+    
+    #TableOfContents ul li a {
+        color: #4d5156;
+    }
+    
+    #TableOfContents ul li a.active {
+        color: black;
+        font-family: 'Josefin Sans', sans-serif;
+        border-left: 2px solid black;
+        padding-left: 5px;
+        margin-left: -10px;
+    }
+    
+    
+}

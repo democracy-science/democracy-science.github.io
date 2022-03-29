@@ -1,45 +1,162 @@
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
 
+/* New PMR */
+@media screen and (min-width: 400px) {
+    table {
+      font-size: 0.8rem;
+      margin-top: 1.3rem;
+      margin-bottom: 1.3rem;
+      line-height: 1.2rem;
+    }
+    
+     table th {
+       font-size: 0.8rem
+      }
+  
+    .title {
+      font-size: 2rem;
+    }
+    
+    .content {
+      font-size: 0.8rem;
+      line-height: 1.2rem;
+    }
+  
+    .thread-content {
+      font-weight: 300;
+      padding-left: 40px; 
+  } 
+  
+    .thread .tweet {
+      width: 96%;
+    } 
+  }
+  /* End of new PMR */
+  
+  @media screen and (min-width: 768px) {
+  
+    html {
+      border: 10px solid #000;
+      box-sizing: border-box;
+    }
+  
+    img.logo {
+      height: 120px;
+      display: block;
+      margin: auto;
+    }
+  
+    .text-md-center {
+        text-align: center;
+    }
+  
+    .thread .tweet {
+      width: 515px;
+    } 
+    
+    .w-md-25 {
+      width: 25%;
+    }
+  
+    .w-md-35 {
+      width: 35%;
+    }
+  
+    .w-md-40 {
+      width: 40%;
+    }
+  
+    .pt-2 {
+        padding-top: 2rem;
+    }
+    
+    .w-md-40-max {
+      max-width: 40%;
+    }
+  
+    .w-md-50 {
+      width: 50%;
+    }
+  
     .w-md-55 {
-        width: 55%;
+      width: 55%;
+    }
+  
+    .w-md-65 {
+      width: 65%;
+    }
+  
+    .ml-md-10 {
+      margin-left: 10%;
+    }
+  
+    .d-md-flex {
+      display: flex;
+    }
+  
+     ul.main-nav li {
+       border-bottom: 0px;
+       margin-left: 1.5rem;
+     }
+  
+     .main-nav {
+         display: flex;
+         margin-right: 30px;
+         flex-direction: row;
+         justify-content: flex-end;
+     }
+  
+     .navbar-toggle {
+        display: none;
+     }
+  /* New PMR */
+     table {
+      font-size: 1.0rem;
+      margin-top: 1.3rem;
+      margin-bottom: 1.3rem;
+      line-height: 1.5rem;
     }
     
-    .w-md-80 {
-        width: 80%;
+    .title {
+      font-size: 3rem;
     }
     
-    .article-menu  {
-        position: sticky;
-        background-color: #fff;
-        top: 0px;
+    .content {
+      font-size: 1rem;
+      line-height: 1.5rem;
     }
-    
-    #TableOfContents {
-        font-size:  0.9rem;
-        display: block;
-    }
-    
-    #TableOfContents ul {
-        list-style: none;
-    }
-    
-    #TableOfContents ul li {
-        line-height: 1.3rem;
-        padding-top: 0.5rem;
-    }
-    
-    #TableOfContents ul li a {
-        color: #4d5156;
-    }
-    
-    #TableOfContents ul li a.active {
-        color: black;
-        font-family: 'Josefin Sans', sans-serif;
-        border-left: 2px solid black;
-        padding-left: 5px;
-        margin-left: -10px;
-    }
+
+    table th {
+       font-size: 1.0rem
+      }
+  /* End of new PMR */
+      
     
     
-}
+     .margin-note {
+       float: right;
+       margin-right: -300px;
+       margin-top: 1.5rem;
+       max-width: 250px;
+       text-align: right;
+     }
+  
+  
+     .margin-image {
+         display: block;
+         max-width: 55%;
+         float: right;
+         margin-right: -65%;
+     }
+  
+     .margin-image p  {
+       font-size: 1rem;
+       margin-top: 1rem;
+       line-height: 1rem;
+     }
+  
+     .search-box input {
+       width: 50%;
+     }
+  
+  }
+  
