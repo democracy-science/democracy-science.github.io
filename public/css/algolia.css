@@ -1,0 +1,73 @@
+.ais-InfiniteHits-loadMore,
+.ais-InfiniteHits-loadPrevious {
+    background-color: #fff;
+    border: 1px solid #000;
+    height: 30px;
+    border-radius: 30px;
+    margin: auto;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    text-transform: lowercase;
+    cursor: pointer;
+}
+
+ol.ais-InfiniteHits-list {
+    padding-inline-start: 0;
+}
+
+.ais-InfiniteHits-loadMore--disabled {
+    border: 1px solid lightgray;
+}
+
+.ais-InfiniteHits-loadPrevious--disabled {
+    display: none;
+}
+
+.ais-SearchBox-input {
+    width: 100%;
+    height: 2rem;
+    border: 1px solid black;
+    font-size: 1.1rem;
+}
+
+.ais-SearchBox-input:focus {
+    outline: none;
+}
+
+
+.ais-InfiniteHits-list {
+    list-style: none;
+}
+
+.ais-SearchBox-submit {
+    background-color: transparent;
+    border: 0px;
+}
+
+.ais-SearchBox-submitIcon {
+    display: none;
+}
+
+
+.hit-content {
+    /* flex-basis: 70%; */
+}
+
+.hit-title {
+    font-size: 1.15rem;
+    line-height: 1.5rem;
+}
+
+.hit-summary {
+    padding-top: 0.5rem;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    color: #4d5156;
+}
+
+.hit-tags {
+    color: #4d5156;
+    font-size: smaller;
+}

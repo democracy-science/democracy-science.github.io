@@ -1,22 +1,4 @@
-baseURL = "http://localhost:1313/"
-languageCode = "en-us"
-title = "Booster Timeline"
-theme = "BT-theme"
-enableGitInfo = true 
-enableEmoji = true 
-pygmentsUseClasses = true 
-
-[markup.goldmark.renderer]
-  unsafe = true
-  
-[params]
-
-[outputs]
-  home = ["HTML", "RSS"]
-
-[taxonomies]
-
-[markup]
+baseURL = "https://democracy-science-year-of-pandemic.github.io"
 
 [privacy]
   [privacy.disqus]
@@ -31,3 +13,10 @@ pygmentsUseClasses = true
     disable = true
   [privacy.youtube]
     disable = true
+
+[permalinks]
+    post = '/:year/:month/:slug'
+
+[taxonomies]
+  2021 = "2021"
+  2022 = "2022"

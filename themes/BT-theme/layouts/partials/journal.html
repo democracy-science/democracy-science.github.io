@@ -1,0 +1,15 @@
+{{ $section_content :=  where .Site.RegularPages "Section" "journal"  }}
+{{ $section_content := ($section_content | last 5).Reverse }}
+
+        <h2>Journals</h2>
+        {{ range $section_content }}
+            {{ $year_month := .Date | time.Format "2006/01" }}
+            <div class="content-item mt-1" data-content="{{$year_month}}">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <div>
+                    <div class="text-small">{{ .Date.Format "Jan 02 2006" }} </div>
+                    <div>{{ .Params.Summary }}</div>
+                </div>
+            </div>
+        {{ end }}
+        </ul>

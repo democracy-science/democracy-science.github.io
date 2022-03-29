@@ -5,39 +5,11 @@
 <div class="container content m-auto">
 
     <div id="article" class="w-md-55 m-auto">
-        <div class="mt-1 article-menu">
-            <!-- <a class="button"
-                href="https://github.com/mainsail-org/how-to/blob/master/content/{{ .File.Path }}">edit</a>
-            <a class="button" target="_blank"
-                href="{{ .Site.Params.flag }}?labels=flag&title=[flag] {{ .Title }}&body={{.Site.Params.flagmessage}}{{ .Permalink }}">report
-                an issue</a>
-
-            {{ if .Params.code }}
-            <a class="button" target="_blank" href="{{ .Params.code }}">code</a>
-            {{ end }}
-            
-
-            <a class="button" target="_blank"
-                href="https://github.com/mainsail-org/how-to/commits/master/content/{{ .File.Path }}">history</a>
-
-            <a class="button" target="_blank" href="{{ .Site.Params.gitter }}">chat</a>
-        -->
-        </div>
 
         <div class="mt-1 article-title text-capitalize-letter">
             {{ .Title }}
         </div>
-        <div>
-            {{- partial "flags.html" . -}}
-        </div>
-        <div class="mt-2 italic post-date">{{ .Params.category }}</div>
         <div class="mt-2 italic post-date">{{ .Date.Format "Jan 2, 2006" }}</div>
-
-        <!-- <aside>
-            <div class="toc">
-                {{ .TableOfContents }}
-            </div>
-        </aside> -->
 
         <div class="mt-2 article">
             <!-- check for a tldr.md file and display the markdown -->
@@ -72,17 +44,33 @@
             {{end}} 
             
         </div>
+
+            <!-- previous and next pagination -->
+        <div class="mt-4 w-md-80 border-top text-default">
+            <div class="d-md-flex d-flex-space-between">
+            <div class="w-md-40 pt-2">
+                {{ if .PrevInSection }}
+                <div class="mb-2 text-medium">
+                    <a href="{{.PrevInSection.Permalink}}">Previous</a>
+                </div>
+                {{ end }}
+            </div>
+
+            <div class="w-md-40-max pt-2">
+                {{ if .NextInSection }}
+                <div class="mb-2 text-medium">
+                    <a  href="{{.NextInSection.Permalink}}">Next</a>
+                </div>
+                {{ end }}
+            </div>
+            </div>
+        </div>
+
     </div>
+
 </div>
 
 
-<!-- <script defer src="/js/toc.js"></script> -->
 
-{{ if eq (.Params.math) "true" }}
-    <script src="/js/mathjax-config.js" defer></script>
-    <script type="text/javascript" id="MathJax-script" defer
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
-    </script>
-{{ end }}
 
 {{ end }}

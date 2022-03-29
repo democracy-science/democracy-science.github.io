@@ -1,16 +1,15 @@
 {{ define "main" }}
 
     <div class="container m-auto">
-        <div class="text-center mt-4">
-            <!-- title -->
-            <div class="title">Booster Timeline</div>
-<!--            -- search box --
-            <div class="mt-2 w-md-55 m-auto" id="searchbox"></div>
-            -- view all link --
-            <a class="mt-2 text-black text-decoration-none" href="{{ .Site.Params.viewall }}">view all</a>
-        </div> -->
+        <div class="w-md-55 m-auto mt-2">
+            <div class="title text-center">Booster Timeline</div>
+            {{- partial "aside.html" . -}}
+            {{- partial "journal.html" . -}}
+            {{- partial "news.html" . -}}
+            {{- partial "oped.html" . -}}
+            {{- partial "preprint.html" . -}}
+            {{- partial "tweets.html" . -}}
+        </div>
     </div>
-
-    {{- partial "recent.html" . -}}
-    
+<br><br>
 {{ end }}

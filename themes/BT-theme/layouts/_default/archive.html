@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<div class="container m-auto">
+    <div class="w-md-55 m-auto mt-2">
+        <div class="title text-center"> Booster Timeline</div>
+        {{- partial "aside.html" . -}}
+        <div class="pt-2">Monthly Archive:</div>
+        {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
+        {{ $url := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
+        <div class="pt-2"><a class=" text-underline" href="/{{ $url }}">{{ .Key }} </a></div>
+        {{ end }}
+    </div>
+</div>
+<br><br>
+
+{{ end }}

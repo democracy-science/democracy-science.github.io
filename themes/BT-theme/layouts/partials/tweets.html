@@ -1,0 +1,13 @@
+
+{{ $section_content :=  where .Site.RegularPages "Section" "twitter"  }}
+{{ $section_content := ($section_content | last 50).Reverse }}
+        <h2>Tweets</h2>
+            <div class=" tweet-row-example tweet-container">
+            {{ range $section_content }}
+                {{ $year_month := .Date | time.Format "2006/01" }}
+
+                <div class="content-item tweet-column-example tweet-box" data-content="{{$year_month}}">
+                   <a href="{{.Permalink}}">{{ .Date.Format "Jan 02 2006" }}</a>
+                 </div>
+            {{ end }}
+</div>
