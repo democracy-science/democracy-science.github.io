@@ -15,7 +15,7 @@ There's only one country in the world that has already lost the lives of 1 of ev
 <a href="https://twitter.com/erictopol/status/1438514700019388422" target="_blank" rel="noreferer">07:46 UCT-7</a> 
 </div> 
 <div class="content"> 
-Yet another step towards a pan-sarbecovirus vaccine that could be broadly effective against all #SARSCoV2 variants using receptor binding domain nanoparticles  <a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01062-X#secsectitle0015" target="_blank" rel="noreferer">https://www.cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
+Yet another step towards a pan-sarbecovirus vaccine that could be broadly effective against all #SARSCoV2 variants using receptor binding domain nanoparticles  <a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01062-X#secsectitle0015" target="_blank" rel="noreferer">cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
  @CellCellPress </div> 
 <a href="/twitter/erictopol/images/E_ahZOSVUAwpglr.jpg"  ><img src="/twitter/erictopol/images/E_ahZOSVUAwpglr.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -32,7 +32,7 @@ The new US and world leader in covid cases per capita, WV </div>
 <div class="content"> 
 The UK suppression of cases and deaths with vaccinations during the Delta wave, by age groups
 
-<a href="https://www.economist.com/graphic-detail/2021/09/18/despite-delta-severe-covid-19-is-much-rarer-among-vaccinated-britons" target="_blank" rel="noreferer">https://www.economist.com/graphic-detail/2021/09/1 ...</a> 
+<a href="https://www.economist.com/graphic-detail/2021/09/18/despite-delta-severe-covid-19-is-much-rarer-among-vaccinated-britons" target="_blank" rel="noreferer">economist.com/graphic-detail/2021/09/1 ...</a> 
 
 
 using @PHE_uk dat @TheEconomist </div> 
@@ -46,7 +46,8 @@ An encouraging study about waning of vaccine protection
 
 "Rapid waning of efficacy vs COVID-19 in the first two months after the 2nd dose tapers off thereafter and that the trajectory is consistent w/ a long-term efficacy of ~80% against hospitalisation"
 
-https://t.co/wCbdueg5v4</div> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.12.21263448v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.12 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -54,7 +55,7 @@ Today England started giving 3rd shots for all healthcare workers, age &gt;50, a
 
 While the US fights about whether boosters are needed at all. Brilliant. </div> 
 <a href="/twitter/erictopol/images/E_aOV5qUUAAEToH.jpg"  ><img src="/twitter/erictopol/images/E_aOV5qUUAAEToH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_aQKxJUYAQ7ZQ_.jpg"  ><img src="/twitter/erictopol/images/E_aQKxJUYAQ7ZQ_.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-<a href="https://www.washingtonpost.com/health/2021/09/15/fda-under-fire-boosters-vaccines/" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/09/15/f ...</a> 
+<a href="https://www.washingtonpost.com/health/2021/09/15/fda-under-fire-boosters-vaccines/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/09/15/f ...</a> 
  by @lauriemcginley2 and @ddiamond A1 @washingtonpost </div> 
 <a href="/twitter/erictopol/images/E_aRChQUYA8mRg8.png"  ><img src="/twitter/erictopol/images/E_aRChQUYA8mRg8.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1438588532243656705" target="_blank" rel="noreferer">12:40 UCT-7</a> 
@@ -102,13 +103,14 @@ Thailand
 
 
 
-https://t.co/LcXUEsP8u1</div> 
+<a href="https://www.reuters.com/article/us-health-coronavirus-booster-idUKKBN2GA190" target="_blank" rel="noreferer">reuters.com/article/us-health-coronavi ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The @IsraelMOH will be presenting at the @US_FDA meeting tomorrow on boosters. Their data are compelling evidence for the benefit for age 60 and greater to prevent severe disease, and for safety
 
-<a href="https://www.fda.gov/media/152205/download" target="_blank" rel="noreferer">https://www.fda.gov/media/152205/download</a> 
+<a href="https://www.fda.gov/media/152205/download" target="_blank" rel="noreferer">fda.gov/media/152205/download</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_anMKYVUAQi9lC.jpg"  ><img src="/twitter/erictopol/images/E_anMKYVUAQi9lC.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_anOvVVcAEHcAh.jpg"  ><img src="/twitter/erictopol/images/E_anOvVVcAEHcAh.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 If you think there's a controversy in the US now for age 60+, wait till there's more Israeli follow up data on severe illness for the 40-49 and 50-59 year old groups (slides from above) </div> 
@@ -118,7 +120,8 @@ If you think there's a controversy in the US now for age 60+, wait till there's 
 <div class="content"> 
 Or how about age 20 and up? via @feldman_gil 
 
-https://t.co/KTeQQKqlet</div> 
+<a href="https://twitter.com/feldman_gil/status/1438598295824355335" target="_blank" rel="noreferer">twitter.com/feldman_gil/status/14385982958 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -127,16 +130,9 @@ https://t.co/KTeQQKqlet</div>
 <div class="content"> 
 The US, now ranked 37 on the list of fully vaccinated of total population, and dropping lower every week
 
-<a href="https://ig.ft.com/coronavirus-vaccine-tracker/?areas=gbr&areas=isr&areas=usa&areas=eue&areas=can&areas=chn&areas=ind&cumulative=1&doses=total&populationAdjusted=1" target="_blank" rel="noreferer">https://ig.ft.com/coronavirus-vaccine-tracker/?are ...</a> 
+<a href="https://ig.ft.com/coronavirus-vaccine-tracker/?areas=gbr&areas=isr&areas=usa&areas=eue&areas=can&areas=chn&areas=ind&cumulative=1&doses=total&populationAdjusted=1" target="_blank" rel="noreferer">ig.ft.com/coronavirus-vaccine-tracker/?are ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_cBgCLVkAAaQ4F.jpg"  ><img src="/twitter/erictopol/images/E_cBgCLVkAAaQ4F.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1438641679435636736" target="_blank" rel="noreferer">16:11 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @scrippsresearch: Rapid testing may be one of the most under-utilized tools in the arsenal against the #coronavirus. @EricTopol &amp; @danie…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 It's interesting to watch certain FDA scientists and US public health experts diss or harshly critique waning vaccine effectiveness and 3rd shot data from Israel and the UK when they have no national data of their own</div> 

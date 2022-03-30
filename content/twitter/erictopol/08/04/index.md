@@ -7,7 +7,8 @@ category = "Twitter"
 <div class="thread-content"> 
 Link to the preprint
 
-https://t.co/HihmmLKOvn
+<a href="https://spiral.imperial.ac.uk/bitstream/10044/1/90800/2/react1_r13_final_preprint_final.pdf" target="_blank" rel="noreferer">spiral.imperial.ac.uk/bitstream/10044/1/90 ...</a> 
+
 
 Extensive PCR testing showed that fully vaccinated people had lower viral loads than un- or partially vaccinated, supporting decreased potential for Delta transmission</div> 
 <hr><div class="profile"> 
@@ -20,7 +21,7 @@ The most rigorous assessment to date for Delta breakthroughs, w/ random sampling
 <div class="thread-content"> 
 The FDA full approval of vaccines in now expected by Labor Day; it took months to get transparency and communication w/ the public
 
-<a href="https://www.washingtonpost.com/health/2021/08/02/coronavirus-vaccines-fda-full-approval-timeline/" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/08/02/c ...</a> 
+<a href="https://www.washingtonpost.com/health/2021/08/02/coronavirus-vaccines-fda-full-approval-timeline/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/08/02/c ...</a> 
 
 
 This Q&amp;A shows the prior lack of understanding of its urgency; also the implications on boosters </div> 
@@ -30,10 +31,10 @@ This Q&amp;A shows the prior lack of understanding of its urgency; also the impl
 <div class="content"> 
 Labor Day target (more likely end August)
 
-<a href="https://www.nytimes.com/live/2021/08/04/world/covid-delta-variant-vaccine#the-fda-could-grant-full-approval-to-pfizers-vaccine-by-early-september" target="_blank" rel="noreferer">https://www.nytimes.com/live/2021/08/04/world/covi ...</a> 
+<a href="https://www.nytimes.com/live/2021/08/04/world/covid-delta-variant-vaccine#the-fda-could-grant-full-approval-to-pfizers-vaccine-by-early-september" target="_blank" rel="noreferer">nytimes.com/live/2021/08/04/world/covi ...</a> 
  by @SharonLNYT @noahweiland 
 
-<a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
+<a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
  @nytopinion 
 
 I applaud the transparency, making it #1 priority.
@@ -50,7 +51,8 @@ VE ranges 39-88%; it's likely ≤ 60% at best for mRNA
 
 More data needed, but points to need for boosters for at least some people </div> 
 <a href="/twitter/erictopol/images/E79d4qJUYAIwtQZ.jpg"  ><img src="/twitter/erictopol/images/E79d4qJUYAIwtQZ.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-Overall, these findings certainly are concordant w/ increased Delta breakthrough symptomatic infections we're seeing and a major decline in protection (~95% w/ mRNA) compared with previous strains, as reviewed here https://t.co/al1vE7goSn</div> 
+Overall, these findings certainly are concordant w/ increased Delta breakthrough symptomatic infections we're seeing and a major decline in protection (~95% w/ mRNA) compared with previous strains, as reviewed here <a href="https://twitter.com/EricTopol/status/1422644921740136456" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1422644921740 ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 Recall that 1-dose mRNA or AZ had little (30%) efficacy (1st study in Table). All of this reflects Delta's immune evasiveness. We're very lucky it's holding up for reduction of hospitalizations/deaths but this🦠is far more formidable for both transmission and our immune response</div> 
 <hr><div class="profile"> 
@@ -75,7 +77,7 @@ A better way to see the slowing of case growth is via the log plot, and it looks
 <a href="https://twitter.com/erictopol/status/1423028440664403968" target="_blank" rel="noreferer">14:09 UCT-7</a> 
 </div> 
 <div class="content"> 
-In the pandemic, immunocompromised people (~3% of Americans) are not getting adequate recognition for the potential of in-host evolution of the virus (highlighted studies) and the need for far better approaches to protect them <a href="https://www.nejm.org/doi/full/10.1056/NEJMsb2104756?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMsb210475 ...</a> 
+In the pandemic, immunocompromised people (~3% of Americans) are not getting adequate recognition for the potential of in-host evolution of the virus (highlighted studies) and the need for far better approaches to protect them <a href="https://www.nejm.org/doi/full/10.1056/NEJMsb2104756?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMsb210475 ...</a> 
  @NEJM </div> 
 <a href="/twitter/erictopol/images/E7-VPMrVcAAvJ40.jpg"  ><img src="/twitter/erictopol/images/E7-VPMrVcAAvJ40.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -84,12 +86,13 @@ Just published @NEJM
 
 Prevention of Covid for household contacts with exposure via a single subcutaneous injection: results of a randomized trial of combination monoclonal antibodies shows marked benefit
 
- <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2109682" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMoa2109682</a> 
+ <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2109682" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMoa2109682</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7-UV4IVgAEYNkV.jpg"  ><img src="/twitter/erictopol/images/E7-UV4IVgAEYNkV.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7-UXvhUUAM7eGc.jpg"  ><img src="/twitter/erictopol/images/E7-UXvhUUAM7eGc.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 fixed link
 
-https://t.co/WT8oPg65EH</div> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2109682?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210968 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1423035331327119360" target="_blank" rel="noreferer">14:37 UCT-7</a> 
 </div> 
@@ -129,7 +132,7 @@ There really are 2 lines, not 1, for the US and Israel 4th wave ascents.
 
 Israel is quickly getting people age &gt;60 with booster shots, 11% in 3 days; it'll be important to watch for impact in the weeks ahead
 
-<a href="https://twitter.com/erlichya/status/1422785542329151490" target="_blank" rel="noreferer">https://twitter.com/erlichya/status/14227855423291 ...</a> 
+<a href="https://twitter.com/erlichya/status/1422785542329151490" target="_blank" rel="noreferer">twitter.com/erlichya/status/14227855423291 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7_bAouVEAI2J0k.jpg"  ><img src="/twitter/erictopol/images/E7_bAouVEAI2J0k.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

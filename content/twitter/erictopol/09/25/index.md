@@ -10,7 +10,7 @@ category = "Twitter"
 <div class="content"> 
 The @CDCDirector made the right call.
 
-<a href="https://www.wsj.com/articles/rochelle-walenskys-finest-hour-cdc-fda-janet-woodcock-biden-administration-covid-booster-vaccine-shots-11632511818?mod=opinion_lead_pos1" target="_blank" rel="noreferer">https://www.wsj.com/articles/rochelle-walenskys-fi ...</a> 
+<a href="https://www.wsj.com/articles/rochelle-walenskys-finest-hour-cdc-fda-janet-woodcock-biden-administration-covid-booster-vaccine-shots-11632511818?mod=opinion_lead_pos1" target="_blank" rel="noreferer">wsj.com/articles/rochelle-walenskys-fi ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FAI8rmVUcAY9eaa.jpg"  ><img src="/twitter/erictopol/images/FAI8rmVUcAY9eaa.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -22,7 +22,8 @@ Summary of the evidence to support use of Ivermectin for any covid-related indic
 <div class="content"> 
 Ivermectin poisonings in the US
 
-https://t.co/lcynuS555L by @JamieSmythF @FT
+<a href="https://www.ft.com/content/9715bd16-bcb2-4bfc-bbd9-b7316d787698" target="_blank" rel="noreferer">ft.com/content/9715bd16-bcb2-4bfc-bbd9 ...</a> 
+ by @JamieSmythF @FT
 
 "@FoxNews did not respond to a request for comment."</div> 
 </div> 
@@ -33,10 +34,10 @@ https://t.co/lcynuS555L by @JamieSmythF @FT
 <div class="content"> 
 After the damage has been done, a preprint with a denominator off by &gt;25-fold is withdrawn
 
-<a href="https://www.cbc.ca/news/health/covid-19-vaccine-study-error-anti-vaxxers-1.6188806" target="_blank" rel="noreferer">https://www.cbc.ca/news/health/covid-19-vaccine-st ...</a> 
+<a href="https://www.cbc.ca/news/health/covid-19-vaccine-study-error-anti-vaxxers-1.6188806" target="_blank" rel="noreferer">cbc.ca/news/health/covid-19-vaccine-st ...</a> 
 
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.09.13.21262182v2" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.09.13 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.13.21262182v2" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.13 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FAJOHrDVUAAbQpK.jpg"  ><img src="/twitter/erictopol/images/FAJOHrDVUAAbQpK.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FAJOJeAVIAMwysu.jpg"  ><img src="/twitter/erictopol/images/FAJOJeAVIAMwysu.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -46,7 +47,7 @@ After the damage has been done, a preprint with a denominator off by &gt;25-fold
 <div class="content"> 
 The advantage of more plasmablasts, and primary memory B cells with more antigen-binding capacity, attained by Prior Covid plus 1 mRNA vaccine dose compared with 2 mRNA doses
 
-<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01287-0" target="_blank" rel="noreferer">https://www.cell.com/cell-reports/fulltext/S2211-1 ...</a> 
+<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01287-0" target="_blank" rel="noreferer">cell.com/cell-reports/fulltext/S2211-1 ...</a> 
  @CellReports </div> 
 <a href="/twitter/erictopol/images/FAJWJekVkAkXTsC.jpg"  ><img src="/twitter/erictopol/images/FAJWJekVkAkXTsC.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -58,12 +59,12 @@ A 3rd dose (aka booster) was always envisioned to be necessary for most covid va
 
 "Those in favor of giving out extra doses are 'booster boosters.'"
 
-<a href="https://www.wsj.com/articles/booster-a-bump-up-from-belowfor-your-immunity-11632435132?mod=searchresults_pos1&page=1" target="_blank" rel="noreferer">https://www.wsj.com/articles/booster-a-bump-up-fro ...</a> 
+<a href="https://www.wsj.com/articles/booster-a-bump-up-from-belowfor-your-immunity-11632435132?mod=searchresults_pos1&page=1" target="_blank" rel="noreferer">wsj.com/articles/booster-a-bump-up-fro ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FAJYgQtVIAg7nwU.jpg"  ><img src="/twitter/erictopol/images/FAJYgQtVIAg7nwU.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The waning of Pfizer and Moderna vaccine protection vs *symptomatic infections* over time in all age groups, slide presented at ACIP @CDCgov meeting by Sara Oliver MD <a href="https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-9-23/03-COVID-Oliver.pdf" target="_blank" rel="noreferer">https://www.cdc.gov/vaccines/acip/meetings/downloa ...</a> 
+The waning of Pfizer and Moderna vaccine protection vs *symptomatic infections* over time in all age groups, slide presented at ACIP @CDCgov meeting by Sara Oliver MD <a href="https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-9-23/03-COVID-Oliver.pdf" target="_blank" rel="noreferer">cdc.gov/vaccines/acip/meetings/downloa ...</a> 
 
 
 (this was the primary endpoint for the pivotal trials to approve these vaccines) </div> 
@@ -76,7 +77,7 @@ Recall the UK (and other countries) decision to provide 3rd shots irrespective o
 <hr><div class="thread-content"> 
 Meanwhile we have left the people who got a J&amp;J vaccine stranded with comparatively very low antibody levels 2-6 weeks after dosing, while we've learned such levels are tied to protection
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
 
 
 I think that's now ill-considered. </div> 
@@ -88,19 +89,12 @@ It's as if the denialists of waning vs symptomatic infections think this issue w
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1441831326986870784" target="_blank" rel="noreferer">11:25 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @JamesSurowiecki: Canadian study that found an absurdly high myocarditis rate of 1 in 1000 among ppl getting mRNA vaccines was completel…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1441835361181700101" target="_blank" rel="noreferer">11:41 UCT-7</a> 
 </div> 
 <div class="content"> 
 The transition for COVID-19 from epidemic to endemic phase. Excellent, by Rustom Antia and Elizabeth Halloran @EmoryUniversity @fredhutch 
 
-<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00404-0#relatedArticles" target="_blank" rel="noreferer">https://www.cell.com/immunity/fulltext/S1074-7613( ...</a> 
+<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00404-0#relatedArticles" target="_blank" rel="noreferer">cell.com/immunity/fulltext/S1074-7613( ...</a> 
  @ImmunityCP </div> 
 <a href="/twitter/erictopol/images/FAJss8bVkAAH7uT.jpg"  ><img src="/twitter/erictopol/images/FAJss8bVkAAH7uT.jpg" alt="Twitter image" ></img></a></div> 
 

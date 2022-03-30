@@ -21,7 +21,7 @@ Look at Denmark.
 <div class="content"> 
 Smart mitigation tactics in Oregon dealing with Delta
 
-Leadership matters. @OregonGovBrown <a href="https://www.nytimes.com/2021/08/26/us/oregon-coronavirus-masks-ted-wheeler.html?searchResultPosition=2" target="_blank" rel="noreferer">https://www.nytimes.com/2021/08/26/us/oregon-coron ...</a> 
+Leadership matters. @OregonGovBrown <a href="https://www.nytimes.com/2021/08/26/us/oregon-coronavirus-masks-ted-wheeler.html?searchResultPosition=2" target="_blank" rel="noreferer">nytimes.com/2021/08/26/us/oregon-coron ...</a> 
  by @MrOlmos @ByMikeBaker </div> 
 <a href="/twitter/erictopol/images/E9zMngJVgAgO92C.jpg"  ><img src="/twitter/erictopol/images/E9zMngJVgAgO92C.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -31,7 +31,7 @@ Leadership matters. @OregonGovBrown <a href="https://www.nytimes.com/2021/08/26/
 <div class="content"> 
 We've seen this movie before and it didn't end well
 
-<a href="https://www.washingtonpost.com/health/2021/08/26/sturgis-motorcycle-rally-covid-cases/" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/08/26/s ...</a> 
+<a href="https://www.washingtonpost.com/health/2021/08/26/sturgis-motorcycle-rally-covid-cases/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/08/26/s ...</a> 
   @britsham @KnowlesHannah @dtkeating </div> 
 <a href="/twitter/erictopol/images/E9zPdjGUUAAkkpX.jpg"  ><img src="/twitter/erictopol/images/E9zPdjGUUAAkkpX.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9zPkgtVcAIwPFB.jpg"  ><img src="/twitter/erictopol/images/E9zPkgtVcAIwPFB.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9zPl4BVQAAqsmz.jpg"  ><img src="/twitter/erictopol/images/E9zPl4BVQAAqsmz.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -52,7 +52,7 @@ The odds for this happening </div>
 <div class="content"> 
 Household transmission of Covid systematically reviewed from 87 studies, ~19% secondary attack rate, risk factors summarized, and this has been on the increase over the course of the pandemic
 
-<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783544" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783544" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
  @JAMANetworkOpen @zjmadewell @nataliexdean </div> 
 <a href="/twitter/erictopol/images/E9zun95VIAIxsCz.jpg"  ><img src="/twitter/erictopol/images/E9zun95VIAIxsCz.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9zupVUVQAIkVs0.jpg"  ><img src="/twitter/erictopol/images/E9zupVUVQAIkVs0.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -64,13 +64,6 @@ Timing may not be everything but likely very important.
 
 Countries that fully vaccinated later, proximal to Delta's arrival, more, and with dose-spacing have done quite well vs first mover </div> 
 <a href="/twitter/erictopol/images/E9zyQN9UYAI1FLq.jpg"  ><img src="/twitter/erictopol/images/E9zyQN9UYAI1FLq.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1431311285354786816" target="_blank" rel="noreferer">10:42 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @celinegounder: This is what life can look like when you fully vaccinate over 80% of people over the age of 12: https://t.co/QTS293j46J…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Large outbreaks in US schools
@@ -84,20 +77,13 @@ Case in point
 
 This Delta outbreak happened in Marin County, CA, one of the most highly vaccinated in the US, starting with an unvaccinated teacher.
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e2.htm?s_cid=mm7035e2_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e2.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e2.htm?s_cid=mm7035e2_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7035e2.ht ...</a> 
 
 
 No mention of rapid tests in this @CDCMMWR report
 
 Yes on ventilation, masking, 💉💉 of course </div> 
 <a href="/twitter/erictopol/images/E90gNYqUcAM2JiA.jpg"  ><img src="/twitter/erictopol/images/E90gNYqUcAM2JiA.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E90gRrTVIAAhZ-9.jpg"  ><img src="/twitter/erictopol/images/E90gRrTVIAAhZ-9.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E90fSKWVUAAxocM.jpg"  ><img src="/twitter/erictopol/images/E90fSKWVUAAxocM.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1431338328113119235" target="_blank" rel="noreferer">12:30 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @linseymarr: Don't remove your mask to talk. This is the most important time to wear it! You release a lot more respiratory droplets and…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 @HelenBranswell In the paper. p.9,  it states: "The percentage of vaccine (BNT162b2 or mRNA-1273) breakthrough infections out of the daily diagnosed infections increased gradually with time and was at 36.7% on August 15, 2021
@@ -113,7 +99,7 @@ Otherwise, Helen, the data are specific to Pfizer</div>
 <div class="thread-content"> 
 The evidence of mRNA vaccine effectiveness (VE) waning grows: large Qatar experience shows substantial 5 month attrition for symptomatic infection VE below 50% and, to a lesser extent, vs hospitalization and death
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.25.21262584v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.08.25 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.25.21262584v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.25 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E90xzZbVUAEIX1v.png"  ><img src="/twitter/erictopol/images/E90xzZbVUAEIX1v.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E90xxQQUcAAsHLl.jpg"  ><img src="/twitter/erictopol/images/E90xxQQUcAAsHLl.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Here are the data over time for VE vs infection and hospitalization/death. For latter, relatively few cases after 20 weeks, wide and overlapping 95% confidence intervals, so decline in protection from hospitalization is uncertain, not statistically significant </div> 
@@ -131,7 +117,7 @@ But Beta and Delta (not just Delta) </div>
 <a href="/twitter/erictopol/images/E908d_YVUAAqeAA.jpg"  ><img src="/twitter/erictopol/images/E908d_YVUAAqeAA.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E908gdlUUAQuUdT.jpg"  ><img src="/twitter/erictopol/images/E908gdlUUAQuUdT.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The Delta variant is bad enough, but there has been debate as to whether it, per se, carries a higher risk of hospitalization (H) beyond its very high contagiousness. A new, rigorous study shows a doubling of the H rate <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00475-8/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+The Delta variant is bad enough, but there has been debate as to whether it, per se, carries a higher risk of hospitalization (H) beyond its very high contagiousness. A new, rigorous study shows a doubling of the H rate <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00475-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E91FBDSVIAEe7WP.jpg"  ><img src="/twitter/erictopol/images/E91FBDSVIAEe7WP.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 This might help explain why US hospitalizations are 
@@ -143,12 +129,12 @@ The Delta high viral load/dose may be the culprit </div>
 <a href="https://twitter.com/erictopol/status/1431419286317256705" target="_blank" rel="noreferer">17:52 UCT-7</a> 
 </div> 
 <div class="content"> 
-The accompanying editorial for this important paper, the first to nail down and quantify Delta's increased virulence <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00474-6/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+The accompanying editorial for this important paper, the first to nail down and quantify Delta's increased virulence <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00474-6/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
  by @JeromeLechien
 
 And a very good thread by @kallmemeg 
 
-<a href="https://twitter.com/kallmemeg/status/1431388312372142082" target="_blank" rel="noreferer">https://twitter.com/kallmemeg/status/1431388312372 ...</a> 
+<a href="https://twitter.com/kallmemeg/status/1431388312372142082" target="_blank" rel="noreferer">twitter.com/kallmemeg/status/1431388312372 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E91rPj8VIAMZBTR.jpg"  ><img src="/twitter/erictopol/images/E91rPj8VIAMZBTR.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E91rRIUVEAIMsD1.jpg"  ><img src="/twitter/erictopol/images/E91rRIUVEAIMsD1.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -158,7 +144,7 @@ Delta US hospitalizations are &gt;100,000 now and mainly driven, but not exclusi
 <a href="https://twitter.com/erictopol/status/1431426395121405952" target="_blank" rel="noreferer">18:20 UCT-7</a> 
 </div> 
 <div class="content"> 
-Good summary of the dire situation at many FL, LA hospitals and how patients are often sicker, more in ICU, longer stays and the shift to younger patients than previous waves <a href="https://www.ft.com/content/02924ab7-fbe6-4025-a112-ee9657c5ddcd" target="_blank" rel="noreferer">https://www.ft.com/content/02924ab7-fbe6-4025-a112 ...</a> 
+Good summary of the dire situation at many FL, LA hospitals and how patients are often sicker, more in ICU, longer stays and the shift to younger patients than previous waves <a href="https://www.ft.com/content/02924ab7-fbe6-4025-a112-ee9657c5ddcd" target="_blank" rel="noreferer">ft.com/content/02924ab7-fbe6-4025-a112 ...</a> 
  by @_PeterWells @FT </div> 
 <a href="/twitter/erictopol/images/E91xD89VEAIBwAM.jpg"  ><img src="/twitter/erictopol/images/E91xD89VEAIBwAM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

@@ -19,9 +19,11 @@ Where did the deaths occur? </div>
 <div class="content"> 
 "A genius on the football field, Rodgers has revealed himself to be a pandemic ignoramus.....He has done the impossible: sacked himself."—@MaxBoot 
 
-https://t.co/GitWoYI7h4 @PostOpinions 
+<a href="https://www.washingtonpost.com/opinions/2021/11/08/when-did-dr-aaron-rodgers-qb-acquire-phd-epidemiology/" target="_blank" rel="noreferer">washingtonpost.com/opinions/2021/11/08 ...</a> 
+ @PostOpinions 
 
-https://t.co/jwZ12qjoxs "We’re waiting for the paper on your research"—@hholdenthorp</div> 
+<a href="https://twitter.com/hholdenthorp/status/1457160945881468929" target="_blank" rel="noreferer">twitter.com/hholdenthorp/status/1457160945 ...</a> 
+ "We’re waiting for the paper on your research"—@hholdenthorp</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -34,23 +36,14 @@ What is a/the basis for the immune evasion of the Delta strain?
 
 Elegant structural biology, cryo-EM assessment shows remodeling of the N-terminal domain
 
-<a href="https://www.science.org/doi/10.1126/science.abl8506" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abl850 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abl8506" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abl850 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDwt_eCWUAMQvWw.jpg"  ><img src="/twitter/erictopol/images/FDwt_eCWUAMQvWw.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1458093303669346322" target="_blank" rel="noreferer">08:25 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @EricTopol: A Delta outbreak of 246 people (31% unvaccinated children, age &lt;12) that emanated from 2 children (solid red squares, G1)
-
-ht…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The randomized trial of the Pfizer vaccine for children age 5-11 is published @NEJM today. The data indicate very high efficacy (91%, 95% CI 68,98)) a strong immune response and absence of any serious side effects among 2,268 participants 
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2116298" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMoa2116298</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2116298" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMoa2116298</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDxAnrEUcAE8FmO.jpg"  ><img src="/twitter/erictopol/images/FDxAnrEUcAE8FmO.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1458122130533466116" target="_blank" rel="noreferer">10:19 UCT-7</a> 
@@ -58,7 +51,7 @@ The randomized trial of the Pfizer vaccine for children age 5-11 is published @N
 <div class="content"> 
 The neutralizing antibody response for 5-11 years olds vs 16-25 years olds at 1/3rd the dose (and compared with placebo)
 
-<a href="https://www.nejm.org/doi/suppl/10.1056/NEJMoa2116298/suppl_file/nejmoa2116298_appendix.pdf" target="_blank" rel="noreferer">https://www.nejm.org/doi/suppl/10.1056/NEJMoa21162 ...</a> 
+<a href="https://www.nejm.org/doi/suppl/10.1056/NEJMoa2116298/suppl_file/nejmoa2116298_appendix.pdf" target="_blank" rel="noreferer">nejm.org/doi/suppl/10.1056/NEJMoa21162 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDxJ4BjUYAMrMbt.jpg"  ><img src="/twitter/erictopol/images/FDxJ4BjUYAMrMbt.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -68,10 +61,10 @@ The neutralizing antibody response for 5-11 years olds vs 16-25 years olds at 1/
 <div class="content"> 
 Two new reports serve as a foundation for a covid kids vaccine checklist
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2116298" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa211629 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2116298" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa211629 ...</a> 
  on efficacy and safety
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.11.05.21265712v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.11.05 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.05.21265712v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.05 ...</a> 
  2 unvaccinated children (G1) seed an outbreak of 246 people </div> 
 <a href="/twitter/erictopol/images/FDxQqWfVIAMlHDk.jpg"  ><img src="/twitter/erictopol/images/FDxQqWfVIAMlHDk.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FDxROg1UcAMniOM.jpg"  ><img src="/twitter/erictopol/images/FDxROg1UcAMniOM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -83,7 +76,7 @@ Misinformation is a killer. Not just in the United States.
 
 What has fueled the world's outlier in Covid deaths?
 
-<a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html?searchResultPosition=2" target="_blank" rel="noreferer">https://www.nytimes.com/2021/11/08/world/europe/ro ...</a> 
+<a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html?searchResultPosition=2" target="_blank" rel="noreferer">nytimes.com/2021/11/08/world/europe/ro ...</a> 
  @ATHigginsNYT 
 
 (where it is classified as a criminal offense) </div> 
@@ -103,7 +96,7 @@ Important new study on immunity (anti-spike Ab) waning and breakthrough infectio
 
 2.Anti-S correlated w/ risk of breakthroughs
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.05.21265968v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.11.05 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.05.21265968v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.11.05 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDxzYmyUYAEX4BS.jpg"  ><img src="/twitter/erictopol/images/FDxzYmyUYAEX4BS.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FDxzaFAUUAEOMmN.jpg"  ><img src="/twitter/erictopol/images/FDxzaFAUUAEOMmN.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 "Our data demonstrate the importance of booster doses to maintain protection in the elderly and clinically vulnerable and suggest that these should be prioritized to those who received ChAdOx1 [AZ vaccine] as their primary course."</div> 
@@ -117,7 +110,7 @@ About timing:
 <div class="content"> 
 The rapid and marked decline of anti-Spike antibodies seen with the AZ vaccine is very similar to what has been reported for the J&amp;J (both adenovector-based)
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
  @CDCMMWR </div> 
 <a href="/twitter/erictopol/images/FDytZ89VUAAANt4.jpg"  ><img src="/twitter/erictopol/images/FDytZ89VUAAANt4.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -127,7 +120,8 @@ The rapid and marked decline of anti-Spike antibodies seen with the AZ vaccine i
 <div class="content"> 
 One of the leading communicators in medicine today —@gradydoctor—joined us for the latest @Medscape podcast. Hope you'll find it as informative and enjoyable as we did.
 
-https://t.co/0wHJi7Qv95 
+<a href="https://www.medscape.com/viewarticle/961519" target="_blank" rel="noreferer">medscape.com/viewarticle/961519</a> 
+ 
 
 w/ @cuttingforstone #MedTwitter</div> 
 </div> 
@@ -142,7 +136,7 @@ A prospective study of healthcare workers with or without prior Covid and mRNA v
 
 Superior antibody and T cell response, further accentuated with major variants @LancetMicrobe 
 
-<a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00275-5/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanmic/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00275-5/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanmic/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDyzpXDUUAc6U2s.jpg"  ><img src="/twitter/erictopol/images/FDyzpXDUUAc6U2s.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -156,7 +150,7 @@ Up 7% past 7-days
 
 3 weeks at ≥ 75,000 new cases/day 
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDzl92zVgAYQgbc.jpg"  ><img src="/twitter/erictopol/images/FDzl92zVgAYQgbc.jpg" alt="Twitter image" ></img></a></div> 
 

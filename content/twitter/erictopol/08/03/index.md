@@ -8,7 +8,8 @@ category = "Twitter"
 <a href="https://twitter.com/erictopol/status/1422556760888385537" target="_blank" rel="noreferer">06:55 UCT-7</a> 
 </div> 
 <div class="content"> 
-💯 They're not rare w/ Delta; clearly they're increasing, but our pathetic tracking leaves us uncertain as to their true incidence, severity, demographics, time from vaccination, Ct/viral load, neutralizing antibodies. All critical data to know, help prevent, decide re: boosters https://t.co/VRGuXiRAbO</div> 
+💯 They're not rare w/ Delta; clearly they're increasing, but our pathetic tracking leaves us uncertain as to their true incidence, severity, demographics, time from vaccination, Ct/viral load, neutralizing antibodies. All critical data to know, help prevent, decide re: boosters <a href="https://twitter.com/Bob_Wachter/status/1422445420593106945" target="_blank" rel="noreferer">twitter.com/Bob_Wachter/status/14224454205 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -17,8 +18,8 @@ category = "Twitter"
 <div class="content"> 
 Yet another new report that undermines the T cell narrative for its role in defense against #SARSCoV2 reinfection, an experimental depletion study in macaques
 
-<a href="https://journals.asm.org/doi/10.1128/mBio.01503-21" target="_blank" rel="noreferer">https://journals.asm.org/doi/10.1128/mBio.01503-21</a> 
- @mbiojournal  <a href="https://twitter.com/EricTopol/status/1420870547039158273" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1420870547039 ...</a> 
+<a href="https://journals.asm.org/doi/10.1128/mBio.01503-21" target="_blank" rel="noreferer">journals.asm.org/doi/10.1128/mBio.01503-21</a> 
+ @mbiojournal  <a href="https://twitter.com/EricTopol/status/1420870547039158273" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1420870547039 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E73x2kuX0AA0Kvx.jpg"  ><img src="/twitter/erictopol/images/E73x2kuX0AA0Kvx.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E73x4CHVUAILgyi.jpg"  ><img src="/twitter/erictopol/images/E73x4CHVUAILgyi.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -32,13 +33,6 @@ Louisiana, now the highest per capita rate of covid globally (for a state or cou
 <a href="/twitter/erictopol/images/E732harVIAAdLa8.jpg"  ><img src="/twitter/erictopol/images/E732harVIAAdLa8.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1422568213762646016" target="_blank" rel="noreferer">07:41 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @rosemaryCNN: As the #DeltaVariant drives up cases across the US we learned Monday 70% of Americans have now received at least one #COVI…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1422578295250382857" target="_blank" rel="noreferer">08:21 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -46,7 +40,7 @@ Just published @ScienceMagazine
 
 The path to a universal, betacoronavirus vaccine made even more likely with this discovery of such potent, stem helix neutralizing antibodies
 
-<a href="https://science.sciencemag.org/content/early/2021/08/03/science.abj3321" target="_blank" rel="noreferer">https://science.sciencemag.org/content/early/2021/ ...</a> 
+<a href="https://science.sciencemag.org/content/early/2021/08/03/science.abj3321" target="_blank" rel="noreferer">science.sciencemag.org/content/early/2021/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E74C6xnVUAMr2s9.jpg"  ><img src="/twitter/erictopol/images/E74C6xnVUAMr2s9.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -90,11 +84,12 @@ Adding to the verticals
 
 via @cmyeaton 
 
-https://t.co/EujdnnpJD9</div> 
+<a href="https://twitter.com/cmyeaton/status/1422624128918556684" target="_blank" rel="noreferer">twitter.com/cmyeaton/status/14226241289185 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Just published is a superb vaccine review @ImmunityCP by the @NIH's @KarinBok1 @sandra_sitar @BarneyGrahamMD @jrmascola <a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00303-4" target="_blank" rel="noreferer">https://www.cell.com/immunity/fulltext/S1074-7613( ...</a> 
+Just published is a superb vaccine review @ImmunityCP by the @NIH's @KarinBok1 @sandra_sitar @BarneyGrahamMD @jrmascola <a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00303-4" target="_blank" rel="noreferer">cell.com/immunity/fulltext/S1074-7613( ...</a> 
 
 
 Many key points:
@@ -113,7 +108,8 @@ Many key points:
 <a href="https://twitter.com/erictopol/status/1422702908643037187" target="_blank" rel="noreferer">16:36 UCT-7</a> 
 </div> 
 <div class="content"> 
-To understand the complexities of the immune response, antibodies &amp; T cells, natural immunity and vaccine-induced, Delta, and more, we turned to @profshanecrotty for a new podcast https://t.co/OxKSkm3g00
+To understand the complexities of the immune response, antibodies &amp; T cells, natural immunity and vaccine-induced, Delta, and more, we turned to @profshanecrotty for a new podcast <a href="https://www.medscape.com/viewarticle/954796" target="_blank" rel="noreferer">medscape.com/viewarticle/954796</a> 
+
 
 w/@cuttingforstone 
 
@@ -123,7 +119,7 @@ Beyond being a great scientist, he’s a master explainer</div>
 <div class="thread-content"> 
 New @LancetChildAdol is a very reassuring prospective  study of &gt;250,000  children,  &gt;1700 with + covid test, age  5-17, that shows the risk for chronic Covid symptoms is quite low; 4.4% beyond 4 weeks
 
-<a href="https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(21)00198-X/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanchi/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(21)00198-X/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanchi/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E75sAPjVgAE3be5.jpg"  ><img src="/twitter/erictopol/images/E75sAPjVgAE3be5.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E75sCFzUYAMq_tB.jpg"  ><img src="/twitter/erictopol/images/E75sCFzUYAMq_tB.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Only 1.8% of the kids had symptoms at 56 days.
@@ -142,7 +138,7 @@ This report is not addressing whether children should or should not be vaccinate
 <a href="https://twitter.com/erictopol/status/1422741218232963078" target="_blank" rel="noreferer">19:08 UCT-7</a> 
 </div> 
 <div class="content"> 
-Hospitalizations in the US Delta, 4th wave are close to the peak of waves 1 and 2, and cases &gt;145/000 in a day with limited testing. The only reassuring data relates to low fatalities (so far), reflecting vaccinations and the disease shift to young <a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+Hospitalizations in the US Delta, 4th wave are close to the peak of waves 1 and 2, and cases &gt;145/000 in a day with limited testing. The only reassuring data relates to low fatalities (so far), reflecting vaccinations and the disease shift to young <a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
  </div> 
 <a href="/twitter/erictopol/images/E76XVMPVoAE4GMc.jpg"  ><img src="/twitter/erictopol/images/E76XVMPVoAE4GMc.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E76XczxVIAwDM4Z.jpg"  ><img src="/twitter/erictopol/images/E76XczxVIAwDM4Z.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -152,17 +148,17 @@ Hospitalizations in the US Delta, 4th wave are close to the peak of waves 1 and 
 <div class="content"> 
 Good question: Why is #SARSCoV2 prone to superspreading, following the Pareto 80-20 rule for over-dispersion of infections, but not H1N1 or other pathogens?
 
-<a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
  @TheLancetInfDis by @paulchenz @MarionKoopmans @DFisman @FrankGuLab </div> 
 <a href="/twitter/erictopol/images/E76eRT_VgAYCutH.jpg"  ><img src="/twitter/erictopol/images/E76eRT_VgAYCutH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E76eSu6VkAMeOUF.jpg"  ><img src="/twitter/erictopol/images/E76eSu6VkAMeOUF.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 A large UK study of vaccination protection from Delta symptomatic breakthrough infections found effectiveness of ~60%  (combines AZ and Pfizer vaccines)
 
-<a href="https://www.ft.com/thread-content/df4db947-8697-49a7-b38b-e46bd86ba915" target="_blank" rel="noreferer">https://www.ft.com/thread-content/df4db947-8697-49a7-b38b ...</a> 
+<a href="https://www.ft.com/thread-content/df4db947-8697-49a7-b38b-e46bd86ba915" target="_blank" rel="noreferer">ft.com/thread-content/df4db947-8697-49a7-b38b ...</a> 
 
 
-<a href="https://www.reuters.com/world/uk/english-study-finds-50-60-reduced-risk-covid-double-vaccinated-2021-08-03/" target="_blank" rel="noreferer">https://www.reuters.com/world/uk/english-study-fin ...</a> 
+<a href="https://www.reuters.com/world/uk/english-study-finds-50-60-reduced-risk-covid-double-vaccinated-2021-08-03/" target="_blank" rel="noreferer">reuters.com/world/uk/english-study-fin ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E76ky5cVkAMzJpc.jpg"  ><img src="/twitter/erictopol/images/E76ky5cVkAMzJpc.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E76ki6RUcAA-RRx.jpg"  ><img src="/twitter/erictopol/images/E76ki6RUcAA-RRx.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1422762334435508232" target="_blank" rel="noreferer">20:32 UCT-7</a> 
@@ -170,7 +166,8 @@ A large UK study of vaccination protection from Delta symptomatic breakthrough i
 <div class="content"> 
 Link to the preprint
 
-https://t.co/HihmmLKOvn
+<a href="https://spiral.imperial.ac.uk/bitstream/10044/1/90800/2/react1_r13_final_preprint_final.pdf" target="_blank" rel="noreferer">spiral.imperial.ac.uk/bitstream/10044/1/90 ...</a> 
+
 
 Extensive PCR testing showed that fully vaccinated people had lower viral loads than un- or partially vaccinated, supporting decreased potential for Delta transmission</div> 
 </div> 

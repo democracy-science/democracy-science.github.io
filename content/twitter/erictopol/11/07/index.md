@@ -8,10 +8,10 @@ category = "Twitter"
 <a href="https://twitter.com/erictopol/status/1457367329554059267" target="_blank" rel="noreferer">08:20 UCT-7</a> 
 </div> 
 <div class="content"> 
-Fortunately rare and usually mild and self-limiting, myocarditis after mRNA vaccination remains a mechanistic mystery <a href="https://www.wsj.com/articles/researchers-probe-link-between-covid-19-vaccines-and-myocarditis-11636290002" target="_blank" rel="noreferer">https://www.wsj.com/articles/researchers-probe-lin ...</a> 
+Fortunately rare and usually mild and self-limiting, myocarditis after mRNA vaccination remains a mechanistic mystery <a href="https://www.wsj.com/articles/researchers-probe-link-between-covid-19-vaccines-and-myocarditis-11636290002" target="_blank" rel="noreferer">wsj.com/articles/researchers-probe-lin ...</a> 
  by @Loftus 
 
-<a href="https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.121.056135" target="_blank" rel="noreferer">https://www.ahajournals.org/doi/epub/10.1161/CIRCU ...</a> 
+<a href="https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.121.056135" target="_blank" rel="noreferer">ahajournals.org/doi/epub/10.1161/CIRCU ...</a> 
  by @BiykemB @PeterHotez @ishannovation </div> 
 <a href="/twitter/erictopol/images/FDmaL8wVEAAgt-4.png"  ><img src="/twitter/erictopol/images/FDmaL8wVEAAgt-4.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FDmbExPVIAESjY-.jpg"  ><img src="/twitter/erictopol/images/FDmbExPVIAESjY-.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -21,7 +21,7 @@ Fortunately rare and usually mild and self-limiting, myocarditis after mRNA vacc
 <div class="content"> 
 On the "dithering" decision for teen vaccination in the UK,  by @anjahuja @FT
 
-<a href="https://www.ft.com/content/e5dd42d4-a555-4208-a218-738fc09a618c" target="_blank" rel="noreferer">https://www.ft.com/content/e5dd42d4-a555-4208-a218 ...</a> 
+<a href="https://www.ft.com/content/e5dd42d4-a555-4208-a218-738fc09a618c" target="_blank" rel="noreferer">ft.com/content/e5dd42d4-a555-4208-a218 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDmmT7QVIAcBUMg.jpg"  ><img src="/twitter/erictopol/images/FDmmT7QVIAcBUMg.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -44,19 +44,12 @@ When organic chemistry becomes quite relevant. Two small molecules in the form o
 <a href="/twitter/erictopol/images/FDm_dcrUYAgSvWN.jpg"  ><img src="/twitter/erictopol/images/FDm_dcrUYAgSvWN.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1457415941990465536" target="_blank" rel="noreferer">11:33 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ScottGottliebMD: In the U.S., we need to focus not only on the breadth of coverage (encouraging more adults to get vaccinated for first…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1457430069849178112" target="_blank" rel="noreferer">12:29 UCT-7</a> 
 </div> 
 <div class="content"> 
 Iceland is one of several European countries with a recent surge in Covid, with data indicating the cases stem from unvaccinated adults and teens, and, to a lesser extent, vaccinated adults
 
-<a href="https://grapevine.is/news/2021/11/05/covid-roundup-record-number-of-domestic-cases-new-requirements-instituted/" target="_blank" rel="noreferer">https://grapevine.is/news/2021/11/05/covid-roundup ...</a> 
+<a href="https://grapevine.is/news/2021/11/05/covid-roundup-record-number-of-domestic-cases-new-requirements-instituted/" target="_blank" rel="noreferer">grapevine.is/news/2021/11/05/covid-roundup ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDnUONuVkAEoiKb.jpg"  ><img src="/twitter/erictopol/images/FDnUONuVkAEoiKb.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

@@ -25,7 +25,7 @@ Prior tweet deleted (not J&amp;J), sorry, too early in the morning here </div>
 <div class="content"> 
 Insightful commentary on this paper, the whole mix and match vaccine landscape, and its potential to help people with immunocompromised conditions
 
-<a href="https://www.nature.com/articles/s41591-021-01463-x" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01463-x</a> 
+<a href="https://www.nature.com/articles/s41591-021-01463-x" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01463-x</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7Oej5vVcAI8q0p.jpg"  ><img src="/twitter/erictopol/images/E7Oej5vVcAI8q0p.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -34,7 +34,7 @@ Agree w/ @washingtonpost editorial board on full FDA approval of covid vaccines.
 
 But the review started Dec 2020 w/ sequential submissions of BLA and should have been done by now. That could have prevented much of Delta's hit
 
-<a href="https://www.washingtonpost.com/opinions/2021/07/25/fda-must-sprint-not-stumble-approving-covid-19-vaccines/" target="_blank" rel="noreferer">https://www.washingtonpost.com/opinions/2021/07/25 ...</a> 
+<a href="https://www.washingtonpost.com/opinions/2021/07/25/fda-must-sprint-not-stumble-approving-covid-19-vaccines/" target="_blank" rel="noreferer">washingtonpost.com/opinions/2021/07/25 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7J6z3RVcAcAa8C.jpg"  ><img src="/twitter/erictopol/images/E7J6z3RVcAcAa8C.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1419656684276834308" target="_blank" rel="noreferer">06:51 UCT-7</a> 
@@ -46,7 +46,7 @@ Thanks @PostOpinions for wishing in on this critical matter </div>
 <a href="/twitter/erictopol/images/E7Oh7VSUUAYQb4H.jpg"  ><img src="/twitter/erictopol/images/E7Oh7VSUUAYQb4H.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-On a related matter, Dr. Malone, who asserts he is "the inventor of mRNA vaccines" and actively cultivates vaccine skepticism, is not, and has admitted that fact: <a href="https://www.logically.ai/factchecks/library/3aa2eefd" target="_blank" rel="noreferer">https://www.logically.ai/factchecks/library/3aa2ee ...</a> 
+On a related matter, Dr. Malone, who asserts he is "the inventor of mRNA vaccines" and actively cultivates vaccine skepticism, is not, and has admitted that fact: <a href="https://www.logically.ai/factchecks/library/3aa2eefd" target="_blank" rel="noreferer">logically.ai/factchecks/library/3aa2ee ...</a> 
 
 
 Drs @kkariko and @WeissmanLab are credited with the seminal work that led to mRNA vaccines </div> 
@@ -56,7 +56,8 @@ Drs @kkariko and @WeissmanLab are credited with the seminal work that led to mRN
 <div class="content"> 
 Fact checks on @RWMalone's pseudoscience and his lack of credibility
 
-https://t.co/PiWDJSL3op</div> 
+<a href="https://debunkingdoomsday.quora.com/The-spike-proteins-in-vaccines-are-harmless-they-are-not-cytotoxic-infodemic-post-by-Robert-Malone-who-claims-to-be" target="_blank" rel="noreferer">debunkingdoomsday.quora.com/The-spike-prot ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -72,7 +73,7 @@ Arkansas: It's the US outlier leading the Delta wave for new cases, now &gt;60% 
 <div class="content"> 
 For people who had an immediate allergic reaction to a 1st dose mRNA vaccine, a multicenter study shows the 2nd dose can be given safely
 
-<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782348" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamainternalmedic ...</a> 
+<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782348" target="_blank" rel="noreferer">jamanetwork.com/journals/jamainternalmedic ...</a> 
  @JAMAInternalMed @KimberlyBlumen1 and colleagues </div> 
 <a href="/twitter/erictopol/images/E7O7m5pVkAMgXvh.jpg"  ><img src="/twitter/erictopol/images/E7O7m5pVkAMgXvh.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -86,35 +87,22 @@ The UK's sharp descent continues; today's lowest since January 30th, last time &
 
 @OurWorldInData 
 
-<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">https://coronavirus.data.gov.uk</a> 
+<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">coronavirus.data.gov.uk</a> 
   24,950 for July 26th </div> 
 <a href="/twitter/erictopol/images/E7PDt7CVoAE-vwF.jpg"  ><img src="/twitter/erictopol/images/E7PDt7CVoAE-vwF.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1419711314616717312" target="_blank" rel="noreferer">10:28 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @NYMag: "This is the movie we all never wanted to see again," explains @EricTopol to @dwallacewells about COVID's Delta wave https://t.c…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 We've tried to advocate with no success to date
 
-https://t.co/U5tHBcx5gA @sciam w/ @danieloran @scrippsresearch @ScrippsRTI</div> 
+<a href="https://www.scientificamerican.com/article/to-beat-covid-we-may-need-a-good-shot-in-the-nose/" target="_blank" rel="noreferer">scientificamerican.com/article/to-beat ...</a> 
+ @sciam w/ @danieloran @scrippsresearch @ScrippsRTI</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1419717402812567560" target="_blank" rel="noreferer">10:53 UCT-7</a> 
 </div> 
 <div class="content"> 
-The case for a mucosal (intranasal) vaccine for #SARSCoV2 made very well here, along with the unmet need for many other pathogens <a href="https://www.nature.com/articles/s41577-021-00583-2?utm_source=dlvr.it&utm_medium=twitter" target="_blank" rel="noreferer">https://www.nature.com/articles/s41577-021-00583-2 ...</a> 
+The case for a mucosal (intranasal) vaccine for #SARSCoV2 made very well here, along with the unmet need for many other pathogens <a href="https://www.nature.com/articles/s41577-021-00583-2?utm_source=dlvr.it&utm_medium=twitter" target="_blank" rel="noreferer">nature.com/articles/s41577-021-00583-2 ...</a> 
  New review @NatRevImmunol via, H/T @RTKase </div> 
 <a href="/twitter/erictopol/images/E7PYlwBUUAEKUh6.jpg"  ><img src="/twitter/erictopol/images/E7PYlwBUUAEKUh6.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7PYnVfVUAURpc9.jpg"  ><img src="/twitter/erictopol/images/E7PYnVfVUAURpc9.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1419728166512316428" target="_blank" rel="noreferer">11:35 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @kkariko: @EricTopol @WeissmanLab Important to know that "Cationic liposome-mediated RNA transfection" paper in 1989 failed to mention t…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1419732740866396168" target="_blank" rel="noreferer">11:53 UCT-7</a> 
@@ -124,7 +112,7 @@ Concerns re: post-vaxx Delta "breakthru infections" have gone viral
 
 @KatherineJWu has a new calming piece which even mentions a silver lining, their equating to a booster Delta shot. Be clear, though, that's not recommended as the best way to deal w/Delta 
 
-<a href="https://www.theatlantic.com/science/archive/2021/07/anatomy-of-a-vaccine-breakthrough/619562/" target="_blank" rel="noreferer">https://www.theatlantic.com/science/archive/2021/0 ...</a> 
+<a href="https://www.theatlantic.com/science/archive/2021/07/anatomy-of-a-vaccine-breakthrough/619562/" target="_blank" rel="noreferer">theatlantic.com/science/archive/2021/0 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7PmOAEVoAErrML.jpg"  ><img src="/twitter/erictopol/images/E7PmOAEVoAErrML.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -147,7 +135,8 @@ How many Americans have had covid infections?
 
 A new @PNAS study suggests ~60% are underreported and that 20% were infected by March 2021 (~66 million), &lt;&lt; @CDCgov estimate of 83 million by December 2020
 
-https://t.co/H2yZM0lQey
+<a href="https://www.pnas.org/content/118/31/e2103272118" target="_blank" rel="noreferer">pnas.org/content/118/31/e2103272118</a> 
+
 
 by @NicholasJIrons @AdrianRaftery1 @UWStat @UW</div> 
 </div> 
@@ -155,7 +144,7 @@ by @NicholasJIrons @AdrianRaftery1 @UWStat @UW</div>
 <div class="thread-content"> 
 Some caution on the UK's outlook, despite the recent case reduction and "92 per cent of adults in England and Wales have antibodies to #SARSCoV2  .. through vaccination or previous infection"
 
-<a href="https://www.ft.com/thread-content/cb86d9a8-665d-467e-9b92-4b80e905060c" target="_blank" rel="noreferer">https://www.ft.com/thread-content/cb86d9a8-665d-467e-9b92 ...</a> 
+<a href="https://www.ft.com/thread-content/cb86d9a8-665d-467e-9b92-4b80e905060c" target="_blank" rel="noreferer">ft.com/thread-content/cb86d9a8-665d-467e-9b92 ...</a> 
  @FT @clivecookson  @jburnmurdoch 
 
 1. Case decline may be slowing </div> 
@@ -178,7 +167,7 @@ New large study of mRNA vaccine effectiveness for people with prior Covid
 
 "Among those vaccinated with BNT162b2, protection against infection was further enhanced and infection incidence was further reduced by prior infection"
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.07.25.21261093v1.full.pdf" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.07.25 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.25.21261093v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.25 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7QW-86VIAIJdlP.jpg"  ><img src="/twitter/erictopol/images/E7QW-86VIAIJdlP.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -186,26 +175,9 @@ New large study of mRNA vaccine effectiveness for people with prior Covid
 <a href="https://twitter.com/erictopol/status/1419797201564225537" target="_blank" rel="noreferer">16:10 UCT-7</a> 
 </div> 
 <div class="content"> 
-Potential eye sign for #LongCovid: Corneal nerve fiber loss and increased dendritic cell density in people with neurologic symptoms <a href="https://bjo.bmj.com/content/early/2021/07/08/bjophthalmol-2021-319450" target="_blank" rel="noreferer">https://bjo.bmj.com/content/early/2021/07/08/bjoph ...</a> 
+Potential eye sign for #LongCovid: Corneal nerve fiber loss and increased dendritic cell density in people with neurologic symptoms <a href="https://bjo.bmj.com/content/early/2021/07/08/bjophthalmol-2021-319450" target="_blank" rel="noreferer">bjo.bmj.com/content/early/2021/07/08/bjoph ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7Qh-h_VgAQ_26M.jpg"  ><img src="/twitter/erictopol/images/E7Qh-h_VgAQ_26M.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1419823925547216910" target="_blank" rel="noreferer">17:56 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @inthebubblepod: Listen to this can't-miss, in-depth conversation on the #Delta variant. @ASlavitt and @EricTopol cover why it's taking…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1419873999622791170" target="_blank" rel="noreferer">21:15 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @xkcdComic: Flawed Data <a href="https://xkcd.com/2494/" target="_blank" rel="noreferer">https://xkcd.com/2494/</a> 
- <a href="https://m.xkcd.com/2494/" target="_blank" rel="noreferer">https://m.xkcd.com/2494/</a> 
- <a href="https://twitter.com/xkcdComic/status/1419868962888699905" target="_blank" rel="noreferer">https://twitter.com/xkcdComic/status/1419868962888 ...</a> 
-</div> 
-<a href="/twitter/erictopol/images/E7RjTEZUYAAVmH0.png"  ><img src="/twitter/erictopol/images/E7RjTEZUYAAVmH0.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The United States, fully warned about the Delta superspreader variant by the UK, shows it is the master of prevention. Not. </div> 

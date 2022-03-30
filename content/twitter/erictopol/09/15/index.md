@@ -12,7 +12,7 @@ If there was any question for how challenging it is to contain Delta, Singapore 
 
 Started its booster program yesterday for age ≥ 60
 
-<a href="https://www.ft.com/content/160080b5-dc6b-47b0-b073-8aca600bc521" target="_blank" rel="noreferer">https://www.ft.com/content/160080b5-dc6b-47b0-b073 ...</a> 
+<a href="https://www.ft.com/content/160080b5-dc6b-47b0-b073-8aca600bc521" target="_blank" rel="noreferer">ft.com/content/160080b5-dc6b-47b0-b073 ...</a> 
 
 
 @OurWorldInData </div> 
@@ -29,7 +29,7 @@ History will remember what happened in Florida in the US 4th wave with copious v
 <a href="https://twitter.com/erictopol/status/1438131867706814467" target="_blank" rel="noreferer">06:25 UCT-7</a> 
 </div> 
 <div class="content"> 
-The new @PHE_uk data on attrition of protection for both AZ and Pfizer vaccines vs symptomatic infection at 5+ months, across all age groups <a href="https://khub.net/documents/135939561/338928724/Vaccine+effectiveness+and+duration+of+protection+of+covid+vaccines+against+mild+and+severe+COVID-19+in+the+UK.pdf/10dcd99c-0441-0403-dfd8-11ba2c6f5801" target="_blank" rel="noreferer">https://khub.net/documents/135939561/338928724/Vac ...</a> 
+The new @PHE_uk data on attrition of protection for both AZ and Pfizer vaccines vs symptomatic infection at 5+ months, across all age groups <a href="https://khub.net/documents/135939561/338928724/Vaccine+effectiveness+and+duration+of+protection+of+covid+vaccines+against+mild+and+severe+COVID-19+in+the+UK.pdf/10dcd99c-0441-0403-dfd8-11ba2c6f5801" target="_blank" rel="noreferer">khub.net/documents/135939561/338928724/Vac ...</a> 
  no follow-up data for Spikevax (Moderna) </div> 
 <a href="/twitter/erictopol/images/E_VFKIxVkAIW_YQ.jpg"  ><img src="/twitter/erictopol/images/E_VFKIxVkAIW_YQ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -47,17 +47,10 @@ Numb? Don't be. Most (as in ~90% now) of this is preventable.
 <a href="/twitter/erictopol/images/E_VJBgdVgAMpE37.jpg"  ><img src="/twitter/erictopol/images/E_VJBgdVgAMpE37.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1438157563179110403" target="_blank" rel="noreferer">08:07 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @UGruntmanis: This was the best by @florian_krammer  “Mask not what your country can do for you. Mask what you can do for your country!"…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1438174690615300104" target="_blank" rel="noreferer">09:15 UCT-7</a> 
 </div> 
 <div class="content"> 
-This new @TheLancetInfDis review on #SARSCoV2 transmission makes the strong case for mucosal immunity, which could be achieved via nasal or oral vaccines, that are unfortunately not getting priority for development <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00472-2/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+This new @TheLancetInfDis review on #SARSCoV2 transmission makes the strong case for mucosal immunity, which could be achieved via nasal or oral vaccines, that are unfortunately not getting priority for development <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00472-2/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
  @dariusdariusdar </div> 
 <a href="/twitter/erictopol/images/E_VraOEVgAMUgnN.jpg"  ><img src="/twitter/erictopol/images/E_VraOEVgAMUgnN.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -65,7 +58,8 @@ This new @TheLancetInfDis review on #SARSCoV2 transmission makes the strong case
 <a href="https://twitter.com/erictopol/status/1438186064259076100" target="_blank" rel="noreferer">10:00 UCT-7</a> 
 </div> 
 <div class="content"> 
-The shameful saga of Ivermectin in the US with 88,000 prescriptions by doctors in a recent week, beyond the ingestion and toxicity of the horse version https://t.co/JLQ3v6MeN9</div> 
+The shameful saga of Ivermectin in the US with 88,000 prescriptions by doctors in a recent week, beyond the ingestion and toxicity of the horse version <a href="https://twitter.com/BBCRosAtkins/status/1437868102126026752" target="_blank" rel="noreferer">twitter.com/BBCRosAtkins/status/1437868102 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -74,12 +68,12 @@ The shameful saga of Ivermectin in the US with 88,000 prescriptions by doctors i
 <div class="content"> 
 There are a lot of questions about a Delta-specific vaccine. I asked @florian_krammer about that and a universal betacoronavirus vaccine and his answers provide important perspective (Hint: Delta vaccine not needed right now)
 
-<a href="https://www.medscape.com/viewarticle/958292" target="_blank" rel="noreferer">https://www.medscape.com/viewarticle/958292</a> 
+<a href="https://www.medscape.com/viewarticle/958292" target="_blank" rel="noreferer">medscape.com/viewarticle/958292</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_WXb4pVQAAou4A.jpg"  ><img src="/twitter/erictopol/images/E_WXb4pVQAAou4A.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_WXi2LVgAQUfO6.png"  ><img src="/twitter/erictopol/images/E_WXi2LVgAQUfO6.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The @Pfizer @US_FDA booster documents <a href="https://www.fda.gov/media/152161/download" target="_blank" rel="noreferer">https://www.fda.gov/media/152161/download</a> 
+The @Pfizer @US_FDA booster documents <a href="https://www.fda.gov/media/152161/download" target="_blank" rel="noreferer">fda.gov/media/152161/download</a> 
 
 
 reviews all data on effectiveness (VE) vs infection
@@ -103,7 +97,7 @@ Little evidence of difference in booster effect by age or variant (WT/Wuhan vs D
 <div class="content"> 
 As anticipated (2nd in thread), the FDA internal review disagreed with Pfizer's recommendations
 
-<a href="https://www.wsj.com/articles/fda-says-covid-19-vaccines-remain-effective-without-boosters-11631726504?mod=hp_lead_pos2" target="_blank" rel="noreferer">https://www.wsj.com/articles/fda-says-covid-19-vac ...</a> 
+<a href="https://www.wsj.com/articles/fda-says-covid-19-vaccines-remain-effective-without-boosters-11631726504?mod=hp_lead_pos2" target="_blank" rel="noreferer">wsj.com/articles/fda-says-covid-19-vac ...</a> 
  by @JaredSHopkins @felschwartz which will make Friday's meeting and its outcome quite interesting </div> 
 <a href="/twitter/erictopol/images/E_WjZglVUAA1ESN.jpg"  ><img src="/twitter/erictopol/images/E_WjZglVUAA1ESN.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -114,12 +108,12 @@ As anticipated (2nd in thread), the FDA internal review disagreed with Pfizer's 
 
 19.5-fold reduction in severe illness
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2114255" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMoa2114255</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2114255" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMoa2114255</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_WqexDVUAAAb1l.jpg"  ><img src="/twitter/erictopol/images/E_WqexDVUAAAb1l.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_WqsigVcAIBoL5.jpg"  ><img src="/twitter/erictopol/images/E_WqsigVcAIBoL5.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 2. 6-month follow-up of the original placebo-controlled trials (adult + teens; &gt; 44,000 participants) showed gradual reduction in efficacy vs symptomatic infections from 96% (fully vaxxed) to 83% (&gt; 4 months)
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2110345" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMoa2110345</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2110345" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMoa2110345</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_WsErNUUAI1WLX.jpg"  ><img src="/twitter/erictopol/images/E_WsErNUUAI1WLX.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 3. Small 3rd shot-&gt; Neutralizing antibody study vs Wild-type and Delta by age group, showing significant increase immune response not much affected by variant or age </div> 
@@ -135,13 +129,13 @@ Kudos to strong work by @yinonbaron @MiloLabWIS
 <div class="thread-content"> 
 New data on @Moderna_tx vaccine also shows waning of immunity,  36% fewer symptomatic breakthrough infections in an 8-month follow-up compared with 13-month, which the company says supports need for 3rd shots 
 
-<a href="https://www.ft.com/thread-content/160080b5-dc6b-47b0-b073-8aca600bc521" target="_blank" rel="noreferer">https://www.ft.com/thread-content/160080b5-dc6b-47b0-b073 ...</a> 
+<a href="https://www.ft.com/thread-content/160080b5-dc6b-47b0-b073-8aca600bc521" target="_blank" rel="noreferer">ft.com/thread-content/160080b5-dc6b-47b0-b073 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_Wz94NVIAEm2WU.jpg"  ><img src="/twitter/erictopol/images/E_Wz94NVIAEm2WU.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1438259670615879682" target="_blank" rel="noreferer">14:53 UCT-7</a> 
 </div> 
 <div class="content"> 
-There is no posted preprint yet on the Moderna data, just this press release <a href="https://www.businesswire.com/news/home/20210915006076/en/Moderna-Highlights-New-Clinical-Data-on-its-COVID-19-Vaccine" target="_blank" rel="noreferer">https://www.businesswire.com/news/home/20210915006 ...</a> 
+There is no posted preprint yet on the Moderna data, just this press release <a href="https://www.businesswire.com/news/home/20210915006076/en/Moderna-Highlights-New-Clinical-Data-on-its-COVID-19-Vaccine" target="_blank" rel="noreferer">businesswire.com/news/home/20210915006 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_W5fSHXsAMPlre.jpg"  ><img src="/twitter/erictopol/images/E_W5fSHXsAMPlre.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -158,13 +152,6 @@ That subgroup + frontline healthcare workers makes sense to go forward
 All of these vaccines show some attrition of protection for different endpoints, across all ages, w/some variability in timing. This will require close follow-up to make informed decisions
 
 Links in prior posts</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1438316459990552578" target="_blank" rel="noreferer">18:39 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @CarlosdelRio7: At the besieged FDA, ‘it never stops!’ as decisions loom on boosters, pediatric shots and more. Agree with ⁦@EricTopol⁩…</div> 
 </div> 
 
 

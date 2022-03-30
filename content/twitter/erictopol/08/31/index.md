@@ -14,7 +14,7 @@ The importance of rapid, cross-reactive immunity for  prior Covid and vaccine ef
 
 "Our results highlight the functional contribution of pre-existing spike-cross-reactive T cells in SARS-CoV-2 infection and vaccination"
 
-<a href="https://www.science.org/doi/10.1126/science.abh1823" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abh182 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abh1823" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abh182 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-IB0__WEAwxtTT.jpg"  ><img src="/twitter/erictopol/images/E-IB0__WEAwxtTT.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -23,13 +23,13 @@ I like this "Propitiously Boring Implications for Vaccine Escape" 👍👍
 
 "The modest ensemble of mutations relative to the WT (wild-type) shown to reduce vaccine efficacy might constitute the majority of all possible escape mutations."
 
-<a href="https://www.biorxiv.org/thread-content/10.1101/2021.08.30.458225v1" target="_blank" rel="noreferer">https://www.biorxiv.org/thread-content/10.1101/2021.08.30 ...</a> 
+<a href="https://www.biorxiv.org/thread-content/10.1101/2021.08.30.458225v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.08.30 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-IVgUVUUAMiNtM.jpg"  ><img src="/twitter/erictopol/images/E-IVgUVUUAMiNtM.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-IVifsVgAItbWm.jpg"  ><img src="/twitter/erictopol/images/E-IVifsVgAItbWm.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432732535205687296" target="_blank" rel="noreferer">08:50 UCT-7</a> 
 </div> 
 <div class="content"> 
-Goes along with what @RobertoBurioni and I wrote in @NatureMedicine about #SARSCoV2 reaching peak fitness <a href="https://www.nature.com/articles/s41591-021-01421-7" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01421-7</a> 
+Goes along with what @RobertoBurioni and I wrote in @NatureMedicine about #SARSCoV2 reaching peak fitness <a href="https://www.nature.com/articles/s41591-021-01421-7" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01421-7</a> 
 
 
 The best we can hope for is it —🦠—doesn't get worse than Delta and escape our vaccine mediated protection </div> 
@@ -41,14 +41,16 @@ The best we can hope for is it —🦠—doesn't get worse than Delta and escape
 <div class="content"> 
 Safety of mRNA vaccination in over 400 "highly allergic" individuals, promoted with the use of a simple algorithm
 
-https://t.co/0DB6dXcsur @JAMANetworkOpen</div> 
+<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783626" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+ @JAMANetworkOpen</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432742529925988357" target="_blank" rel="noreferer">09:30 UCT-7</a> 
 </div> 
 <div class="content"> 
-Good synthesis of many recent studies that I've been highlighting and in full agreement with Trevor's conclusion https://t.co/m9eo6L5b3b</div> 
+Good synthesis of many recent studies that I've been highlighting and in full agreement with Trevor's conclusion <a href="https://twitter.com/trvrb/status/1432725239188783106" target="_blank" rel="noreferer">twitter.com/trvrb/status/14327252391887831 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -59,7 +61,7 @@ This same pattern triplicated, quadruplicated, again and again.
 
 Hybrid immunity, here against in people with autoimmune disease
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.26.21258418v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.26 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.26.21258418v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.26 ...</a> 
 
 
 [Confirmed prior covid should be considered as = 1 dose of vaccine] </div> 
@@ -76,7 +78,7 @@ Key lessons tracing 2 (mostly Delta) outbreaks:
 
 —No vaccinated persons w/ COVID-19 were hospitalized
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e4.htm?s_cid=mm7035e4_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e4.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e4.htm?s_cid=mm7035e4_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7035e4.ht ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-IumrxUUAMwuFh.jpg"  ><img src="/twitter/erictopol/images/E-IumrxUUAMwuFh.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432763743591534593" target="_blank" rel="noreferer">10:54 UCT-7</a> 
@@ -97,7 +99,7 @@ And 5 of the unvaccinated who got covid were hospitalized </div>
 <div class="content"> 
 Do 3rd shot Pfizer vaccine boosters restore effectiveness vs infections (any) and, if so, when? and how long?
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.29.21262792v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.29 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.29.21262792v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.29 ...</a> 
 
 
 New preprint from Israel says yes (VE to 70-84%),  ≥ 2 weeks, and duration unclear </div> 
@@ -108,7 +110,7 @@ New @PNASNews
 
 Exposure maps of airborne transmission and the flaws of models and current guidelines that have given a consistent and gross underestimate of infection risk 
 
-<a href="https://www.pnas.org/thread-content/118/37/e2105279118" target="_blank" rel="noreferer">https://www.pnas.org/thread-content/118/37/e2105279118</a> 
+<a href="https://www.pnas.org/thread-content/118/37/e2105279118" target="_blank" rel="noreferer">pnas.org/thread-content/118/37/e2105279118</a> 
  </div> 
 <hr><div class="thread-content"> 
 Effect of sneezing at different temperatures and humidity %, time to evaporation </div> 
@@ -124,7 +126,8 @@ Same temperature, 90% relative humidity </div>
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Latest data on Pfizer vaccine effectiveness against infection (any) which is very high in the recently immunized teen group, and getting back to high levels in older age groups boosted (w/ % boosted by age) https://t.co/cda2dbodmi</div> 
+Latest data on Pfizer vaccine effectiveness against infection (any) which is very high in the recently immunized teen group, and getting back to high levels in older age groups boosted (w/ % boosted by age) <a href="https://twitter.com/BarakRaveh/status/1432808773396074496" target="_blank" rel="noreferer">twitter.com/BarakRaveh/status/143280877339 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432815833940574209" target="_blank" rel="noreferer">14:21 UCT-7</a> 
 </div> 
@@ -133,26 +136,12 @@ Graphs from @feldman_gil through August 23rd for cases and severe cases in Israe
 <a href="/twitter/erictopol/images/E-JhICsVgAUtDdR.jpg"  ><img src="/twitter/erictopol/images/E-JhICsVgAUtDdR.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-JhKe6VcAMD_S5.jpg"  ><img src="/twitter/erictopol/images/E-JhKe6VcAMD_S5.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1432816654296104964" target="_blank" rel="noreferer">14:24 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @chngin_the_wrld: How about a little #COVID19vaccine humor on the elusiveness of #herdimmunity? I bet @EricTopol will get a kick out of…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1432828020398514176" target="_blank" rel="noreferer">15:09 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @GHS: “We now have over one hundred and two thousand hospitalized Americans, and we have no idea what proportion are vaccinated or not v…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432832547625394186" target="_blank" rel="noreferer">15:27 UCT-7</a> 
 </div> 
 <div class="content"> 
 Should antibody levels be used to guide booster shots?
 
-<a href="https://www.researchsquare.com/article/rs-858160/v1" target="_blank" rel="noreferer">https://www.researchsquare.com/article/rs-858160/v ...</a> 
+<a href="https://www.researchsquare.com/article/rs-858160/v1" target="_blank" rel="noreferer">researchsquare.com/article/rs-858160/v ...</a> 
 
 
 A new preprint poses that question, showing marked heterogeneity in 1,060 people after vaccination or prior covid
@@ -175,7 +164,7 @@ Kentucky and South Carolina trying to become the next Mississippi and Florida </
 
 410 days of the pandemic with ZERO community transmissions
 
-<a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-source-cases" target="_blank" rel="noreferer">https://www.health.govt.nz/our-work/diseases-and-c ...</a> 
+<a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-source-cases" target="_blank" rel="noreferer">health.govt.nz/our-work/diseases-and-c ...</a> 
 
 
 Thanks for inputs by @conal_tuohy and @Thoughtfulnz </div> 
@@ -189,7 +178,7 @@ With vaccinations, the UK suppressed covid deaths in their Delta wave (compared 
 
 In the US, that suppression is &lt; 60%
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
 
 
 US 7-day average now &gt; 1300 deaths </div> 
@@ -201,7 +190,7 @@ US 7-day average now &gt; 1300 deaths </div>
 <div class="content"> 
 The irony of a @CDCgov Advisory Committee ACIP physician offered an unsolicited booster shot by his physician
 
-<a href="https://www.ft.com/content/4c140ede-1b13-4b7f-ae8e-5a0a709b64be" target="_blank" rel="noreferer">https://www.ft.com/content/4c140ede-1b13-4b7f-ae8e ...</a> 
+<a href="https://www.ft.com/content/4c140ede-1b13-4b7f-ae8e-5a0a709b64be" target="_blank" rel="noreferer">ft.com/content/4c140ede-1b13-4b7f-ae8e ...</a> 
  @FT by @nikasgari </div> 
 <a href="/twitter/erictopol/images/E-LOyUkVkAYpBmR.jpg"  ><img src="/twitter/erictopol/images/E-LOyUkVkAYpBmR.jpg" alt="Twitter image" ></img></a></div> 
 

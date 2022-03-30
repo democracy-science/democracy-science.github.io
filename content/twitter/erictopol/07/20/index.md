@@ -21,7 +21,9 @@ That's not true.
 
 My simple graphic below and straightforward math 🧵from UK to show 90% preserved effectiveness (an underestimate)
 
-https://t.co/hAWGMuDlvD https://t.co/uKiYPLevVr</div> 
+<a href="https://twitter.com/PaulMainwood/status/1417368010378121216" target="_blank" rel="noreferer">twitter.com/PaulMainwood/status/1417368010 ...</a> 
+ <a href="https://twitter.com/EricTopol/status/1412226732149534721" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1412226732149 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -29,7 +31,7 @@ The pandemic case peak for the UK was 62,596 in January.
 
 Today: 46,558. Let's hope this is at or close to peak and for a rapid descent
 
-<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">https://coronavirus.data.gov.uk</a> 
+<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">coronavirus.data.gov.uk</a> 
 
 
 @OurWorldInData </div> 
@@ -55,7 +57,7 @@ Just published @ScienceMagazine
 
 Discovery of masitinib, from a library of 1,900 drugs, with potent anti-replication activity against #SARSCoV2 (via 3CLpro) and its major variants, and can be given as a pill @justsaysinmice 
 
-<a href="https://science.sciencemag.org/content/early/2021/07/19/science.abg5827" target="_blank" rel="noreferer">https://science.sciencemag.org/content/early/2021/ ...</a> 
+<a href="https://science.sciencemag.org/content/early/2021/07/19/science.abg5827" target="_blank" rel="noreferer">science.sciencemag.org/content/early/2021/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6wnHNRVIAYP-P5.jpg"  ><img src="/twitter/erictopol/images/E6wnHNRVIAYP-P5.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -76,17 +78,17 @@ Their covid test positivity looks a little different, too
 
 (not just the Y-axis)
 
-<a href="https://coronavirus.jhu.edu/testing/individual-states/vermont" target="_blank" rel="noreferer">https://coronavirus.jhu.edu/testing/individual-sta ...</a> 
+<a href="https://coronavirus.jhu.edu/testing/individual-states/vermont" target="_blank" rel="noreferer">coronavirus.jhu.edu/testing/individual-sta ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6xAP3jUUAAtUCC.jpg"  ><img src="/twitter/erictopol/images/E6xAP3jUUAAtUCC.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 We don't know much about the functional significance of the mutations in Lambda (C.37), a variant of interest that emerged in South America, that is also on a new path
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.06.26 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.06.26 ...</a> 
 
 
-<a href="https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know" target="_blank" rel="noreferer">https://www.nationalgeographic.com/science/article ...</a> 
+<a href="https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know" target="_blank" rel="noreferer">nationalgeographic.com/science/article ...</a> 
  by @Ecquis @NatGeo /3 </div> 
 <a href="/twitter/erictopol/images/E6l52dPVUAQROG9.jpg"  ><img src="/twitter/erictopol/images/E6l52dPVUAQROG9.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6l5-cEVEAQuNXF.jpg"  ><img src="/twitter/erictopol/images/E6l5-cEVEAQuNXF.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417617792556101634" target="_blank" rel="noreferer">15:49 UCT-7</a> 
@@ -102,13 +104,14 @@ No sign a booster vs Delta is necessary (study is limited by small number of par
 
 @FT by @nikasgari </div> 
 <a href="/twitter/erictopol/images/E6TFTFgVIAEhkbe.jpg"  ><img src="/twitter/erictopol/images/E6TFTFgVIAEhkbe.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-A new lab study preprint compares the 2-dose mRNA vaccines with 1-dose J&amp;J for neutralizing antibodies vs Delta <a href="https://www.biorxiv.org/thread-content/10.1101/2021.07.19.452771v1" target="_blank" rel="noreferer">https://www.biorxiv.org/thread-content/10.1101/2021.07.19 ...</a> 
+A new lab study preprint compares the 2-dose mRNA vaccines with 1-dose J&amp;J for neutralizing antibodies vs Delta <a href="https://www.biorxiv.org/thread-content/10.1101/2021.07.19.452771v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.07.19 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6xYd5yVIAA9QCO.jpg"  ><img src="/twitter/erictopol/images/E6xYd5yVIAA9QCO.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417626586292002819" target="_blank" rel="noreferer">16:24 UCT-7</a> 
 </div> 
 <div class="content"> 
-These new data are not contradictory; the @NEJM report did not compare vs mRNA vaccines. https://t.co/9KADc3xOZy The headline "ineffective" below is misleading: the neutralizing antibodies w/ J&amp;J were above threshold for concern (dotted line) &amp; there's also the T cell response</div> 
+These new data are not contradictory; the @NEJM report did not compare vs mRNA vaccines. <a href="https://www.nytimes.com/2021/07/20/health/coronavirus-johnson-vaccine-delta.html" target="_blank" rel="noreferer">nytimes.com/2021/07/20/health/coronavi ...</a> 
+ The headline "ineffective" below is misleading: the neutralizing antibodies w/ J&amp;J were above threshold for concern (dotted line) &amp; there's also the T cell response</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -126,23 +129,15 @@ It has been over 7 months since the US vaccination campaign began. Yet TV and ne
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1417661401045225475" target="_blank" rel="noreferer">18:43 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @totallyfearless: @EricTopol I think they should show stuff like this <a href="https://twitter.com/totallyfearless/status/1417654676703662083" target="_blank" rel="noreferer">https://twitter.com/totallyfearless/status/1417654 ...</a> 
-</div> 
-<a href="/twitter/erictopol/images/E6yFaE8WUAoI4Ea.jpg"  ><img src="/twitter/erictopol/images/E6yFaE8WUAoI4Ea.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417712075791421441" target="_blank" rel="noreferer">22:04 UCT-7</a> 
 </div> 
 <div class="content"> 
-The 3 states with the lowest (34%) fully vaccinated people in the country <a href="https://www.ft.com/content/39ff87ce-57b7-4007-9504-7eb2c7bc911f" target="_blank" rel="noreferer">https://www.ft.com/content/39ff87ce-57b7-4007-9504 ...</a> 
+The 3 states with the lowest (34%) fully vaccinated people in the country <a href="https://www.ft.com/content/39ff87ce-57b7-4007-9504-7eb2c7bc911f" target="_blank" rel="noreferer">ft.com/content/39ff87ce-57b7-4007-9504 ...</a> 
 
 
 "The Delta variant is spreading in our state. The growth of cases is exponential. The rise in hospitalizations is exponential"—@DillahaMD
 
-<a href="https://twitter.com/EricTopol/status/1417562950471090179" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1417562950471 ...</a> 
+<a href="https://twitter.com/EricTopol/status/1417562950471090179" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1417562950471 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6y5nJPVoAY7n5h.jpg"  ><img src="/twitter/erictopol/images/E6y5nJPVoAY7n5h.jpg" alt="Twitter image" ></img></a></div> 
 

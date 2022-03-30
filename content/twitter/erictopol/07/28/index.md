@@ -10,14 +10,15 @@ category = "Twitter"
 <div class="content"> 
 Just published @nature
 
-Soon (10-12 days) after 1st dose of an mRNA vaccine, fully functional CD8+ T cells kick in to provide some protection, well before neutralizing antibodies are barely detectable https://t.co/SnP4XT7WcK</div> 
+Soon (10-12 days) after 1st dose of an mRNA vaccine, fully functional CD8+ T cells kick in to provide some protection, well before neutralizing antibodies are barely detectable <a href="https://www.nature.com/articles/s41586-021-03841-4" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03841-4</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1420379159734341632" target="_blank" rel="noreferer">06:42 UCT-7</a> 
 </div> 
 <div class="content"> 
-New and rigorous review of Ivermectin by @CochraneLibrary @cochranecollab underscores the lack of evidence that it works  <a href="https://twitter.com/JeremyFarrar/status/1420333684192907277" target="_blank" rel="noreferer">https://twitter.com/JeremyFarrar/status/1420333684 ...</a> 
+New and rigorous review of Ivermectin by @CochraneLibrary @cochranecollab underscores the lack of evidence that it works  <a href="https://twitter.com/JeremyFarrar/status/1420333684192907277" target="_blank" rel="noreferer">twitter.com/JeremyFarrar/status/1420333684 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E7YzOB0VcAIrGS2.jpg"  ><img src="/twitter/erictopol/images/E7YzOB0VcAIrGS2.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7YzQDOUYAEa4H3.jpg"  ><img src="/twitter/erictopol/images/E7YzQDOUYAEa4H3.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -27,7 +28,7 @@ New and rigorous review of Ivermectin by @CochraneLibrary @cochranecollab unders
 <div class="content"> 
 We used to refer to a "blockbuster" product of a pharmaceutical company as having $1 billion of sales in a year. Pfizer's vaccine take for 2021 is $33 billion
 
-<a href="https://www.ft.com/content/ee45a6f3-1577-4d64-bd1f-462c7440de38" target="_blank" rel="noreferer">https://www.ft.com/content/ee45a6f3-1577-4d64-bd1f ...</a> 
+<a href="https://www.ft.com/content/ee45a6f3-1577-4d64-bd1f-462c7440de38" target="_blank" rel="noreferer">ft.com/content/ee45a6f3-1577-4d64-bd1f ...</a> 
  by @donatopmancini @FT </div> 
 <a href="/twitter/erictopol/images/E7Y1c-xVoAEOssS.jpg"  ><img src="/twitter/erictopol/images/E7Y1c-xVoAEOssS.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -37,7 +38,7 @@ We used to refer to a "blockbuster" product of a pharmaceutical company as havin
 <div class="content"> 
 I can't remember the last time I agreed with a @WSJopinion but they've got the @US_FDA full approval need right
 
-<a href="https://www.wsj.com/articles/to-mandate-or-not-to-mandate-vaccines-11627425858?mod=opinion_lead_pos1" target="_blank" rel="noreferer">https://www.wsj.com/articles/to-mandate-or-not-to- ...</a> 
+<a href="https://www.wsj.com/articles/to-mandate-or-not-to-mandate-vaccines-11627425858?mod=opinion_lead_pos1" target="_blank" rel="noreferer">wsj.com/articles/to-mandate-or-not-to- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7ZAdwhUcAYpt29.jpg"  ><img src="/twitter/erictopol/images/E7ZAdwhUcAYpt29.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -58,7 +59,7 @@ And hospitalizations </div>
 <div class="content"> 
 This new data from @pfizer on booster shots for increasing levels of neutralizing antibodies by age group in 23 people is not enough to make any call yet. We need to see clinical data to know whether this marker translates to need, and in whom
 
-<a href="https://s21.q4cdn.com/317678438/files/doc_financials/2021/q2/Q2-2021-Earnings-Charts-FINAL.pdf" target="_blank" rel="noreferer">https://s21.q4cdn.com/317678438/files/doc_financia ...</a> 
+<a href="https://s21.q4cdn.com/317678438/files/doc_financials/2021/q2/Q2-2021-Earnings-Charts-FINAL.pdf" target="_blank" rel="noreferer">s21.q4cdn.com/317678438/files/doc_financia ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7ZLLryVEAA9N8Y.jpg"  ><img src="/twitter/erictopol/images/E7ZLLryVEAA9N8Y.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -72,7 +73,7 @@ Just out @ScienceMagazine
 
 Breaking the chain better; all vaccines are ≠
 
-<a href="https://www.sciencemag.org/news/2021/07/overlooked-superpower-mrna-vaccines" target="_blank" rel="noreferer">https://www.sciencemag.org/news/2021/07/overlooked ...</a> 
+<a href="https://www.sciencemag.org/news/2021/07/overlooked-superpower-mrna-vaccines" target="_blank" rel="noreferer">sciencemag.org/news/2021/07/overlooked ...</a> 
  by @meredithwadman w/ @angie_rasmussen @adeelbutt_MD </div> 
 <a href="/twitter/erictopol/images/E7ZN7LfVoAEdxyC.jpg"  ><img src="/twitter/erictopol/images/E7ZN7LfVoAEdxyC.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -82,7 +83,7 @@ Breaking the chain better; all vaccines are ≠
 <div class="content"> 
 Prior covid and a dose of J&amp;J vaccine offers strong neutralizing antibody and T-cell response against Delta (and Beta) variants
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.07.24.21261037v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.07.24 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.24.21261037v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.24 ...</a> 
  @virusmonologues and colleagues, preprint </div> 
 <a href="/twitter/erictopol/images/E7ZnVTPVgAQv3OB.jpg"  ><img src="/twitter/erictopol/images/E7ZnVTPVgAQv3OB.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -92,7 +93,7 @@ Prior covid and a dose of J&amp;J vaccine offers strong neutralizing antibody an
 <div class="content"> 
 Delta didn't "erupt" here. Its growth followed an exponential curve, doubling every ~10 days over many weeks since April, and we could precisely predict its dominance and now ~94%
 
- <a href="https://twitter.com/EricTopol/status/1419882156055175168" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1419882156055 ...</a> 
+ <a href="https://twitter.com/EricTopol/status/1419882156055175168" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1419882156055 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7ZuDeuVoAI2StQ.jpg"  ><img src="/twitter/erictopol/images/E7ZuDeuVoAI2StQ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -115,7 +116,7 @@ A silver lining of Delta along with the new movement towards vaccination require
 <div class="thread-content"> 
 How #SARSCoV2 gets into our cells and Delta's enhanced capability involving its altered furin cleavage site, P681R mutation, and yet to be fully defined mechanism for its very high transmissibility
 
-<a href="https://www.nature.com/articles/d41586-021-02039-y" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02039-y</a> 
+<a href="https://www.nature.com/articles/d41586-021-02039-y" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02039-y</a> 
 
 
 new &amp; outstanding feature @Nature @Scudellari </div> 
@@ -127,7 +128,8 @@ How to make a killer virus aesthetic </div>
 <div class="content"> 
 A new, related piece @KHNews by @LizSzabo explores the mechanism for Delta's very high contagiousness
 
-https://t.co/PwSaju0VTt w/ @angie_rasmussen</div> 
+<a href="https://khn.org/news/article/unraveling-the-mysterious-mutations-that-make-delta-the-most-transmissible-covid-virus-yet/" target="_blank" rel="noreferer">khn.org/news/article/unraveling-the-myster ...</a> 
+ w/ @angie_rasmussen</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -142,7 +144,8 @@ US overall  &gt;63,000/day 7-day average will rise quickly when FL and TX get go
 <div class="thread-content"> 
 The 6 month vaccine efficacy date from @Pfizer/@BioNTech_Group's randomized trial, new preprint
 
-https://t.co/ByzNjzsdOP
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
+
 
 Any symptomatic infection
 
@@ -171,7 +174,7 @@ Very important @NEJM paper today on breakthrough infections (BTI) post-vaccinati
 
 1. Of ~1500 people, 0.4% had BIs, sequenced to be Alpha 85% (this was pre-Delta)
 
-<a href="https://www.nejm.org/?query=featured_home&doi=10.1056%2FNEJMoa2109072" target="_blank" rel="noreferer">https://www.nejm.org/?query=featured_home&doi=10.1 ...</a> 
+<a href="https://www.nejm.org/?query=featured_home&doi=10.1056%2FNEJMoa2109072" target="_blank" rel="noreferer">nejm.org/?query=featured_home&doi=10.1 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7aSMyIUYAQkxc3.jpg"  ><img src="/twitter/erictopol/images/E7aSMyIUYAQkxc3.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 2. All these BTIs were mild (67%) or without symptoms (33%), done due to routine testing. No hospitalizations. </div> 
@@ -195,7 +198,7 @@ All this pertains to Alpha, not Delta, which, of course, will not be as favorabl
 <div class="content"> 
 More insight on this @npr by @robsteinnews who spoke with the senior author @G_RegevY on their findings 
 
-<a href="https://www.npr.org/sections/health-shots/2021/07/28/1021888033/breakthrough-infections-may-cause-long-covid-symptoms-small-study-suggests" target="_blank" rel="noreferer">https://www.npr.org/sections/health-shots/2021/07/ ...</a> 
+<a href="https://www.npr.org/sections/health-shots/2021/07/28/1021888033/breakthrough-infections-may-cause-long-covid-symptoms-small-study-suggests" target="_blank" rel="noreferer">npr.org/sections/health-shots/2021/07/ ...</a> 
  @npratc #LongCovid </div> 
 <a href="/twitter/erictopol/images/E7av4JzVUAI1Fv3.jpg"  ><img src="/twitter/erictopol/images/E7av4JzVUAI1Fv3.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -204,17 +207,18 @@ US Covid hospitalizations have shot up to &gt;42,000 today, almost 3X in the mon
 
 A Déjà Vu that was so utterly preventable. </div> 
 <a href="/twitter/erictopol/images/E7bWMJ4VIAYI4Tg.jpg"  ><img src="/twitter/erictopol/images/E7bWMJ4VIAYI4Tg.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-"Ninety-eight percent of hospitalized individuals with covid in Arkansas are unvaccinated." —Dean Mark Williams @uamshealth https://t.co/3U0sKBqc4A by @dtkeating and @lmshap</div> 
+"Ninety-eight percent of hospitalized individuals with covid in Arkansas are unvaccinated." —Dean Mark Williams @uamshealth <a href="https://www.washingtonpost.com/health/interactive/2021/unvaccinated-case-rate-delta-surge/" target="_blank" rel="noreferer">washingtonpost.com/health/interactive/ ...</a> 
+ by @dtkeating and @lmshap</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1420594718187024391" target="_blank" rel="noreferer">20:59 UCT-7</a> 
 </div> 
 <div class="content"> 
 And now this
 
-<a href="https://www.cnn.com/2021/07/28/us/arkansas-covid-children/index.html" target="_blank" rel="noreferer">https://www.cnn.com/2021/07/28/us/arkansas-covid-c ...</a> 
+<a href="https://www.cnn.com/2021/07/28/us/arkansas-covid-children/index.html" target="_blank" rel="noreferer">cnn.com/2021/07/28/us/arkansas-covid-c ...</a> 
  @MartinSavidge @ejleven @CNN 
 
-<a href="https://twitter.com/GeorgeMonks11/status/1420546871634837511" target="_blank" rel="noreferer">https://twitter.com/GeorgeMonks11/status/142054687 ...</a> 
+<a href="https://twitter.com/GeorgeMonks11/status/1420546871634837511" target="_blank" rel="noreferer">twitter.com/GeorgeMonks11/status/142054687 ...</a> 
  via @tmprowell </div> 
 <a href="/twitter/erictopol/images/E7b2eN5VIAMw96j.jpg"  ><img src="/twitter/erictopol/images/E7b2eN5VIAMw96j.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7b2yNsUcAI11Hr.jpg"  ><img src="/twitter/erictopol/images/E7b2yNsUcAI11Hr.jpg" alt="Twitter image" ></img></a></div> 
 

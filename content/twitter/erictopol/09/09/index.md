@@ -11,7 +11,7 @@ A randomized trial of convalescent plasma shows it not only didn't help, but act
 
 "Patients in the convalescent plasma arm had more serious adverse events (33.4% versus 26.4%; RR = 1.27, 95% CI 1.02–1.57, P = 0.034)."
 
-<a href="https://www.nature.com/articles/s41591-021-01488-2" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01488-2</a> 
+<a href="https://www.nature.com/articles/s41591-021-01488-2" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01488-2</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-2TMwSVEAUCDUH.jpg"  ><img src="/twitter/erictopol/images/E-2TMwSVEAUCDUH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-2TO6RVEAEUFDP.jpg"  ><img src="/twitter/erictopol/images/E-2TO6RVEAEUFDP.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1435967208270692362" target="_blank" rel="noreferer">07:03 UCT-7</a> 
@@ -19,14 +19,15 @@ A randomized trial of convalescent plasma shows it not only didn't help, but act
 <div class="content"> 
 Recall the @US_FDA gave an emergency authorization for this treatment in August 2020 with no randomized clinical trial data, which promoted its use in hundreds of thousands of patients
 
-https://t.co/LWhPWH3PpS</div> 
+<a href="https://www.medscape.com/viewarticle/936611" target="_blank" rel="noreferer">medscape.com/viewarticle/936611</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1435984559502286852" target="_blank" rel="noreferer">08:12 UCT-7</a> 
 </div> 
 <div class="content"> 
-Once crucial lesson the pandemic has taught us is the essentiality of genomic surveillance and "molecular epidemiology." A new outstanding review @Nature Medicine by @MarionKoopmans @1986Bom and colleagues <a href="https://www.nature.com/articles/s41591-021-01472-w" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01472-w</a> 
+Once crucial lesson the pandemic has taught us is the essentiality of genomic surveillance and "molecular epidemiology." A new outstanding review @Nature Medicine by @MarionKoopmans @1986Bom and colleagues <a href="https://www.nature.com/articles/s41591-021-01472-w" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01472-w</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-2kNaZUYAM-lo-.jpg"  ><img src="/twitter/erictopol/images/E-2kNaZUYAM-lo-.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-2kTNyVcAAVN89.jpg"  ><img src="/twitter/erictopol/images/E-2kTNyVcAAVN89.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -34,7 +35,7 @@ Once crucial lesson the pandemic has taught us is the essentiality of genomic su
 <a href="https://twitter.com/erictopol/status/1435993132928155650" target="_blank" rel="noreferer">08:46 UCT-7</a> 
 </div> 
 <div class="content"> 
-Is Delta more virulent? @DLeonhardt concludes it isn't with many inputs <a href="https://www.nytimes.com/2021/09/09/briefing/delta-variant-cases-severity.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/09/09/briefing/delta- ...</a> 
+Is Delta more virulent? @DLeonhardt concludes it isn't with many inputs <a href="https://www.nytimes.com/2021/09/09/briefing/delta-variant-cases-severity.html" target="_blank" rel="noreferer">nytimes.com/2021/09/09/briefing/delta- ...</a> 
 
 
 But UK and Denmark studies show a 2.3X and 2.8X increased risk of hospitalization compared with Alpha
@@ -45,7 +46,7 @@ And the rate of rise of US hospitalizations is clearly increased in the Delta wa
 <div class="thread-content"> 
 This new pandemic record among children is depressing, to say the least. Now 27% of new US cases are in kids, another record @hospitals4kids @AmerAcadPeds
 
-<a href="https://downloads.aap.org/AAP/PDF/AAP%20and%20CHA%20-%20Children%20and%20COVID-19%20State%20Data%20Report%209.2%20FINAL.pdf" target="_blank" rel="noreferer">https://downloads.aap.org/AAP/PDF/AAP%20and%20CHA% ...</a> 
+<a href="https://downloads.aap.org/AAP/PDF/AAP%20and%20CHA%20-%20Children%20and%20COVID-19%20State%20Data%20Report%209.2%20FINAL.pdf" target="_blank" rel="noreferer">downloads.aap.org/AAP/PDF/AAP%20and%20CHA% ...</a> 
 
 
 Best way to prevent covid in children right now is vaccination in adults; we are way short on that </div> 
@@ -55,7 +56,7 @@ Best way to prevent covid in children right now is vaccination in adults; we are
 <div class="content"> 
 Striking relationship between adult vaccinations and children getting covid, requiring hospitalization (at state level)
 
-<a href="https://www.nytimes.com/interactive/2021/09/09/us/covid-children-cases-icu.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/09/09/us/ ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/09/09/us/covid-children-cases-icu.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/09/09/us/ ...</a> 
  by @LaurenLeatherby and 
 
 @amyswalk @nytgraphics </div> 
@@ -86,7 +87,8 @@ Annotations
 <a href="https://twitter.com/erictopol/status/1436005711847170050" target="_blank" rel="noreferer">09:36 UCT-7</a> 
 </div> 
 <div class="content"> 
-Thrilled to see Jeff Kelly, my friend and @scrippsresearch colleague, recognized for a breakthrough prize for his ingenious and indefatigable protein folding work vs amyloid disease https://t.co/3BjxXBPvNU</div> 
+Thrilled to see Jeff Kelly, my friend and @scrippsresearch colleague, recognized for a breakthrough prize for his ingenious and indefatigable protein folding work vs amyloid disease <a href="https://twitter.com/scrippsresearch/status/1435943585858433030" target="_blank" rel="noreferer">twitter.com/scrippsresearch/status/1435943 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -94,7 +96,7 @@ What mRNA technology has the potential to bring us
 
 —an HIV vaccine (30 years later)
 
-<a href="https://www.economist.com/science-and-technology/a-new-aids-vaccine-heads-to-clinical-trials/21804378" target="_blank" rel="noreferer">https://www.economist.com/science-and-technology/a ...</a> 
+<a href="https://www.economist.com/science-and-technology/a-new-aids-vaccine-heads-to-clinical-trials/21804378" target="_blank" rel="noreferer">economist.com/science-and-technology/a ...</a> 
 
 
 —a vaccine vs 3 pathogens at once </div> 
@@ -104,7 +106,7 @@ What mRNA technology has the potential to bring us
 <div class="content"> 
 You can add multiple types of cancer to the list of potentials, too (clinical trials starting)
 
-<a href="https://www.science.org/doi/10.1126/scitranslmed.abc7804" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/scitranslmed.a ...</a> 
+<a href="https://www.science.org/doi/10.1126/scitranslmed.abc7804" target="_blank" rel="noreferer">science.org/doi/10.1126/scitranslmed.a ...</a> 
  @ScienceTM </div> 
 <a href="/twitter/erictopol/images/E-26v8LVIAcqcoi.png"  ><img src="/twitter/erictopol/images/E-26v8LVIAcqcoi.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -112,7 +114,7 @@ You can add multiple types of cancer to the list of potentials, too (clinical tr
 <a href="https://twitter.com/erictopol/status/1436015423242137601" target="_blank" rel="noreferer">10:15 UCT-7</a> 
 </div> 
 <div class="content"> 
-Th kidneys are the Rodney Dangerfield of #LongCovid. They don't get no respect <a href="https://www.nature.com/articles/s41581-021-00487-3" target="_blank" rel="noreferer">https://www.nature.com/articles/s41581-021-00487-3</a> 
+Th kidneys are the Rodney Dangerfield of #LongCovid. They don't get no respect <a href="https://www.nature.com/articles/s41581-021-00487-3" target="_blank" rel="noreferer">nature.com/articles/s41581-021-00487-3</a> 
 
 
 @KidneydrChirag @NatRevNeph </div> 
@@ -122,7 +124,8 @@ Th kidneys are the Rodney Dangerfield of #LongCovid. They don't get no respect <
 <a href="https://twitter.com/erictopol/status/1436022182715400246" target="_blank" rel="noreferer">10:42 UCT-7</a> 
 </div> 
 <div class="content"> 
-This is big, good and overdue. 👏👏 https://t.co/PYstPzWhBB</div> 
+This is big, good and overdue. 👏👏 <a href="https://twitter.com/HeidiNBC/status/1436011140337836039" target="_blank" rel="noreferer">twitter.com/HeidiNBC/status/14360111403378 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -143,20 +146,9 @@ Just published @SciImmunology
 
 The importance of antibodies to the S2 portion of the #SARSCoV2 spike protein related to survival from Covid and cross-reactivity with a common cold coronavirus
 
-<a href="https://www.science.org/doi/10.1126/sciimmunol.abj2901" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/sciimmunol.abj ...</a> 
+<a href="https://www.science.org/doi/10.1126/sciimmunol.abj2901" target="_blank" rel="noreferer">science.org/doi/10.1126/sciimmunol.abj ...</a> 
  @ragoninstitute </div> 
 <a href="/twitter/erictopol/images/E-3QrmCVUA05HSp.jpg"  ><img src="/twitter/erictopol/images/E-3QrmCVUA05HSp.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1436057409911345161" target="_blank" rel="noreferer">13:02 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @JuliaRaifman: @EricTopol We have got to do better than this. 
-
-
-
-Tens of thousands more lives and livelihoods are at stake. We need a ful…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 What's good and not good about @POTUS's new Covid plan
@@ -193,7 +185,7 @@ Summary of the good part of the plan </div>
 <div class="content"> 
 Exhibit 99,999 of #VaccinesWork 
 
-From today's @PHE_uk report <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016465/Vaccine_surveillance_report_-_week_36.pdf" target="_blank" rel="noreferer">https://assets.publishing.service.gov.uk/governmen ...</a> 
+From today's @PHE_uk report <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016465/Vaccine_surveillance_report_-_week_36.pdf" target="_blank" rel="noreferer">assets.publishing.service.gov.uk/governmen ...</a> 
 
 
 Graphs via @JamesWard73 
@@ -218,14 +210,16 @@ The pandemic affects every person, irrespective of vaccination status, even if u
 <div class="content"> 
 In full agreement with you, Leana
 
-https://t.co/G9QQsyAZnr https://t.co/njy2F7JSnr</div> 
+<a href="https://twitter.com/EricTopol/status/1436051335275696135" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1436051335275 ...</a> 
+ <a href="https://twitter.com/DrLeanaWen/status/1436077470105604096" target="_blank" rel="noreferer">twitter.com/DrLeanaWen/status/143607747010 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1436097371130130448" target="_blank" rel="noreferer">15:41 UCT-7</a> 
 </div> 
 <div class="content"> 
-Comparison of CoronaVac and Pfizer vaccines for induction of IgG antibodies in &gt;40,000 vaccinees over 5 months reveals significant differences in 2-dose positivity (77% vs 95%) and decline pattern @TheLancetInfDis <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00479-5/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+Comparison of CoronaVac and Pfizer vaccines for induction of IgG antibodies in &gt;40,000 vaccinees over 5 months reveals significant differences in 2-dose positivity (77% vs 95%) and decline pattern @TheLancetInfDis <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00479-5/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-4J4gfUYAIGKnh.jpg"  ><img src="/twitter/erictopol/images/E-4J4gfUYAIGKnh.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -233,7 +227,7 @@ Comparison of CoronaVac and Pfizer vaccines for induction of IgG antibodies in &
 <a href="https://twitter.com/erictopol/status/1436105969684017180" target="_blank" rel="noreferer">16:15 UCT-7</a> 
 </div> 
 <div class="content"> 
-An oral covid vaccine that triggers mucosal immunity, stored at room temperature, induces high levels of IgG and IgA and protection in widely accepted experimental models <a href="https://www.biorxiv.org/content/10.1101/2021.09.09.459634v1.full.pdf" target="_blank" rel="noreferer">https://www.biorxiv.org/content/10.1101/2021.09.09 ...</a> 
+An oral covid vaccine that triggers mucosal immunity, stored at room temperature, induces high levels of IgG and IgA and protection in widely accepted experimental models <a href="https://www.biorxiv.org/content/10.1101/2021.09.09.459634v1.full.pdf" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.09.09 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-4Sb3HVcAMMHdF.jpg"  ><img src="/twitter/erictopol/images/E-4Sb3HVcAMMHdF.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-4Sda7VcAoTMM9.jpg"  ><img src="/twitter/erictopol/images/E-4Sda7VcAoTMM9.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -245,13 +239,6 @@ At the US pandemic peak, when there were no vaccines, we averaged 3,300 deaths p
 
 At a time when nearly all deaths are preventable. </div> 
 <a href="/twitter/erictopol/images/E-4x4RKVQAgOxGl.jpg"  ><img src="/twitter/erictopol/images/E-4x4RKVQAgOxGl.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1436148392866955273" target="_blank" rel="noreferer">19:03 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ZekeEmanuel: Eric raises some very good points, especially around the data problems and no vax requirement for travel. I also am concer…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1436160442875854848" target="_blank" rel="noreferer">19:51 UCT-7</a> 

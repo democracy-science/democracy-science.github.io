@@ -62,7 +62,7 @@ US     67% 1st dose, 58% fully</div>
 <a href="https://twitter.com/erictopol/status/1412101623296401411" target="_blank" rel="noreferer">10:30 UCT-7</a> 
 </div> 
 <div class="content"> 
-The UK's most recent data quantifying the increase in hospitalizations and deaths  <a href="https://twitter.com/BristOliver/status/1412059284381356034" target="_blank" rel="noreferer">https://twitter.com/BristOliver/status/14120592843 ...</a> 
+The UK's most recent data quantifying the increase in hospitalizations and deaths  <a href="https://twitter.com/BristOliver/status/1412059284381356034" target="_blank" rel="noreferer">twitter.com/BristOliver/status/14120592843 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E5jKk8pUYAIwrwB.png"  ><img src="/twitter/erictopol/images/E5jKk8pUYAIwrwB.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -73,7 +73,7 @@ The stakes could not be higher.
 
 In print, @nytopinion 
 
-<a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html?searchResultPosition=1" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
+<a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html?searchResultPosition=1" target="_blank" rel="noreferer">nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5i1r2NUYAMWt9n.jpg"  ><img src="/twitter/erictopol/images/E5i1r2NUYAMWt9n.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412106114628395018" target="_blank" rel="noreferer">10:48 UCT-7</a> 
@@ -90,7 +90,7 @@ Perhaps @DrWoodcockFDA will even make a public statement?</div>
 <div class="content"> 
 A new prospective cohort study of &gt;400 people with mild to moderate (outpatient) covid at 7-9 months: nearly 1 of 3 had persistent symptoms #LongCovid @AnnalsofIM
 
- <a href="https://www.acpjournals.org/doi/10.7326/M21-0878" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-0878</a> 
+ <a href="https://www.acpjournals.org/doi/10.7326/M21-0878" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-0878</a> 
 
 
 by @mayssamnehme and colleagues </div> 
@@ -110,7 +110,7 @@ Israel, with the highest level of adult mRNA fully vaccinated population, seeing
 <div class="thread-content"> 
 "It is time to turn down the heat of the rhetoric and turn of the light of scientific inquiry" for determining how #SARSCoV2 reached humans
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01419-7/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01419-7/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  @TheLancet </div> 
 <a href="/twitter/erictopol/images/E5kcMr4VcAISl1O.jpg"  ><img src="/twitter/erictopol/images/E5kcMr4VcAISl1O.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5kcOUKVEAoifeH.jpg"  ><img src="/twitter/erictopol/images/E5kcOUKVEAoifeH.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412192780424675330" target="_blank" rel="noreferer">16:32 UCT-7</a> 
@@ -129,15 +129,15 @@ and
 <div class="content"> 
 For accelerating global containment, the use of lower doses of vaccines, w/ potential for =/high efficacy, should be considered, by @bencowling88 @sarahcobey @NatureMedicine 
 
-<a href="https://www.nature.com/articles/s41591-021-01440-4" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01440-4</a> 
+<a href="https://www.nature.com/articles/s41591-021-01440-4" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01440-4</a> 
 
 
 Also applies to @moderna_tx 
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0264410X21001535" target="_blank" rel="noreferer">https://www.sciencedirect.com/science/article/pii/ ...</a> 
+<a href="https://www.sciencedirect.com/science/article/pii/S0264410X21001535" target="_blank" rel="noreferer">sciencedirect.com/science/article/pii/ ...</a> 
 
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.06.30.21259787v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.06.30 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.06.30.21259787v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.06.30 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5kfKpuVoAAfOko.jpg"  ><img src="/twitter/erictopol/images/E5kfKpuVoAAfOko.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5kf86mVEAAdIGZ.jpg"  ><img src="/twitter/erictopol/images/E5kf86mVEAAdIGZ.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5kgsOBVEAcg4-y.png"  ><img src="/twitter/erictopol/images/E5kgsOBVEAcg4-y.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

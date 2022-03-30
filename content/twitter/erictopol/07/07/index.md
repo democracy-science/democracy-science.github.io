@@ -17,14 +17,16 @@ South Korea had its highest number of cases yesterday  since the pandemic began 
 <a href="https://twitter.com/erictopol/status/1412763889679298570" target="_blank" rel="noreferer">06:22 UCT-7</a> 
 </div> 
 <div class="content"> 
-What can the US do to better withstand the impact of the Delta variant's rise? https://t.co/cKYN3yBo7P</div> 
+What can the US do to better withstand the impact of the Delta variant's rise? <a href="https://twitter.com/rosemaryCNN/status/1412672282640752640" target="_blank" rel="noreferer">twitter.com/rosemaryCNN/status/14126722826 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412772928488230914" target="_blank" rel="noreferer">06:58 UCT-7</a> 
 </div> 
 <div class="content"> 
-Similar pattern of US states with highest Delta variant % : rise in cases and hospitalizations as seen in England https://t.co/ur69ktWep5</div> 
+Similar pattern of US states with highest Delta variant % : rise in cases and hospitalizations as seen in England <a href="https://twitter.com/jburnmurdoch/status/1412762156848799744" target="_blank" rel="noreferer">twitter.com/jburnmurdoch/status/1412762156 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -35,7 +37,7 @@ The states with some of the highest Delta variant %, lowest vaccination rates ar
 
 by @DLeonhardt 
 
-<a href="https://www.nytimes.com/2021/07/07/briefing/delta-variant-spread-red-states-us.html?referringSource=articleShare" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/07/briefing/delta- ...</a> 
+<a href="https://www.nytimes.com/2021/07/07/briefing/delta-variant-spread-red-states-us.html?referringSource=articleShare" target="_blank" rel="noreferer">nytimes.com/2021/07/07/briefing/delta- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5syEpRVoAYRdLZ.jpg"  ><img src="/twitter/erictopol/images/E5syEpRVoAYRdLZ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -47,12 +49,12 @@ The prolonged physiologic impact of #LongCovid as detected via wrist sensors
 
 Our new @JAMANetworkOpen report, led by @jmradin @GiorgioQuer @SteveSteinhubl 
 
-<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
  w/ @ERamosPhD @BacaMotes 
 
 and @nytimes coverage by @EmilyAnthes 
 
-<a href="https://www.nytimes.com/2021/07/07/health/covid-fitbit-wearables.html?smid=tw-share" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/07/health/covid-fi ...</a> 
+<a href="https://www.nytimes.com/2021/07/07/health/covid-fitbit-wearables.html?smid=tw-share" target="_blank" rel="noreferer">nytimes.com/2021/07/07/health/covid-fi ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5s-09hVgAQPHCX.jpg"  ><img src="/twitter/erictopol/images/E5s-09hVgAQPHCX.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5s-_SEUYAE6S_Y.jpg"  ><img src="/twitter/erictopol/images/E5s-_SEUYAE6S_Y.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -64,7 +66,8 @@ and @nytimes coverage by @EmilyAnthes
 
 Paging @DrWoodcockFDA: It is high time you talk to the public about this matter.
 
-https://t.co/IyqHqVFJhL</div> 
+<a href="https://www.axios.com/america-is-hitting-its-vaccination-ceiling-0d896b5f-a18b-4978-8d13-e5da2a3d97af.html" target="_blank" rel="noreferer">axios.com/america-is-hitting-its-vacci ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -87,7 +90,7 @@ The US epicenter for Delta is Arkansas and Missouri. They both have very low vac
 <div class="content"> 
 The science on school openings, an in-depth feature @nature today by @cwillyard w/ @MonicaGandhi9 @TracyBethHoeg @LoveandJusticeC @RbnLake @DrLeanaWen @ellenpetersjdm @dr_kkjetelina
 
-<a href="https://www.nature.com/articles/d41586-021-01826-x" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-01826-x</a> 
+<a href="https://www.nature.com/articles/d41586-021-01826-x" target="_blank" rel="noreferer">nature.com/articles/d41586-021-01826-x</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5tMD7FUYAUKAk6.jpg"  ><img src="/twitter/erictopol/images/E5tMD7FUYAUKAk6.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5tMFfTUcAETeJe.jpg"  ><img src="/twitter/erictopol/images/E5tMFfTUcAETeJe.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -107,7 +110,7 @@ Tokyo, where the Delta variant has already reached 40%, declared an emergency ah
 <a href="http://outbreak.info" target="_blank" rel="noreferer">http://outbreak.info</a> 
 
 
-<a href="https://www.espn.com/olympics/story/_/id/31776079/tokyo-surging-covid-19-cases-likely-means-new-state-emergency-olympics" target="_blank" rel="noreferer">https://www.espn.com/olympics/story/_/id/31776079/ ...</a> 
+<a href="https://www.espn.com/olympics/story/_/id/31776079/tokyo-surging-covid-19-cases-likely-means-new-state-emergency-olympics" target="_blank" rel="noreferer">espn.com/olympics/story/_/id/31776079/ ...</a> 
  @NBCOlympics #Tokyo2020 </div> 
 <a href="/twitter/erictopol/images/E5tcg6EVEAAumLh.jpg"  ><img src="/twitter/erictopol/images/E5tcg6EVEAAumLh.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -124,13 +127,6 @@ This.
 <a href="/twitter/erictopol/images/E5tm4j5VcAE4Ihk.jpg"  ><img src="/twitter/erictopol/images/E5tm4j5VcAE4Ihk.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1412838589008777216" target="_blank" rel="noreferer">11:19 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @Tuliodna: Unfortunately, we expect this to happen in most of southern Africa and potentially a great part of Africa. South Africa can n…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412856841864839168" target="_blank" rel="noreferer">12:31 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -142,14 +138,16 @@ Today, another good day for Israel, with what appears to be a solid Delta immuni
 
 Contrast with the UK so far
 
-https://t.co/7e9PopNeuf https://t.co/MLPSdM5Lvk</div> 
+<a href="https://twitter.com/EricTopol/status/1412575682597580805" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1412575682597 ...</a> 
+ <a href="https://twitter.com/EricTopol/status/1412523068900057089" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1412523068900 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412880354134970371" target="_blank" rel="noreferer">14:05 UCT-7</a> 
 </div> 
 <div class="content"> 
-A large study of the CoronaVac in Chile shows vaccine effectiveness is 64% vs infections, 87% vs hospitalizations and deaths. To summarize, yet another vaccine that works well, especially against severe illness @NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2107715?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa210771 ...</a> 
+A large study of the CoronaVac in Chile shows vaccine effectiveness is 64% vs infections, 87% vs hospitalizations and deaths. To summarize, yet another vaccine that works well, especially against severe illness @NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2107715?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210771 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5uOhiGUUAQdNS0.jpg"  ><img src="/twitter/erictopol/images/E5uOhiGUUAQdNS0.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5uOjoxVEAEIclW.jpg"  ><img src="/twitter/erictopol/images/E5uOjoxVEAEIclW.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5uO1OTVkAMZbak.jpg"  ><img src="/twitter/erictopol/images/E5uO1OTVkAMZbak.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -158,7 +156,7 @@ Good news for Delta (B.1.617.2) protection via vaccines and prior covid @NEJM to
 
 Well above threshold neutralizing activity (dotted lines) from lab studies using sera from people (A) prior covid, (B) @moderna_tx (C) @pfizer vaccinees
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2107799?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2107799 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2107799?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2107799 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5uK3HTVcAA0zLz.jpg"  ><img src="/twitter/erictopol/images/E5uK3HTVcAA0zLz.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412882639506214914" target="_blank" rel="noreferer">14:14 UCT-7</a> 
@@ -175,7 +173,7 @@ Full text here </div>
 
 A large group of physicians and scientists objecting to the planning UK full reopening "Freedom Day"
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01589-0/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01589-0/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5ulIFWVgAIslYk.jpg"  ><img src="/twitter/erictopol/images/E5ulIFWVgAIslYk.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5ulJlPVUAM6MpO.jpg"  ><img src="/twitter/erictopol/images/E5ulJlPVUAM6MpO.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5ulshRVkAA5rOx.jpg"  ><img src="/twitter/erictopol/images/E5ulshRVkAA5rOx.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5ul10UVkAA88bj.jpg"  ><img src="/twitter/erictopol/images/E5ul10UVkAA88bj.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -184,7 +182,7 @@ Breakthrough infections are very rare after mRNA vaccinations in prisons where w
 
 2380 vaccinated, 27 infections (1.1%), only 17 after both doses (0.7%)
 
-@NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2108479?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2108479 ...</a> 
+@NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2108479?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2108479 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5uUP5tVoAED_00.png"  ><img src="/twitter/erictopol/images/E5uUP5tVoAED_00.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412909511711420416" target="_blank" rel="noreferer">16:00 UCT-7</a> 
@@ -198,19 +196,20 @@ Just out @Nature
 
 Mechanism of blood clotting for the rare vaccine-induced immune thrombotic thrombocytopenia (VITT) involving platelet-factor 4 antibodies, mimics that of heparin-induced (HIT)
 
-<a href="https://www.nature.com/articles/s41586-021-03744-4" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03744-4</a> 
+<a href="https://www.nature.com/articles/s41586-021-03744-4" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03744-4</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5soohqVcAEA-nT.jpg"  ><img src="/twitter/erictopol/images/E5soohqVcAEA-nT.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Good explainer by @jennystrasburg 
 
-https://t.co/I068AK9sm8</div> 
+<a href="https://www.wsj.com/articles/covid-19-vaccine-related-blood-clots-linked-to-amino-acids-in-new-study-11625648400?mod=hp_lead_pos6" target="_blank" rel="noreferer">wsj.com/articles/covid-19-vaccine-rela ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412933923043110917" target="_blank" rel="noreferer">17:37 UCT-7</a> 
 </div> 
 <div class="content"> 
 That was on the mechanism of VITT
 
-This is on treatment with plasma exchange in 3 patients, in today's @NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2109465?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2109465 ...</a> 
+This is on treatment with plasma exchange in 3 patients, in today's @NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2109465?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2109465 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5u_4iLVUAEiGJO.jpg"  ><img src="/twitter/erictopol/images/E5u_4iLVUAEiGJO.jpg" alt="Twitter image" ></img></a></div> 
 

@@ -14,16 +14,19 @@ Now more than 7,500,000,000 doses of vaccines have been given. </div>
 <a href="/twitter/erictopol/images/FEUuCCIVkAkexyd.jpg"  ><img src="/twitter/erictopol/images/FEUuCCIVkAkexyd.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-This adds to California, Colorado, and New Mexico states. It is noteworthy because (1) the decision is fully backed by the data and (2) it overrides the FDA and CDC guidelines for boosters which are far more restrictive by age criteria (65+). https://t.co/6ssceXtzw3</div> 
+This adds to California, Colorado, and New Mexico states. It is noteworthy because (1) the decision is fully backed by the data and (2) it overrides the FDA and CDC guidelines for boosters which are far more restrictive by age criteria (65+). <a href="https://twitter.com/MarkLevineNYC/status/1460274055567843334" target="_blank" rel="noreferer">twitter.com/MarkLevineNYC/status/146027405 ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 Now add Arkansas to the list
 
-https://t.co/CD2SJBqElc</div> 
+<a href="https://www.nytimes.com/live/2021/11/16/world/covid-vaccine-boosters-mandates#arkansas-boosters-adults-covid" target="_blank" rel="noreferer">nytimes.com/live/2021/11/16/world/covi ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1460651450279743496" target="_blank" rel="noreferer">09:50 UCT-7</a> 
 </div> 
 <div class="content"> 
-And West Virginia https://t.co/5UBYk5DPEV  @felschwartz 
+And West Virginia <a href="https://www.wsj.com/articles/covid-19-boosters-become-available-to-all-adults-across-several-states-cities-11637067602?mod=Searchresults_pos1&page=1" target="_blank" rel="noreferer">wsj.com/articles/covid-19-boosters-bec ...</a> 
+  @felschwartz 
 
 These states and NYC rolling out their own booster shot policy—without precedent—speaks volumes about how the CDC and FDA are out of step with the data</div> 
 </div> 
@@ -31,7 +34,7 @@ These states and NYC rolling out their own booster shot policy—without precede
 <div class="thread-content"> 
 We've been in the digital era for years, but just now discovering in medicine that simple text messaging can help substantially reduce Covid deaths
 
-<a href="https://www.acpjournals.org/doi/10.7326/M21-2019" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-2019</a> 
+<a href="https://www.acpjournals.org/doi/10.7326/M21-2019" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-2019</a> 
 
 
 @AnnalsofIM @kit_delgadoMD @PennMedicine @PCORI </div> 
@@ -41,7 +44,7 @@ We've been in the digital era for years, but just now discovering in medicine th
 <div class="content"> 
 "In short, the system saved lives."
 
-<a href="https://www.acpjournals.org/doi/10.7326/M21-4273" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-4273</a> 
+<a href="https://www.acpjournals.org/doi/10.7326/M21-4273" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-4273</a> 
 
 
 by @faro_jamie and @slcmd </div> 
@@ -53,7 +56,7 @@ by @faro_jamie and @slcmd </div>
 <div class="content"> 
 The worldwide prevalence of #LongCovid, as defined by symptoms beyond 28 days, via review of all available data, is 43% [95% CI 35, 51], with marked heterogeneity among studies
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.11.15.21266377v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.11.15 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.15.21266377v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.15 ...</a> 
  @BhramarBioStat @UMRogelCancer @umichmedicine </div> 
 <a href="/twitter/erictopol/images/FEVXEF9UYAg7MuJ.jpg"  ><img src="/twitter/erictopol/images/FEVXEF9UYAg7MuJ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -74,7 +77,8 @@ Democratizing medicine, a slow process.....
 
 "We could be getting closer to the prediction of a decade ago from American physician Eric Topol: “The digitisation of human beings will make a parody out of ‘doctor knows best’.”
 
-https://t.co/bPtWCifFTR @FT by @PatrickMcGee_</div> 
+<a href="https://www.ft.com/content/d72c9ffa-bdc9-44b2-ba83-4ee625da4ae8" target="_blank" rel="noreferer">ft.com/content/d72c9ffa-bdc9-44b2-ba83 ...</a> 
+ @FT by @PatrickMcGee_</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -94,7 +98,8 @@ Updating my summary Table; the price for Pfizer's pill treatment pack is ~$500 b
 <div class="content"> 
 Not your everyday photo
 
-Seeing the #SARSCoV2 spike protein post-fusion at nanometer resolution https://t.co/iyz7zxVrSN
+Seeing the #SARSCoV2 spike protein post-fusion at nanometer resolution <a href="https://www.pnas.org/content/118/48/e2112703118" target="_blank" rel="noreferer">pnas.org/content/118/48/e2112703118</a> 
+
 
 @PNASNews</div> 
 </div> 
@@ -105,7 +110,7 @@ Seeing the #SARSCoV2 spike protein post-fusion at nanometer resolution https://t
 <div class="content"> 
 An impressive ongoing digital clinical trial with biobanking unravels a triad cytokine signature associated with #LongCovid (PASC), possibly driven by macrophage activation during the acute infection
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963839" target="_blank" rel="noreferer">https://papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963839" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
  @UniHalle </div> 
 <a href="/twitter/erictopol/images/FEWvPufVEAQH18Y.jpg"  ><img src="/twitter/erictopol/images/FEWvPufVEAQH18Y.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -119,7 +124,7 @@ A study of &gt;16,000 breakthroughs with &gt;3.5 million controls
 
 Yes, clearly, including people not hospitalized
 
-<a href="https://www.researchsquare.com/article/rs-1062160/v1" target="_blank" rel="noreferer">https://www.researchsquare.com/article/rs-1062160/ ...</a> 
+<a href="https://www.researchsquare.com/article/rs-1062160/v1" target="_blank" rel="noreferer">researchsquare.com/article/rs-1062160/ ...</a> 
 
 
 @zalaly @WUSTLmed </div> 
@@ -131,7 +136,7 @@ Yes, clearly, including people not hospitalized
 <div class="content"> 
 The chance for a Covid co-infection this winter is increased, especially in hospitalized patients. They're frequently missed. Rapid sequencing in Covid ICUs made the diagnosis same-day, accurately, including antibiotic resistance
 
-<a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00991-y" target="_blank" rel="noreferer">https://genomemedicine.biomedcentral.com/articles/ ...</a> 
+<a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00991-y" target="_blank" rel="noreferer">genomemedicine.biomedcentral.com/articles/ ...</a> 
  @GenomeMedicine </div> 
 <a href="/twitter/erictopol/images/FEW34wsUUAkJkof.jpg"  ><img src="/twitter/erictopol/images/FEW34wsUUAkJkof.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -148,7 +153,8 @@ But let's hope Israel is right again:
 
 "By analyzing the antibody levels, researchers have concluded that the third shot could be effective for 9 – 10 months, or even longer."
 
-https://t.co/wtxVIvvTMn</div> 
+<a href="https://www.timesofisrael.com/pfizer-booster-shot-could-offer-protection-for-9-10-months-initial-data/" target="_blank" rel="noreferer">timesofisrael.com/pfizer-booster-shot- ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 The 3rd shot (boosters) provide ~95% protection vs symptomatic Delta infections. If a person doesn't get infected, they can't transmit. Period.</div> 
 <hr><div class="profile"> 
@@ -157,7 +163,7 @@ The 3rd shot (boosters) provide ~95% protection vs symptomatic Delta infections.
 <div class="content"> 
 This is more good news for this week on 3rd shots
 
-<a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/11/16/us/politics/fda ...</a> 
+<a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html" target="_blank" rel="noreferer">nytimes.com/2021/11/16/us/politics/fda ...</a> 
  by @noahweiland and @SharonLNYT </div> 
 <a href="/twitter/erictopol/images/FEW86ukUUAQfJR0.jpg"  ><img src="/twitter/erictopol/images/FEW86ukUUAQfJR0.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -167,7 +173,7 @@ This is more good news for this week on 3rd shots
 <div class="content"> 
 As new cases are now increasing, averaging more than 85,000/day, hospitalizations are going back up
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEXJ5DlVgAA0_Ng.jpg"  ><img src="/twitter/erictopol/images/FEXJ5DlVgAA0_Ng.jpg" alt="Twitter image" ></img></a></div> 
 

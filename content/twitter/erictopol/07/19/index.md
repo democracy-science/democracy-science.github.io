@@ -7,7 +7,7 @@ category = "Twitter"
 <div class="thread-content"> 
 Just published @Nature 
 
-Discovery of a very broad neutralizing antibody (bNAb) against the sarbecovirus family, another important step towards a pan-coronavirus vaccine—which we should be aggressively pursuing <a href="https://www.nature.com/articles/s41586-021-03817-4" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03817-4</a> 
+Discovery of a very broad neutralizing antibody (bNAb) against the sarbecovirus family, another important step towards a pan-coronavirus vaccine—which we should be aggressively pursuing <a href="https://www.nature.com/articles/s41586-021-03817-4" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03817-4</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6qL9aFVkAQjnvI.jpg"  ><img src="/twitter/erictopol/images/E6qL9aFVkAQjnvI.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417100130692386816" target="_blank" rel="noreferer">05:32 UCT-7</a> 
@@ -15,7 +15,8 @@ Discovery of a very broad neutralizing antibody (bNAb) against the sarbecovirus 
 <div class="content"> 
 This strategy is far better than a variant-specific approach; all recent work indicates that it is clearly attainable
 
-https://t.co/eKHGg7EPtM @Nature w/ @DennisRBurton</div> 
+<a href="https://www.nature.com/articles/d41586-021-00340-4" target="_blank" rel="noreferer">nature.com/articles/d41586-021-00340-4</a> 
+ @Nature w/ @DennisRBurton</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -26,7 +27,8 @@ Going back to Vo, Italy, perhaps the most carefully studied town for covid:
 
 98.8% of people who had covid in the 1st wave of the pandemic still showed detectable levels of antibodies at least 9 months later, whether they were initially symptomatic or not.
 
-https://t.co/216jZi57kP</div> 
+<a href="https://www.nature.com/articles/s41467-021-24622-7" target="_blank" rel="noreferer">nature.com/articles/s41467-021-24622-7</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -34,7 +36,7 @@ Good news for coffee drinkers ☕️☕️
 
 Debunking the dogma that coffee increases the risk of heart rhythm disturbances, from &gt;386,000 people, 4.5 year follow-up, including putative genomic risk variants
 
-@JAMAInternalMed <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782015" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamainternalmedic ...</a> 
+@JAMAInternalMed <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782015" target="_blank" rel="noreferer">jamanetwork.com/journals/jamainternalmedic ...</a> 
  @uk_biobank </div> 
 <a href="/twitter/erictopol/images/E6qs7K6VoAMNbjV.jpg"  ><img src="/twitter/erictopol/images/E6qs7K6VoAMNbjV.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6qs8kLVcAQdk-i.jpg"  ><img src="/twitter/erictopol/images/E6qs8kLVcAQdk-i.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417157170089512961" target="_blank" rel="noreferer">09:19 UCT-7</a> 
@@ -42,7 +44,8 @@ Debunking the dogma that coffee increases the risk of heart rhythm disturbances,
 <div class="content"> 
 Ironic that the data actually suggests the association between more coffee and less arrhythmias. Of course, at an individual level there are people who are unquestionably sensitive to caffeine effects
 
-https://t.co/MHJVq9rIY5</div> 
+<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782021" target="_blank" rel="noreferer">jamanetwork.com/journals/jamainternalmedic ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -66,7 +69,7 @@ For length of pandemic, now nearly all Delta infections, very low vaccination %,
 <div class="content"> 
 In the past 3 weeks as Delta progressed to dominance in the US (now ~80%), covid hospitalizations increased from their pandemic nadir, 15,000, to today over 25,000, a 67% jump
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6rcAdXVUAkQEvm.jpg"  ><img src="/twitter/erictopol/images/E6rcAdXVUAkQEvm.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -75,7 +78,7 @@ New @AnnalsofIM
 
 Extremely high vaccine effectiveness in a large US cohort &gt;108,000 @DeptVetAffairs real world setting for mRNAs, unaffected by age, gender, race, pre-existing conditions
 
-<a href="https://www.acpjournals.org/doi/10.7326/M21-1577" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-1577</a> 
+<a href="https://www.acpjournals.org/doi/10.7326/M21-1577" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-1577</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6sFqPDVEBUXGFd.png"  ><img src="/twitter/erictopol/images/E6sFqPDVEBUXGFd.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Confidence booster for how potent these #VaccinesWork </div> 
@@ -94,7 +97,7 @@ How to have a safe indoor music concert with 4,584 people, singing and dancing -
 
 "Same day rapid antigen tests, use of face masks. and improved ventilation can prevent high rates of #SARSCoV2 transmission"
 
-<a href="https://www.acpjournals.org/doi/10.7326/M21-2278" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-2278</a> 
+<a href="https://www.acpjournals.org/doi/10.7326/M21-2278" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-2278</a> 
 
 
 @AnnalsofIM </div> 

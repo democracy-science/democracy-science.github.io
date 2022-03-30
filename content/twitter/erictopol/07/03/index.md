@@ -9,7 +9,7 @@ The high prevalence of the Delta variant in many US states.
 
 The trends are likely right but, in most states, the number of sequenced samples is very low, leading to overestimates of the per cent
 
-<a href="https://www.ft.com/thread-content/7c3a7e3a-6cef-48ae-89a6-01e1a6f15959" target="_blank" rel="noreferer">https://www.ft.com/thread-content/7c3a7e3a-6cef-48ae-89a6 ...</a> 
+<a href="https://www.ft.com/thread-content/7c3a7e3a-6cef-48ae-89a6-01e1a6f15959" target="_blank" rel="noreferer">ft.com/thread-content/7c3a7e3a-6cef-48ae-89a6 ...</a> 
  by @TWenseleers 
 
 and <a href="http://outbreak.info" target="_blank" rel="noreferer">http://outbreak.info</a> 
@@ -20,7 +20,8 @@ and <a href="http://outbreak.info" target="_blank" rel="noreferer">http://outbre
 <div class="content"> 
 Spotlight on Missouri, which along with Nevada, has been the leading edge of the US Delta rise. One of the lowest states for vaccination. Limited samples, wide 95% CI and some bias of those sequenced make for uncertainty of Delta prevalence point estimates
 
-https://t.co/SO7xgL90dp</div> 
+<a href="https://www.wsj.com/articles/delta-variant-fuels-missouris-covid-19-uptick-11625304601?mod=hp_lead_pos4" target="_blank" rel="noreferer">wsj.com/articles/delta-variant-fuels-m ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -29,16 +30,9 @@ https://t.co/SO7xgL90dp</div>
 <div class="content"> 
 "The world is watching the U.K. to see what living with Covid and high vaccine uptake looks like”—@devisridhar  
 
-<a href="https://www.nytimes.com/2021/07/02/world/europe/coronavirus-britain-reopening-delta-variant.html?action=click&module=RelatedLinks&pgtype=Article" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/02/world/europe/co ...</a> 
+<a href="https://www.nytimes.com/2021/07/02/world/europe/coronavirus-britain-reopening-delta-variant.html?action=click&module=RelatedLinks&pgtype=Article" target="_blank" rel="noreferer">nytimes.com/2021/07/02/world/europe/co ...</a> 
  by @MarkLandler </div> 
 <a href="/twitter/erictopol/images/E5YQ3rBVgAAAcHX.jpg"  ><img src="/twitter/erictopol/images/E5YQ3rBVgAAAcHX.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1411341422964269058" target="_blank" rel="noreferer">08:09 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @nytopinion: In the history of medicine, few biologics have been scrutinized as much as the coronavirus vaccines from Pfizer and Moderna…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Some places where Delta is high and vaccinations are low are experiencing new surges or their worst Covid wave yet
@@ -68,7 +62,7 @@ Let's hope this continues. </div>
 <div class="content"> 
 Over time, in people with prior covid, there is increased neutralization antibody potency to variants of concern (Alpha, Beta, Gamma). New @ImmunityCP (and good to see)
 
-<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00259-4" target="_blank" rel="noreferer">https://www.cell.com/immunity/fulltext/S1074-7613( ...</a> 
+<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00259-4" target="_blank" rel="noreferer">cell.com/immunity/fulltext/S1074-7613( ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5Y1t8cVEAIp5S2.jpg"  ><img src="/twitter/erictopol/images/E5Y1t8cVEAIp5S2.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -89,7 +83,7 @@ Is the T cell response (CD4+/CD8+) materially affected by key variants in people
 
 Short answer is good: No. 👍
 
-<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00204-4" target="_blank" rel="noreferer">https://www.cell.com/cell-reports-medicine/fulltex ...</a> 
+<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00204-4" target="_blank" rel="noreferer">cell.com/cell-reports-medicine/fulltex ...</a> 
  @SetteLab @ljiresearch @aetarke @CellRepMed </div> 
 <a href="/twitter/erictopol/images/E5Y54xWUUAUCJqx.jpg"  ><img src="/twitter/erictopol/images/E5Y54xWUUAUCJqx.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -110,7 +104,7 @@ Good to see new data for the AZ vaccine, aka Covishield, with strong neutralizin
 
 20 breakthrough cases with high NAbs
 
-<a href="https://www.biorxiv.org/content/10.1101/2021.07.01.450676v1" target="_blank" rel="noreferer">https://www.biorxiv.org/content/10.1101/2021.07.01 ...</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2021.07.01.450676v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.07.01 ...</a> 
  preprint </div> 
 <a href="/twitter/erictopol/images/E5ZaqmwUYAEZ7RS.jpg"  ><img src="/twitter/erictopol/images/E5ZaqmwUYAEZ7RS.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -129,7 +123,7 @@ Having 157 million Americans fully vaccinated and an untold (large) number of pr
 <div class="content"> 
 The evolution of #SARSCoV2 variants over the course of the pandemic. Not just in the spike protein, but also nucleocapsid. The likely effects of genomic interactions, potential for variant-specific vaccines, &amp; prolonging the pandemic if🦠not contained
 
-<a href="https://www.pnas.org/content/118/29/e2104241118" target="_blank" rel="noreferer">https://www.pnas.org/content/118/29/e2104241118</a> 
+<a href="https://www.pnas.org/content/118/29/e2104241118" target="_blank" rel="noreferer">pnas.org/content/118/29/e2104241118</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5Zxw9HVgAA3ZHx.jpg"  ><img src="/twitter/erictopol/images/E5Zxw9HVgAA3ZHx.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5Zxyb_UcAMMoLY.jpg"  ><img src="/twitter/erictopol/images/E5Zxyb_UcAMMoLY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -141,7 +135,8 @@ Defining a solid Delta wall, now confronting 60% prevalence
 
 With a fully vaccinated 85% adult population
 
-Zero deaths 9 days in a row https://t.co/S1CTVngrAr</div> 
+Zero deaths 9 days in a row <a href="https://twitter.com/EricTopol/status/1410694245346734082" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1410694245346 ...</a> 
+</div> 
 </div> 
 
 

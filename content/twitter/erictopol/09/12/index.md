@@ -10,7 +10,7 @@ category = "Twitter"
 <div class="content"> 
 On "mild" breakthrough infections
 
-<a href="https://www.npr.org/sections/health-shots/2021/09/12/1036356773/i-got-a-mild-breakthrough-case-heres-what-i-wish-id-known" target="_blank" rel="noreferer">https://www.npr.org/sections/health-shots/2021/09/ ...</a> 
+<a href="https://www.npr.org/sections/health-shots/2021/09/12/1036356773/i-got-a-mild-breakthrough-case-heres-what-i-wish-id-known" target="_blank" rel="noreferer">npr.org/sections/health-shots/2021/09/ ...</a> 
  @NPR @NPRHealth by @WStoneReports 
 
 "The reality is breakthrough cases are becoming more common. Here's what you should know about getting a breakthrough case—and what I wish I'd known, when those 1st symptoms laid me low." </div> 
@@ -38,16 +38,9 @@ That's associated with very low or declining fatalities and new cases, and, wher
 <div class="content"> 
 The 2021 Sturgis Rally was a month ago. Perhaps it's a coincidence for the 2 states that are leading the country in rise of hospitalizations over the past 2 weeks. 
 
-<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/us/covid- ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/covid- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_Gd992VgAEDHM6.jpg"  ><img src="/twitter/erictopol/images/E_Gd992VgAEDHM6.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1437110086095159300" target="_blank" rel="noreferer">10:45 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @mike_hogan: Having had a breakthrough case, I  found this article more realistic than most. Some key points: lots of breakthrough cases…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437113690810056706" target="_blank" rel="noreferer">10:59 UCT-7</a> 

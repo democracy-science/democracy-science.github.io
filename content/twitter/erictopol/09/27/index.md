@@ -12,7 +12,8 @@ Our covid times :-) </div>
 <a href="/twitter/erictopol/images/FAS3X5SVkAcx80Q.jpg"  ><img src="/twitter/erictopol/images/FAS3X5SVkAcx80Q.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-A very insightful piece by ⁦@dwallacewells⁩ ⁦@NYMag⁩ on the exponential growth of mortality risk of age w/ Covid, including breakthrough infections https://t.co/iQbsCPX0QD</div> 
+A very insightful piece by ⁦@dwallacewells⁩ ⁦@NYMag⁩ on the exponential growth of mortality risk of age w/ Covid, including breakthrough infections <a href="https://apple.news/AG9_6kF0uQH-eKkTI_a7YiQ" target="_blank" rel="noreferer">apple.news/AG9_6kF0uQH-eKkTI_a7YiQ</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1442510624794103809" target="_blank" rel="noreferer">08:25 UCT-7</a> 
 </div> 
@@ -26,7 +27,8 @@ A very insightful piece by ⁦@dwallacewells⁩ ⁦@NYMag⁩ on the exponential 
 <div class="content"> 
 We still don't know the mechanism for the rare cases of vaccine-induced myocarditis. John Campbells's point of aspirating the syringe, to be sure the needle is not in a vein, and the data he provides here, shouldn't be dismissed
 
- https://t.co/kdzD6DFb9f</div> 
+ <a href="https://www.youtube.com/watch?v=nBaIRm4610o" target="_blank" rel="noreferer">youtube.com/watch?v=nBaIRm4610o</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -41,7 +43,7 @@ Perhaps, in part, related to first mover disadvantage of being months earlier in
 <div class="thread-content"> 
 The Covid-19 pandemic has resulted in the largest loss of life expectancy since World War II, worst among American men
 
-<a href="https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab207/6375510?searchresult=1" target="_blank" rel="noreferer">https://academic.oup.com/ije/advance-article/doi/1 ...</a> 
+<a href="https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab207/6375510?searchresult=1" target="_blank" rel="noreferer">academic.oup.com/ije/advance-article/doi/1 ...</a> 
  @jm_aburto @UniofOxford @OxfordDemSci @ridhikash07 @melindacmills </div> 
 <a href="/twitter/erictopol/images/FAQxxvDVkAEgxGv.png"  ><img src="/twitter/erictopol/images/FAQxxvDVkAEgxGv.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1442551269139247106" target="_blank" rel="noreferer">11:06 UCT-7</a> 
@@ -56,7 +58,7 @@ And it's not over.</div>
 <div class="content"> 
 Trust in scientists has changed during the pandemic, which varies considerably in the 12 countries studied, and has affected compliance with mitigation measures and vaccination uptake
 
-<a href="https://www.pnas.org/content/118/40/e2108576118" target="_blank" rel="noreferer">https://www.pnas.org/content/118/40/e2108576118</a> 
+<a href="https://www.pnas.org/content/118/40/e2108576118" target="_blank" rel="noreferer">pnas.org/content/118/40/e2108576118</a> 
 
 
 @PNASNews </div> 
@@ -68,7 +70,7 @@ Trust in scientists has changed during the pandemic, which varies considerably i
 <div class="content"> 
 For Covid-19, more than ever before, it's vital to keep clinicians in the US healthcare workforce. These are 10 steps that will help
 
-<a href="https://www.acpjournals.org/doi/10.7326/M21-3381" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-3381</a> 
+<a href="https://www.acpjournals.org/doi/10.7326/M21-3381" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-3381</a> 
 
 
 @AnnalsofIM @ACPinternists @EileenBarrettNM @DarilynMoyer </div> 
@@ -80,7 +82,9 @@ For Covid-19, more than ever before, it's vital to keep clinicians in the US hea
 <div class="content"> 
 The link for this now up @NYMag 
 
-https://t.co/aiGTLSkxVP https://t.co/NC2rYqYOKC</div> 
+<a href="https://nymag.com/intelligencer/2021/09/covid-19-vaccine-status-age-discrimination.html" target="_blank" rel="noreferer">nymag.com/intelligencer/2021/09/covid-19-v ...</a> 
+ <a href="https://twitter.com/EricTopol/status/1442510283709169666" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1442510283709 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -89,7 +93,8 @@ https://t.co/aiGTLSkxVP https://t.co/NC2rYqYOKC</div>
 <div class="content"> 
 The lung microbiome contributes to an individual's susceptibility to getting severe Covid.
 
-https://t.co/ePHeRBcRN8
+<a href="https://www.nature.com/articles/s41564-021-00969-x" target="_blank" rel="noreferer">nature.com/articles/s41564-021-00969-x</a> 
+
 
 Other key factors include inadequate adaptive alveolar immune response and viral burden @NatureMicrobiol</div> 
 </div> 
@@ -109,7 +114,7 @@ Inconvenient truth #1
 
 The waning of vaccine effectiveness vs symptomatic infections for both Pfizer and Moderna across all age 20+ groups, presented at @CDCgov Advisory meeting last week
 
-<a href="https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-9-23/03-COVID-Oliver.pdf" target="_blank" rel="noreferer">https://www.cdc.gov/vaccines/acip/meetings/downloa ...</a> 
+<a href="https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-9-23/03-COVID-Oliver.pdf" target="_blank" rel="noreferer">cdc.gov/vaccines/acip/meetings/downloa ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FAVnWR9UcAAu3Yl.jpg"  ><img src="/twitter/erictopol/images/FAVnWR9UcAAu3Yl.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1442674170123325446" target="_blank" rel="noreferer">19:15 UCT-7</a> 
@@ -119,14 +124,15 @@ Inconvenient truth #2
 
 Transmission among fully vaccinated health care workers, with some asymptomatic individuals with higher viral loads than those with symptoms
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733" target="_blank" rel="noreferer">https://papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
 
 
 (not common, but it can occur) </div> 
 <a href="/twitter/erictopol/images/FAVoZQWVUAYH3eE.jpg"  ><img src="/twitter/erictopol/images/FAVoZQWVUAYH3eE.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-A change in leadership at @US_FDA's Office of Vaccines Research and Review. This was necessitated by the resignation of the 2 FDA scientists who also led a strident opposition to use of 3rd shots  https://t.co/5ZaIQJ235d by @noahweiland</div> 
+A change in leadership at @US_FDA's Office of Vaccines Research and Review. This was necessitated by the resignation of the 2 FDA scientists who also led a strident opposition to use of 3rd shots  <a href="https://www.nytimes.com/2021/09/27/us/politics/fda-vaccine-regulator-peter-marks.html" target="_blank" rel="noreferer">nytimes.com/2021/09/27/us/politics/fda ...</a> 
+ by @noahweiland</div> 
 <hr><div class="thread-content"> 
 The 2 FDA scientists knew the @NEJM data for &gt;1.1 million Israelis age 60+ w/booster restoration of vaccine effectiveness, but wrote "currently available evidence does not show the need for widespread use of booster vaccination " @TheLancet
 

@@ -10,13 +10,15 @@ category = "Twitter"
 <div class="content"> 
 Cases of the B.1.1.529 new variant confirmed in Israel, Belgium
 
-https://t.co/9PsPcy1k33
+<a href="https://www.theguardian.com/world/live/2021/nov/26/covid-news-live-new-variant-sparks-tougher-restrictions-in-india-and-singapore-ahead-of-who-meeting?page=with:block-61a0e4d08f08a201d9c7c69c" target="_blank" rel="noreferer">theguardian.com/world/live/2021/nov/26 ...</a> 
 
-https://t.co/AacR698G6I</div> 
+
+<a href="https://www.timesofisrael.com/israel-detects-first-case-of-new-highly-mutated-covid-19-strain/" target="_blank" rel="noreferer">timesofisrael.com/israel-detects-first ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Disappointing from Merck. Updated data for efficacy of their Molnupiravir pill in full trial drops down to 30% from 50%, absolute reduction to 3 from 7 per 100 at interim analysis <a href="https://www.merck.com/news/merck-and-ridgeback-biotherapeutics-provide-update-on-results-from-move-out-study-of-molnupiravir-an-investigational-oral-antiviral-medicine-in-at-risk-adults-with-mild-to-moderate-covid-19/" target="_blank" rel="noreferer">https://www.merck.com/news/merck-and-ridgeback-bio ...</a> 
+Disappointing from Merck. Updated data for efficacy of their Molnupiravir pill in full trial drops down to 30% from 50%, absolute reduction to 3 from 7 per 100 at interim analysis <a href="https://www.merck.com/news/merck-and-ridgeback-biotherapeutics-provide-update-on-results-from-move-out-study-of-molnupiravir-an-investigational-oral-antiviral-medicine-in-at-risk-adults-with-mild-to-moderate-covid-19/" target="_blank" rel="noreferer">merck.com/news/merck-and-ridgeback-bio ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FFIACEPVQAQn54B.png"  ><img src="/twitter/erictopol/images/FFIACEPVQAQn54B.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1464237193073807364" target="_blank" rel="noreferer">07:18 UCT-7</a> 
@@ -24,7 +26,7 @@ Disappointing from Merck. Updated data for efficacy of their Molnupiravir pill i
 <div class="content"> 
 From the @US_FDA briefing documents along with a lot more data from the clinical trial results 
 
-<a href="https://www.fda.gov/media/154421/download" target="_blank" rel="noreferer">https://www.fda.gov/media/154421/download</a> 
+<a href="https://www.fda.gov/media/154421/download" target="_blank" rel="noreferer">fda.gov/media/154421/download</a> 
  </div> 
 <a href="/twitter/erictopol/images/FFIDtpAVUAIm7Mu.jpg"  ><img src="/twitter/erictopol/images/FFIDtpAVUAIm7Mu.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -65,7 +67,7 @@ What is driving the new case records in Germany?
 
 The people who aren't vaccinated
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.11.24.21266831v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.11.24 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.24.21266831v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.24 ...</a> 
  @BenFMaier @DirkBrockmann @rki_de and colleagues </div> 
 <a href="/twitter/erictopol/images/FFIqs8iVEAIyvZb.jpg"  ><img src="/twitter/erictopol/images/FFIqs8iVEAIyvZb.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -74,7 +76,8 @@ The @WHO has named B.1.1.529 Omicron, a Variant of Concern [O, not Nu)</div>
 <hr><div class="thread-content"> 
 Here's their full statement, summary of data
 
-https://t.co/HmkeYvI0mo</div> 
+<a href="https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern" target="_blank" rel="noreferer">who.int/news/item/26-11-2021-classific ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1464298566810099720" target="_blank" rel="noreferer">11:22 UCT-7</a> 
 </div> 
@@ -92,14 +95,15 @@ There have been thousands of uninteresting #SARSCoV2 variants</div>
 <div class="content"> 
 Omicron in context, by @Kit_Yates_Maths 
 
-https://t.co/1PoaqwEyRc @Guar</div> 
+<a href="https://www.theguardian.com/commentisfree/2021/nov/26/new-variant-covid-b11529-testing-masks-vaccines" target="_blank" rel="noreferer">theguardian.com/commentisfree/2021/nov ...</a> 
+ @Guar</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1464323470217474051" target="_blank" rel="noreferer">13:01 UCT-7</a> 
 </div> 
 <div class="content"> 
-Omicron: known and unknowns <a href="https://www.washingtonpost.com/health/2021/11/26/faq-new-variant-omicron/" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/11/26/f ...</a> 
+Omicron: known and unknowns <a href="https://www.washingtonpost.com/health/2021/11/26/faq-new-variant-omicron/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/11/26/f ...</a> 
  by @MerylKornfield @lateshiabeachum w/ @Tuliodna @jbloom_lab @BhadeliaMD </div> 
 <a href="/twitter/erictopol/images/FFJSMjLVgAA3Dd2.png"  ><img src="/twitter/erictopol/images/FFJSMjLVgAA3Dd2.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -109,7 +113,7 @@ Omicron: known and unknowns <a href="https://www.washingtonpost.com/health/2021/
 <div class="content"> 
 Omicron was first detected from a sample collected in Botswana on 11 November
 
-<a href="https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-emergence-sars-cov-2-variant-b.1.1.529" target="_blank" rel="noreferer">https://www.ecdc.europa.eu/en/publications-data/th ...</a> 
+<a href="https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-emergence-sars-cov-2-variant-b.1.1.529" target="_blank" rel="noreferer">ecdc.europa.eu/en/publications-data/th ...</a> 
  @ECDC_EU via @kakape
 
 "In conclusion, the overall level of risk is assessed as HIGH TO VERY HIGH." </div> 
@@ -119,20 +123,14 @@ Omicron was first detected from a sample collected in Botswana on 11 November
 <a href="https://twitter.com/erictopol/status/1464358283452444674" target="_blank" rel="noreferer">15:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-From Omicron's sequence, there's a lot of antigenic drift, posing the threat of evading our immune response. Good that vaccine companies are gearing up for it. But we ought to be pressing hard for a pan-sarbecovirus vaccine that would target *all* variants https://t.co/avBeceJvox</div> 
+From Omicron's sequence, there's a lot of antigenic drift, posing the threat of evading our immune response. Good that vaccine companies are gearing up for it. But we ought to be pressing hard for a pan-sarbecovirus vaccine that would target *all* variants <a href="https://www.businesswire.com/news/home/20211126005595/en/Moderna-Announces-Strategy-to-Address-Omicron-B.1.1.529-SARS-CoV-2-Variant" target="_blank" rel="noreferer">businesswire.com/news/home/20211126005 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1464363202649595907" target="_blank" rel="noreferer">15:39 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @trvrb: Growth rate (in absolute terms and relative to Delta) will be become clearer in the following days, but at the moment, I believe…</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The mutation map of the 5 Variants of Concern
 
-adapted from <a href="https://covariants.org/shared-mutations" target="_blank" rel="noreferer">https://covariants.org/shared-mutations</a> 
+adapted from <a href="https://covariants.org/shared-mutations" target="_blank" rel="noreferer">covariants.org/shared-mutations</a> 
 
 
 Omicron (B.1.1.529) shares many key mutations of Alpha, Beta, Gamma &amp; Delta, but a lot more added, very likely having been derived from an immunocompromised host with extensive in vivo evolution </div> 
@@ -140,7 +138,7 @@ Omicron (B.1.1.529) shares many key mutations of Alpha, Beta, Gamma &amp; Delta,
 <a href="https://twitter.com/erictopol/status/1464452102382448643" target="_blank" rel="noreferer">21:32 UCT-7</a> 
 </div> 
 <div class="content"> 
-View of key mutations of Omicron's 50, with 30 in the spike protein, 15 in its receptor binding domain <a href="https://www.ft.com/content/42c5ff3d-e676-4076-9b9f-7243a00cba5e" target="_blank" rel="noreferer">https://www.ft.com/content/42c5ff3d-e676-4076-9b9f ...</a> 
+View of key mutations of Omicron's 50, with 30 in the spike protein, 15 in its receptor binding domain <a href="https://www.ft.com/content/42c5ff3d-e676-4076-9b9f-7243a00cba5e" target="_blank" rel="noreferer">ft.com/content/42c5ff3d-e676-4076-9b9f ...</a> 
  <a href="http://covariants.org" target="_blank" rel="noreferer">http://covariants.org</a> 
  @EllingUlrich
 

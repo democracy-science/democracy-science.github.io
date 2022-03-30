@@ -8,7 +8,8 @@ category = "Twitter"
 <a href="https://twitter.com/erictopol/status/1454092847657861126" target="_blank" rel="noreferer">07:28 UCT-7</a> 
 </div> 
 <div class="content"> 
-The opposite of “flatten the curve” when a low rate of teens are vaccinated, compared with 80+ receiving booster shots https://t.co/UGfLkDYLYB</div> 
+The opposite of “flatten the curve” when a low rate of teens are vaccinated, compared with 80+ receiving booster shots <a href="https://twitter.com/PaulMainwood/status/1454072198528962561" target="_blank" rel="noreferer">twitter.com/PaulMainwood/status/1454072198 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -17,7 +18,7 @@ The opposite of “flatten the curve” when a low rate of teens are vaccinated,
 <div class="content"> 
 Covid and the inner ear: a report of 10 people with infections and hearing loss, dizziness, tinnitus
 
-<a href="https://www.nature.com/articles/s43856-021-00044-w.pdf" target="_blank" rel="noreferer">https://www.nature.com/articles/s43856-021-00044-w ...</a> 
+<a href="https://www.nature.com/articles/s43856-021-00044-w.pdf" target="_blank" rel="noreferer">nature.com/articles/s43856-021-00044-w ...</a> 
  with lab studies to show the hair and Schwann cells are a target of #SARSCoV2 @NatureComms </div> 
 <a href="/twitter/erictopol/images/FC4Eh3UVEAM_h4K.jpg"  ><img src="/twitter/erictopol/images/FC4Eh3UVEAM_h4K.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -29,7 +30,7 @@ Disconcerting to see many countries in Europe starting to heat up again, possibl
 <a href="/twitter/erictopol/images/FC4iXsSUcAE7Mhp.jpg"  ><img src="/twitter/erictopol/images/FC4iXsSUcAE7Mhp.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The latest on the AY.4.2 variant (aka "Delta plus") in a @UKHSA new and thorough report <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029715/technical-briefing-27.pdf" target="_blank" rel="noreferer">https://assets.publishing.service.gov.uk/governmen ...</a> 
+The latest on the AY.4.2 variant (aka "Delta plus") in a @UKHSA new and thorough report <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029715/technical-briefing-27.pdf" target="_blank" rel="noreferer">assets.publishing.service.gov.uk/governmen ...</a> 
  Reassuring that its growth is only modestly increased, no evidence of more immune evasion or virulence than Delta 👍 </div> 
 <a href="/twitter/erictopol/images/FC3xNrcVkAMQHj7.jpg"  ><img src="/twitter/erictopol/images/FC3xNrcVkAMQHj7.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1454141503819812872" target="_blank" rel="noreferer">10:42 UCT-7</a> 
@@ -37,7 +38,8 @@ The latest on the AY.4.2 variant (aka "Delta plus") in a @UKHSA new and thorough
 <div class="content"> 
 For details, a terrific thread by @kallmemeg on the AY.4.2 report
 
-https://t.co/tIe33nMTZx</div> 
+<a href="https://twitter.com/kallmemeg/status/1454049826572840962" target="_blank" rel="noreferer">twitter.com/kallmemeg/status/1454049826572 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -45,7 +47,8 @@ New @CDCgov report with particular relevance for those with prior Covid
 
 "All eligible persons should be vaccinated against COVID-19 as soon as possible, including unvaccinated persons previously infected with #SARSCoV2."
 
-https://t.co/WTlSi4rI4O</div> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7044e1.htm?s_cid=mm7044e1_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7044e1.ht ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 Striking increase in risk of *Unvaccinated, Prior Covid* across the age groups, vaccines, variants, time of prior infection ranging from 2.5 to 19.5-fold </div> 
 <a href="/twitter/erictopol/images/FC4kPnhUYAEu95U.jpg"  ><img src="/twitter/erictopol/images/FC4kPnhUYAEu95U.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
@@ -65,16 +68,8 @@ Impact of time from vaccination in the study </div>
 <div class="content"> 
 This prescient essay by @Craig_A_Spencer @TheAtlantic 
 
-has now been quantified by this new study, both for household and any contacts. Not as likely. https://t.co/j7lQVON79q</div> 
+has now been quantified by this new study, both for household and any contacts. Not as likely. <a href="https://www.theatlantic.com/ideas/archive/2021/09/the-vaccinated-arent-just-as-likely-to-spread-covid/620161/" target="_blank" rel="noreferer">theatlantic.com/ideas/archive/2021/09/ ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1454160312869916677" target="_blank" rel="noreferer">11:56 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @Dr2NisreenAlwan: My @bmj_latest piece on covid in kids: We must call out childism in covid-19 policies. 
-
-"Now that the adults are more…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -85,7 +80,7 @@ The session today on boosters and vaccinations for kids @UMNconsortium @CIDRAP #
 
 I presented the case for boosters
 
-<a href="https://www.youtube.com/watch?v=eI1Nac3SMdE" target="_blank" rel="noreferer">https://www.youtube.com/watch?v=eI1Nac3SMdE</a> 
+<a href="https://www.youtube.com/watch?v=eI1Nac3SMdE" target="_blank" rel="noreferer">youtube.com/watch?v=eI1Nac3SMdE</a> 
  </div> 
 <a href="/twitter/erictopol/images/FC5CQ9iVcAMqQXS.jpg"  ><img src="/twitter/erictopol/images/FC5CQ9iVcAMqQXS.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -95,7 +90,7 @@ I presented the case for boosters
 <div class="content"> 
 With today's US FDA approval of vaccines for children age 5-11 and previous approval for teens, lessons from the UK surge for the age groups driving it
 
-<a href="https://www.nytimes.com/interactive/2021/10/29/world/europe/uk-britain-covid-surge.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/10/29/wor ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/10/29/world/europe/uk-britain-covid-surge.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/10/29/wor ...</a> 
  by @Josh_H </div> 
 <a href="/twitter/erictopol/images/FC5H7OhVIAUhLZ1.jpg"  ><img src="/twitter/erictopol/images/FC5H7OhVIAUhLZ1.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -105,7 +100,7 @@ With today's US FDA approval of vaccines for children age 5-11 and previous appr
 <div class="content"> 
 Interesting new report from South Korea supporting higher risk of Delta variant transmission (vs pre-Delta) among the young, peak in 10-15 age group, after adjusting for both contact pattern and vaccination status
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3951778" target="_blank" rel="noreferer">https://papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3951778" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FC5QWKRVgAUSpDt.jpg"  ><img src="/twitter/erictopol/images/FC5QWKRVgAUSpDt.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -113,18 +108,8 @@ Interesting new report from South Korea supporting higher risk of Delta variant 
 <a href="https://twitter.com/erictopol/status/1454194907942309888" target="_blank" rel="noreferer">14:14 UCT-7</a> 
 </div> 
 <div class="content"> 
-The era of rapid home sequencing your pathogen awaits us :-) https://t.co/kT9Qlc6Dk0</div> 
+The era of rapid home sequencing your pathogen awaits us :-) <a href="https://twitter.com/xkcd/status/1454192525917528068" target="_blank" rel="noreferer">twitter.com/xkcd/status/145419252591752806 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1454200877560983553" target="_blank" rel="noreferer">14:38 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @neel_shah: 1/ Only 1 in 4 pregnant people in the U.S. are vaccinated against #COVID19 
-
-
-
-Rather than jump to conclusions, we surveyed 50…</div> 
 </div> 
 
 

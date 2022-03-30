@@ -46,7 +46,8 @@ In November, new cases have increased 30% starting from the high level of 70,000
 
 We haven't taken heed from Europe 4 times
 
-https://t.co/SdYbvc2Wm4 /1</div> 
+<a href="https://www.theguardian.com/commentisfree/2021/nov/12/covid-cases-surging-europe-america-denial" target="_blank" rel="noreferer">theguardian.com/commentisfree/2021/nov ...</a> 
+ /1</div> 
 <hr><div class="thread-content"> 
 Our vaccination rate is dangerously low, putting &gt;100 million Americans (40% of 331 M) who are not vaccinated vulnerable. Then there's another 40% who were highly 💉💉protected, but are now out 6 months out and that protection has waned /2 </div> 
 <a href="/twitter/erictopol/images/FEqVCsZVQAIY9t6.jpg"  ><img src="/twitter/erictopol/images/FEqVCsZVQAIY9t6.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
@@ -60,7 +61,7 @@ That trial enrolled adults of all ages. The efficacy vs symptomatic infections i
 <a href="/twitter/erictopol/images/FEqXMRUUYAU2v6h.jpg"  ><img src="/twitter/erictopol/images/FEqXMRUUYAU2v6h.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Then there's the @TheLancet study of &gt;728,000 people with 3 shots matched with 720,000 with 2 shots, across all ages, showing significant reduction of deaths, hospitalizations, and severe disease (not reviewed @CDCgov yesterday) 
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02249-2/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02249-2/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  /6 </div> 
 <a href="/twitter/erictopol/images/FEqYFucVUAMuKWw.jpg"  ><img src="/twitter/erictopol/images/FEqYFucVUAMuKWw.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 By not promoting boosters among the fully vaccinated for all adults, the US is actually going into further attrition of protection. The net number of newly vaccinated people each day is markedly exceeded by those who have waned and not boosted. /7</div> 
@@ -69,13 +70,6 @@ By not promoting boosters among the fully vaccinated for all adults, the US is a
 </div> 
 <div class="content"> 
 Obviously vaccinations (both primary and 3rd shots) are not the only strategy. There's lack of almost any mitigation, and multiple tactics that could be used as reviewed in the @Guardian piece link, top of thread. /8</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1462176395392475137" target="_blank" rel="noreferer">14:49 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @myrabatchelder: @EricTopol @OurWorldInData Canada is doing more than just vaccinating! Please mention their mask mandates and other eff…</div> 
 </div> 
 
 

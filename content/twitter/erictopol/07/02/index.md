@@ -36,28 +36,6 @@ Zero deaths (for over a week)</div>
 <div class="content"> 
 As the UK achieves ~86% adults vaccinated (Israel is also at 85%, the *US 67%*), today showing no increase in new cases (yesterday 27, 989, today 27,125) and that 70% increase in the last week associated w/ 16% rise in hospitalizations </div> 
 <a href="/twitter/erictopol/images/E5TWDVAVUAYctoF.jpg"  ><img src="/twitter/erictopol/images/E5TWDVAVUAYctoF.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1411012902304174082" target="_blank" rel="noreferer">10:24 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @HuffmanLabDU: Great new study on #HEPA air cleaners by Lindsley et al. out today via @CDCMMWR: masks reduced aerosol by 72%, HEPA by 65…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1411013115429355525" target="_blank" rel="noreferer">10:25 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ashishkjha: Awesome @nytopinion piece by @EricTopol 
-
-
-
-@US_FDA should fully approve Pfizer/Moderna
-
-
-
-We have way more data for these vacc…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 What % of US cases are from the Delta variant now?
@@ -84,27 +62,16 @@ It could be 47-61%, but the N of samples sequenced is low, so it is hard to know
 <div class="content"> 
 Meanwhile, the @CDCgov is quoting 25% today
 
-<a href="https://www.nbcnews.com/science/science-news/delta-delta-variants-everything-need-know-rcna1281" target="_blank" rel="noreferer">https://www.nbcnews.com/science/science-news/delta ...</a> 
+<a href="https://www.nbcnews.com/science/science-news/delta-delta-variants-everything-need-know-rcna1281" target="_blank" rel="noreferer">nbcnews.com/science/science-news/delta ...</a> 
 
 
 And there website data are from June 5th!
 
-<a href="https://covid.cdc.gov/covid-data-tracker/#variant-proportions" target="_blank" rel="noreferer">https://covid.cdc.gov/covid-data-tracker/#variant- ...</a> 
+<a href="https://covid.cdc.gov/covid-data-tracker/#variant-proportions" target="_blank" rel="noreferer">covid.cdc.gov/covid-data-tracker/#variant- ...</a> 
 
 
 And they were given $1,200,000,000 to fix this on March 21, 2021 </div> 
 <a href="/twitter/erictopol/images/E5TzhuWVUAcsOVY.png"  ><img src="/twitter/erictopol/images/E5TzhuWVUAcsOVY.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5TzshjUUAEk-oC.jpg"  ><img src="/twitter/erictopol/images/E5TzshjUUAEk-oC.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1411034908789592064" target="_blank" rel="noreferer">11:51 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DrTomFrieden: Vaccines Stop Cases…If They’re Given
-
-
-
-The Delta variant poses a huge threat—but not to vaccinated people. Unvaccinated pe…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1411039210392276993" target="_blank" rel="noreferer">12:08 UCT-7</a> 
@@ -112,7 +79,7 @@ The Delta variant poses a huge threat—but not to vaccinated people. Unvaccinat
 <div class="content"> 
 Cardiac rehab has been unchanged for 50 years. It's high time to move forward. 
 
-Our latest digital medicine essay @TheLancet  <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01437-9/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+Our latest digital medicine essay @TheLancet  <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01437-9/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
 
 
 @AmitabhCPandey @JRGolbus @scrippsresearch @ScrippsRTI @umichmedicine </div> 
@@ -124,7 +91,7 @@ Our latest digital medicine essay @TheLancet  <a href="https://www.thelancet.com
 <div class="content"> 
 Cerebral venous sinus thrombosis (CVST) is rare. In the pandemic, it cropped us as occurring in &lt;1% of severe covid cases and as a very rare adverse effect with adenoviral-vector vaccines. Clinical features and treatment reviewed well in this week's @NEJM
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMra2106545?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMra210654 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMra2106545?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMra210654 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5UHd1FVEAI1ch-.jpg"  ><img src="/twitter/erictopol/images/E5UHd1FVEAI1ch-.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5UJVtZUYAE3ZyA.jpg"  ><img src="/twitter/erictopol/images/E5UJVtZUYAE3ZyA.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 

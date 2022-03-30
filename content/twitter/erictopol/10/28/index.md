@@ -8,7 +8,7 @@ category = "Twitter"
 <a href="https://twitter.com/erictopol/status/1453719895665827840" target="_blank" rel="noreferer">06:46 UCT-7</a> 
 </div> 
 <div class="content"> 
-The case for not recognizing Prior Covid plus a vaccine (hybrid immunity) as equivalent to fully vaccinated is indefensible. Many countries have made that their health policy, but not the US. @ThalinCharlotte is on it @nytopinion <a href="https://www.nytimes.com/2021/10/28/opinion/covid-vaccine-hybrid-natural-immunity.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/10/28/opinion/covid-v ...</a> 
+The case for not recognizing Prior Covid plus a vaccine (hybrid immunity) as equivalent to fully vaccinated is indefensible. Many countries have made that their health policy, but not the US. @ThalinCharlotte is on it @nytopinion <a href="https://www.nytimes.com/2021/10/28/opinion/covid-vaccine-hybrid-natural-immunity.html" target="_blank" rel="noreferer">nytimes.com/2021/10/28/opinion/covid-v ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCymESbUUAwcfVH.jpg"  ><img src="/twitter/erictopol/images/FCymESbUUAwcfVH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCymQ7pVgAADYLM.jpg"  ><img src="/twitter/erictopol/images/FCymQ7pVgAADYLM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -18,7 +18,8 @@ The case for not recognizing Prior Covid plus a vaccine (hybrid immunity) as equ
 <div class="content"> 
 Something we cannot get enough of in science
 
-https://t.co/kyYiqRhmla
+<a href="https://www.nature.com/articles/s41562-021-01203-8" target="_blank" rel="noreferer">nature.com/articles/s41562-021-01203-8</a> 
+
 
 @NatureHumBehav 
 
@@ -33,7 +34,7 @@ Thanks to @RinkHoekstra and @siminevazire</div>
 <div class="content"> 
 An in-depth assessment of the immune system for aged vs young individuals, with varying severity of Covid infections, shows marked differences in the cellular, chemokine and cytokine response
 
-<a href="https://www.nature.com/articles/s43587-021-00127-2" target="_blank" rel="noreferer">https://www.nature.com/articles/s43587-021-00127-2</a> 
+<a href="https://www.nature.com/articles/s43587-021-00127-2" target="_blank" rel="noreferer">nature.com/articles/s43587-021-00127-2</a> 
 
 
 @NatureAging </div> 
@@ -44,7 +45,7 @@ A new, rigorous and important study of Covid transmission—with or without prio
 
 Just published @TheLancetInfDis 
 
-<a href="https://www.thelancet.com/lancet/article/s1473309921006484" target="_blank" rel="noreferer">https://www.thelancet.com/lancet/article/s14733099 ...</a> 
+<a href="https://www.thelancet.com/lancet/article/s1473309921006484" target="_blank" rel="noreferer">thelancet.com/lancet/article/s14733099 ...</a> 
 
 
 Vaccination reduced spread, but it still occurred in household contacts (unvaxx 38%, vaxx 25%) </div> 
@@ -61,7 +62,8 @@ All breakthrough cases were mild</div>
 <hr><div class="thread-content"> 
 From the accompanying editorial
 
-https://t.co/0zEZK7JEL6
+<a href="https://www.thelancet.com/pb-assets/Lancet/pdfs/s1473309921006903.pdf" target="_blank" rel="noreferer">thelancet.com/pb-assets/Lancet/pdfs/s1 ...</a> 
+
 
 “This study unfortunately also highlights that the vaccine effect on reducing transmission is minimal in the context of Delta variant circulation”</div> 
 <hr><div class="profile"> 
@@ -88,7 +90,7 @@ If this holds over time, it's a good sign. </div>
 <div class="content"> 
 A key @US_FDA leader, Dr. Peter Marks, who came up with the Operation Warp Speed idea, has an essay on lessons learned during the pandemic, acknowledging the strain and inability to keep up w/ non-pandemic stuff
 
-<a href="https://www.nature.com/articles/s41591-021-01559-4" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01559-4</a> 
+<a href="https://www.nature.com/articles/s41591-021-01559-4" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01559-4</a> 
  @NatureMedicine </div> 
 <a href="/twitter/erictopol/images/FC0D6O2UUAABsIL.jpg"  ><img src="/twitter/erictopol/images/FC0D6O2UUAABsIL.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -100,7 +102,7 @@ The science of sleep @ScienceMagazine
 
 We typically don't get enough yet our health depends on it.
 
-<a href="https://www.science.org/toc/science/current" target="_blank" rel="noreferer">https://www.science.org/toc/science/current</a> 
+<a href="https://www.science.org/toc/science/current" target="_blank" rel="noreferer">science.org/toc/science/current</a> 
 
 
 w/ @ScienceVisuals </div> 
@@ -112,7 +114,7 @@ w/ @ScienceVisuals </div>
 <div class="content"> 
 The kid vaccine effect in the US, simulated, is big
 
-<a href="https://www.nature.com/articles/d41586-021-02947-z" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02947-z</a> 
+<a href="https://www.nature.com/articles/d41586-021-02947-z" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02947-z</a> 
 
 
 @nature by @maxdkozlov </div> 
@@ -124,7 +126,7 @@ The kid vaccine effect in the US, simulated, is big
 <div class="content"> 
 Breakthrough Covid deaths from fully vaccinated status are very rare, 0.007% for Scotland country-wide; most of the 236 deaths occurred in people older than 75 years who had multiple comorbidities
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02316-3/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02316-3/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  @TheLancet </div> 
 <a href="/twitter/erictopol/images/FC0mlGUVkAY3BVA.jpg"  ><img src="/twitter/erictopol/images/FC0mlGUVkAY3BVA.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -134,7 +136,7 @@ Breakthrough Covid deaths from fully vaccinated status are very rare, 0.007% for
 <div class="content"> 
 "Patients with multiple myeloma frequently present with substantial immune impairment and an increased risk for [Covid] infections and infection-related mortality."
 
-<a href="https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(21)00278-7/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanhae/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(21)00278-7/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanhae/article/ ...</a> 
  @TheLancetHaem A review by 36 experts. Of relevance to the recent passing of Colin Powell </div> 
 <a href="/twitter/erictopol/images/FC0p4fqVkAEp-Rb.jpg"  ><img src="/twitter/erictopol/images/FC0p4fqVkAEp-Rb.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -154,7 +156,8 @@ Hello @HHSgov @WHCOVIDResponse @CDCgov</div>
 <hr><div class="thread-content"> 
 When you have very limited data, nearly 2 months old, you can keep analyzing the same dataset (while the Delta wave didn't stop on Sept 4th)
 
-https://t.co/SiCMVRfC8D</div> 
+<a href="https://www.nytimes.com/interactive/2021/10/28/us/covid-breakthrough-cases.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/10/28/us/ ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1453912635456450560" target="_blank" rel="noreferer">19:32 UCT-7</a> 
 </div> 

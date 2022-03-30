@@ -12,7 +12,7 @@ Whether symptomatic infections are important to suppress, the 1° endpoint of th
 <div class="content"> 
 Concern on this last point, #LongCovid, and this decision
 
-<a href="https://www.wsj.com/articles/long-covid-concerns-help-fuel-biden-administrations-broad-booster-push-11633604401" target="_blank" rel="noreferer">https://www.wsj.com/articles/long-covid-concerns-h ...</a> 
+<a href="https://www.wsj.com/articles/long-covid-concerns-help-fuel-biden-administrations-broad-booster-push-11633604401" target="_blank" rel="noreferer">wsj.com/articles/long-covid-concerns-h ...</a> 
  by @StephArmour1 @felschwartz w/ @PeterHotez commentary /6 </div> 
 <a href="/twitter/erictopol/images/FBGVnQzVkAIWytQ.jpg"  ><img src="/twitter/erictopol/images/FBGVnQzVkAIWytQ.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBGVp9bUUAEQJXU.png"  ><img src="/twitter/erictopol/images/FBGVp9bUUAEQJXU.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -22,7 +22,7 @@ Concern on this last point, #LongCovid, and this decision
 <div class="content"> 
 Just published @Nature 
 
-The limitations of current mRNA booster shots for generating breadth of memory B cells and implications for reliance on high neutralizing antibodies (and comparison with vaccination after prior Covid) <a href="https://www.nature.com/articles/s41586-021-04060-7" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-04060-7</a> 
+The limitations of current mRNA booster shots for generating breadth of memory B cells and implications for reliance on high neutralizing antibodies (and comparison with vaccination after prior Covid) <a href="https://www.nature.com/articles/s41586-021-04060-7" target="_blank" rel="noreferer">nature.com/articles/s41586-021-04060-7</a> 
 
 
 @NussenzweigL </div> 
@@ -33,7 +33,7 @@ The limitations of current mRNA booster shots for generating breadth of memory B
 
 #COVIDisAirborne the value of inexpensive high-efficiency particulate air (HEPA) filters
 
-<a href="https://www.nature.com/articles/d41586-021-02669-2" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02669-2</a> 
+<a href="https://www.nature.com/articles/d41586-021-02669-2" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02669-2</a> 
  @nature </div> 
 <a href="/twitter/erictopol/images/FBGeag5VcA486Rh.jpg"  ><img src="/twitter/erictopol/images/FBGeag5VcA486Rh.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1446113081126309903" target="_blank" rel="noreferer">07:00 UCT-7</a> 
@@ -41,7 +41,8 @@ The limitations of current mRNA booster shots for generating breadth of memory B
 <div class="content"> 
 Here's the link to the preprint from which this summary is based
 
-https://t.co/UhQV3gn3pc</div> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.16.21263684v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.16 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -50,7 +51,7 @@ https://t.co/UhQV3gn3pc</div>
 <div class="content"> 
 A new report by @ONS on #LongCovid is particularly troubling with respect to prevalence, duration and severity of symptoms
 
-<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/7october2021#main-points" target="_blank" rel="noreferer">https://www.ons.gov.uk/peoplepopulationandcommunit ...</a> 
+<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/7october2021#main-points" target="_blank" rel="noreferer">ons.gov.uk/peoplepopulationandcommunit ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBG9LYuVcAUPIy7.png"  ><img src="/twitter/erictopol/images/FBG9LYuVcAUPIy7.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBG9NTeVUAYytuA.png"  ><img src="/twitter/erictopol/images/FBG9NTeVUAYytuA.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -67,7 +68,7 @@ Deleted. </div>
 <div class="content"> 
 Onto endemicity
 
-<a href="https://www.science.org/doi/10.1126/science.acx9290" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.acx929 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.acx9290" target="_blank" rel="noreferer">science.org/doi/10.1126/science.acx929 ...</a> 
 
 
 by @kakape @ScienceMagazine 
@@ -82,7 +83,7 @@ New from Israel on booster restoration of Pfizer vaccine effectiveness across al
 
 "Across all age groups, rates of confirmed infection and severe illness were substantially lower among those who received a booster dose of the BNT162b2 vaccine"
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.10.07 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.07 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBIB8OLVQCUQ7W4.jpg"  ><img src="/twitter/erictopol/images/FBIB8OLVQCUQ7W4.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1446222771042729999" target="_blank" rel="noreferer">14:15 UCT-7</a> 
@@ -97,7 +98,7 @@ More details on magnitude of protection from severe illness (all ages) and death
 <div class="content"> 
 It took 150 years. But we're moving from that to this.
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02149-8/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02149-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  @TheLancet @chrispiech @Stanford @scrippsresearch #AI </div> 
 <a href="/twitter/erictopol/images/FBIbGkrVEAEQtlN.jpg"  ><img src="/twitter/erictopol/images/FBIbGkrVEAEQtlN.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBIbKtzUUAALlhG.jpg"  ><img src="/twitter/erictopol/images/FBIbKtzUUAALlhG.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -109,16 +110,9 @@ These 3rd shot data are compelling.
 
 Beyond protection vs deaths in age 60+ (graph), vs severe illness in younger age groups
 
-But those biased against the usefulness of boosters will continue to put them aside, while over time the gradient of benefit will augment.  <a href="https://twitter.com/EricTopol/status/1446221075801522207" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1446221075801 ...</a> 
+But those biased against the usefulness of boosters will continue to put them aside, while over time the gradient of benefit will augment.  <a href="https://twitter.com/EricTopol/status/1446221075801522207" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1446221075801 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FBInUY3VEAEkXYM.jpg"  ><img src="/twitter/erictopol/images/FBInUY3VEAEkXYM.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1446283472587280388" target="_blank" rel="noreferer">18:17 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DFisman: gonna go out on a limb here and say it's a 3 dose vaccine.  That's all.  Not rocket science.</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1446300801710706693" target="_blank" rel="noreferer">19:25 UCT-7</a> 
@@ -133,7 +127,7 @@ New US milestone: back down below 100,000 cases (7-day average) for the first ti
 <div class="content"> 
 What if Texas and Florida had vaccinated at the level of New England by July 31st?
 
-<a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00620-4/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00620-4/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
 
 
 Prevention of:

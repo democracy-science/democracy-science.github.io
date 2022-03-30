@@ -10,7 +10,7 @@ category = "Twitter"
 <div class="content"> 
 The "staggering scale of the fraud" of Ivermectin research for Covid, on top of its serious flaws.
 
-<a href="https://gidmk.medium.com/is-ivermectin-for-covid-19-based-on-fraudulent-research-part-5-fe41044dab13" target="_blank" rel="noreferer">https://gidmk.medium.com/is-ivermectin-for-covid-1 ...</a> 
+<a href="https://gidmk.medium.com/is-ivermectin-for-covid-19-based-on-fraudulent-research-part-5-fe41044dab13" target="_blank" rel="noreferer">gidmk.medium.com/is-ivermectin-for-covid-1 ...</a> 
 
 
 @GidMK reviews the nil effect of this drug after deleting fraudulent trials </div> 
@@ -22,7 +22,7 @@ The "staggering scale of the fraud" of Ivermectin research for Covid, on top of 
 <div class="content"> 
 The pandemic death toll in the US and UK compared with the Asia-Pacific region
 
-adapted graph from <a href="https://www.ft.com/content/fd857fcc-0032-45ab-be36-02e6e67e277c" target="_blank" rel="noreferer">https://www.ft.com/content/fd857fcc-0032-45ab-be36 ...</a> 
+adapted graph from <a href="https://www.ft.com/content/fd857fcc-0032-45ab-be36-02e6e67e277c" target="_blank" rel="noreferer">ft.com/content/fd857fcc-0032-45ab-be36 ...</a> 
  @FT by @edwardwhitenz @mjruehl
 
 to add US data </div> 
@@ -34,7 +34,7 @@ to add US data </div>
 <div class="content"> 
 The situation in Singapore
 
-<a href="https://www.nytimes.com/2021/10/08/world/asia/singapore-vaccine-covid.html?searchResultPosition=2" target="_blank" rel="noreferer">https://www.nytimes.com/2021/10/08/world/asia/sing ...</a> 
+<a href="https://www.nytimes.com/2021/10/08/world/asia/singapore-vaccine-covid.html?searchResultPosition=2" target="_blank" rel="noreferer">nytimes.com/2021/10/08/world/asia/sing ...</a> 
  by @suilee
 
 —major case outbreak w/ 83% of total population fully vaccinated
@@ -68,7 +68,7 @@ Prior covid may be contributing. </div>
 <div class="content"> 
 Chiropractors who should be in the hall of shame
 
-<a href="https://www.theguardian.com/us-news/2021/oct/09/anti-vaccine-chiropractors-covid-sow-misinformation" target="_blank" rel="noreferer">https://www.theguardian.com/us-news/2021/oct/09/an ...</a> 
+<a href="https://www.theguardian.com/us-news/2021/oct/09/anti-vaccine-chiropractors-covid-sow-misinformation" target="_blank" rel="noreferer">theguardian.com/us-news/2021/oct/09/an ...</a> 
 
 
 Why isn't @ACAtoday doing something about this and following their mission statement of "setting higher standards" and "focusing on evidence-based methods"? </div> 

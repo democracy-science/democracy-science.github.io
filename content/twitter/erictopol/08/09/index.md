@@ -10,7 +10,8 @@ category = "Twitter"
 <div class="content"> 
 I wrote about the implications of the breakdown at @CDCgov for not tracking breakthrough infections during the Delta wave @guardian 
 
-https://t.co/X12xZmWghb putting millions of vaccinated Americans at unnecessary risk .... and leaving us without a navigational system</div> 
+<a href="https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant" target="_blank" rel="noreferer">theguardian.com/commentisfree/2021/aug ...</a> 
+ putting millions of vaccinated Americans at unnecessary risk .... and leaving us without a navigational system</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -20,7 +21,7 @@ The graph that concerns me most about the US Delta wave. Independent of our prof
 <a href="/twitter/erictopol/images/E8XBAEgVIAIkvZS.jpg"  ><img src="/twitter/erictopol/images/E8XBAEgVIAIkvZS.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Yes, it's worst in states with the lowest vaccination rates.  And largely driven by them. But no state is exempt from being part of the increase
 
-<a href="https://www.wsj.com/articles/highly-vaccinated-states-keep-worst-covid-19-outcomes-in-check-as-delta-spreads-wsj-analysis-shows-11628328602" target="_blank" rel="noreferer">https://www.wsj.com/articles/highly-vaccinated-sta ...</a> 
+<a href="https://www.wsj.com/articles/highly-vaccinated-states-keep-worst-covid-19-outcomes-in-check-as-delta-spreads-wsj-analysis-shows-11628328602" target="_blank" rel="noreferer">wsj.com/articles/highly-vaccinated-sta ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8XEANcVcAUnGbS.jpg"  ><img src="/twitter/erictopol/images/E8XEANcVcAUnGbS.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1424793011196555265" target="_blank" rel="noreferer">11:01 UCT-7</a> 
@@ -44,21 +45,9 @@ The latest Israeli data that shows sustained high effectiveness of mRNA vaccines
 <div class="content"> 
 This is quite misleading by admixing all the pre-Delta data when breakthrough infections were rare. I only wish it was true.
 
-https://t.co/X12xZmWghb https://t.co/XW02J2SKdl</div> 
+<a href="https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant" target="_blank" rel="noreferer">theguardian.com/commentisfree/2021/aug ...</a> 
+ <a href="https://twitter.com/cnnbrk/status/1424795856214138881" target="_blank" rel="noreferer">twitter.com/cnnbrk/status/1424795856214138 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1424840898223898624" target="_blank" rel="noreferer">14:11 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DrAhmedKalebi: “The lack of data around breakthrough infections is giving a false sense of security… Without tracking, we have no idea…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1424841417013137409" target="_blank" rel="noreferer">14:14 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @chrischirp: QUICK THREAD ON VACCINES &amp; DELTA: Friday's @PHE_uk report said that viral load in infected vaccinated people was similar to…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -67,7 +56,7 @@ RT @chrischirp: QUICK THREAD ON VACCINES &amp; DELTA: Friday's @PHE_uk report sa
 <div class="content"> 
 More data on the diminished immune response to the Delta variant in vaccinated people on immunosuppression drugs, supporting their need for a booster 
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.08.21261766v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.08 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.08.21261766v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.08 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8YTn_2VcBMHdAa.jpg"  ><img src="/twitter/erictopol/images/E8YTn_2VcBMHdAa.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -79,7 +68,7 @@ These CDC travel advisories are amusing. Specifying countries testing up to 5X m
 
 How about domestic travel advisories?
 
-<a href="https://www.ft.com/content/11117011-442e-43b4-b7d8-dcd31867ed09" target="_blank" rel="noreferer">https://www.ft.com/content/11117011-442e-43b4-b7d8 ...</a> 
+<a href="https://www.ft.com/content/11117011-442e-43b4-b7d8-dcd31867ed09" target="_blank" rel="noreferer">ft.com/content/11117011-442e-43b4-b7d8 ...</a> 
  by @mamtabadkar @FT </div> 
 <a href="/twitter/erictopol/images/E8Yag5rVcBMXFSl.jpg"  ><img src="/twitter/erictopol/images/E8Yag5rVcBMXFSl.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8YaEjYVcAUWTZM.jpg"  ><img src="/twitter/erictopol/images/E8YaEjYVcAUWTZM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -96,7 +85,8 @@ Worster. Florida. </div>
 <a href="https://twitter.com/erictopol/status/1424860990596804608" target="_blank" rel="noreferer">15:31 UCT-7</a> 
 </div> 
 <div class="content"> 
-This is the first look as to whether booster shots are working in people &gt; 60 years old to suppress infections. Encouraging. Preliminary. https://t.co/utyu774dDG</div> 
+This is the first look as to whether booster shots are working in people &gt; 60 years old to suppress infections. Encouraging. Preliminary. <a href="https://twitter.com/erlichya/status/1424857057149263873" target="_blank" rel="noreferer">twitter.com/erlichya/status/14248570571492 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -113,13 +103,16 @@ Highest cases/capita in the world, state or country, with population ≥ 1 milli
 <a href="https://twitter.com/erictopol/status/1424935312250212353" target="_blank" rel="noreferer">20:27 UCT-7</a> 
 </div> 
 <div class="content"> 
-Data sources @nytimes and @BNOdesk https://t.co/IdXGdBq6Pi
+Data sources @nytimes and @BNOdesk <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html?name=styln-coronavirus-live&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&variant=1_Show&is_new=false" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/covid- ...</a> 
 
-https://t.co/hEwzum0qoh
+
+<a href="https://newsnodes.com/worldmonitor/" target="_blank" rel="noreferer">newsnodes.com/worldmonitor/</a> 
+
 
 Major FL and LA case acceleration since yesterday
 
-https://t.co/vttZhdFkvz</div> 
+<a href="https://twitter.com/EricTopol/status/1424372119677198340" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1424372119677 ...</a> 
+</div> 
 </div> 
 
 

@@ -12,10 +12,10 @@ Will the Moderna and J&amp;J boosters get approved (EUA) today and tomorrow?
 
 Likely yes, but their datasets are woefully deficient
 
-<a href="https://www.ft.com/content/94c3ee7e-98a1-49c5-9fc7-4daedac311d7" target="_blank" rel="noreferer">https://www.ft.com/content/94c3ee7e-98a1-49c5-9fc7 ...</a> 
+<a href="https://www.ft.com/content/94c3ee7e-98a1-49c5-9fc7-4daedac311d7" target="_blank" rel="noreferer">ft.com/content/94c3ee7e-98a1-49c5-9fc7 ...</a> 
  @jamiesmythF @FT 
 
-<a href="https://www.wsj.com/articles/johnson-johnson-covid-19-booster-shot-bolsters-immune-defense-fda-staff-say-11634137515?mod=searchresults_pos1&page=1" target="_blank" rel="noreferer">https://www.wsj.com/articles/johnson-johnson-covid ...</a> 
+<a href="https://www.wsj.com/articles/johnson-johnson-covid-19-booster-shot-bolsters-immune-defense-fda-staff-say-11634137515?mod=searchresults_pos1&page=1" target="_blank" rel="noreferer">wsj.com/articles/johnson-johnson-covid ...</a> 
  @Loftus @felschwartz </div> 
 <a href="/twitter/erictopol/images/FBqqMryVEAIGXPn.jpg"  ><img src="/twitter/erictopol/images/FBqqMryVEAIGXPn.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBqqPYzVQAkJc0_.jpg"  ><img src="/twitter/erictopol/images/FBqqPYzVQAkJc0_.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -27,7 +27,7 @@ Just published @NatureMedicine
 
 The decline of vaccine effectiveness vs infections and lower Ct (higher viral loads); impact of the Delta variant compared with Alpha 
 
- <a href="https://www.nature.com/articles/s41591-021-01548-7" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01548-7</a> 
+ <a href="https://www.nature.com/articles/s41591-021-01548-7" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01548-7</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBquqZrVkAAaHIl.jpg"  ><img src="/twitter/erictopol/images/FBquqZrVkAAaHIl.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -37,22 +37,15 @@ The decline of vaccine effectiveness vs infections and lower Ct (higher viral lo
 <div class="content"> 
 Towards covid endemicity: as more vaccinations and infections proceed, the less hospitalizations and deaths 
 
-<a href="https://www.economist.com/briefing/2021/10/14/how-the-world-learns-to-live-with-covid-19" target="_blank" rel="noreferer">https://www.economist.com/briefing/2021/10/14/how- ...</a> 
+<a href="https://www.economist.com/briefing/2021/10/14/how-the-world-learns-to-live-with-covid-19" target="_blank" rel="noreferer">economist.com/briefing/2021/10/14/how- ...</a> 
  @TheEconomist </div> 
 <a href="/twitter/erictopol/images/FBq27xiVkAEp_hM.jpg"  ><img src="/twitter/erictopol/images/FBq27xiVkAEp_hM.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1448682991467708416" target="_blank" rel="noreferer">09:11 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DrLeanaWen: Dramatic results from Israel, as presented at FDA advisory committee meeting: Boosters reduce severe disease in all age gro…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1448684859661053953" target="_blank" rel="noreferer">09:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-How #AI and rapid whole genome sequencing is transforming the diagnosis of sick newborns <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00965-0" target="_blank" rel="noreferer">https://genomemedicine.biomedcentral.com/articles/ ...</a> 
+How #AI and rapid whole genome sequencing is transforming the diagnosis of sick newborns <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00965-0" target="_blank" rel="noreferer">genomemedicine.biomedcentral.com/articles/ ...</a> 
  @RadyGenomics @radychildrens @ribozyme @FabricGenomics </div> 
 <a href="/twitter/erictopol/images/FBrC7EXVkA48LYA.png"  ><img src="/twitter/erictopol/images/FBrC7EXVkA48LYA.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -64,14 +57,16 @@ I find this hard to believe
 
 "Sputnik Light demonstrates higher efficacy against Delta variant than many two-shot vaccines."
 
- https://t.co/MRVRECX7YV</div> 
+ <a href="https://www.medrxiv.org/content/10.1101/2021.10.08.21264715v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.08 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1448704842227060743" target="_blank" rel="noreferer">10:38 UCT-7</a> 
 </div> 
 <div class="content"> 
-A new approach for giving intravenous infusions of monoclonal antibodies for Covid: home delivery https://t.co/ZT9ajvVd3Q</div> 
+A new approach for giving intravenous infusions of monoclonal antibodies for Covid: home delivery <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2784998" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -80,7 +75,8 @@ A new approach for giving intravenous infusions of monoclonal antibodies for Cov
 <div class="content"> 
 During the Delta wave in India, a 27% rate of reinfection in a cohort
 
-https://t.co/eYSZymmee9 
+<a href="https://www.science.org/doi/10.1126/science.abj9932" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abj993 ...</a> 
+ 
 
 @ScienceMagazine "as judged by increased antibody concentration after a previous decline"
 
@@ -95,7 +91,7 @@ Just out @ScienceMagazine
 
 The memory B and T cell response to mRNA vaccines is quite durable and functional for at least 6 months, and for all the major variants, including Delta. 
 
-<a href="https://www.science.org/doi/10.1126/science.abm0829" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abm082 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abm0829" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abm082 ...</a> 
 
 
 (A very reassuring finding in light of short dose spacing of 3-4 weeks) </div> 
@@ -109,23 +105,23 @@ So you want to do genome editing more efficiently and at scale, for 1000s of bas
 
 A very big 3-fer day for @davidrliu's prime editing 
 
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01065-5" target="_blank" rel="noreferer">https://www.cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01065-5" target="_blank" rel="noreferer">cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
 
 
-<a href="https://www.nature.com/articles/s41587-021-01025-z" target="_blank" rel="noreferer">https://www.nature.com/articles/s41587-021-01025-z</a> 
+<a href="https://www.nature.com/articles/s41587-021-01025-z" target="_blank" rel="noreferer">nature.com/articles/s41587-021-01025-z</a> 
  @JShendure 
 
-<a href="https://www.nature.com/articles/s41587-021-01026-y" target="_blank" rel="noreferer">https://www.nature.com/articles/s41587-021-01026-y</a> 
+<a href="https://www.nature.com/articles/s41587-021-01026-y" target="_blank" rel="noreferer">nature.com/articles/s41587-021-01026-y</a> 
  @xue_lab
 
-<a href="https://www.statnews.com/2021/10/14/new-crispr-tools-could-fix-diseases-caused-by-large-dna-rearrangements-scientists-report/" target="_blank" rel="noreferer">https://www.statnews.com/2021/10/14/new-crispr-too ...</a> 
+<a href="https://www.statnews.com/2021/10/14/new-crispr-tools-could-fix-diseases-caused-by-large-dna-rearrangements-scientists-report/" target="_blank" rel="noreferer">statnews.com/2021/10/14/new-crispr-too ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBr-Mo1VcAIy6aU.jpg"  ><img src="/twitter/erictopol/images/FBr-Mo1VcAIy6aU.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBr-cU9VcBUxmo6.jpg"  ><img src="/twitter/erictopol/images/FBr-cU9VcBUxmo6.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBr-kJRVcA4-PmQ.jpg"  ><img src="/twitter/erictopol/images/FBr-kJRVcA4-PmQ.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBr-p49VcB4m90y.jpg"  ><img src="/twitter/erictopol/images/FBr-p49VcB4m90y.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The benefit of the Pfizer boosters across all age groups (vs infections in 16+, vs severe disease 40+), presented @US_FDA today as background for consideration of other vaccine boosters
 
-<a href="https://www.fda.gov/media/153086/download" target="_blank" rel="noreferer">https://www.fda.gov/media/153086/download</a> 
+<a href="https://www.fda.gov/media/153086/download" target="_blank" rel="noreferer">fda.gov/media/153086/download</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBrEewwVIA4A4yW.jpg"  ><img src="/twitter/erictopol/images/FBrEewwVIA4A4yW.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBrFBUKVIAMDTZ2.jpg"  ><img src="/twitter/erictopol/images/FBrFBUKVIAMDTZ2.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 In July, many maintained there was no attrition of vaccine effectiveness (VE) vs symptomatic infections or severe disease. Denial of Israeli data.
@@ -136,16 +132,19 @@ In October, all vaccines are getting approvals for boosters to prevent VE attrit
 <hr><div class="thread-content"> 
 Beyond the mRNAs (Pfizer and Moderna), Astra Zeneca, and J&amp;J, the Chinese vaccines, Sinopharm and Coronavac, are also following suit
 
-https://t.co/IC7ARHPjLn @Nature</div> 
+<a href="https://www.nature.com/articles/d41586-021-02796-w" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02796-w</a> 
+ @Nature</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1448769555946344448" target="_blank" rel="noreferer">14:55 UCT-7</a> 
 </div> 
 <div class="content"> 
 Calling out this concern of VE decline, intended to amp up protection in vaccinees, was met with major backlash
 
-https://t.co/kIaAC0w8vB
+<a href="https://twitter.com/erictopol/status/1425492860619481098?lang=en" target="_blank" rel="noreferer">twitter.com/erictopol/status/1425492860619 ...</a> 
 
-https://t.co/9CPiqAoLkb</div> 
+
+<a href="https://twitter.com/erictopol/status/1439295338792189952?lang=en" target="_blank" rel="noreferer">twitter.com/erictopol/status/1439295338792 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -154,8 +153,8 @@ https://t.co/9CPiqAoLkb</div>
 <div class="content"> 
 A new study from the Netherlands on Delta transmission to household contacts, w/ or w/o vaccination, adds to the one below. Delta spread is harder to suppress.
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.10.14.21264959v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.10.14 ...</a> 
-  Same group reported 73% VE vs transmission to unvaccinated household contacts for Alpha  <a href="https://twitter.com/EricTopol/status/1445429636502933508" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1445429636502 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.14.21264959v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.14 ...</a> 
+  Same group reported 73% VE vs transmission to unvaccinated household contacts for Alpha  <a href="https://twitter.com/EricTopol/status/1445429636502933508" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1445429636502 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FBsSc79UUAAOybV.png"  ><img src="/twitter/erictopol/images/FBsSc79UUAAOybV.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -173,7 +172,7 @@ graph by @MaxCRoser @OurWorldInData </div>
 <div class="content"> 
 Putting the malaria vaccine in perspective
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02235-2/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02235-2/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  @TheLancet 
 
 today's cover </div> 
@@ -183,7 +182,7 @@ today's cover </div>
 <a href="https://twitter.com/erictopol/status/1448790416900255756" target="_blank" rel="noreferer">16:18 UCT-7</a> 
 </div> 
 <div class="content"> 
-Assessing the potential beneficial impact of statins on Covid mortality in Sweden <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003820" target="_blank" rel="noreferer">https://journals.plos.org/plosmedicine/article?id= ...</a> 
+Assessing the potential beneficial impact of statins on Covid mortality in Sweden <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003820" target="_blank" rel="noreferer">journals.plos.org/plosmedicine/article?id= ...</a> 
  @PLOSMedicine 
 
 " a modest negative association" with hazard ratio of 0.88 [95% CI 0.79, 0.97] </div> 
@@ -204,14 +203,15 @@ New on breakthrough infections in 620,000 Veterans
 <div class="thread-content"> 
 The @WhiteHouse, @POTUS bringing back my friend @califf001 to run the @US_FDA 
 
-https://t.co/nBdkKPpBbE</div> 
+<a href="https://www.washingtonpost.com/health/2021/10/14/fda-commissioner-califf/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/10/14/f ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1448817199645298705" target="_blank" rel="noreferer">18:05 UCT-7</a> 
 </div> 
 <div class="content"> 
 Coverage and my commentary @washingtonpost on the @US_FDA Commissioner nomination 
 
-<a href="https://www.washingtonpost.com/health/2021/10/14/fda-commissioner-califf/" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/10/14/f ...</a> 
+<a href="https://www.washingtonpost.com/health/2021/10/14/fda-commissioner-califf/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/10/14/f ...</a> 
 
 
 by @tylerpager @ddiamond @yabutaleb7 </div> 
@@ -220,7 +220,7 @@ by @tylerpager @ddiamond @yabutaleb7 </div>
 <div class="thread-content"> 
 For the 1st time, the @CDCgov is now posting national data on vaccination status for hospitalization and death, and by age 👍🙏
 
-<a href="https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status" target="_blank" rel="noreferer">https://covid.cdc.gov/covid-data-tracker/#rates-by ...</a> 
+<a href="https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status" target="_blank" rel="noreferer">covid.cdc.gov/covid-data-tracker/#rates-by ...</a> 
 
 
 Here are data for death during the Delta wave

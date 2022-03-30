@@ -10,18 +10,11 @@ category = "Twitter"
 <div class="content"> 
 Undercounting the neurologic cost of Covid
 
-<a href="https://www.nature.com/articles/s41582-021-00593-7" target="_blank" rel="noreferer">https://www.nature.com/articles/s41582-021-00593-7</a> 
+<a href="https://www.nature.com/articles/s41582-021-00593-7" target="_blank" rel="noreferer">nature.com/articles/s41582-021-00593-7</a> 
 
 
 by @AMannanBaig </div> 
 <a href="/twitter/erictopol/images/FEe-IJQUcAAaMNY.jpg"  ><img src="/twitter/erictopol/images/FEe-IJQUcAAaMNY.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1461364548795973638" target="_blank" rel="noreferer">09:03 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @j_g_allen: Vaccines are our path out of this and the voluntary approach has hit its limit. Businesses can lead the way while OSHA's rul…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1461389530993287169" target="_blank" rel="noreferer">10:43 UCT-7</a> 
@@ -29,7 +22,7 @@ RT @j_g_allen: Vaccines are our path out of this and the voluntary approach has 
 <div class="content"> 
 "Of 3,357,348 health care personnel in [US] 2,086 hospitals included...[only] 70.0% were fully vaccinated"
 
-<a href="https://www.ajicjournal.org/article/S0196-6553(21)00673-8/fulltext" target="_blank" rel="noreferer">https://www.ajicjournal.org/article/S0196-6553(21) ...</a> 
+<a href="https://www.ajicjournal.org/article/S0196-6553(21)00673-8/fulltext" target="_blank" rel="noreferer">ajicjournal.org/article/S0196-6553(21) ...</a> 
 
 
 This is outrageously bad and unacceptable. Should be 100%. </div> 
@@ -38,7 +31,7 @@ This is outrageously bad and unacceptable. Should be 100%. </div>
 <div class="thread-content"> 
 Against all odds, the real American success standout for the pandemic is Puerto Rico
 
-<a href="https://www.economist.com/united-states/2021/11/18/puerto-rico-success-story" target="_blank" rel="noreferer">https://www.economist.com/united-states/2021/11/18 ...</a> 
+<a href="https://www.economist.com/united-states/2021/11/18/puerto-rico-success-story" target="_blank" rel="noreferer">economist.com/united-states/2021/11/18 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEf3tsaVIAQ72xF.jpg"  ><img src="/twitter/erictopol/images/FEf3tsaVIAQ72xF.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FEf3sjuVgAEZkRj.jpg"  ><img src="/twitter/erictopol/images/FEf3sjuVgAEZkRj.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1461410840347758593" target="_blank" rel="noreferer">12:07 UCT-7</a> 
@@ -50,7 +43,7 @@ Against all odds, the real American success standout for the pandemic is Puerto 
 <div class="thread-content"> 
 The compelling case for vaccination in kids
 
-<a href="https://www.science.org/doi/10.1126/science.abn2566" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abn256 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abn2566" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abn256 ...</a> 
 
 
 @ScienceMagazine 
@@ -64,31 +57,14 @@ Adding my case, which includes preventing #LongCovidKids
 
 While it's not as common as in adults, it is yet another reason to avoid Covid in children, not mentioned in the above
 
-https://t.co/fANijEEC59</div> 
+<a href="https://twitter.com/EricTopol/status/1459932317061836814" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1459932317061 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1461426386342592512" target="_blank" rel="noreferer">13:09 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DanRather: Let's face it. The messaging around Covid vaccine boosters has been a hot mess. Regardless, please, Get The Shot! It seems l…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1461434944618577920" target="_blank" rel="noreferer">13:43 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @benwakana46: Scores of LEADING HEALTH EXPERTS call on organizations to implement OSHA’s emergency temporary standard. 
-
-
-
-Thank you @Zeke…</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 A one-sentence summary of the evidence for boosters across all adult age groups
 
-<a href="https://www.npr.org/2021/11/17/1056646733/what-to-know-ahead-of-the-authorization-for-pfizers-covid-booster" target="_blank" rel="noreferer">https://www.npr.org/2021/11/17/1056646733/what-to- ...</a> 
+<a href="https://www.npr.org/2021/11/17/1056646733/what-to-know-ahead-of-the-authorization-for-pfizers-covid-booster" target="_blank" rel="noreferer">npr.org/2021/11/17/1056646733/what-to- ...</a> 
  @NPR  @WStoneReports @ailsachang </div> 
 <a href="/twitter/erictopol/images/FEe4HcMVQAEiQEa.png"  ><img src="/twitter/erictopol/images/FEe4HcMVQAEiQEa.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1461446994556166147" target="_blank" rel="noreferer">14:31 UCT-7</a> 
@@ -102,7 +78,7 @@ Well beyond mink and deer reservoirs:
 
 "The World Organisation for Animal Health, known as OIE, has recorded 598 Covid outbreaks in animals affecting 14 species in 30 countries"
 
-<a href="https://www.ft.com/thread-content/70dffb85-5c17-4dac-a1a5-b79c58d91270" target="_blank" rel="noreferer">https://www.ft.com/thread-content/70dffb85-5c17-4dac-a1a5 ...</a> 
+<a href="https://www.ft.com/thread-content/70dffb85-5c17-4dac-a1a5-b79c58d91270" target="_blank" rel="noreferer">ft.com/thread-content/70dffb85-5c17-4dac-a1a5 ...</a> 
  @clivecookson </div> 
 <a href="/twitter/erictopol/images/FEfqu4cUUA4OQB7.jpg"  ><img src="/twitter/erictopol/images/FEfqu4cUUA4OQB7.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1461454679036989440" target="_blank" rel="noreferer">15:02 UCT-7</a> 
@@ -110,7 +86,7 @@ Well beyond mink and deer reservoirs:
 <div class="content"> 
 And more on this.....
 
-<a href="https://www.economist.com/science-and-technology/hidey-holes-for-sars-cov-2-1/21806334" target="_blank" rel="noreferer">https://www.economist.com/science-and-technology/h ...</a> 
+<a href="https://www.economist.com/science-and-technology/hidey-holes-for-sars-cov-2-1/21806334" target="_blank" rel="noreferer">economist.com/science-and-technology/h ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEghNbyVIAAVrYj.jpg"  ><img src="/twitter/erictopol/images/FEghNbyVIAAVrYj.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FEghPHvVgAAe5WM.jpg"  ><img src="/twitter/erictopol/images/FEghPHvVgAAe5WM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -120,7 +96,7 @@ And more on this.....
 <div class="content"> 
 Anti-aging diets?
 
-No, none of these (or others) have any proof, as brilliantly reviewed @ScienceMagazine in "Separating Fact From Fiction" <a href="https://www.science.org/doi/10.1126/science.abe7365" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abe736 ...</a> 
+No, none of these (or others) have any proof, as brilliantly reviewed @ScienceMagazine in "Separating Fact From Fiction" <a href="https://www.science.org/doi/10.1126/science.abe7365" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abe736 ...</a> 
 
 
 @mkaeberlein @BittoAlessandro @CristalM_Hill @mitchellblee33 </div> 
@@ -132,15 +108,15 @@ No, none of these (or others) have any proof, as brilliantly reviewed @ScienceMa
 <div class="content"> 
 Where do we stand with #AI for mammography?
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
- In today's @TheLancet , @lehman_connie and I map it out. We also address the recent @BMJ_latest review questioning its accuracy: <a href="https://www.bmj.com/content/374/bmj.n1872" target="_blank" rel="noreferer">https://www.bmj.com/content/374/bmj.n1872</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
+ In today's @TheLancet , @lehman_connie and I map it out. We also address the recent @BMJ_latest review questioning its accuracy: <a href="https://www.bmj.com/content/374/bmj.n1872" target="_blank" rel="noreferer">bmj.com/content/374/bmj.n1872</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEg4NQFVQAQfl_7.jpg"  ><img src="/twitter/erictopol/images/FEg4NQFVQAQfl_7.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The list of organs that Covid can target keeps getting longer. Now the adrenal glands.
 
-<a href="https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00291-6/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/landia/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00291-6/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/landia/article/ ...</a> 
  @TheLancetEndo 
 
 

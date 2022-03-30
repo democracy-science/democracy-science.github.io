@@ -21,7 +21,8 @@ One thing's very clear: #VaccinesWork to blunt impact with much less severe illn
 <div class="content"> 
 Places in the US where people think the pandemic is over and that vaccinations are not vital as the exit strategy are getting a Delta wake up call
 
-https://t.co/dcUhOLMvbl by @littlewern</div> 
+<a href="https://www.wsj.com/articles/delta-covid-19-variant-gains-ground-among-the-unvaccinated-11625572800?mod=hp_lead_pos7" target="_blank" rel="noreferer">wsj.com/articles/delta-covid-19-varian ...</a> 
+ by @littlewern</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -32,7 +33,7 @@ https://t.co/dcUhOLMvbl by @littlewern</div>
 
 Just out @CellCellPress 
 
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(21)00833-3?rss=yes&utm_source=dlvr.it&utm_medium=twitter" target="_blank" rel="noreferer">https://www.cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(21)00833-3?rss=yes&utm_source=dlvr.it&utm_medium=twitter" target="_blank" rel="noreferer">cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5ns0KGXEAsllNX.jpg"  ><img src="/twitter/erictopol/images/E5ns0KGXEAsllNX.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5nsvqdXMAUPcRj.jpg"  ><img src="/twitter/erictopol/images/E5nsvqdXMAUPcRj.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -57,7 +58,7 @@ US 1,419/ 1000 people
 <a href="https://twitter.com/erictopol/status/1412440349784428546" target="_blank" rel="noreferer">08:56 UCT-7</a> 
 </div> 
 <div class="content"> 
-Who among the health care workforce are at highest risk for covid infections? A large study from Italy of &gt;140,000 HCW <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781622" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+Who among the health care workforce are at highest risk for covid infections? A large study from Italy of &gt;140,000 HCW <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781622" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
  @JAMANetworkOpen by @polettipiero and colleagues </div> 
 <a href="/twitter/erictopol/images/E5n-gvoVkAkR0cA.jpg"  ><img src="/twitter/erictopol/images/E5n-gvoVkAkR0cA.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5n-i1lUcAYX_UV.jpg"  ><img src="/twitter/erictopol/images/E5n-i1lUcAYX_UV.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -65,8 +66,8 @@ Who among the health care workforce are at highest risk for covid infections? A 
 <a href="https://twitter.com/erictopol/status/1412451511087497217" target="_blank" rel="noreferer">09:40 UCT-7</a> 
 </div> 
 <div class="content"> 
-Today's @CDCMMWR report with the Table that breaks it down for benefit to risk, by age group and sex <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e2.htm?s_cid=mm7027e2_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e2.ht ...</a> 
-  <a href="https://twitter.com/EricTopol/status/1411820173464461312" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1411820173464 ...</a> 
+Today's @CDCMMWR report with the Table that breaks it down for benefit to risk, by age group and sex <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e2.htm?s_cid=mm7027e2_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7027e2.ht ...</a> 
+  <a href="https://twitter.com/EricTopol/status/1411820173464461312" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1411820173464 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E5oJCjKVIAAH2bw.png"  ><img src="/twitter/erictopol/images/E5oJCjKVIAAH2bw.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -89,14 +90,8 @@ After &gt;18 months, it amazes me that people still think a rise in cases is an 
 <div class="content"> 
 Important context, analysis issues regarding yesterday's Israel MoH report of a drop in vaccination effectiveness for Delta infections. It's still uncertain.
 
-Both from @nataliexdean and @ShalitUri 👇 https://t.co/k4siLli04b</div> 
+Both from @nataliexdean and @ShalitUri 👇 <a href="https://twitter.com/nataliexdean/status/1412498386683514882" target="_blank" rel="noreferer">twitter.com/nataliexdean/status/1412498386 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1412517951563919362" target="_blank" rel="noreferer">14:04 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @drninashapiro: @EricTopol And more cases will beget more variants…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -133,7 +128,7 @@ Florida 25% </div>
 <div class="content"> 
 Finally the @CDCgov is posting current Delta variant data, has US at 52% as of 3 July.
 
-<a href="https://covid.cdc.gov/covid-data-tracker/#variant-proportions" target="_blank" rel="noreferer">https://covid.cdc.gov/covid-data-tracker/#variant- ...</a> 
+<a href="https://covid.cdc.gov/covid-data-tracker/#variant-proportions" target="_blank" rel="noreferer">covid.cdc.gov/covid-data-tracker/#variant- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5pqQk_VcAAnkCc.jpg"  ><img src="/twitter/erictopol/images/E5pqQk_VcAAnkCc.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -147,19 +142,12 @@ VE 72% (95% CI 46,86) 👍
 
 Via new @PHE_uk dataset and @kallmemeg 
 
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/998411/Vaccine_surveillance_report_-_week_26.pdf" target="_blank" rel="noreferer">https://assets.publishing.service.gov.uk/governmen ...</a> 
+<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/998411/Vaccine_surveillance_report_-_week_26.pdf" target="_blank" rel="noreferer">assets.publishing.service.gov.uk/governmen ...</a> 
 
 
-<a href="https://twitter.com/EricTopol/status/1411731941506752518" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1411731941506 ...</a> 
+<a href="https://twitter.com/EricTopol/status/1411731941506752518" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1411731941506 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5ps2AZVUAIP5og.jpg"  ><img src="/twitter/erictopol/images/E5ps2AZVUAIP5og.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1412564128737087490" target="_blank" rel="noreferer">17:08 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @HelenBranswell: Got some down time coming up &amp; wonder what to read or listen to? @statnews's (almost) annual summer reads list is out,…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412566875767119872" target="_blank" rel="noreferer">17:19 UCT-7</a> 
@@ -171,7 +159,7 @@ No thanks.
 
 Case report of 2 people with C. difficile treated with fecal transplant who also had covid and improved
 
-<a href="https://gut.bmj.com/content/early/2021/06/25/gutjnl-2021-325010" target="_blank" rel="noreferer">https://gut.bmj.com/content/early/2021/06/25/gutjn ...</a> 
+<a href="https://gut.bmj.com/content/early/2021/06/25/gutjnl-2021-325010" target="_blank" rel="noreferer">gut.bmj.com/content/early/2021/06/25/gutjn ...</a> 
  @Gut_BMJ 
 
 (and they've started a clinical trial) </div> 
@@ -193,13 +181,6 @@ Israel seems to be faring better to date for cases &amp; outcomes. Possible expl
 
 —Too early to assess </div> 
 <a href="/twitter/erictopol/images/E5p3-4VVgAIpFn7.jpg"  ><img src="/twitter/erictopol/images/E5p3-4VVgAIpFn7.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5p4BGOVEAQQ1mS.jpg"  ><img src="/twitter/erictopol/images/E5p4BGOVEAQQ1mS.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5p3slNUUAQ6maw.jpg"  ><img src="/twitter/erictopol/images/E5p3slNUUAQ6maw.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5p4KR8UUAAuMlG.jpg"  ><img src="/twitter/erictopol/images/E5p4KR8UUAAuMlG.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1412589228517576706" target="_blank" rel="noreferer">18:48 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ZekeEmanuel: Totally agree with @EricTopol: FDA must fully approve mRNA #COVID19 vaccines. With over 300M doses given in the US, there…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The @US_FDA is unhappy about this essay. That's good. Maybe they will do something. 
@@ -208,7 +189,8 @@ Perhaps @DrWoodcockFDA will even make a public statement?</div>
 <hr><div class="thread-content"> 
 More on this @washingtonpost today, by @acellerbeck ,w/@ashishkjha 
 
-https://t.co/3QVwTuOiIB</div> 
+<a href="https://www.washingtonpost.com/politics/2021/07/06/health-202-fda-could-boost-vaccinations-by-fully-approving-pfizer-vaccine/" target="_blank" rel="noreferer">washingtonpost.com/politics/2021/07/06 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1412598246677966852" target="_blank" rel="noreferer">19:24 UCT-7</a> 
 </div> 
@@ -223,7 +205,7 @@ There's simply no excuse for this delay.
 
 It's called a pandemic. We need this done now
 
-<a href="https://www.nytimes.com/2021/07/06/us/politics/biden-vaccines.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/06/us/politics/bid ...</a> 
+<a href="https://www.nytimes.com/2021/07/06/us/politics/biden-vaccines.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank" rel="noreferer">nytimes.com/2021/07/06/us/politics/bid ...</a> 
  @shearm @noahweiland </div> 
 <a href="/twitter/erictopol/images/E5qNWm0VoAkmgZF.jpg"  ><img src="/twitter/erictopol/images/E5qNWm0VoAkmgZF.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -233,7 +215,7 @@ It's called a pandemic. We need this done now
 <div class="content"> 
 It's all about preventing cases, the vicious circle.
 
-We can do that via NPI (masks, distancing, contact tracing, isolation) and the potent vaccines that block infections well, including Delta, that we're so fortunate to have  <a href="https://twitter.com/EricTopol/status/1412485858406457347" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1412485858406 ...</a> 
+We can do that via NPI (masks, distancing, contact tracing, isolation) and the potent vaccines that block infections well, including Delta, that we're so fortunate to have  <a href="https://twitter.com/EricTopol/status/1412485858406457347" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1412485858406 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E5qWXfVVkAMdVjE.png"  ><img src="/twitter/erictopol/images/E5qWXfVVkAMdVjE.png" alt="Twitter image" ></img></a></div> 
 

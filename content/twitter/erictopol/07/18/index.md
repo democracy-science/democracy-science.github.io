@@ -16,7 +16,7 @@ by @sdutBreen @sdut </div>
 <div class="thread-content"> 
 The Delta variant and record high deaths in multiple countries with low vaccination, in contrast with those where high vaccination is saving lives by lessening the linkage to infections
 
-by @jburnmurdoch and @davidpilling @FT <a href="https://www.ft.com/thread-content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">https://www.ft.com/thread-content/fa4f248a-a476-491d-a5ce ...</a> 
+by @jburnmurdoch and @davidpilling @FT <a href="https://www.ft.com/thread-content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">ft.com/thread-content/fa4f248a-a476-491d-a5ce ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6leKRNUcAUYBZp.jpg"  ><img src="/twitter/erictopol/images/E6leKRNUcAUYBZp.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1416770508322791438" target="_blank" rel="noreferer">07:43 UCT-7</a> 
@@ -29,7 +29,7 @@ by @jburnmurdoch and @davidpilling @FT <a href="https://www.ft.com/thread-conten
 <a href="https://twitter.com/erictopol/status/1416778938328571910" target="_blank" rel="noreferer">08:16 UCT-7</a> 
 </div> 
 <div class="content"> 
-South Africa's 3rd wave has been the worst yet, attributable, at least in part, to the dominant Delta variant. The Gauteng province has been worst hit <a href="https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">https://www.ft.com/content/fa4f248a-a476-491d-a5ce ...</a> 
+South Africa's 3rd wave has been the worst yet, attributable, at least in part, to the dominant Delta variant. The Gauteng province has been worst hit <a href="https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">ft.com/content/fa4f248a-a476-491d-a5ce ...</a> 
  Vaccine suppliers not coming through played a pivotal role @_HassanF @HealthJusticeIn @GautengHealth </div> 
 <a href="/twitter/erictopol/images/E6llCPqVgAE8aZV.jpg"  ><img src="/twitter/erictopol/images/E6llCPqVgAE8aZV.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -41,26 +41,27 @@ Instead of the prior major variants which had N501Y, and E484K for Beta and Gamm
 <a href="/twitter/erictopol/images/E6l0ivLVEAYvO9h.jpg"  ><img src="/twitter/erictopol/images/E6l0ivLVEAYvO9h.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 You can see (Delta, in orange) the marked differences from the other variants in multiple locations: receptor binding domain (RBD), N-terminal domain (NTD) and in S2 of the spike protein  /2
 
-graphic from @atelentia @Nature <a href="https://www.nature.com/articles/s41586-021-03792-w" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03792-w</a> 
+graphic from @atelentia @Nature <a href="https://www.nature.com/articles/s41586-021-03792-w" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03792-w</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6l1PbgVkAU146B.jpg"  ><img src="/twitter/erictopol/images/E6l1PbgVkAU146B.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 We don't know much about the functional significance of the mutations in Lambda (C.37), a variant of interest that emerged in South America, that is also on a new path
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.06.26 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.06.26 ...</a> 
 
 
-<a href="https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know" target="_blank" rel="noreferer">https://www.nationalgeographic.com/science/article ...</a> 
+<a href="https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know" target="_blank" rel="noreferer">nationalgeographic.com/science/article ...</a> 
  by @Ecquis @NatGeo /3 </div> 
 <a href="/twitter/erictopol/images/E6l52dPVUAQROG9.jpg"  ><img src="/twitter/erictopol/images/E6l52dPVUAQROG9.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6l5-cEVEAQuNXF.jpg"  ><img src="/twitter/erictopol/images/E6l5-cEVEAQuNXF.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Good discussion @TheEconomist on the evolution of the variants and their different mutations, N501Y, E484K, P681R, in the trimeric spike protein, and binding to our cells /4
 
-<a href="https://www.economist.com/the-economist-explains/2021/07/15/why-do-new-sars-cov-2-variants-spread-more-easily?utm_campaign=coronavirus-special-edition&utm_medium=newsletter&utm_source=salesforce-marketing-cloud" target="_blank" rel="noreferer">https://www.economist.com/the-economist-explains/2 ...</a> 
+<a href="https://www.economist.com/the-economist-explains/2021/07/15/why-do-new-sars-cov-2-variants-spread-more-easily?utm_campaign=coronavirus-special-edition&utm_medium=newsletter&utm_source=salesforce-marketing-cloud" target="_blank" rel="noreferer">economist.com/the-economist-explains/2 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6l4a8zVUAEi6rs.jpg"  ><img src="/twitter/erictopol/images/E6l4a8zVUAEi6rs.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1416798033191202817" target="_blank" rel="noreferer">09:32 UCT-7</a> 
 </div> 
 <div class="content"> 
-One thing for sure: we need to achieve global containment of #SARSCoV2 as soon as possible to avoid further substantive evolution (a term usually connotating slowness but it's been happening fast). Our upbeat perspective @NatureMedicine w/ @RobertoBurioni  https://t.co/oQtarwt09C</div> 
+One thing for sure: we need to achieve global containment of #SARSCoV2 as soon as possible to avoid further substantive evolution (a term usually connotating slowness but it's been happening fast). Our upbeat perspective @NatureMedicine w/ @RobertoBurioni  <a href="https://www.nature.com/articles/s41591-021-01421-7" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01421-7</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -69,13 +70,13 @@ One thing for sure: we need to achieve global containment of #SARSCoV2 as soon a
 <div class="content"> 
 No matter how you slice it, by US counties, by US states, by countries, high rates of vaccinations are preventing hospitalizations and are saving lives
 
-<a href="https://www.nytimes.com/2021/07/17/us/arkansas-covid-19-vaccine.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/17/us/arkansas-cov ...</a> 
+<a href="https://www.nytimes.com/2021/07/17/us/arkansas-covid-19-vaccine.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank" rel="noreferer">nytimes.com/2021/07/17/us/arkansas-cov ...</a> 
 
 
-<a href="https://www.nytimes.com/interactive/2021/07/17/us/delta-variant-us-growth.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/07/17/us/ ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/07/17/us/delta-variant-us-growth.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/07/17/us/ ...</a> 
 
 
-<a href="https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">https://www.ft.com/content/fa4f248a-a476-491d-a5ce ...</a> 
+<a href="https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">ft.com/content/fa4f248a-a476-491d-a5ce ...</a> 
 
 
 If not for yourself, help others stay healthy. Get 💉 </div> 
@@ -89,20 +90,9 @@ Another way to look at Delta's impact in low vs high vaccination countries for d
 
 a 3-6 fold difference between low and high, per capita
 
-@OurWorldInData  <a href="https://twitter.com/EricTopol/status/1416769157178167297" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1416769157178 ...</a> 
+@OurWorldInData  <a href="https://twitter.com/EricTopol/status/1416769157178167297" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1416769157178 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E6mAsuLVoAEEPqM.jpg"  ><img src="/twitter/erictopol/images/E6mAsuLVoAEEPqM.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1416806336143106053" target="_blank" rel="noreferer">10:05 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @jburnmurdoch: NEW: probably the most important Covid chart I’ve made
-
-
-
-As Delta goes global, it’s a tale of two pandemics, as the heavil…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The Delta (4th) wave in the United States is already showing it to be on a path to its the worst yet in its epicenter and low vaccinations states (MO, AR, MS, NV, FL) as reflected by hospitalizations and ICU admissions.
@@ -114,7 +104,7 @@ Graph from @jburnmurdoch @FT </div>
 <div class="content"> 
 More on this. Noting Florida is close to average for vaccinations (47% vs 48% US) states but already &gt;30 cases/100,000 residents, on a very worrisome trajectory
 
-<a href="https://www.nytimes.com/interactive/2021/us/florida-covid-cases.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/us/florid ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/us/florida-covid-cases.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/florid ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6mGluWUcAEJFnW.jpg"  ><img src="/twitter/erictopol/images/E6mGluWUcAEJFnW.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6mHiqoVUAIY8s8.jpg"  ><img src="/twitter/erictopol/images/E6mHiqoVUAIY8s8.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -132,11 +122,11 @@ from @jburnmurdoch @FT </div>
 <div class="thread-content"> 
 This was a big week for #AI advances, with protein structure prediction and direct brain-&gt;speech
 
-<a href="https://twitter.com/EricTopol/status/1415732633305190405" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1415732633305 ...</a> 
+<a href="https://twitter.com/EricTopol/status/1415732633305190405" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1415732633305 ...</a> 
 
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2027540?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa202754 ...</a> 
- @NEJM @ChangLabUcsf @UCSF <a href="https://www.nytimes.com/2021/07/14/health/speech-brain-implant-computer.html?searchResultPosition=3" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/14/health/speech-b ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2027540?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa202754 ...</a> 
+ @NEJM @ChangLabUcsf @UCSF <a href="https://www.nytimes.com/2021/07/14/health/speech-brain-implant-computer.html?searchResultPosition=3" target="_blank" rel="noreferer">nytimes.com/2021/07/14/health/speech-b ...</a> 
  @PamBelluck 
 
 but also 2 caveats /1 </div> 
@@ -146,28 +136,28 @@ but also 2 caveats /1 </div>
 <div class="content"> 
 —Explainability drawbacks
 
-<a href="https://science.sciencemag.org/content/373/6552/284" target="_blank" rel="noreferer">https://science.sciencemag.org/content/373/6552/28 ...</a> 
+<a href="https://science.sciencemag.org/content/373/6552/284" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6552/28 ...</a> 
 
 
 @ScienceMagazine @gerke_sara @CohenProf 
 
 —Dataset shifts 
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2104626?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2104626 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2104626?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2104626 ...</a> 
  by @IAmSamFin 
 
  @zakkohane @kdpsinghlab @suchisaria @NEJM
 
 Summarized so well by @DrXiaoLiu's 🧵
 
-<a href="https://twitter.com/DrXiaoLiu/status/1416770766859821057" target="_blank" rel="noreferer">https://twitter.com/DrXiaoLiu/status/1416770766859 ...</a> 
+<a href="https://twitter.com/DrXiaoLiu/status/1416770766859821057" target="_blank" rel="noreferer">twitter.com/DrXiaoLiu/status/1416770766859 ...</a> 
  /2 </div> 
 <a href="/twitter/erictopol/images/E6mUzpnVkAEAeDl.jpg"  ><img src="/twitter/erictopol/images/E6mUzpnVkAEAeDl.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6maIdKVEAMP1_f.jpg"  ><img src="/twitter/erictopol/images/E6maIdKVEAMP1_f.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Canadians didn't just achieve a remarkable pace of vaccinations to protect themselves and one another. Their track record of protection and saving lives, as compared to the US, extends throughout the pandemic
 
-@OurWorldInData  <a href="https://twitter.com/EricTopol/status/1416450150705164288" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1416450150705 ...</a> 
+@OurWorldInData  <a href="https://twitter.com/EricTopol/status/1416450150705164288" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1416450150705 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E6li6GUUUAMWl07.jpg"  ><img src="/twitter/erictopol/images/E6li6GUUUAMWl07.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1416840563177910272" target="_blank" rel="noreferer">12:21 UCT-7</a> 
@@ -180,7 +170,8 @@ PS I am not a Canadian or have any relationship with Canada besides some friends
 <a href="https://twitter.com/erictopol/status/1416872099201703937" target="_blank" rel="noreferer">14:26 UCT-7</a> 
 </div> 
 <div class="content"> 
-We have "un-herd" immunity and an unheard-of number or people who are unwilling to get vaccinated to protect others https://t.co/yXQMhZo2ZH</div> 
+We have "un-herd" immunity and an unheard-of number or people who are unwilling to get vaccinated to protect others <a href="https://twitter.com/EricTopol/status/1415841910971723780" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1415841910971 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -191,7 +182,7 @@ Neutralization capacity (antibody and T-cell response) for Prior covid + vaccina
 
 "pointing to vaccine boosters as a relevant future strategy"
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.07.14.21260307v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.07.14 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.14.21260307v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.14 ...</a> 
 
 
 by @carolilucas @NathanGrubaugh @VirusesImmunity @YaleIBIO @YaleMed </div> 
@@ -213,12 +204,5 @@ How do you keep Delta out of your country?
 
 🇳🇿 knows </div> 
 <a href="/twitter/erictopol/images/E6n6cFYVkAI5WIs.jpg"  ><img src="/twitter/erictopol/images/E6n6cFYVkAI5WIs.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1416984828524695552" target="_blank" rel="noreferer">21:54 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @holmescnn: The return of mask requirements in parts of the US is the result of the frightening spread of the #COVID19 #DeltaVariant  Me…</div> 
-</div> 
 
 

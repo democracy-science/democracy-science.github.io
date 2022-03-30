@@ -20,7 +20,7 @@ Cases got down to zero in June after one of the most aggressive vaccination camp
 
 Then came Delta. </div> 
 <a href="/twitter/erictopol/images/E86xnJKVUAMyXbP.jpg"  ><img src="/twitter/erictopol/images/E86xnJKVUAMyXbP.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-There is little evidence of waning immunity to the original strain at 6 months <a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1.full.pdf" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
+There is little evidence of waning immunity to the original strain at 6 months <a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
 
 
 In contrast to what is becoming clear with Delta </div> 
@@ -36,7 +36,7 @@ Important to note this is about VE vs infections. The high VE vs hospitalization
 <div class="thread-content"> 
 Antibodies to S1 spike protein after mRNA vaccines for @HopkinsMedicine healthcare workers
 
-<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782821" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamainternalmedic ...</a> 
+<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2782821" target="_blank" rel="noreferer">jamanetwork.com/journals/jamainternalmedic ...</a> 
 
 
 99.9% (953 of 954) developed antibodies (1 negative on an immunosuppressant med)
@@ -54,7 +54,7 @@ Correlates of higher levels 👇 </div>
 <div class="thread-content"> 
 A new, large Ontario study of &gt;6000 households (&gt;1700 w/ secondary attacks) concludes that younger children (0-3 years) may transmit covid more than older (14-17); odds ratio 1.4
 
-<a href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2783022" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamapediatrics/fu ...</a> 
+<a href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2783022" target="_blank" rel="noreferer">jamanetwork.com/journals/jamapediatrics/fu ...</a> 
  @JAMAPediatrics </div> 
 <a href="/twitter/erictopol/images/E869ZRHUYAY4ukt.jpg"  ><img src="/twitter/erictopol/images/E869ZRHUYAY4ukt.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E869bBXVoAIULiW.jpg"  ><img src="/twitter/erictopol/images/E869bBXVoAIULiW.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1427336757620592649" target="_blank" rel="noreferer">11:29 UCT-7</a> 
@@ -62,7 +62,7 @@ A new, large Ontario study of &gt;6000 households (&gt;1700 w/ secondary attacks
 <div class="content"> 
 An especially helpful accompanying editorial explainer for this report ("still there are some surprises in these data")
 
-<a href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2783027" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamapediatrics/fu ...</a> 
+<a href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2783027" target="_blank" rel="noreferer">jamanetwork.com/journals/jamapediatrics/fu ...</a> 
  by @susancoffin and @davidrubinmd </div> 
 <a href="/twitter/erictopol/images/E87qnUkVUBELKyO.jpg"  ><img src="/twitter/erictopol/images/E87qnUkVUBELKyO.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -85,12 +85,13 @@ Could oxidative stress ("redox imbalance") be the link between #LongCovid and my
 
 A new perspective @PNASNews 
 
-<a href="https://www.pnas.org/content/118/34/e2024358118" target="_blank" rel="noreferer">https://www.pnas.org/content/118/34/e2024358118</a> 
+<a href="https://www.pnas.org/content/118/34/e2024358118" target="_blank" rel="noreferer">pnas.org/content/118/34/e2024358118</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8721EkVUCAHoY9.jpg"  ><img src="/twitter/erictopol/images/E8721EkVUCAHoY9.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8722pVVUCA3jFz.jpg"  ><img src="/twitter/erictopol/images/E8722pVVUCA3jFz.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8724NcVUAosdSx.jpg"  ><img src="/twitter/erictopol/images/E8724NcVUAosdSx.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8725xtVUAUS5Oj.jpg"  ><img src="/twitter/erictopol/images/E8725xtVUAUS5Oj.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Pretty sharp contrast with the United States, where most airlines won't even require vaccination for their employees. Unable to even get to first base. https://t.co/ujqKLbjkbS</div> 
+Pretty sharp contrast with the United States, where most airlines won't even require vaccination for their employees. Unable to even get to first base. <a href="https://twitter.com/EricTopol/status/1426348331953885187" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1426348331953 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1427357126461050889" target="_blank" rel="noreferer">12:50 UCT-7</a> 
 </div> 
@@ -108,14 +109,8 @@ You don't think Iran data is credible?
 
 Look at the rest of the world. We're the outlier, underperforming, in case you haven't noticed. 
 
-https://t.co/JwR9qj1uI4</div> 
+<a href="https://twitter.com/EricTopol/status/1426683286483464197" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1426683286483 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1427371181481463824" target="_blank" rel="noreferer">13:46 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @kissane: Oregon, where I live, is in a serious covid surge, and OHSU (which handles a ton of our regional healthcare) has issued its ow…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -124,7 +119,7 @@ RT @kissane: Oregon, where I live, is in a serious covid surge, and OHSU (which 
 <div class="content"> 
 This sums it up in the US pretty well.
 
-<a href="https://www.ft.com/content/8138bbe4-3c45-469e-9a47-a67c7b0e3df5" target="_blank" rel="noreferer">https://www.ft.com/content/8138bbe4-3c45-469e-9a47 ...</a> 
+<a href="https://www.ft.com/content/8138bbe4-3c45-469e-9a47-a67c7b0e3df5" target="_blank" rel="noreferer">ft.com/content/8138bbe4-3c45-469e-9a47 ...</a> 
  Juxtaposed posting. </div> 
 <a href="/twitter/erictopol/images/E88hue2VEBAT1nR.jpg"  ><img src="/twitter/erictopol/images/E88hue2VEBAT1nR.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E88hwGbVEBEtYaw.jpg"  ><img src="/twitter/erictopol/images/E88hwGbVEBEtYaw.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -156,7 +151,7 @@ But here we are. And we're not done yet </div>
 <div class="content"> 
 Learning from Israel's Delta wave
 
-<a href="https://www.sciencemag.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta" target="_blank" rel="noreferer">https://www.sciencemag.org/news/2021/08/grim-warni ...</a> 
+<a href="https://www.sciencemag.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta" target="_blank" rel="noreferer">sciencemag.org/news/2021/08/grim-warni ...</a> 
  @ScienceMagazine by @meredithwadman 
 
 Getting max % fully vaccinated top priority
@@ -165,16 +160,9 @@ More mitigation
 
 Boosters -&gt;prompt surge of antibodies, side effects in 4500 recipients were no worse, sometimes milder than 2nd shot (in 88%) </div> 
 <a href="/twitter/erictopol/images/E89LQ3wVoA8z8A9.jpg"  ><img src="/twitter/erictopol/images/E89LQ3wVoA8z8A9.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1427451054707286037" target="_blank" rel="noreferer">19:03 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @mmcornelius: Thank you to everyone who got vaccinated. And masked up since the beginning and are doing so again. You did your part. You…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Impressive and a glimpse into the future. Sequencing #SARSCoV2 in hospitals rapidly identified 2 cases of B.1.621, community transmission in the UK, when 99% of cases were Delta. Done in &lt;24 hrs, instead of 10 days <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00482-5/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+Impressive and a glimpse into the future. Sequencing #SARSCoV2 in hospitals rapidly identified 2 cases of B.1.621, community transmission in the UK, when 99% of cases were Delta. Done in &lt;24 hrs, instead of 10 days <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00482-5/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
 
 
 @TheLancetInfDis </div> 
@@ -186,14 +174,14 @@ That was rapid🦠sequencing (&lt;12 hr) in hospitals to diagnose B.1.621 in the
 
 Here's another very impressive application: maintaining zero covid in New Zealand
 
-<a href="https://wwwnc.cdc.gov/eid/article/27/9/21-1097_article" target="_blank" rel="noreferer">https://wwwnc.cdc.gov/eid/article/27/9/21-1097_art ...</a> 
+<a href="https://wwwnc.cdc.gov/eid/article/27/9/21-1097_article" target="_blank" rel="noreferer">wwwnc.cdc.gov/eid/article/27/9/21-1097_art ...</a> 
  @Jemma_Geoghegan @AucklandUni and colleagues </div> 
 <a href="/twitter/erictopol/images/E89WdTEVoB8wowW.jpg"  ><img src="/twitter/erictopol/images/E89WdTEVoB8wowW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Boosters to roll out to all Americans beginning next month, indexed by time from vaccination and level of risk, breaking @washingtonpost 
 
-<a href="https://www.washingtonpost.com/health/2021/08/16/booster-shot-coronavirus/" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/08/16/b ...</a> 
+<a href="https://www.washingtonpost.com/health/2021/08/16/booster-shot-coronavirus/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/08/16/b ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E89cCP2VkAY41uv.png"  ><img src="/twitter/erictopol/images/E89cCP2VkAY41uv.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1427463201147424777" target="_blank" rel="noreferer">19:52 UCT-7</a> 

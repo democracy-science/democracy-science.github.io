@@ -42,7 +42,7 @@ Instead of 1.2/1000 above, if we use most recent @PHE_uk data, 16/1000 overall (
 
 58/1000 for age ≥50
 
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1005517/Technical_Briefing_19.pdf" target="_blank" rel="noreferer">https://assets.publishing.service.gov.uk/governmen ...</a> 
+<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1005517/Technical_Briefing_19.pdf" target="_blank" rel="noreferer">assets.publishing.service.gov.uk/governmen ...</a> 
  (approximates, d/t small admixture w/ breakthroughs) </div> 
 <a href="/twitter/erictopol/images/E7tvVoMUYAQ7yoz.jpg"  ><img src="/twitter/erictopol/images/E7tvVoMUYAQ7yoz.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -58,7 +58,7 @@ Where was the pressure months ago?
 
 The mandates have been proceeding despite FDA's lack of full approval, but would have occurred sooner and been more widespread had that review been completed
 
-<a href="https://www.wsj.com/articles/fda-under-pressure-to-grant-full-approval-to-covid-19-vaccines-11627810202?mod=hp_lead_pos10" target="_blank" rel="noreferer">https://www.wsj.com/articles/fda-under-pressure-to ...</a> 
+<a href="https://www.wsj.com/articles/fda-under-pressure-to-grant-full-approval-to-covid-19-vaccines-11627810202?mod=hp_lead_pos10" target="_blank" rel="noreferer">wsj.com/articles/fda-under-pressure-to ...</a> 
  by @felschwartz  and @sdut editorial today </div> 
 <a href="/twitter/erictopol/images/E7t9GQMVIAc9Sac.jpg"  ><img src="/twitter/erictopol/images/E7t9GQMVIAc9Sac.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7t9K1cUYAAxDw4.jpg"  ><img src="/twitter/erictopol/images/E7t9K1cUYAAxDw4.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -69,13 +69,6 @@ On May 1 @CDCgov stopped tracking breakthrough infections unless hospitalized. T
 </div> 
 <div class="content"> 
 And sequencing as much as possible to determine further evolution of 🦠. We need to know ASAP whether and in whom boosters would be needed. Haven't we had enough of flying blind in this country?</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1421884941218947072" target="_blank" rel="noreferer">10:26 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @dwallacewells: “The most hopeful and encouraging facts about the Delta surge were even harder to find in the coverage of the CDC slides…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -112,16 +105,9 @@ Delta is daunting: one of the highest % vaccinated in the US, San Francisco
 
 —Our tracking for these is woeful
 
-<a href="https://www.nytimes.com/live/2021/08/01/world/covid-delta-variant-vaccine?type=styln-live-updates&label=coronavirus%20updates&index=0&action=click&module=Top%20Stories&pgtype=Homepage#covid-san-francisco-hospital-delta" target="_blank" rel="noreferer">https://www.nytimes.com/live/2021/08/01/world/covi ...</a> 
+<a href="https://www.nytimes.com/live/2021/08/01/world/covid-delta-variant-vaccine?type=styln-live-updates&label=coronavirus%20updates&index=0&action=click&module=Top%20Stories&pgtype=Homepage#covid-san-francisco-hospital-delta" target="_blank" rel="noreferer">nytimes.com/live/2021/08/01/world/covi ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7uuGbEVkAEFwTd.jpg"  ><img src="/twitter/erictopol/images/E7uuGbEVkAEFwTd.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1421927284374523904" target="_blank" rel="noreferer">13:14 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @arimoin: Agree with @EricTopol 100%. We need to understand transmission real risk of infection, potential for transmission in household…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421931167855480835" target="_blank" rel="noreferer">13:29 UCT-7</a> 
@@ -147,17 +133,6 @@ Footnotes
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1421958102568427521" target="_blank" rel="noreferer">15:16 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DinaPomeranz: This is a nice way to display Covid infections by vaccination status. Hopefully other outlets will follow.
-
-
-
-The differenc…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1422033221177413632" target="_blank" rel="noreferer">20:15 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -167,12 +142,5 @@ Hospitalizations are now &gt;49,000, highest since February,  rising rapidly, an
 
 It's not too late to double down on all the things we know work💉,😷, distancing, rapid tests to limit the hit </div> 
 <a href="/twitter/erictopol/images/E7wRFf2VkAg7gQy.jpg"  ><img src="/twitter/erictopol/images/E7wRFf2VkAg7gQy.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1422041036432367621" target="_blank" rel="noreferer">20:46 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @BS_immunized: @EricTopol It's almost like Canadians are willing to do what's best for their society and are less influenced by superflu…</div> 
-</div> 
 
 

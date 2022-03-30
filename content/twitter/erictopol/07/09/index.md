@@ -21,7 +21,7 @@ Just published @NatureMedicine
 
 A large Qatar @moderna_tx vaccine effectiveness study shows how well protection holds up to the Gamma and Beta variants, 2-doses 96-100% vs severe illness
 
-<a href="https://www.nature.com/articles/s41591-021-01446-y" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01446-y</a> 
+<a href="https://www.nature.com/articles/s41591-021-01446-y" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01446-y</a> 
  </div> 
 <a href="/twitter/erictopol/images/E52x3pFVIAcxy0e.jpg"  ><img src="/twitter/erictopol/images/E52x3pFVIAcxy0e.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -31,7 +31,7 @@ A large Qatar @moderna_tx vaccine effectiveness study shows how well protection 
 <div class="content"> 
 Summary @FT of vaccine effectiveness, AZ &amp; mRNA, against Delta in multiple reported studies. The Israel MoH is an outlier. The others all show high levels of protection with 2 doses vs severe illness; mRNA vs infection ~85-90%
 
-<a href="https://www.ft.com/content/5a24d39a-a702-40d2-876d-b12a524dc9a5" target="_blank" rel="noreferer">https://www.ft.com/content/5a24d39a-a702-40d2-876d ...</a> 
+<a href="https://www.ft.com/content/5a24d39a-a702-40d2-876d-b12a524dc9a5" target="_blank" rel="noreferer">ft.com/content/5a24d39a-a702-40d2-876d ...</a> 
  @donatopmancini @jburnmurdoch </div> 
 <a href="/twitter/erictopol/images/E52yzdHUcAA0drn.jpg"  ><img src="/twitter/erictopol/images/E52yzdHUcAA0drn.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E52yjlfVIAMia71.jpg"  ><img src="/twitter/erictopol/images/E52yjlfVIAMia71.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -43,7 +43,7 @@ Part of the challenge that Delta presents may be tied to this finding
 
 The variant's viral load ~1,000X higher than previous strains (reflected by low CTs), more infectious in the early stages of the illness
 
-<a href="https://virological.org/t/viral-infection-and-transmission-in-a-large-well-traced-outbreak-caused-by-the-delta-sars-cov-2-variant/724" target="_blank" rel="noreferer">https://virological.org/t/viral-infection-and-tran ...</a> 
+<a href="https://virological.org/t/viral-infection-and-transmission-in-a-large-well-traced-outbreak-caused-by-the-delta-sars-cov-2-variant/724" target="_blank" rel="noreferer">virological.org/t/viral-infection-and-tran ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E53HuYRUcAQ4osv.png"  ><img src="/twitter/erictopol/images/E53HuYRUcAQ4osv.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E53Hv4vUcAEkcWo.jpg"  ><img src="/twitter/erictopol/images/E53Hv4vUcAEkcWo.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -60,7 +60,7 @@ The 3rd wave in South Africa, along with many other neighboring countries (espec
 <div class="content"> 
 New @CDCMMWR report of a Delta variant outbreak in a gymnastic facility, back in April/May: 47 infections; 91% among non-vaccinated or partially vaccinated; mostly in young and only 2 severe
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7028e2.htm?s_cid=mm7028e2_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7028e2.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7028e2.htm?s_cid=mm7028e2_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7028e2.ht ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E53QqEWUUAAwZxs.png"  ><img src="/twitter/erictopol/images/E53QqEWUUAAwZxs.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -84,7 +84,7 @@ Israel 85%
 <div class="thread-content"> 
 The new @PHE_Uk report today
 
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000678/Variants_of_Concern_VOC_Technical_Briefing_18.pdf" target="_blank" rel="noreferer">https://assets.publishing.service.gov.uk/governmen ...</a> 
+<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000678/Variants_of_Concern_VOC_Technical_Briefing_18.pdf" target="_blank" rel="noreferer">assets.publishing.service.gov.uk/governmen ...</a> 
 
 
 Good to see Delta's secondary attack rate (an indicator of transmissibility) has continued to drop and now similar to that of Alpha </div> 
@@ -101,27 +101,21 @@ Also the case fatality rate for Delta continues to lessen, 0.2% compared with 1.
 <div class="content"> 
 The @US_FDA responds today to my @nytopinion essay asking for full approval of mRNA vaccines
 
-<a href="https://www.nytimes.com/2021/07/09/opinion/letters/fda-covid-vaccines.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/09/opinion/letters ...</a> 
+<a href="https://www.nytimes.com/2021/07/09/opinion/letters/fda-covid-vaccines.html" target="_blank" rel="noreferer">nytimes.com/2021/07/09/opinion/letters ...</a> 
 
 
-oped <a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
+oped <a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
 
 
 The message "get vaccinated right now" would really work well when full approval was granted </div> 
 <a href="/twitter/erictopol/images/E53orcBVoAQwQcO.jpg"  ><img src="/twitter/erictopol/images/E53orcBVoAQwQcO.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E53os3JUYAIDVcb.jpg"  ><img src="/twitter/erictopol/images/E53os3JUYAIDVcb.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1413580463893991427" target="_blank" rel="noreferer">12:27 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @JamesSurowiecki: The FDA says all three vaccines have been "thoroughly evaluated" and "meet the FDA's rigorous standards," but also say…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1413593695060860929" target="_blank" rel="noreferer">13:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-Time for 1001 https://t.co/yYvglrDmpl</div> 
+Time for 1001 <a href="https://twitter.com/EricTopol/status/1411693840767995905" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1411693840767 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -132,7 +126,8 @@ When was the last time a company announced it would file an EUA (@Pfizer, vaccin
 
 Never.
 
-https://t.co/vgYzRVOn0e by @Carolynyjohnson</div> 
+<a href="https://www.washingtonpost.com/health/2021/07/09/pfizer-booster-shots-hhs/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/07/09/p ...</a> 
+ by @Carolynyjohnson</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -150,7 +145,7 @@ Meanwhile, the @US_FDA Center of Biologics staff (same division as vaccines and 
 <div class="content"> 
 One way #SARSCoV2 can achieve immune evasiveness is via its nucleocapsid protein and MAVS, inhibiting our innate immunity, 1st line of defense (type 1 interferon)
 
-<a href="https://www.nature.com/articles/s41556-021-00712-y" target="_blank" rel="noreferer">https://www.nature.com/articles/s41556-021-00712-y</a> 
+<a href="https://www.nature.com/articles/s41556-021-00712-y" target="_blank" rel="noreferer">nature.com/articles/s41556-021-00712-y</a> 
  @NatureCellBio by @laoneill111 and colleagues </div> 
 <a href="/twitter/erictopol/images/E54payLUcAAo473.jpg"  ><img src="/twitter/erictopol/images/E54payLUcAAo473.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E54pdYTVoAQ0mlW.jpg"  ><img src="/twitter/erictopol/images/E54pdYTVoAQ0mlW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -162,7 +157,7 @@ Hoping that Arkansas is not representative for where US is headed for Delta's im
 
 Highest in US cases 23/100,000, &gt;20% test positivity, hospitalizations up 44% past 2 weeks, deaths increasing, near lowest vaccinated state at 35% 2-doses
 
-<a href="https://coronavirus.jhu.edu/testing/individual-states/arkansas" target="_blank" rel="noreferer">https://coronavirus.jhu.edu/testing/individual-sta ...</a> 
+<a href="https://coronavirus.jhu.edu/testing/individual-states/arkansas" target="_blank" rel="noreferer">coronavirus.jhu.edu/testing/individual-sta ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5584FQVUAkNaV5.jpg"  ><img src="/twitter/erictopol/images/E5584FQVUAkNaV5.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E558579VkAE43SO.jpg"  ><img src="/twitter/erictopol/images/E558579VkAE43SO.jpg" alt="Twitter image" ></img></a></div> 
 

@@ -9,7 +9,7 @@ Our oped on the big mistake @CDCgov on boosters: All adults, not just age 50 plu
 
 @washingtonpost @mtosterholm 
 
-<a href="https://www.washingtonpost.com/opinions/2021/11/24/cdc-got-it-wrong-it-should-have-urged-all-adults-get-covid-19-booster-shots/" target="_blank" rel="noreferer">https://www.washingtonpost.com/opinions/2021/11/24 ...</a> 
+<a href="https://www.washingtonpost.com/opinions/2021/11/24/cdc-got-it-wrong-it-should-have-urged-all-adults-get-covid-19-booster-shots/" target="_blank" rel="noreferer">washingtonpost.com/opinions/2021/11/24 ...</a> 
  @PostOpinions </div> 
 <a href="/twitter/erictopol/images/FE99A3jVIAcqHwL.jpg"  ><img src="/twitter/erictopol/images/FE99A3jVIAcqHwL.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Now is not the time to withhold a vital and validated means of boosting our efforts to contain the virus </div> 
@@ -23,18 +23,11 @@ Each day in the United States, the number of people with waning immunity greatly
 
 Notably, the @CDCgov position on boosters is different from the @WhiteHouse</div> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1463569368143437824" target="_blank" rel="noreferer">11:05 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DrLeanaWen: "...The CDC recommended last week that all adults be made eligible for booster shots but only urged shots for people older…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 “We are in the early stages of what will be a substantial fifth wave”
 
-<a href="https://www.ft.com/thread-content/cde3ef32-a754-4aae-82ca-7d8153af51b7" target="_blank" rel="noreferer">https://www.ft.com/thread-content/cde3ef32-a754-4aae-82ca ...</a> 
+<a href="https://www.ft.com/thread-content/cde3ef32-a754-4aae-82ca-7d8153af51b7" target="_blank" rel="noreferer">ft.com/thread-content/cde3ef32-a754-4aae-82ca ...</a> 
   by @JamieSmythF @caitlinsgilbert
 
 With low vaccination % and waning, we are far less protected than countries in Europe experiencing a  surge </div> 
@@ -52,7 +45,7 @@ The UK's path towards improvement as much of Europe is worsening
 
 1. Boosters (3rd shots) are working, as seen by fewer hospital admissions among the age groups receiving them
 
-<a href="https://www.ft.com/thread-content/974487ab-54be-4b43-945c-597277aa1292" target="_blank" rel="noreferer">https://www.ft.com/thread-content/974487ab-54be-4b43-945c ...</a> 
+<a href="https://www.ft.com/thread-content/974487ab-54be-4b43-945c-597277aa1292" target="_blank" rel="noreferer">ft.com/thread-content/974487ab-54be-4b43-945c ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FE8PTc8UUAAY_FI.jpg"  ><img src="/twitter/erictopol/images/FE8PTc8UUAAY_FI.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 2. Infection-acquired immunity playing a role </div> 
@@ -75,7 +68,8 @@ Our @ScrippsDTC processes your data and gets it back to you.
 
 It's free. It could make a difference
 
-@ScrippsRTI @scrippsresearch @careevolution https://t.co/HF5yhNcdNC</div> 
+@ScrippsRTI @scrippsresearch @careevolution <a href="https://twitter.com/BacaMotes/status/1463575740054597634" target="_blank" rel="noreferer">twitter.com/BacaMotes/status/1463575740054 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -109,15 +103,6 @@ That means you don't understand:
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1463618427336085507" target="_blank" rel="noreferer">14:20 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @Laurie_Garrett: Tough words from @EricTopol &amp; Michael Osterholm:
-
-"By not strongly urging all fully vaccinated adults to get a 3rd shot,…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1463628744707477516" target="_blank" rel="noreferer">15:01 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -125,7 +110,7 @@ New @NEJM
 
 Assessment of Covid reinfections in Qatar's national database, w/ Alpha and Beta variants: "reinfections had 90% lower odds of resulting in hospitalizations or deaths than primary infections"
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMc2108120" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMc2108120</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMc2108120" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMc2108120</a> 
 
 
 Reflects the impact of infection-acquired immunity </div> 
@@ -138,7 +123,7 @@ The time course and extent of breakthrough infections  (2 doses, Pfizer vaccine)
 
 A study of over 83,000 people serially assessed demonstrates a gradual increase in risk across all adult age groups 
 
-<a href="https://www.sciencemediacentre.org/expert-reaction-to-study-looking-at-covid-infection-risk-as-time-increases-after-second-pfizer-vaccine-dose-in-israel/" target="_blank" rel="noreferer">https://www.sciencemediacentre.org/expert-reaction ...</a> 
+<a href="https://www.sciencemediacentre.org/expert-reaction-to-study-looking-at-covid-infection-risk-as-time-increases-after-second-pfizer-vaccine-dose-in-israel/" target="_blank" rel="noreferer">sciencemediacentre.org/expert-reaction ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FE_mgsBVEAMi_hg.jpg"  ><img src="/twitter/erictopol/images/FE_mgsBVEAMi_hg.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The odds ratio for (OR) risk of infection increased for each age group after 90 days. After 6 months, the OR for ages 40-59 was 40-fold. </div> 
@@ -150,7 +135,8 @@ The @bmj_latest is not publishing the papers on their website once their embargo
 
 The link will be
 
-https://t.co/5rD4805KJq</div> 
+<a href="https://www.bmj.com/content/375/bmj-2021-067873" target="_blank" rel="noreferer">bmj.com/content/375/bmj-2021-067873</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -163,18 +149,10 @@ In the US today
 
 —Another ~1,000 people in the hospital (-&gt; ~52,000)
 
-https://t.co/xStmHRzwg2
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
+
 
 Response to the 5th wave:</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1463683960618176517" target="_blank" rel="noreferer">18:40 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @EricTopol: Our oped on the big mistake @CDCgov on boosters: All adults, not just age 50 plus, need them. Here's why
-
-@washingtonpost @mt…</div> 
 </div> 
 
 

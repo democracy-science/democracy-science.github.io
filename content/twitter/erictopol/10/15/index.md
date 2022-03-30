@@ -12,7 +12,7 @@ Just published @NEJM
 
 Neutralizing antibody levels and T cells response out to 8 months for Pfizer, Moderna and J&amp;J vaccines 
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMc2115596" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMc2115596</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMc2115596" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMc2115596</a> 
 
 
 Moderna highest antibody response; J&amp;J while lower doesn't fall off and best CD8 T-cell response at 8 months </div> 
@@ -34,10 +34,10 @@ The UK was descending and now heading back up towards their Delta peak </div>
 <div class="content"> 
 The high Infection rate among children is a significant  problem for both countries
 
-<a href="https://twitter.com/chrischirp/status/1448969941143724050" target="_blank" rel="noreferer">https://twitter.com/chrischirp/status/144896994114 ...</a> 
+<a href="https://twitter.com/chrischirp/status/1448969941143724050" target="_blank" rel="noreferer">twitter.com/chrischirp/status/144896994114 ...</a> 
 
 
-<a href="https://www.nbcnews.com/news/us-news/data-shows-more-children-are-getting-sick-dying-covid-n1281616" target="_blank" rel="noreferer">https://www.nbcnews.com/news/us-news/data-shows-mo ...</a> 
+<a href="https://www.nbcnews.com/news/us-news/data-shows-more-children-are-getting-sick-dying-covid-n1281616" target="_blank" rel="noreferer">nbcnews.com/news/us-news/data-shows-mo ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBvudL0VUAUd2pT.png"  ><img src="/twitter/erictopol/images/FBvudL0VUAUd2pT.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -47,7 +47,7 @@ The high Infection rate among children is a significant  problem for both countr
 <div class="content"> 
 New data from NIH mix and match study: strong antibody response induced vs Delta for all additional vaccine (Pfizer, Moderna, J&amp;J) shots
 
-<a href="https://www.fda.gov/media/153128/download" target="_blank" rel="noreferer">https://www.fda.gov/media/153128/download</a> 
+<a href="https://www.fda.gov/media/153128/download" target="_blank" rel="noreferer">fda.gov/media/153128/download</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBvyPDiVcAAebUG.jpg"  ><img src="/twitter/erictopol/images/FBvyPDiVcAAebUG.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -55,7 +55,8 @@ New data from NIH mix and match study: strong antibody response induced vs Delta
 <a href="https://twitter.com/erictopol/status/1449033122041909251" target="_blank" rel="noreferer">08:23 UCT-7</a> 
 </div> 
 <div class="content"> 
-This week brought a major change in recommendations for taking or avoiding low dose aspirin for prevention of heart attacks and strokes. It's confusing, but cleared up by @taraparkerpope @nythealth https://t.co/f29a6ZKT2i</div> 
+This week brought a major change in recommendations for taking or avoiding low dose aspirin for prevention of heart attacks and strokes. It's confusing, but cleared up by @taraparkerpope @nythealth <a href="https://www.nytimes.com/article/aspirin-recommendation-explained.html" target="_blank" rel="noreferer">nytimes.com/article/aspirin-recommenda ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -68,10 +69,10 @@ You're about to deliver a baby. Does your obstetrician used the evidence base to
 
 No. It's largely driven by the last patient
 
-<a href="https://www.science.org/doi/10.1126/science.abc9818" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abc981 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abc9818" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abc981 ...</a> 
 
 
-<a href="https://www.science.org/doi/10.1126/science.abl5647" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abl564 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abl5647" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abl564 ...</a> 
 
 
 @ScienceMagazine @vini_singh_ </div> 
@@ -85,7 +86,7 @@ How do you get Super-Immunity vs Covid?
 
 Prior covid plus a vaccine shot
 
-<a href="https://www.nature.com/articles/d41586-021-02795-x" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02795-x</a> 
+<a href="https://www.nature.com/articles/d41586-021-02795-x" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02795-x</a> 
  by @ewencallaway @Nature 
 
 (PS: you don't want to get Covid, but in case you did) </div> 
@@ -97,7 +98,7 @@ Prior covid plus a vaccine shot
 <div class="content"> 
 Great summary by @HelenBranswell and @matthewherper of today's meeting
 
-The idea of "one and done" for J&amp;J or boosting it only with J&amp;J (rather than mixing with mRNA as 2nd dose) didn't go over well today  <a href="https://twitter.com/HelenBranswell/status/1449066049320718341" target="_blank" rel="noreferer">https://twitter.com/HelenBranswell/status/14490660 ...</a> 
+The idea of "one and done" for J&amp;J or boosting it only with J&amp;J (rather than mixing with mRNA as 2nd dose) didn't go over well today  <a href="https://twitter.com/HelenBranswell/status/1449066049320718341" target="_blank" rel="noreferer">twitter.com/HelenBranswell/status/14490660 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FBwtjXcVkAQ02K5.jpg"  ><img src="/twitter/erictopol/images/FBwtjXcVkAQ02K5.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

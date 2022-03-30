@@ -7,7 +7,7 @@ category = "Twitter"
 <div class="thread-content"> 
 Federal advisors on boosters who think there isn't adequate evidence and "the decision would be viewed by anxious Americans who might conclude mistakenly that the vaccines are ineffective"
 
-<a href="https://www.nytimes.com/2021/10/25/health/covid-boosters-cdc-fda.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/10/25/health/covid-bo ...</a> 
+<a href="https://www.nytimes.com/2021/10/25/health/covid-boosters-cdc-fda.html" target="_blank" rel="noreferer">nytimes.com/2021/10/25/health/covid-bo ...</a> 
 
 
 The evidence is clearcut. And the vaccines are remarkably effective </div> 
@@ -17,7 +17,7 @@ The evidence is clearcut. And the vaccines are remarkably effective </div>
 <div class="content"> 
 The evidence from a 10,000 person randomized trial across all age groups
 
-<a href="https://twitter.com/erictopol/status/1451170313492852740" target="_blank" rel="noreferer">https://twitter.com/erictopol/status/1451170313492 ...</a> 
+<a href="https://twitter.com/erictopol/status/1451170313492852740" target="_blank" rel="noreferer">twitter.com/erictopol/status/1451170313492 ...</a> 
 
 
 As if people who are vaccinated can't handle 2 messages and "anxious Americans" wouldn't get even more anxious if they had a serious breakthrough infection </div> 
@@ -33,7 +33,7 @@ Why do certain young, healthy people get severe Covid?
 
 An exhaustive, deep search identifies potential genes/pathways to explain, including ADAM9
 
-<a href="https://www.science.org/doi/10.1126/scitranslmed.abj7521" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/scitranslmed.a ...</a> 
+<a href="https://www.science.org/doi/10.1126/scitranslmed.abj7521" target="_blank" rel="noreferer">science.org/doi/10.1126/scitranslmed.a ...</a> 
  #AI @RaphaelCarapito and colleagues </div> 
 <a href="/twitter/erictopol/images/FCoctTzXEAcQz46.jpg"  ><img src="/twitter/erictopol/images/FCoctTzXEAcQz46.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -43,7 +43,7 @@ An exhaustive, deep search identifies potential genes/pathways to explain, inclu
 <div class="content"> 
 The doctors, such as the World Doctors Alliance, who belong in the Hall of Shame, spreading false Covid conspiratorial information, propelled via @Facebook 
 
-<a href="https://www.washingtonpost.com/politics/2021/10/20/meet-doctors-group-spreading-covid-conspiracy-theories-plain-sight-facebook/" target="_blank" rel="noreferer">https://www.washingtonpost.com/politics/2021/10/20 ...</a> 
+<a href="https://www.washingtonpost.com/politics/2021/10/20/meet-doctors-group-spreading-covid-conspiracy-theories-plain-sight-facebook/" target="_blank" rel="noreferer">washingtonpost.com/politics/2021/10/20 ...</a> 
  @viaCristiano </div> 
 <a href="/twitter/erictopol/images/FCjO8LtVkAEc52v.jpg"  ><img src="/twitter/erictopol/images/FCjO8LtVkAEc52v.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -55,7 +55,7 @@ Just out @ScienceMagazine
 
 Why is the Delta variant so hyper-contagious?
 
-<a href="https://www.science.org/doi/10.1126/science.abl9463" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abl946 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abl9463" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abl946 ...</a> 
 
 
 For one, it gets into cells via membrane fusion more efficiently, faster, and at lower levels of its receptor;
@@ -73,12 +73,12 @@ Only 1 continent is currently on the rise with Covid: Europe @OurWorldInData
 
 England's cases are in decline 👍
 
-<a href="https://www.ft.com/content/40b15836-a668-4750-99b6-6183425411c2" target="_blank" rel="noreferer">https://www.ft.com/content/40b15836-a668-4750-99b6 ...</a> 
+<a href="https://www.ft.com/content/40b15836-a668-4750-99b6-6183425411c2" target="_blank" rel="noreferer">ft.com/content/40b15836-a668-4750-99b6 ...</a> 
 
 
 But Central and Eastern Europe are soaring
 
-<a href="https://www.ft.com/content/06b30dfb-998e-443f-a2bd-41f0b2ca4ab9" target="_blank" rel="noreferer">https://www.ft.com/content/06b30dfb-998e-443f-a2bd ...</a> 
+<a href="https://www.ft.com/content/06b30dfb-998e-443f-a2bd-41f0b2ca4ab9" target="_blank" rel="noreferer">ft.com/content/06b30dfb-998e-443f-a2bd ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCpYc9BUUAEuWqj.jpg"  ><img src="/twitter/erictopol/images/FCpYc9BUUAEuWqj.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCpYNZdVgAM_ABa.jpg"  ><img src="/twitter/erictopol/images/FCpYNZdVgAM_ABa.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCpYO21VgAEHqKK.jpg"  ><img src="/twitter/erictopol/images/FCpYO21VgAEHqKK.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -97,7 +97,7 @@ We have learned that vaccine dose spacing 8-12 weeks induces a better immune res
 <hr><div class="thread-content"> 
 The event curve for symptomatic infections in the age 5-11 Pfizer trial presented at FDA today (2 doses given, 3 weeks apart)
 
-<a href="https://www.fda.gov/media/153513/download" target="_blank" rel="noreferer">https://www.fda.gov/media/153513/download</a> 
+<a href="https://www.fda.gov/media/153513/download" target="_blank" rel="noreferer">fda.gov/media/153513/download</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCpDSV-VcAgvPR1.jpg"  ><img src="/twitter/erictopol/images/FCpDSV-VcAgvPR1.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1453097949156630529" target="_blank" rel="noreferer">13:35 UCT-7</a> 
@@ -127,7 +127,7 @@ Puerto Rico: 3 hospitalizations/100K, 69% vaccinated </div>
 <div class="content"> 
 What happens to the Ivermectin story when you take out fraud and high risk of bias (ROB)?
 
-<a href="https://www.researchsquare.com/article/rs-1003006/v1" target="_blank" rel="noreferer">https://www.researchsquare.com/article/rs-1003006/ ...</a> 
+<a href="https://www.researchsquare.com/article/rs-1003006/v1" target="_blank" rel="noreferer">researchsquare.com/article/rs-1003006/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCqIlEHUYAM8mvw.jpg"  ><img src="/twitter/erictopol/images/FCqIlEHUYAM8mvw.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -137,7 +137,7 @@ What happens to the Ivermectin story when you take out fraud and high risk of bi
 <div class="content"> 
 'The benefit of a third [booster] dose in reducing transmission is sizeable and increases with vaccine coverage and contact rates among individuals."
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.10.25.21265500v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.10.25 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.25.21265500v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.25 ...</a> 
  by @billy_gardner_ and @DiseaseEcology </div> 
 <a href="/twitter/erictopol/images/FCqihsfUYAMSLLl.jpg"  ><img src="/twitter/erictopol/images/FCqihsfUYAMSLLl.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -147,14 +147,5 @@ What happens to the Ivermectin story when you take out fraud and high risk of bi
 <div class="content"> 
 Not quite, but soon :-) </div> 
 <a href="/twitter/erictopol/images/FCrLSCUVgAcdp3m.jpg"  ><img src="/twitter/erictopol/images/FCrLSCUVgAcdp3m.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1453203245057208329" target="_blank" rel="noreferer">20:33 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @EricTopol: Young children, age 5/6-11, and vaccination dose of mRNA
-
-Pfizer used 10 μg in their trial of 2,270 children w/ 90.7% efficac…</div> 
-</div> 
 
 

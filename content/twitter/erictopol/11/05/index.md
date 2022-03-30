@@ -7,10 +7,10 @@ category = "Twitter"
 <div class="thread-content"> 
 Big and very positive news today on Pfizer's anti-Covid pill --Paxlovid --that reduced hospitalization and death by 89%, taken within 3 days of diagnosis👍
 
-<a href="https://www.wsj.com/articles/pfizer-says-covid-19-pill-is-89-effective-in-preliminary-assessment-11636109100?mod=hp_lead_pos2" target="_blank" rel="noreferer">https://www.wsj.com/articles/pfizer-says-covid-19- ...</a> 
+<a href="https://www.wsj.com/articles/pfizer-says-covid-19-pill-is-89-effective-in-preliminary-assessment-11636109100?mod=hp_lead_pos2" target="_blank" rel="noreferer">wsj.com/articles/pfizer-says-covid-19- ...</a> 
  @JaredSHopkins 
 
-This week's @ScienceMagazine paper below on the 2nd such pill  <a href="https://twitter.com/EricTopol/status/1455991232493068291" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1455991232493 ...</a> 
+This week's @ScienceMagazine paper below on the 2nd such pill  <a href="https://twitter.com/EricTopol/status/1455991232493068291" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1455991232493 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FDbeXRXVIAc38or.jpg"  ><img src="/twitter/erictopol/images/FDbeXRXVIAc38or.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 At interim analysis, overwhelming efficacy necessitated stopping the trial for ethical considerations:
@@ -19,7 +19,7 @@ At interim analysis, overwhelming efficacy necessitated stopping the trial for e
 
 385 people who got placebo: 27 hospitalizations, 7 deaths
 
-<a href="https://www.washingtonpost.com/health/2021/11/05/pfizer-covid-pill/?utm_source=alert&utm_medium=email&utm_campaign=wp_news_alert_revere&location=alert&wpmk=1&wpisrc=al_news__alert-national--alert-world--alert-hse&pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb29raWVuYW1lIjoid3BfY3J0aWQiLCJpc3MiOiJDYXJ0YSIsImNvb2tpZXZhbHVlIjoiNTk2YTk5ODlhZGU0ZTIwZWUzNzQyM2ZlIiwidGFnIjoid3BfbmV3c19hbGVydF9yZXZlcmUiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vaGVhbHRoLzIwMjEvMTEvMDUvcGZpemVyLWNvdmlkLXBpbGwvP3V0bV9zb3VyY2U9YWxlcnQmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249d3BfbmV3c19hbGVydF9yZXZlcmUmbG9jYXRpb249YWxlcnQmd3Btaz0xJndwaXNyYz1hbF9uZXdzX19hbGVydC1uYXRpb25hbC0tYWxlcnQtd29ybGQtLWFsZXJ0LWhzZSJ9.JeAD3bpd_9RAzLhAbZ9EOeOxJX2SOXC8Z0J6Oko6JuY" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/2021/11/05/p ...</a> 
+<a href="https://www.washingtonpost.com/health/2021/11/05/pfizer-covid-pill/?utm_source=alert&utm_medium=email&utm_campaign=wp_news_alert_revere&location=alert&wpmk=1&wpisrc=al_news__alert-national--alert-world--alert-hse&pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb29raWVuYW1lIjoid3BfY3J0aWQiLCJpc3MiOiJDYXJ0YSIsImNvb2tpZXZhbHVlIjoiNTk2YTk5ODlhZGU0ZTIwZWUzNzQyM2ZlIiwidGFnIjoid3BfbmV3c19hbGVydF9yZXZlcmUiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vaGVhbHRoLzIwMjEvMTEvMDUvcGZpemVyLWNvdmlkLXBpbGwvP3V0bV9zb3VyY2U9YWxlcnQmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249d3BfbmV3c19hbGVydF9yZXZlcmUmbG9jYXRpb249YWxlcnQmd3Btaz0xJndwaXNyYz1hbF9uZXdzX19hbGVydC1uYXRpb25hbC0tYWxlcnQtd29ybGQtLWFsZXJ0LWhzZSJ9.JeAD3bpd_9RAzLhAbZ9EOeOxJX2SOXC8Z0J6Oko6JuY" target="_blank" rel="noreferer">washingtonpost.com/health/2021/11/05/p ...</a> 
  @Carolynyjohnson </div> 
 <a href="/twitter/erictopol/images/FDbjQywUYAkJylC.jpg"  ><img src="/twitter/erictopol/images/FDbjQywUYAkJylC.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1456606621430206467" target="_blank" rel="noreferer">05:57 UCT-7</a> 
@@ -31,7 +31,8 @@ The study also allowed 1,219 patients to start taking the treatment (or placebo)
 
 6 who received Paxlovid, an 85% reduction
 
-https://t.co/whWxOunD9p @matthewherper @statnews</div> 
+<a href="https://www.statnews.com/2021/11/05/experimental-pfizer-pill-prevents-covid-hospitalizations-and-deaths/?utm_source=STAT+Newsletters&utm_campaign=d6f48208e6-MR_COPY_01&utm_medium=email&utm_term=0_8cab1d7961-d6f48208e6-118704797" target="_blank" rel="noreferer">statnews.com/2021/11/05/experimental-p ...</a> 
+ @matthewherper @statnews</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -49,7 +50,7 @@ No head-to-head trial to know about true comparative efficacy, but key differenc
 <div class="content"> 
 The situation throughout most of Europe now is not at all encouraging
 
-<a href="https://www.ft.com/content/c08951d3-4a88-4edd-9219-a2089879bd07" target="_blank" rel="noreferer">https://www.ft.com/content/c08951d3-4a88-4edd-9219 ...</a> 
+<a href="https://www.ft.com/content/c08951d3-4a88-4edd-9219-a2089879bd07" target="_blank" rel="noreferer">ft.com/content/c08951d3-4a88-4edd-9219 ...</a> 
  @FT by @GuyChazan @labboudles @clivecookson 
 
 Western Europe </div> 
@@ -72,14 +73,8 @@ Anti-vaxxers are posting that vaccines don't block spread or catching Covid. Tha
 
 —Vaccines markedly prevent symptomatic infections; for mRNAs efficacy = 95%, maintained w/ 3rd shot at ≥ 6 months
 
-—Vaccines markedly reduce spread, ≥ 50% https://t.co/3NbzeyS1Gj</div> 
+—Vaccines markedly reduce spread, ≥ 50% <a href="https://twitter.com/erictopol/status/1453753424483258368" target="_blank" rel="noreferer">twitter.com/erictopol/status/1453753424483 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1456726883165360130" target="_blank" rel="noreferer">13:55 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @gradydoctor: Just hanging out talking to @cuttingforstone and @EricTopol on Friday and trying to front like it’s no big deal. Haaaa. (G…</div> 
 </div> 
 
 

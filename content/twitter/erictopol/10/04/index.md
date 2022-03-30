@@ -10,7 +10,8 @@ category = "Twitter"
 <div class="content"> 
 Not every day your colleague and friend wins a Nobel Prize,
 
-Congrats @ardemp !!! @scrippsresearch https://t.co/Le02f0j8Zl</div> 
+Congrats @ardemp !!! @scrippsresearch <a href="https://twitter.com/NobelPrize/status/1444970585709219840" target="_blank" rel="noreferer">twitter.com/NobelPrize/status/144497058570 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -21,7 +22,7 @@ Covid in retreat.
 
 "Whatever this autumn brings, the worst of the pandemic is almost certainly behind us."
 
-<a href="https://www.nytimes.com/2021/10/04/briefing/covid-caseload-retreat-us-cases.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/10/04/briefing/covid- ...</a> 
+<a href="https://www.nytimes.com/2021/10/04/briefing/covid-caseload-retreat-us-cases.html" target="_blank" rel="noreferer">nytimes.com/2021/10/04/briefing/covid- ...</a> 
  @DLeonhardt </div> 
 <a href="/twitter/erictopol/images/FA3CRhcVIAcWK0E.jpg"  ><img src="/twitter/erictopol/images/FA3CRhcVIAcWK0E.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -33,7 +34,8 @@ The &gt;30-fold impact of vaccination for reducing hospitalization for age 60+ v
 <div class="content"> 
 The importance of age can't be emphasized enough
 
-https://t.co/aiGTLSkxVP by @dwallacewells @NYMag 
+<a href="https://nymag.com/intelligencer/2021/09/covid-19-vaccine-status-age-discrimination.html" target="_blank" rel="noreferer">nymag.com/intelligencer/2021/09/covid-19-v ...</a> 
+ by @dwallacewells @NYMag 
 
 "To put it more bluntly: in assessing an individual’s risk of dying from COVID, age appears still as important — and maybe even more important — than vaccination status."</div> 
 </div> 
@@ -42,7 +44,7 @@ https://t.co/aiGTLSkxVP by @dwallacewells @NYMag
 <a href="https://twitter.com/erictopol/status/1445032152073064450" target="_blank" rel="noreferer">07:24 UCT-7</a> 
 </div> 
 <div class="content"> 
-A universal sarbecovirus vaccine. We should be all over this, but we're not. It needs to get top priority and for there to be a global collaborative effort. <a href="https://www.wsj.com/articles/to-prevent-the-next-pandemic-scientists-seek-one-vaccine-for-many-coronaviruses-11633339802?st=rympt75tje1xzoh&reflink=article_email_share" target="_blank" rel="noreferer">https://www.wsj.com/articles/to-prevent-the-next-p ...</a> 
+A universal sarbecovirus vaccine. We should be all over this, but we're not. It needs to get top priority and for there to be a global collaborative effort. <a href="https://www.wsj.com/articles/to-prevent-the-next-pandemic-scientists-seek-one-vaccine-for-many-coronaviruses-11633339802?st=rympt75tje1xzoh&reflink=article_email_share" target="_blank" rel="noreferer">wsj.com/articles/to-prevent-the-next-p ...</a> 
  by @betswrites </div> 
 <a href="/twitter/erictopol/images/FA3H7YAVkAIxyW_.jpg"  ><img src="/twitter/erictopol/images/FA3H7YAVkAIxyW_.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FA3H9PLUYAoI1xb.jpg"  ><img src="/twitter/erictopol/images/FA3H9PLUYAoI1xb.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -54,11 +56,12 @@ New report on very rare acute myocarditis after mRNA vaccination in age 18+
 
 5.8 cases/million after 2nd dose, 0.8/million 1st dose, all cases fully resolved with conservative management
 
-https://t.co/Mfh5ImiSpW @KPSCALnews @KPSCalResearch @JAMAInternalMed</div> 
+<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2784800" target="_blank" rel="noreferer">jamanetwork.com/journals/jamainternalmedic ...</a> 
+ @KPSCALnews @KPSCalResearch @JAMAInternalMed</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-A windfall of Covid vaccines: towards eradication of polio <a href="https://www.nature.com/articles/s41591-021-01518-z" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01518-z</a> 
+A windfall of Covid vaccines: towards eradication of polio <a href="https://www.nature.com/articles/s41591-021-01518-z" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01518-z</a> 
  @NatureMedicine "from increased awareness about the lifesaving effect of vaccines" </div> 
 <a href="/twitter/erictopol/images/FA32FeoUcAgr_iH.jpg"  ><img src="/twitter/erictopol/images/FA32FeoUcAgr_iH.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1445082368188895238" target="_blank" rel="noreferer">10:44 UCT-7</a> 
@@ -67,13 +70,6 @@ A windfall of Covid vaccines: towards eradication of polio <a href="https://www.
 "Polio vaccination campaigns [in Pakistan and Afghanistan) have been particularly hampered by conspiracy theories and poor awareness about the lifesaving benefits of vaccines"
 
 Sound familiar, USA?</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1445104256604770311" target="_blank" rel="noreferer">12:11 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @devisridhar: If New Zealand can vaccinate widely, get access to new treatments &amp; open cautiously, they’ll have escaped the pandemic wit…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -92,13 +88,6 @@ Monday  985/269/424</div>
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1445131183956709380" target="_blank" rel="noreferer">13:58 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @YahooFinance: Baylor College of Medicine Dean at the National School of Tropical Medicine Dr. @PeterHotez and Scripps Research Translat…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1445144366159331328" target="_blank" rel="noreferer">14:50 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -110,7 +99,8 @@ At least every other day.
 
 With rapid turnaround time.
 
-https://t.co/jStRjHZcgg</div> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.01.21262806v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.01 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -127,7 +117,7 @@ That decline for Delta was from 93 -&gt; 53% after 4 months.
 
 Vaccine effectiveness vs hospitalization for Delta infections was high— 93% [95% CI 84,96] —at a mean time of 3.4 months from being fully vaccinated 
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02183-8/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02183-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  /2 </div> 
 <a href="/twitter/erictopol/images/FA40Ou5VIBAkBSa.jpg"  ><img src="/twitter/erictopol/images/FA40Ou5VIBAkBSa.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -135,10 +125,10 @@ Vaccine effectiveness vs hospitalization for Delta infections was high— 93% [9
 <a href="https://twitter.com/erictopol/status/1445198888365740035" target="_blank" rel="noreferer">18:27 UCT-7</a> 
 </div> 
 <div class="content"> 
-Obesity and diabetes are risk factors for severe Covid, breakthrough infections, and #LongCovid. A new review  @TheLancetEndo gets into the mechanism and management <a href="https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00244-8/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/landia/article/ ...</a> 
+Obesity and diabetes are risk factors for severe Covid, breakthrough infections, and #LongCovid. A new review  @TheLancetEndo gets into the mechanism and management <a href="https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00244-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/landia/article/ ...</a> 
 
 
-and @Cell_Metabolism on infection of fat cells <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00428-9" target="_blank" rel="noreferer">https://www.cell.com/cell-metabolism/fulltext/S155 ...</a> 
+and @Cell_Metabolism on infection of fat cells <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00428-9" target="_blank" rel="noreferer">cell.com/cell-metabolism/fulltext/S155 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FA5gT7EVkAEwTAH.jpg"  ><img src="/twitter/erictopol/images/FA5gT7EVkAEwTAH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FA5gVzTUcAcl8wH.jpg"  ><img src="/twitter/erictopol/images/FA5gVzTUcAcl8wH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FA5gX7GVgAElBV0.jpg"  ><img src="/twitter/erictopol/images/FA5gX7GVgAElBV0.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FA5gZmHVIAAOO6u.jpg"  ><img src="/twitter/erictopol/images/FA5gZmHVIAAOO6u.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -148,7 +138,8 @@ and @Cell_Metabolism on infection of fat cells <a href="https://www.cell.com/cel
 <div class="content"> 
 Dr. Francis Collins, our @NIHDirector, led @NIH for 12 years &amp; the Human Genome Project @genome_gov, has made immense contributions to biomedicine. I am saddened to see him stepping down, want to express the deepest appreciation for decades of leadership
 
-https://t.co/e6KdXJrioG</div> 
+<a href="https://www.politico.com/news/2021/10/04/francis-collins-nih-step-down-515114" target="_blank" rel="noreferer">politico.com/news/2021/10/04/francis-c ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 

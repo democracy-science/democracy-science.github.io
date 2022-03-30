@@ -31,7 +31,7 @@ This </div>
 <div class="content"> 
 How similar are the AZ and J&amp;J adenovirus vector vaccines? An analysis suggests quite different with respect to impurities and vascular permeability (leak)
 
-<a href="https://www.researchsquare.com/article/rs-736157/v1" target="_blank" rel="noreferer">https://www.researchsquare.com/article/rs-736157/v ...</a> 
+<a href="https://www.researchsquare.com/article/rs-736157/v1" target="_blank" rel="noreferer">researchsquare.com/article/rs-736157/v ...</a> 
  preprint </div> 
 <a href="/twitter/erictopol/images/E7UCzl9VoAY8A5l.jpg"  ><img src="/twitter/erictopol/images/E7UCzl9VoAY8A5l.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -39,7 +39,7 @@ How similar are the AZ and J&amp;J adenovirus vector vaccines? An analysis sugge
 <a href="https://twitter.com/erictopol/status/1420048293355147268" target="_blank" rel="noreferer">08:47 UCT-7</a> 
 </div> 
 <div class="content"> 
-And it keeps going  <a href="https://twitter.com/EricTopol/status/1419693780802805763" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1419693780802 ...</a> 
+And it keeps going  <a href="https://twitter.com/EricTopol/status/1419693780802805763" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1419693780802 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E7UGJH5VIAAfkB2.jpg"  ><img src="/twitter/erictopol/images/E7UGJH5VIAAfkB2.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -51,7 +51,8 @@ This might be a good time to suggest indoor masks ;-)
 
 Thanks CDC, always ahead of the curve.
 
-Especially when they're exponential https://t.co/NSyTgxcoL6</div> 
+Especially when they're exponential <a href="https://twitter.com/EricTopol/status/1419887785205370883" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1419887785205 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -88,20 +89,6 @@ Kudos to these countries; it takes massive coordinating efforts and public suppo
 <a href="/twitter/erictopol/images/E7UoYY6VUAUtlT-.jpg"  ><img src="/twitter/erictopol/images/E7UoYY6VUAUtlT-.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1420087558084567040" target="_blank" rel="noreferer">11:23 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ScrippsRTI: In an op-ed in @sciam, @danieloran and @EricTopol share a message to those who are hesitant about vaccination: "Don't let t…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1420103588542435333" target="_blank" rel="noreferer">12:27 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @sciam: "The message to those who remain unvaccinated should be: Don’t let the virus use you to harm others." | Opinion by @danieloran a…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1420115752028278787" target="_blank" rel="noreferer">13:15 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -133,7 +120,7 @@ Graph from @yuvharpaz, h/t @segal_eran </div>
 <div class="content"> 
 Vaccine-induced thrombotic thrombocytopenia (VITT or TTS) events are extremely rare w/ the adenovirus vector vaccines. A new report by @AstraZeneca @TheLancet addresses after 2nd AZ dose w/ details in 13 people
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01693-7/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01693-7/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
 
 
 1st dose : 8.1/ million

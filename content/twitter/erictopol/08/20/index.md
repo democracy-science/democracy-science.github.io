@@ -24,7 +24,8 @@ The US could sure learn a lot from Germany and Canada for how to deal with Delta
 <a href="https://twitter.com/erictopol/status/1428721427830644747" target="_blank" rel="noreferer">07:11 UCT-7</a> 
 </div> 
 <div class="content"> 
-Beyond evidence for preventing symptomatic infections, Israel's booster rollout now showing sign of a flattening of the curve for severe illness https://t.co/Jj97LXIvW1</div> 
+Beyond evidence for preventing symptomatic infections, Israel's booster rollout now showing sign of a flattening of the curve for severe illness <a href="https://twitter.com/segal_eran/status/1428655714822762502" target="_blank" rel="noreferer">twitter.com/segal_eran/status/142865571482 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -33,7 +34,7 @@ Beyond evidence for preventing symptomatic infections, Israel's booster rollout 
 <div class="content"> 
 How to understand the fundamental mechanism, at the atomic level, of #SARSCoV2 entry and infection?
 
-<a href="https://www.nature.com/articles/s41557-021-00758-3" target="_blank" rel="noreferer">https://www.nature.com/articles/s41557-021-00758-3</a> 
+<a href="https://www.nature.com/articles/s41557-021-00758-3" target="_blank" rel="noreferer">nature.com/articles/s41557-021-00758-3</a> 
 
 
 It took supercomputer-movies to determine that a glycan gate is essential for the spike to open and achieve cell entry  @Terrasztain @RommieAmaro @ltchong </div> 
@@ -47,7 +48,7 @@ It took supercomputer-movies to determine that a glycan gate is essential for th
 
 The pandemic that laid bare US health inequities continues in its vaccination phase. And it's tragic.
 
-<a href="https://www.newyorker.com/news/us-journal/mississippis-hospital-system-is-rapidly-approaching-statewide-failure" target="_blank" rel="noreferer">https://www.newyorker.com/news/us-journal/mississi ...</a> 
+<a href="https://www.newyorker.com/news/us-journal/mississippis-hospital-system-is-rapidly-approaching-statewide-failure" target="_blank" rel="noreferer">newyorker.com/news/us-journal/mississi ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9PSgzbUYAUe3gl.jpg"  ><img src="/twitter/erictopol/images/E9PSgzbUYAUe3gl.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -57,20 +58,9 @@ The pandemic that laid bare US health inequities continues in its vaccination ph
 <div class="content"> 
 There are still no data published for the 2 widely used Chinese vaccines for level of protection vs Delta, which is dominant throughout the world
 
-<a href="https://www.nytimes.com/2021/08/20/business/economy/china-vaccine-us-covid-diplomacy.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/08/20/business/econom ...</a> 
+<a href="https://www.nytimes.com/2021/08/20/business/economy/china-vaccine-us-covid-diplomacy.html" target="_blank" rel="noreferer">nytimes.com/2021/08/20/business/econom ...</a> 
  by @suilee and @stevenleemyers </div> 
 <a href="/twitter/erictopol/images/E9PiCKJVkAEAt-N.jpg"  ><img src="/twitter/erictopol/images/E9PiCKJVkAEAt-N.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1428742237802749952" target="_blank" rel="noreferer">08:34 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @chrishendel: Extremely important article today by @propublica's @jenny_deam &amp; @biancafortis 
-
-
-
-“The world changed,” said @EricTopol, dir…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428766946556669952" target="_blank" rel="noreferer">10:12 UCT-7</a> 
@@ -78,8 +68,8 @@ RT @chrishendel: Extremely important article today by @propublica's @jenny_deam 
 <div class="content"> 
 Good explainer on Delta's P681R mutation today @nature by @ewencallaway 
 
-<a href="https://www.nature.com/articles/d41586-021-02275-2" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02275-2</a> 
-  <a href="https://twitter.com/EricTopol/status/1426574639728185348" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1426574639728 ...</a> 
+<a href="https://www.nature.com/articles/d41586-021-02275-2" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02275-2</a> 
+  <a href="https://twitter.com/EricTopol/status/1426574639728185348" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1426574639728 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E9P_v_hVcAAt7r5.jpg"  ><img src="/twitter/erictopol/images/E9P_v_hVcAAt7r5.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -89,7 +79,8 @@ Good explainer on Delta's P681R mutation today @nature by @ewencallaway
 <div class="content"> 
 The evidence that supports Delta breakthrough infections ability to spread (and why fully vaccinated people need to 😷 up)
 
-https://t.co/27NOf6mYCM @NatGeo by @Ecquis w/ studies and input by @GuptaR_lab and @KasenRiemersma</div> 
+<a href="https://www.nationalgeographic.com/science/article/evidence-mounts-that-people-with-breakthrough-infections-can-spread-delta-easily" target="_blank" rel="noreferer">nationalgeographic.com/science/article ...</a> 
+ @NatGeo by @Ecquis w/ studies and input by @GuptaR_lab and @KasenRiemersma</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -97,13 +88,13 @@ New reports on interferon (IFN) and Covid-19
 
 1. IFN Auto-antibodies in ~14% of patients w/ critical Covid, and are present pre-Covid, increasing with age (&gt;6% for over age 80)
 
-<a href="https://immunology.sciencemag.org/thread-content/6/62/eabl4340" target="_blank" rel="noreferer">https://immunology.sciencemag.org/thread-content/6/62/eab ...</a> 
+<a href="https://immunology.sciencemag.org/thread-content/6/62/eabl4340" target="_blank" rel="noreferer">immunology.sciencemag.org/thread-content/6/62/eab ...</a> 
  @SciImmunology </div> 
 <a href="/twitter/erictopol/images/E9QSVdyUYAMT4hS.jpg"  ><img src="/twitter/erictopol/images/E9QSVdyUYAMT4hS.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428788219961765890" target="_blank" rel="noreferer">11:37 UCT-7</a> 
 </div> 
 <div class="content"> 
-2. Interferons play different, opposing roles by anatomic sites (and it's complicated) <a href="https://www.cell.com/cell/pdf/S0092-8674(21)00990-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421009909%3Fshowall%3Dtrue" target="_blank" rel="noreferer">https://www.cell.com/cell/pdf/S0092-8674(21)00990- ...</a> 
+2. Interferons play different, opposing roles by anatomic sites (and it's complicated) <a href="https://www.cell.com/cell/pdf/S0092-8674(21)00990-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421009909%3Fshowall%3Dtrue" target="_blank" rel="noreferer">cell.com/cell/pdf/S0092-8674(21)00990- ...</a> 
  @CellCellPress </div> 
 <a href="/twitter/erictopol/images/E9QSdYIVIAc6fpB.jpg"  ><img src="/twitter/erictopol/images/E9QSdYIVIAc6fpB.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -111,7 +102,7 @@ New reports on interferon (IFN) and Covid-19
 <a href="https://twitter.com/erictopol/status/1428790213237563393" target="_blank" rel="noreferer">11:45 UCT-7</a> 
 </div> 
 <div class="content"> 
-The first group of Israelis to receive boosters were age ≥60. The impact is apparent with divergence of the curves.  <a href="https://twitter.com/AArgoetti/status/1428736481514901505" target="_blank" rel="noreferer">https://twitter.com/AArgoetti/status/1428736481514 ...</a> 
+The first group of Israelis to receive boosters were age ≥60. The impact is apparent with divergence of the curves.  <a href="https://twitter.com/AArgoetti/status/1428736481514901505" target="_blank" rel="noreferer">twitter.com/AArgoetti/status/1428736481514 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E9QUWEsVUAA76Va.png"  ><img src="/twitter/erictopol/images/E9QUWEsVUAA76Va.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -142,21 +133,23 @@ Surgical face masks: 8-fold decrease
 
 Details here, preprint
 
-https://t.co/7ocXjSvQ1p</div> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.17.21262169v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.17 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428846323629838339" target="_blank" rel="noreferer">15:28 UCT-7</a> 
 </div> 
 <div class="content"> 
 This doesn't look good
 
-<a href="https://www.wsbtv.com/news/local/metro-atlanta-school-districts-report-nearly-7000-cases-covid-19-first-weeks/KO37EA3M5NDRFPGCGVEY6OIA4U/" target="_blank" rel="noreferer">https://www.wsbtv.com/news/local/metro-atlanta-sch ...</a> 
+<a href="https://www.wsbtv.com/news/local/metro-atlanta-school-districts-report-nearly-7000-cases-covid-19-first-weeks/KO37EA3M5NDRFPGCGVEY6OIA4U/" target="_blank" rel="noreferer">wsbtv.com/news/local/metro-atlanta-sch ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9RIH7xVoAcFouA.jpg"  ><img src="/twitter/erictopol/images/E9RIH7xVoAcFouA.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Monday, full @US_FDA approval for 1st mRNA vaccine, expected
 
-https://t.co/dxguPN5yfR
+<a href="https://www.nytimes.com/2021/08/20/us/politics/fda-pfizer-covid-vaccine-full-approval.html" target="_blank" rel="noreferer">nytimes.com/2021/08/20/us/politics/fda ...</a> 
+
 
 That's great. But if only it had been May 23rd instead of August 23rd, it would have made a world of difference to defend against Delta.</div> 
 <hr><div class="profile"> 
@@ -165,7 +158,7 @@ That's great. But if only it had been May 23rd instead of August 23rd, it would 
 <div class="content"> 
 @US_FDA It was overdue back then. Afterwards, they got "all hands on deck" which surely helped. For the life of me, I'll never understand, why, for the #1 public health issue, this didn't happen much sooner.
 
-<a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
+<a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
  @nytopinion </div> 
 <a href="/twitter/erictopol/images/E9RR_85UUAQ3paW.jpg"  ><img src="/twitter/erictopol/images/E9RR_85UUAQ3paW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -175,7 +168,7 @@ That's great. But if only it had been May 23rd instead of August 23rd, it would 
 <div class="content"> 
 A multicenter randomized trial of awake prone positioning versus standard care for Covid respiratory failure shows significant reduction for the need of intubation and the incidence of treatment failure
 
-<a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00356-8/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanres/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00356-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanres/article/ ...</a> 
  @LancetRespirMed </div> 
 <a href="/twitter/erictopol/images/E9R0M3HUcAADvEE.jpg"  ><img src="/twitter/erictopol/images/E9R0M3HUcAADvEE.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -185,7 +178,7 @@ A multicenter randomized trial of awake prone positioning versus standard care f
 <div class="content"> 
 Free, effective, but little talk on monoclonal antibodies
 
-<a href="https://www.washingtonpost.com/health/covid-monoclonal-abbott/2021/08/19/a39a0b5e-0029-11ec-a664-4f6de3e17ff0_story.html" target="_blank" rel="noreferer">https://www.washingtonpost.com/health/covid-monocl ...</a> 
+<a href="https://www.washingtonpost.com/health/covid-monoclonal-abbott/2021/08/19/a39a0b5e-0029-11ec-a664-4f6de3e17ff0_story.html" target="_blank" rel="noreferer">washingtonpost.com/health/covid-monocl ...</a> 
  by @LennyMBernstein and @lauriemcginley2 w/ @DrNunezSmith46 @JGPharmD </div> 
 <a href="/twitter/erictopol/images/E9R_k61UYAI0_Op.png"  ><img src="/twitter/erictopol/images/E9R_k61UYAI0_Op.png" alt="Twitter image" ></img></a></div> 
 

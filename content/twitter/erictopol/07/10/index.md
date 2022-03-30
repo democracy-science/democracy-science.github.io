@@ -5,17 +5,10 @@ category = "Twitter"
 +++
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1413869722664247301" target="_blank" rel="noreferer">07:36 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @paulg: Fitbit data showed it took "79 days, on average" for people's resting heart rates to return to normal after catching Covid-19.…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1413889144011382791" target="_blank" rel="noreferer">08:53 UCT-7</a> 
 </div> 
 <div class="content"> 
-The UK's reopening dilemma <a href="https://www.ft.com/content/9d7c5a19-c717-4809-a087-92571979c878" target="_blank" rel="noreferer">https://www.ft.com/content/9d7c5a19-c717-4809-a087 ...</a> 
+The UK's reopening dilemma <a href="https://www.ft.com/content/9d7c5a19-c717-4809-a087-92571979c878" target="_blank" rel="noreferer">ft.com/content/9d7c5a19-c717-4809-a087 ...</a> 
  by @clivecookson @GeorgeWParker 
 
 with @EckerleIsabella @GuptaR_lab @doctor_oxford </div> 
@@ -27,7 +20,7 @@ with @EckerleIsabella @GuptaR_lab @doctor_oxford </div>
 <div class="content"> 
 Seeing and quantifying #SARSCoV2 spike protein binding to ACE2 receptor in live cells
 
-<a href="https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00307-X" target="_blank" rel="noreferer">https://www.cell.com/cell-chemical-biology/fulltex ...</a> 
+<a href="https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00307-X" target="_blank" rel="noreferer">cell.com/cell-chemical-biology/fulltex ...</a> 
 
 
 New @CellChemBiol </div> 
@@ -39,7 +32,7 @@ New @CellChemBiol </div>
 <div class="content"> 
 Good figure to show the mutations in Delta that differ from the other major variants (Alpha, Beta, Gamma). T478K in the receptor binding domain, P681R at S1/S2 and multiple in N-terminal domain thought to be key
 
-from <a href="https://www.nature.com/articles/s41586-021-03792-w" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03792-w</a> 
+from <a href="https://www.nature.com/articles/s41586-021-03792-w" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03792-w</a> 
  @Nature </div> 
 <a href="/twitter/erictopol/images/E586ZSMVoAEXols.jpg"  ><img src="/twitter/erictopol/images/E586ZSMVoAEXols.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -61,10 +54,10 @@ More up-to-date data at <a href="http://outbreak.info" target="_blank" rel="nore
 <div class="content"> 
 Big implications for accelerating global vaccinations
 
-<a href="https://www.nature.com/articles/d41586-021-01893-0" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-01893-0</a> 
+<a href="https://www.nature.com/articles/d41586-021-01893-0" target="_blank" rel="noreferer">nature.com/articles/d41586-021-01893-0</a> 
  @Nature by @ElieDolgin w/ @SarahCobey @profshanecrotty 
 
-<a href="https://twitter.com/bencowling88/status/1412202994192420868" target="_blank" rel="noreferer">https://twitter.com/bencowling88/status/1412202994 ...</a> 
+<a href="https://twitter.com/bencowling88/status/1412202994192420868" target="_blank" rel="noreferer">twitter.com/bencowling88/status/1412202994 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E58-Kx5VcAAyB-L.jpg"  ><img src="/twitter/erictopol/images/E58-Kx5VcAAyB-L.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -72,16 +65,17 @@ Big implications for accelerating global vaccinations
 <a href="https://twitter.com/erictopol/status/1413919810098929665" target="_blank" rel="noreferer">10:55 UCT-7</a> 
 </div> 
 <div class="content"> 
-A fun conversation with @Robert_Graboyes that we just had on covid, technology, #AI, US healthcare and the patient-doctor relationship https://t.co/9DyzHJ6wDM with transcript @mercatus</div> 
+A fun conversation with @Robert_Graboyes that we just had on covid, technology, #AI, US healthcare and the patient-doctor relationship <a href="https://www.discoursemagazine.com/culture-and-society/2021/07/09/fortress-and-frontier-healthcares-reluctant-revolution/" target="_blank" rel="noreferer">discoursemagazine.com/culture-and-soci ...</a> 
+ with transcript @mercatus</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 The level of neutralizing antibodies induced by covid vaccines correlates with protection from symptomatic infection, 2 important papers with independent replication
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0264410X21006587?via%3Dihub" target="_blank" rel="noreferer">https://www.sciencedirect.com/science/article/pii/ ...</a> 
+<a href="https://www.sciencedirect.com/science/article/pii/S0264410X21006587?via%3Dihub" target="_blank" rel="noreferer">sciencedirect.com/science/article/pii/ ...</a> 
 
 
-<a href="https://www.nature.com/articles/s41591-021-01377-8" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01377-8</a> 
+<a href="https://www.nature.com/articles/s41591-021-01377-8" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01377-8</a> 
 
 
 @NatureMedicine 1/2 </div> 
@@ -91,7 +85,7 @@ The level of neutralizing antibodies induced by covid vaccines correlates with p
 <div class="content"> 
 And @florian_krammer has an insightful perspective piece on the implications of these 2 reports, a first step towards a correlate of protection
 
-<a href="https://www.nature.com/articles/s41591-021-01432-4" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01432-4</a> 
+<a href="https://www.nature.com/articles/s41591-021-01432-4" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01432-4</a> 
  @NatureMedicine </div> 
 <a href="/twitter/erictopol/images/E59FTMnVEAEETcm.jpg"  ><img src="/twitter/erictopol/images/E59FTMnVEAEETcm.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E59FVljUcAAQAyK.jpg"  ><img src="/twitter/erictopol/images/E59FVljUcAAQAyK.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -131,10 +125,10 @@ Also the case fatality rate for Delta continues to lessen, 0.2% compared with 1.
 <div class="content"> 
 "No evidence so far suggests that the coronavirus is systematically evolving to become more malicious"
 
-<a href="https://www.theatlantic.com/science/archive/2021/06/coronavirus-evolution-virulence/619301/" target="_blank" rel="noreferer">https://www.theatlantic.com/science/archive/2021/0 ...</a> 
+<a href="https://www.theatlantic.com/science/archive/2021/06/coronavirus-evolution-virulence/619301/" target="_blank" rel="noreferer">theatlantic.com/science/archive/2021/0 ...</a> 
  @KatherineJWu 
 
-Many uncertainties in this preprint which suggests otherwise, such as no sequencing &amp; analytic issues rvw'd above <a href="https://www.medrxiv.org/content/10.1101/2021.07.05.21260050v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.07.05 ...</a> 
+Many uncertainties in this preprint which suggests otherwise, such as no sequencing &amp; analytic issues rvw'd above <a href="https://www.medrxiv.org/content/10.1101/2021.07.05.21260050v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.05 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E598LPSUYAUu6WH.jpg"  ><img src="/twitter/erictopol/images/E598LPSUYAUu6WH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E598MsiUcAEkBGv.png"  ><img src="/twitter/erictopol/images/E598MsiUcAEkBGv.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

@@ -33,7 +33,7 @@ Can digital technologies improve health?
 
 A new 50-page report commissioned by @TheLancet and @FT, with particular attention to reducing inequities 
 
-<a href="https://www.thelancet.com/commissions/governing-health-futures-2030" target="_blank" rel="noreferer">https://www.thelancet.com/commissions/governing-he ...</a> 
+<a href="https://www.thelancet.com/commissions/governing-health-futures-2030" target="_blank" rel="noreferer">thelancet.com/commissions/governing-he ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCgtsrKVIAUN5SB.jpg"  ><img src="/twitter/erictopol/images/FCgtsrKVIAUN5SB.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCgtuktVEAAPNil.jpg"  ><img src="/twitter/erictopol/images/FCgtuktVEAAPNil.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCgtwHfUcAEGBkt.jpg"  ><img src="/twitter/erictopol/images/FCgtwHfUcAEGBkt.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCgukZPVcAUGO75.jpg"  ><img src="/twitter/erictopol/images/FCgukZPVcAUGO75.jpg" alt="Twitter image" ></img></a></div> 
 

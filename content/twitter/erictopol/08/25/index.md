@@ -10,7 +10,7 @@ category = "Twitter"
 <div class="content"> 
 A bright spot in Mississippi, the surprise #1
 
-<a href="https://www.wsj.com/articles/ole-miss-college-football-vaccination-rates-lane-kiffin-11629775774?mod=searchresults_pos2&page=1" target="_blank" rel="noreferer">https://www.wsj.com/articles/ole-miss-college-foot ...</a> 
+<a href="https://www.wsj.com/articles/ole-miss-college-football-vaccination-rates-lane-kiffin-11629775774?mod=searchresults_pos2&page=1" target="_blank" rel="noreferer">wsj.com/articles/ole-miss-college-foot ...</a> 
  by @lainehiggins17 </div> 
 <a href="/twitter/erictopol/images/E9o_TmAUYAAA9hH.jpg"  ><img src="/twitter/erictopol/images/E9o_TmAUYAAA9hH.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -20,23 +20,9 @@ A bright spot in Mississippi, the surprise #1
 <div class="content"> 
 Quite the headline
 
-<a href="https://www.vanityfair.com/news/2021/08/kristi-noem-south-dakota-covid" target="_blank" rel="noreferer">https://www.vanityfair.com/news/2021/08/kristi-noe ...</a> 
+<a href="https://www.vanityfair.com/news/2021/08/kristi-noem-south-dakota-covid" target="_blank" rel="noreferer">vanityfair.com/news/2021/08/kristi-noe ...</a> 
  @VanityFair by @besslevin and it's not @TheOnion </div> 
 <a href="/twitter/erictopol/images/E9pA0qCVoAIeFUj.jpg"  ><img src="/twitter/erictopol/images/E9pA0qCVoAIeFUj.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1430537146889211904" target="_blank" rel="noreferer">07:26 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @HelenBranswell: The mixed blessing of the 95% VE: When Pfizer &amp; Moderna reported late last year that their Covid vaccines were highly e…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1430549394542129159" target="_blank" rel="noreferer">08:15 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @michaelmina_lab: The continued message that breakthroughs are rare ultimately shoots us in the foot. They aren’t rare &amp; public is seein…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 A very consistent pattern of vaccination protection and breakthroughs in the Delta wave
@@ -49,16 +35,19 @@ Here New York City, via @BobLu6
 <a href="/twitter/erictopol/images/E9pM9PFVUAcXGgJ.jpg"  ><img src="/twitter/erictopol/images/E9pM9PFVUAcXGgJ.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9pM-oHVkAM1r0p.jpg"  ><img src="/twitter/erictopol/images/E9pM-oHVkAM1r0p.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 As seen in Los Angeles County (largest in US) from CDC report yesterday and previous posts of San Diego Country, state of Oregon, and others
 
-https://t.co/sJADAhv3tt</div> 
+<a href="https://twitter.com/EricTopol/status/1430255659300265989" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1430255659300 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430561660696109062" target="_blank" rel="noreferer">09:04 UCT-7</a> 
 </div> 
 <div class="content"> 
-Unfortunately, we do not have any national data (as explained why, by @ErinBanco @Politico today ) https://t.co/fPUCUoTE3t 
+Unfortunately, we do not have any national data (as explained why, by @ErinBanco @Politico today ) <a href="https://twitter.com/ErinBanco/status/1430519352059731970" target="_blank" rel="noreferer">twitter.com/ErinBanco/status/1430519352059 ...</a> 
+ 
 
 And August will bring in more Delta infections than seen in July, but the overall outlook is the same
 
-https://t.co/tiONZsI6Rv</div> 
+<a href="https://twitter.com/EricTopol/status/1427406564617379840" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1427406564617 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -67,7 +56,7 @@ https://t.co/tiONZsI6Rv</div>
 <div class="content"> 
 One of the most important advances in life science in many years. Accurately predicting 3D protein structure. #AI
 
-<a href="https://twitter.com/erictopol/status/1415732633305190405?lang=en" target="_blank" rel="noreferer">https://twitter.com/erictopol/status/1415732633305 ...</a> 
+<a href="https://twitter.com/erictopol/status/1415732633305190405?lang=en" target="_blank" rel="noreferer">twitter.com/erictopol/status/1415732633305 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9ph5hrUUAMOsyd.jpg"  ><img src="/twitter/erictopol/images/E9ph5hrUUAMOsyd.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9ph-vJUcAk71We.jpg"  ><img src="/twitter/erictopol/images/E9ph-vJUcAk71We.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -81,7 +70,7 @@ Taking note of a &gt;20-fold less hospitalizations for Canada vs US in the Delta
 <a href="/twitter/erictopol/images/E9plSmLVUAIgpgW.jpg"  ><img src="/twitter/erictopol/images/E9plSmLVUAIgpgW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Breakthrough infections in Bahrain among over 1 million vaccinees, including Delta wave, comparison of 4 different vaccines and outcomes among unvaccinated <a href="https://www.researchsquare.com/article/rs-828021/v1" target="_blank" rel="noreferer">https://www.researchsquare.com/article/rs-828021/v ...</a> 
+Breakthrough infections in Bahrain among over 1 million vaccinees, including Delta wave, comparison of 4 different vaccines and outcomes among unvaccinated <a href="https://www.researchsquare.com/article/rs-828021/v1" target="_blank" rel="noreferer">researchsquare.com/article/rs-828021/v ...</a> 
 
 
 particular vulnerability of Sinopharm noted 
@@ -100,19 +89,19 @@ From a global perspective, these comparative data from Bahrain are quite importa
 <div class="content"> 
 With the @Pfizer/@BioNTech_Group vaccine, significantly higher levels of receptor binding domain antibodies induced with the 8-12 week dose spacing compared with 3-6 weeks
 
-<a href="https://assets.researchsquare.com/files/rs-793234/v1/2615242f-5371-4194-9ae8-b318aa7ea59c.pdf?c=1629821723" target="_blank" rel="noreferer">https://assets.researchsquare.com/files/rs-793234/ ...</a> 
+<a href="https://assets.researchsquare.com/files/rs-793234/v1/2615242f-5371-4194-9ae8-b318aa7ea59c.pdf?c=1629821723" target="_blank" rel="noreferer">assets.researchsquare.com/files/rs-793234/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9pyUZgVIAQ55SY.jpg"  ><img src="/twitter/erictopol/images/E9pyUZgVIAQ55SY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Minimal data about 2nd dose if J&amp;J vaccine getting a lot of PR and attention, based on 17 participants antibody levels and unrelated to Delta infections. Where are the results from their 2-dose trial?
 
-<a href="https://www.nytimes.com/live/2021/08/25/world/covid-delta-variant-vaccine#j-j-johnson-and-johnson-second-dose-booster-shot" target="_blank" rel="noreferer">https://www.nytimes.com/live/2021/08/25/world/covi ...</a> 
+<a href="https://www.nytimes.com/live/2021/08/25/world/covid-delta-variant-vaccine#j-j-johnson-and-johnson-second-dose-booster-shot" target="_blank" rel="noreferer">nytimes.com/live/2021/08/25/world/covi ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9owkvvVkAA6oQT.png"  ><img src="/twitter/erictopol/images/E9owkvvVkAA6oQT.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 And I love this one:"didn't specify exactly when or how many subjects received the second dose" 😉
 
-<a href="https://www.wsj.com/articles/j-j-says-covid-19-booster-shots-after-eight-months-supported-by-data-11629888301?mod=hp_lead_pos1" target="_blank" rel="noreferer">https://www.wsj.com/articles/j-j-says-covid-19-boo ...</a> 
+<a href="https://www.wsj.com/articles/j-j-says-covid-19-booster-shots-after-eight-months-supported-by-data-11629888301?mod=hp_lead_pos1" target="_blank" rel="noreferer">wsj.com/articles/j-j-says-covid-19-boo ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9oyT6eVgAAOQrH.jpg"  ><img src="/twitter/erictopol/images/E9oyT6eVgAAOQrH.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430583737167740929" target="_blank" rel="noreferer">10:31 UCT-7</a> 
@@ -124,14 +113,16 @@ The largest healthcare company in the world makes headlines everywhere for a "9-
 <div class="thread-content"> 
 In Israel's Delta wave, a comparison of natural infection immunity versus 2-dose Pfizer mRNA vaccination for reinfection or breakthrough infections, respectively.
 
-https://t.co/O9F7UndcJS</div> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.24.21262415v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.24 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430621957226074113" target="_blank" rel="noreferer">13:03 UCT-7</a> 
 </div> 
 <div class="content"> 
 There are issues interpreting this study, but one support point for their findings is the steadiness of levels of antibodies for natural infection vs post-vaccination waning, as noted recently, that may be particularly important regarding Delta
 
-https://t.co/ZPA1ysvkig</div> 
+<a href="https://twitter.com/EricTopol/status/1429470022347362304" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1429470022347 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -140,7 +131,7 @@ https://t.co/ZPA1ysvkig</div>
 <div class="content"> 
 Waning of immunity becomes manifest at 5-6 months, not 8 months, so this at least aligns with the data
 
-<a href="https://www.wsj.com/articles/biden-administration-plans-covid-19-vaccine-boosters-at-six-months-instead-of-eight-11629919356?mod=djemalertNEWS" target="_blank" rel="noreferer">https://www.wsj.com/articles/biden-administration- ...</a> 
+<a href="https://www.wsj.com/articles/biden-administration-plans-covid-19-vaccine-boosters-at-six-months-instead-of-eight-11629919356?mod=djemalertNEWS" target="_blank" rel="noreferer">wsj.com/articles/biden-administration- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9qX2cwVEAAH1v7.jpg"  ><img src="/twitter/erictopol/images/E9qX2cwVEAAH1v7.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -149,7 +140,7 @@ Just out @NEJM
 
 Important large study of Pfizer mRNA vaccination (&gt;884,000 people and controls)  vs Covid infection (&gt;173,000 people and controls) provides clear evidence of safety for 💉side-effects, and compared w/ Covid
 
-<a href="https://www.nejm.org/?query=featured_home&doi=10.1056%2FNEJMoa2110475" target="_blank" rel="noreferer">https://www.nejm.org/?query=featured_home&doi=10.1 ...</a> 
+<a href="https://www.nejm.org/?query=featured_home&doi=10.1056%2FNEJMoa2110475" target="_blank" rel="noreferer">nejm.org/?query=featured_home&doi=10.1 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9qjqYVVEAEerqn.jpg"  ><img src="/twitter/erictopol/images/E9qjqYVVEAEerqn.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430637672440029185" target="_blank" rel="noreferer">14:06 UCT-7</a> 
@@ -168,7 +159,8 @@ Covid increased the risk for kidney injury, stroke, myocarditis, arrhythmia, hea
 <a href="https://twitter.com/erictopol/status/1430640946111082498" target="_blank" rel="noreferer">14:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-I really enjoyed this thought-provoking discussion with @MSFreePress's @nickjudin about the situation in Mississippi, Delta, and where we go from here https://t.co/9tMPUtBWPc</div> 
+I really enjoyed this thought-provoking discussion with @MSFreePress's @nickjudin about the situation in Mississippi, Delta, and where we go from here <a href="https://twitter.com/nickjudin/status/1430578477116313607" target="_blank" rel="noreferer">twitter.com/nickjudin/status/1430578477116 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 

@@ -12,7 +12,7 @@ Just published @NatureRevGenet
 
 A tour de force review of the #SARSCoV2 variants 
 
-<a href="https://www.nature.com/articles/s41576-021-00408-x" target="_blank" rel="noreferer">https://www.nature.com/articles/s41576-021-00408-x</a> 
+<a href="https://www.nature.com/articles/s41576-021-00408-x" target="_blank" rel="noreferer">nature.com/articles/s41576-021-00408-x</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_fV2TNVIAIKiAc.jpg"  ><img src="/twitter/erictopol/images/E_fV2TNVIAIKiAc.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_fWGH7VkAMmAyG.jpg"  ><img src="/twitter/erictopol/images/E_fWGH7VkAMmAyG.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_fWJxfVIAI3RNY.jpg"  ><img src="/twitter/erictopol/images/E_fWJxfVIAI3RNY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -22,21 +22,14 @@ A tour de force review of the #SARSCoV2 variants
 <div class="content"> 
 A new @ONS UK report on #LongCovid frequency and duration in ~50,000 people, half w/ infections, half controls, and multiple types of assessment
 
-<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/technicalarticleupdatedestimatesoftheprevalenceofpostacutesymptomsamongpeoplewithcoronaviruscovid19intheuk/26april2020to1august2021" target="_blank" rel="noreferer">https://www.ons.gov.uk/peoplepopulationandcommunit ...</a> 
+<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/technicalarticleupdatedestimatesoftheprevalenceofpostacutesymptomsamongpeoplewithcoronaviruscovid19intheuk/26april2020to1august2021" target="_blank" rel="noreferer">ons.gov.uk/peoplepopulationandcommunit ...</a> 
 
 
 Unusual in children; increase in women, middle-age, high viral load (Ct). Overall lower % than previous reports </div> 
 <a href="/twitter/erictopol/images/E_fY5h2UcAIZpF9.png"  ><img src="/twitter/erictopol/images/E_fY5h2UcAIZpF9.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_fZOvfVUAQhpdA.png"  ><img src="/twitter/erictopol/images/E_fZOvfVUAQhpdA.png" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1438863985810415620" target="_blank" rel="noreferer">06:54 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @matthewherper: This current discussion from the CDC on collecting data about the vaccines just reveals how terrible the U.S. collection…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
-New @CDCMMWR on US vaccinations, antibody (Ab) response, and protection from hospitalization (H)  in non-immunocompromised people, March-August <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
+New @CDCMMWR on US vaccinations, antibody (Ab) response, and protection from hospitalization (H)  in non-immunocompromised people, March-August <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
 
 
 Vaccine Effectiveness vs H:
@@ -63,7 +56,8 @@ Not "probably."
 
 Age ≥ 60. There is unequivocal benefit of the 3rd shot. 
 
-Need further data for making the decision on younger age groups. https://t.co/LIRtdV8ZXh</div> 
+Need further data for making the decision on younger age groups. <a href="https://twitter.com/megtirrell/status/1438938594756935689" target="_blank" rel="noreferer">twitter.com/megtirrell/status/143893859475 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -80,20 +74,10 @@ There will be a new question, likely with the age 60 cutoff, that is likely to g
 
 Left unaddressed is the vulnerable frontline health care workforce</div> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1438970304785629188" target="_blank" rel="noreferer">13:57 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ashishkjha: And unanimous on including healthcare workers in the EUA
-
-
-
-All good stuff</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Now a unanimous vote in favor of 65 and older and people at high-risk for severe covid (which gives room for interpretation).  OK, that's progress. 👍 https://t.co/G2l8fxAolY</div> 
+Now a unanimous vote in favor of 65 and older and people at high-risk for severe covid (which gives room for interpretation).  OK, that's progress. 👍 <a href="https://twitter.com/EricTopol/status/1438950683957358598" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1438950683957 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1438974306579484673" target="_blank" rel="noreferer">14:13 UCT-7</a> 
 </div> 
@@ -107,12 +91,13 @@ A very good outcome for this FDA Advisory Committee following what data are avai
 <a href="https://twitter.com/erictopol/status/1438979986333995009" target="_blank" rel="noreferer">14:35 UCT-7</a> 
 </div> 
 <div class="content"> 
-A new, outstanding review of Covid-19 @Sciimmunology on how we can favorably modulate the immune response in people, learning from bats, which get only mild disease from #SARSCoV2 <a href="https://www.science.org/doi/10.1126/sciimmunol.abd0205" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/sciimmunol.abd ...</a> 
+A new, outstanding review of Covid-19 @Sciimmunology on how we can favorably modulate the immune response in people, learning from bats, which get only mild disease from #SARSCoV2 <a href="https://www.science.org/doi/10.1126/sciimmunol.abd0205" target="_blank" rel="noreferer">science.org/doi/10.1126/sciimmunol.abd ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_hIU5cVcAAKJIV.jpg"  ><img src="/twitter/erictopol/images/E_hIU5cVcAAKJIV.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_hIHgXVgAMpdy_.jpg"  ><img src="/twitter/erictopol/images/E_hIHgXVgAMpdy_.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_hIKPiVcAUanwj.jpg"  ><img src="/twitter/erictopol/images/E_hIKPiVcAUanwj.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_hIMoPVgAAu-e1.jpg"  ><img src="/twitter/erictopol/images/E_hIMoPVgAAu-e1.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Today’s FDA Advisory for Pfizer didn’t address the vulnerability of people who received J&amp;J shots. But these data of low antibody levels 👇for J&amp;J suggest high vulnerability—an mRNA vaccine 2nd shot is overdue to be addressed by CDC/FDA and should be supported. https://t.co/hEG9zAnIMz</div> 
+Today’s FDA Advisory for Pfizer didn’t address the vulnerability of people who received J&amp;J shots. But these data of low antibody levels 👇for J&amp;J suggest high vulnerability—an mRNA vaccine 2nd shot is overdue to be addressed by CDC/FDA and should be supported. <a href="https://twitter.com/EricTopol/status/1438919014504296448" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1438919014504 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1439045221279420417" target="_blank" rel="noreferer">18:54 UCT-7</a> 
 </div> 

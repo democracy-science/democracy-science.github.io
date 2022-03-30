@@ -5,18 +5,11 @@ category = "Twitter"
 +++
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1440308460898242570" target="_blank" rel="noreferer">06:34 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @baratunde: A strong case for inexpensive, widely available rapid COVID testing in the USA. feat @michaelmina_lab @stef_friedhoff @EricT…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1440312093782134785" target="_blank" rel="noreferer">06:48 UCT-7</a> 
 </div> 
 <div class="content"> 
-Now a randomized trial demonstrates marked protection of MMR vaccination vs Covid symptoms and need for treatment <a href="https://www.medrxiv.org/content/10.1101/2021.09.14.21263598v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.09.14 ...</a> 
-  <a href="https://twitter.com/EricTopol/status/1426586022129717251" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1426586022129 ...</a> 
+Now a randomized trial demonstrates marked protection of MMR vaccination vs Covid symptoms and need for treatment <a href="https://www.medrxiv.org/content/10.1101/2021.09.14.21263598v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.14 ...</a> 
+  <a href="https://twitter.com/EricTopol/status/1426586022129717251" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1426586022129 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E_0DxrBVgAQUzR3.png"  ><img src="/twitter/erictopol/images/E_0DxrBVgAQUzR3.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -26,7 +19,8 @@ Now a randomized trial demonstrates marked protection of MMR vaccination vs Covi
 <div class="content"> 
 Another day, another vaccine company press release
 
-https://t.co/HDZ2r01rte by @matthewherper @statnews 
+<a href="https://www.statnews.com/2021/09/21/johnson-johnson-says-additional-dose-boosts-covid-vaccine-efficacy/" target="_blank" rel="noreferer">statnews.com/2021/09/21/johnson-johnso ...</a> 
+ by @matthewherper @statnews 
 
 This one confirming benefit of 2nd dose of J&amp;J vaccine, as expected.</div> 
 </div> 
@@ -35,31 +29,17 @@ This one confirming benefit of 2nd dose of J&amp;J vaccine, as expected.</div>
 <a href="https://twitter.com/erictopol/status/1440323926077239298" target="_blank" rel="noreferer">07:35 UCT-7</a> 
 </div> 
 <div class="content"> 
-Learning from major mistakes for far better pandemic preparedness, this book goes deep into what went wrong, especially at CDC, and so much we need to do to get ready for the inevitable next one. Meticulous documentation. Insider perspective. Big congrats @ScottGottliebMD https://t.co/9v9ekWQEJC</div> 
+Learning from major mistakes for far better pandemic preparedness, this book goes deep into what went wrong, especially at CDC, and so much we need to do to get ready for the inevitable next one. Meticulous documentation. Insider perspective. Big congrats @ScottGottliebMD <a href="https://twitter.com/ScottGottliebMD/status/1440269948459175938" target="_blank" rel="noreferer">twitter.com/ScottGottliebMD/status/1440269 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1440337761601392647" target="_blank" rel="noreferer">08:30 UCT-7</a> 
 </div> 
 <div class="content"> 
-Adding Poland to a growing list, most countries giving 3rd shots irrespective of vaccine type and many for age cutoff of 50 or 60  <a href="https://twitter.com/EricTopol/status/1438588532243656705" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1438588532243 ...</a> 
+Adding Poland to a growing list, most countries giving 3rd shots irrespective of vaccine type and many for age cutoff of 50 or 60  <a href="https://twitter.com/EricTopol/status/1438588532243656705" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1438588532243 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E_0ba-aUYAk0Rvl.jpg"  ><img src="/twitter/erictopol/images/E_0ba-aUYAk0Rvl.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1440340093894422529" target="_blank" rel="noreferer">08:40 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ashishkjha: Where are we on global vaccinations?
-
-
-
-Today, we'll hit 6 Billion doses into people's arms
-
-
-
-44% of the world with at least 1…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1440354809320644629" target="_blank" rel="noreferer">09:38 UCT-7</a> 
@@ -71,7 +51,7 @@ How to keep people out of the hospital or dying from Covid?
 
 The California county with near 100% eligible vaccinated and one of the US cities with highest % vaccinated 
 
-<a href="https://www.sfchronicle.com/health/article/One-Bay-Area-county-is-approaching-nearly-100-of-16474541.php" target="_blank" rel="noreferer">https://www.sfchronicle.com/health/article/One-Bay ...</a> 
+<a href="https://www.sfchronicle.com/health/article/One-Bay-Area-county-is-approaching-nearly-100-of-16474541.php" target="_blank" rel="noreferer">sfchronicle.com/health/article/One-Bay ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_0q8mZUcAs_MMb.jpg"  ><img src="/twitter/erictopol/images/E_0q8mZUcAs_MMb.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_0q-IpVkAY_JzY.jpg"  ><img src="/twitter/erictopol/images/E_0q-IpVkAY_JzY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -79,7 +59,8 @@ The California county with near 100% eligible vaccinated and one of the US citie
 <a href="https://twitter.com/erictopol/status/1440372021431390223" target="_blank" rel="noreferer">10:47 UCT-7</a> 
 </div> 
 <div class="content"> 
-A clinical trial of a new covid mRNA vaccine booster that targets both the #SARSCoV2 spike and nucleocapsid proteins has begun https://t.co/hZ7TAsECQ6 @OfficialUoM @MFTnhs @gritstonebio</div> 
+A clinical trial of a new covid mRNA vaccine booster that targets both the #SARSCoV2 spike and nucleocapsid proteins has begun <a href="https://amp.theguardian.com/society/2021/sep/21/trials-begin-on-covid-booster-jab-hoped-to-protect-against-new-variants?__twitter_impression=true" target="_blank" rel="noreferer">amp.theguardian.com/society/2021/sep/21/tr ...</a> 
+ @OfficialUoM @MFTnhs @gritstonebio</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -104,7 +85,7 @@ and their Delta wave fatality rates during the Delta wave compared with the Unit
 <a href="https://twitter.com/erictopol/status/1440399536355098634" target="_blank" rel="noreferer">12:36 UCT-7</a> 
 </div> 
 <div class="content"> 
-A Delta wave outbreak (N=172) in a Texas prison chiefly among vaccinated individuals, yet 3 of the 4 hospitalizations and only death were among unvaccinated <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e3.htm?s_cid=mm7038e3_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e3.ht ...</a> 
+A Delta wave outbreak (N=172) in a Texas prison chiefly among vaccinated individuals, yet 3 of the 4 hospitalizations and only death were among unvaccinated <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e3.htm?s_cid=mm7038e3_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7038e3.ht ...</a> 
  lowest attack rate was in those with prior covid plus vaccination @CDCMMWR </div> 
 <a href="/twitter/erictopol/images/E_1ScorVkAgO0by.jpg"  ><img src="/twitter/erictopol/images/E_1ScorVkAgO0by.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_1TrHvVcAI9r6-.jpg"  ><img src="/twitter/erictopol/images/E_1TrHvVcAI9r6-.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -114,7 +95,7 @@ A Delta wave outbreak (N=172) in a Texas prison chiefly among vaccinated individ
 <div class="content"> 
 Why has Israel had such a tough time w/ its Delta wave?
 
-<a href="https://www.science.org/content/article/israel-s-struggles-contain-covid-19-may-be-warning-other-nations" target="_blank" rel="noreferer">https://www.science.org/content/article/israel-s-s ...</a> 
+<a href="https://www.science.org/content/article/israel-s-struggles-contain-covid-19-may-be-warning-other-nations" target="_blank" rel="noreferer">science.org/content/article/israel-s-s ...</a> 
  @ScienceMagazine by @meredithwadman 
 
 —Large (38%) population unvaccinated; age&lt;12 (42% infections now)
@@ -130,7 +111,8 @@ Why has Israel had such a tough time w/ its Delta wave?
 <a href="https://twitter.com/erictopol/status/1440447517842305032" target="_blank" rel="noreferer">15:47 UCT-7</a> 
 </div> 
 <div class="content"> 
-It's 2021, yet we have analog vaccine cards that are easily counterfeited. @DrTomFrieden lays out what a national vaccine certification program should look like @nytopinion https://t.co/Rq4RG1Pcxh</div> 
+It's 2021, yet we have analog vaccine cards that are easily counterfeited. @DrTomFrieden lays out what a national vaccine certification program should look like @nytopinion <a href="https://www.nytimes.com/2021/09/21/opinion/cdc-coronavirus-vaccine.html" target="_blank" rel="noreferer">nytimes.com/2021/09/21/opinion/cdc-cor ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -148,14 +130,15 @@ Still a ways to go to get to pre-Delta levels and containment </div>
 <div class="content"> 
 The benefit of long spacing of Pfizer vaccine to 16-weeks for an immune response comparable to prior Covid + 1-dose vaccine, with assessment vs Delta and other major variants
 
- <a href="https://www.medrxiv.org/content/10.1101/2021.09.17.21263532v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.09.17 ...</a> 
+ <a href="https://www.medrxiv.org/content/10.1101/2021.09.17.21263532v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.17 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_2mF-5UcAQLCjl.png"  ><img src="/twitter/erictopol/images/E_2mF-5UcAQLCjl.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_2l_zaVIAQM0Y-.jpg"  ><img src="/twitter/erictopol/images/E_2l_zaVIAQM0Y-.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 New large dataset of US Medicare (age 65+) population subgroup: 2.7 million Pfizer; 2.9 million Moderna vaccinated, w/ ~30,000 breakthrough hospitalizations, via claims 🧵main findings
 
-@Humetrix  https://t.co/CRGaABfulL</div> 
+@Humetrix  <a href="https://www.humetrix.com/powerpoint-vaccine.html" target="_blank" rel="noreferer">humetrix.com/powerpoint-vaccine.html</a> 
+</div> 
 <hr><div class="thread-content"> 
 1. Definite waning of protection vs hospitalization for those 5-6 months out from vaccination  (odd ratio 2.5X at 6 months) </div> 
 <a href="/twitter/erictopol/images/E_2tESbVgAgSzF3.jpg"  ><img src="/twitter/erictopol/images/E_2tESbVgAgSzF3.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 

@@ -10,15 +10,15 @@ category = "Twitter"
 <div class="content"> 
 A few updates 
 
-Price for Paxlovid is to be same as Molnupiravir, which is disappointing <a href="https://www.nytimes.com/2021/11/05/health/pfizer-covid-pill.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/11/05/health/pfizer-c ...</a> 
+Price for Paxlovid is to be same as Molnupiravir, which is disappointing <a href="https://www.nytimes.com/2021/11/05/health/pfizer-covid-pill.html" target="_blank" rel="noreferer">nytimes.com/2021/11/05/health/pfizer-c ...</a> 
  by @RebeccaDRobbins 
 
 Origin of Molnupiravir
 
-<a href="https://www.nature.com/articles/d41586-021-02783-1" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02783-1</a> 
+<a href="https://www.nature.com/articles/d41586-021-02783-1" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02783-1</a> 
 
 
-Worth highlighting that these pills would not be expected to be affected by #SARSCoV2 variants👍  <a href="https://twitter.com/EricTopol/status/1456622941647478796" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1456622941647 ...</a> 
+Worth highlighting that these pills would not be expected to be affected by #SARSCoV2 variants👍  <a href="https://twitter.com/EricTopol/status/1456622941647478796" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1456622941647 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FDhNGbSVgAEKW5j.png"  ><img src="/twitter/erictopol/images/FDhNGbSVgAEKW5j.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -29,7 +29,7 @@ UK Covid wave abating
 
 Boosters are having a benefit in advanced age group  (1st to receive 3rd shots)
 
-<a href="https://www.ft.com/thread-content/8f750986-5bf4-4544-a420-25f1d2d5aaf7" target="_blank" rel="noreferer">https://www.ft.com/thread-content/8f750986-5bf4-4544-a420 ...</a> 
+<a href="https://www.ft.com/thread-content/8f750986-5bf4-4544-a420-25f1d2d5aaf7" target="_blank" rel="noreferer">ft.com/thread-content/8f750986-5bf4-4544-a420 ...</a> 
  graph by @JamesWard73 </div> 
 <a href="/twitter/erictopol/images/FDhVbURVUAMj1TZ.jpg"  ><img src="/twitter/erictopol/images/FDhVbURVUAMj1TZ.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1457009132519649281" target="_blank" rel="noreferer">08:37 UCT-7</a> 
@@ -46,7 +46,7 @@ Separately, booster shots for age 50+, frontline health and social care workers,
 <div class="content"> 
 Future of Covid vaccines, w/ lessens from flu, on antigenic drift &amp; waning immunity
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMp2113403?query=featured_secondary" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMp2113403 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMp2113403?query=featured_secondary" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMp2113403 ...</a> 
  @NEJM by @arnold_monto
 
 The effect on asymptomatic infections was a welcome surprise, because it has been thought that most vaccines for respiratory illnesses...are “leaky” </div> 
@@ -69,10 +69,10 @@ If you're looking for a very alluring educational video and book on the immune s
 
 "B cells...need a strict two-factor authentication to be truly activated" @Kurz_Gesagt
 
-<a href="https://www.youtube.com/watch?v=lXfEK8G8CUI" target="_blank" rel="noreferer">https://www.youtube.com/watch?v=lXfEK8G8CUI</a> 
+<a href="https://www.youtube.com/watch?v=lXfEK8G8CUI" target="_blank" rel="noreferer">youtube.com/watch?v=lXfEK8G8CUI</a> 
 
 
-<a href="https://www.science.org/doi/10.1126/science.abm0134" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abm013 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abm0134" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abm013 ...</a> 
 
 
 @ScienceMagazine review by @dandavis101 </div> 
@@ -83,7 +83,8 @@ Anti-vaxxers are posting that vaccines don't block spread or catching Covid. Tha
 
 —Vaccines markedly prevent symptomatic infections; for mRNAs efficacy = 95%, maintained w/ 3rd shot at ≥ 6 months
 
-—Vaccines markedly reduce spread, ≥ 50% https://t.co/3NbzeyS1Gj</div> 
+—Vaccines markedly reduce spread, ≥ 50% <a href="https://twitter.com/erictopol/status/1453753424483258368" target="_blank" rel="noreferer">twitter.com/erictopol/status/1453753424483 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1457101419853467654" target="_blank" rel="noreferer">14:43 UCT-7</a> 
 </div> 

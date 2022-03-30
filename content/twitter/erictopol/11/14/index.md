@@ -20,14 +20,16 @@ The case for kids </div>
 <a href="/twitter/erictopol/images/FEK4KizVIAQHPKC.jpg"  ><img src="/twitter/erictopol/images/FEK4KizVIAQHPKC.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Keep this in mind
 
-https://t.co/WzGsy6A16F</div> 
+<a href="https://twitter.com/EricTopol/status/1457814695541284868" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1457814695541 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1459942671024152577" target="_blank" rel="noreferer">10:53 UCT-7</a> 
 </div> 
 <div class="content"> 
 And this
 
-https://t.co/mENFIDCoPd</div> 
+<a href="https://twitter.com/EricTopol/status/1458117183771496455" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1458117183771 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -37,15 +39,18 @@ Addressing the anti-vaxxer BS about vaccines not preventing transmission. It's n
 
 "Effectiveness of full vaccination of the index against transmission to unvaccinated household contacts was 63% (95%CI 46-75%)."
 
-https://t.co/dJn0hINngH</div> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.14.21264959v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.14 ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 2. UK study with Delta by genome sequencing, household transmission reduced from 38% (via unvaxxed) to 25% (vaxxed), a 35% reduction
 
-https://t.co/eV04FSBFkT</div> 
+<a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 3. A 2nd UK study with sequencing of Delta showed a 27% reduction of transmission for vaccinated vs unvaccinated 
 
-https://t.co/9vL4fyXJmX</div> 
+<a href="https://www.thelancet.com/action/showPdf?pii=S2666-7762%2821%2900238-6" target="_blank" rel="noreferer">thelancet.com/action/showPdf?pii=S2666 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1459945552771051522" target="_blank" rel="noreferer">11:05 UCT-7</a> 
 </div> 
@@ -57,7 +62,7 @@ https://t.co/9vL4fyXJmX</div>
 <a href="https://twitter.com/erictopol/status/1459963090586398724" target="_blank" rel="noreferer">12:15 UCT-7</a> 
 </div> 
 <div class="content"> 
-A unique comparison of 4 different vaccines (Pfizer, AZ, Sputnik, Sinopharm) for the immune response that they induce, and across all major variants,  shows major differences <a href="https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00510-2" target="_blank" rel="noreferer">https://www.cell.com/cell-host-microbe/fulltext/S1 ...</a> 
+A unique comparison of 4 different vaccines (Pfizer, AZ, Sputnik, Sinopharm) for the immune response that they induce, and across all major variants,  shows major differences <a href="https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00510-2" target="_blank" rel="noreferer">cell.com/cell-host-microbe/fulltext/S1 ...</a> 
  @cellhostmicrobe </div> 
 <a href="/twitter/erictopol/images/FELGDbyVkAIwqky.jpg"  ><img src="/twitter/erictopol/images/FELGDbyVkAIwqky.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -67,7 +72,7 @@ A unique comparison of 4 different vaccines (Pfizer, AZ, Sputnik, Sinopharm) for
 <div class="content"> 
 Cuba, now leading the world in vaccine doses per 100,000 people, has managed quite a turnaround from being one of the worst-hit countries
 
-<a href="https://ig.ft.com/coronavirus-vaccine-tracker/?areas=gbr&areas=isr&areas=usa&areas=eue&areas=can&areas=chn&areas=ind&cumulative=1&doses=total&populationAdjusted=1" target="_blank" rel="noreferer">https://ig.ft.com/coronavirus-vaccine-tracker/?are ...</a> 
+<a href="https://ig.ft.com/coronavirus-vaccine-tracker/?areas=gbr&areas=isr&areas=usa&areas=eue&areas=can&areas=chn&areas=ind&cumulative=1&doses=total&populationAdjusted=1" target="_blank" rel="noreferer">ig.ft.com/coronavirus-vaccine-tracker/?are ...</a> 
 
 
 @OurWorldInData 
@@ -76,18 +81,11 @@ It can be done. </div>
 <a href="/twitter/erictopol/images/FELT6YgVcAUXCgH.jpg"  ><img src="/twitter/erictopol/images/FELT6YgVcAUXCgH.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1460010600931610629" target="_blank" rel="noreferer">15:23 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @Bob_Wachter: Agree w/ @EricTopol. I just don't get "vaccine wasn't designed to prevent infections" line. If vax used to prevent 95% of…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1460018905196285953" target="_blank" rel="noreferer">15:56 UCT-7</a> 
 </div> 
 <div class="content"> 
-On self-inflicted wounds to the US workforce, the court battle against @OSHA_DOL standards for protection vs Covid , key thread by @ASlavitt below and @NewYorker piece by @tnyCloseRead <a href="https://www.newyorker.com/magazine/2021/11/22/the-vaccine-mandate-battle" target="_blank" rel="noreferer">https://www.newyorker.com/magazine/2021/11/22/the- ...</a> 
-  <a href="https://twitter.com/ASlavitt/status/1459958243644477443" target="_blank" rel="noreferer">https://twitter.com/ASlavitt/status/14599582436444 ...</a> 
+On self-inflicted wounds to the US workforce, the court battle against @OSHA_DOL standards for protection vs Covid , key thread by @ASlavitt below and @NewYorker piece by @tnyCloseRead <a href="https://www.newyorker.com/magazine/2021/11/22/the-vaccine-mandate-battle" target="_blank" rel="noreferer">newyorker.com/magazine/2021/11/22/the- ...</a> 
+  <a href="https://twitter.com/ASlavitt/status/1459958243644477443" target="_blank" rel="noreferer">twitter.com/ASlavitt/status/14599582436444 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FEMF5rXVkAYGYmr.jpg"  ><img src="/twitter/erictopol/images/FEMF5rXVkAYGYmr.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -101,7 +99,7 @@ Cruises during Delta, the laboratory for studying transmission:
 
 against Delta to reduce event risk "
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.11.12.21266183v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.11.12 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.12.21266183v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.12 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEMNYmaVkAIZoJG.jpg"  ><img src="/twitter/erictopol/images/FEMNYmaVkAIZoJG.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

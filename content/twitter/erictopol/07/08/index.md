@@ -12,7 +12,7 @@ The US epicenter for Delta is Arkansas and Missouri. They both have very low vac
 <div class="content"> 
 It's heating up further in Arkansas and Missouri
 
-<a href="https://apnews.com/article/ar-state-wire-arkansas-coronavirus-pandemic-health-11f9b5224fc703be83bac5e3dc29ffcd?utm_campaign=KHN%3A%20First%20Edition&utm_medium=email&_hsmi=138993895&_hsenc=p2ANqtz-_6uCmd9xoXhZta3aUGUXELoUlws-LyCWzTJfVlzorAP3886wL2IcBA-VhdDoouhgCZysnp1kQY0r-DkderH-rQ82kv3w&utm_content=138993895&utm_source=hs_email" target="_blank" rel="noreferer">https://apnews.com/article/ar-state-wire-arkansas- ...</a> 
+<a href="https://apnews.com/article/ar-state-wire-arkansas-coronavirus-pandemic-health-11f9b5224fc703be83bac5e3dc29ffcd?utm_campaign=KHN%3A%20First%20Edition&utm_medium=email&_hsmi=138993895&_hsenc=p2ANqtz-_6uCmd9xoXhZta3aUGUXELoUlws-LyCWzTJfVlzorAP3886wL2IcBA-VhdDoouhgCZysnp1kQY0r-DkderH-rQ82kv3w&utm_content=138993895&utm_source=hs_email" target="_blank" rel="noreferer">apnews.com/article/ar-state-wire-arkansas- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5xtI-SUcAAQWPY.jpg"  ><img src="/twitter/erictopol/images/E5xtI-SUcAAQWPY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -22,7 +22,7 @@ It's heating up further in Arkansas and Missouri
 <div class="content"> 
 The shift of Covid to an illness predominant in the young
 
-<a href="https://www.nature.com/articles/d41586-021-01862-7" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-01862-7</a> 
+<a href="https://www.nature.com/articles/d41586-021-01862-7" target="_blank" rel="noreferer">nature.com/articles/d41586-021-01862-7</a> 
 
 
 @Nature by @SmritiMallapaty </div> 
@@ -34,7 +34,8 @@ The shift of Covid to an illness predominant in the young
 <div class="content"> 
 “These results are too good to be true. There are almost no medical interventions in the history of medicine that have this magnitude of benefit, no less with COVID-19.”
 
-https://t.co/Usvm88vasf @ScienceMagazine by @RobertFService</div> 
+<a href="https://www.sciencemag.org/news/2021/07/too-good-be-true-doubts-swirl-around-trial-saw-77-reduction-covid-19-mortality" target="_blank" rel="noreferer">sciencemag.org/news/2021/07/too-good-b ...</a> 
+ @ScienceMagazine by @RobertFService</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -45,7 +46,7 @@ From genomes of nearly 50,000 people with Covid, identification of 13 genomic lo
 
 Just out @Nature 
 
-<a href="https://www.nature.com/articles/s41586-021-03767-x" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03767-x</a> 
+<a href="https://www.nature.com/articles/s41586-021-03767-x" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03767-x</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5yMaRPUUAQQ896.jpg"  ><img src="/twitter/erictopol/images/E5yMaRPUUAQQ896.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -66,19 +67,20 @@ Even the cartoonists are getting onto Delta and anti-vaxxers
 <a href="https://twitter.com/erictopol/status/1413169056522244099" target="_blank" rel="noreferer">09:12 UCT-7</a> 
 </div> 
 <div class="content"> 
-Evidence that voting in-person in the 2020 US election was associated with accelerating covid spread @TheEconomist <a href="https://www.economist.com/graphic-detail/2021/07/10/in-person-voting-really-did-accelerate-covid-19s-spread-in-america" target="_blank" rel="noreferer">https://www.economist.com/graphic-detail/2021/07/1 ...</a> 
+Evidence that voting in-person in the 2020 US election was associated with accelerating covid spread @TheEconomist <a href="https://www.economist.com/graphic-detail/2021/07/10/in-person-voting-really-did-accelerate-covid-19s-spread-in-america" target="_blank" rel="noreferer">economist.com/graphic-detail/2021/07/1 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5yUWuhUUAAcabK.jpg"  ><img src="/twitter/erictopol/images/E5yUWuhUUAAcabK.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-By the end of June, the US vaccination campaign prevented 279,000 deaths and up to 1.25 million additional hospitalizations, and prevented the Alpha variant from leading to a significant 4th wave, according to @commonwealthfnd new report  https://t.co/0GMHjhDX6K</div> 
+By the end of June, the US vaccination campaign prevented 279,000 deaths and up to 1.25 million additional hospitalizations, and prevented the Alpha variant from leading to a significant 4th wave, according to @commonwealthfnd new report  <a href="https://www.commonwealthfund.org/publications/issue-briefs/2021/jul/deaths-and-hospitalizations-averted-rapid-us-vaccination-rollout" target="_blank" rel="noreferer">commonwealthfund.org/publications/issu ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1413171397308739588" target="_blank" rel="noreferer">09:21 UCT-7</a> 
 </div> 
 <div class="content"> 
 Likewise,  the new @PHE_uk report shows inferred marked reduction of infections and deaths with vaccinations
 
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000512/Vaccine_surveillance_report_-_week_27.pdf" target="_blank" rel="noreferer">https://assets.publishing.service.gov.uk/governmen ...</a> 
+<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000512/Vaccine_surveillance_report_-_week_27.pdf" target="_blank" rel="noreferer">assets.publishing.service.gov.uk/governmen ...</a> 
 
 
 H/T @kallmemeg </div> 
@@ -90,7 +92,7 @@ H/T @kallmemeg </div>
 <div class="content"> 
 The Delta wave in cases in the UK, reaching over 32,000 today, is more concerning w/ attendant rise is hospitalizations and deaths, both ~50% increased over the past week
 
-<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">https://coronavirus.data.gov.uk</a> 
+<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">coronavirus.data.gov.uk</a> 
 
 
 @OurWorldInData 
@@ -110,7 +112,7 @@ Israel, today with 527 cases (486 yesterday), 1 death, continues to have a reduc
 
 @OurWorldInData 
 
-<a href="https://www.worldometers.info/coronavirus/country/israel/" target="_blank" rel="noreferer">https://www.worldometers.info/coronavirus/country/ ...</a> 
+<a href="https://www.worldometers.info/coronavirus/country/israel/" target="_blank" rel="noreferer">worldometers.info/coronavirus/country/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5zEaLiVgAAX8EM.jpg"  ><img src="/twitter/erictopol/images/E5zEaLiVgAAX8EM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -119,12 +121,13 @@ Just published @Nature
 
 Delta variant protection by mRNA and AZ vaccines requires 2-doses, little neutralizing antibody (nAb) with 1-dose, and insufficient nAb with prior covid
 
-<a href="https://www.nature.com/articles/s41586-021-03777-9" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03777-9</a> 
+<a href="https://www.nature.com/articles/s41586-021-03777-9" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03777-9</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5yGMpWVkAwB06D.jpg"  ><img src="/twitter/erictopol/images/E5yGMpWVkAwB06D.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Good explainer here, by @JoelAchenbach  @PostHealthSci 
 
-https://t.co/j75BzdafGw</div> 
+<a href="https://www.washingtonpost.com/health/delta-variant-vaccines/2021/07/08/05b1bc5e-df75-11eb-ae31-6b7c5c34f0d6_story.html?wpmk=1&wpisrc=al_news__alert-hse--alert-national&utm_source=alert&utm_medium=email&utm_campaign=wp_news_alert_revere&location=alert&pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb29raWVuYW1lIjoid3BfY3J0aWQiLCJpc3MiOiJDYXJ0YSIsImNvb2tpZXZhbHVlIjoiNTk2YTk5ODlhZGU0ZTIwZWUzNzQyM2ZlIiwidGFnIjoid3BfbmV3c19hbGVydF9yZXZlcmUiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vaGVhbHRoL2RlbHRhLXZhcmlhbnQtdmFjY2luZXMvMjAyMS8wNy8wOC8wNWIxYmM1ZS1kZjc1LTExZWItYWUzMS02YjdjNWMzNGYwZDZfc3RvcnkuaHRtbD93cG1rPTEmd3Bpc3JjPWFsX25ld3NfX2FsZXJ0LWhzZS0tYWxlcnQtbmF0aW9uYWwmdXRtX3NvdXJjZT1hbGVydCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13cF9uZXdzX2FsZXJ0X3JldmVyZSZsb2NhdGlvbj1hbGVydCJ9.IkguRxKEbFkgTT7Vzw4HiyKZo7XFfjjgHSEfcPdbMe4" target="_blank" rel="noreferer">washingtonpost.com/health/delta-varian ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 A couple of other points from the paper
 
@@ -139,7 +142,7 @@ A couple more points
 
 —Good coverage of this report by @cooney_liz @statnews with @angie_rasmussen 
 
-<a href="https://www.statnews.com/2021/07/08/study-highlights-need-for-full-covid-vaccination-to-protect-against-delta-variant/" target="_blank" rel="noreferer">https://www.statnews.com/2021/07/08/study-highligh ...</a> 
+<a href="https://www.statnews.com/2021/07/08/study-highlights-need-for-full-covid-vaccination-to-protect-against-delta-variant/" target="_blank" rel="noreferer">statnews.com/2021/07/08/study-highligh ...</a> 
 
 
 —There are other studies to show nAbs to Delta in people with prior Covid are fine in most and so far reinfection has not surfaced as a key issue w/ Delta </div> 
@@ -148,8 +151,8 @@ A couple more points
 <div class="thread-content"> 
 Today @TheLancet a Phase 3 trial of CoronaVac in 10,214 participants, age 18-59, only 41 endpoints total, shows 83.5% (95% CI 65,92) efficacy for prevention of symptomatic infections; good safety data
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01429-X/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
-  <a href="https://twitter.com/EricTopol/status/1412880354134970371" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1412880354134 ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01429-X/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
+  <a href="https://twitter.com/EricTopol/status/1412880354134970371" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1412880354134 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E5zp5SkVUAIfGWh.jpg"  ><img src="/twitter/erictopol/images/E5zp5SkVUAIfGWh.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5zp6pSVgAIkTep.jpg"  ><img src="/twitter/erictopol/images/E5zp6pSVgAIkTep.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1413269871547215874" target="_blank" rel="noreferer">15:52 UCT-7</a> 
@@ -161,7 +164,7 @@ Editorial w/ important points
 
 Trial stopped early; no sequencing; no data on variants
 
-Results of trial in Brazil lower efficacy w/ Gamma and Zeta variants <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01543-9/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+Results of trial in Brazil lower efficacy w/ Gamma and Zeta variants <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01543-9/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5zt1ACVEAAxOAD.jpg"  ><img src="/twitter/erictopol/images/E5zt1ACVEAAxOAD.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5zt3ThVoAATt79.jpg"  ><img src="/twitter/erictopol/images/E5zt3ThVoAATt79.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -170,7 +173,7 @@ Pfizer plans to file an EUA for a booster vaccine to counter Delta (+ do a clini
 
 There are currently insufficient data to warrant that it'll be necessary.  Beyond neutralizing antibodies, our immune response consists of memory B cells, T cells
 
-<a href="https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-ask-fda-authorize-booster-dose-covid-vaccine-delta-variant-spreads-2021-07-08/" target="_blank" rel="noreferer">https://www.reuters.com/business/healthcare-pharma ...</a> 
+<a href="https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-ask-fda-authorize-booster-dose-covid-vaccine-delta-variant-spreads-2021-07-08/" target="_blank" rel="noreferer">reuters.com/business/healthcare-pharma ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5zfZEuVkAEc3mW.jpg"  ><img src="/twitter/erictopol/images/E5zfZEuVkAEc3mW.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5zfbaMVEAIkb-e.jpg"  ><img src="/twitter/erictopol/images/E5zfbaMVEAIkb-e.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Update to @Reuters w/ @JDSteenhuysen (same link as attached) 
@@ -179,7 +182,7 @@ and
 
 @WSJ coverage @joewalkerWSJ 
 
-<a href="https://www.wsj.com/articles/pfizer-to-ask-regulators-to-authorize-covid-19-vaccine-booster-11625784072?mod=djemalertNEWS" target="_blank" rel="noreferer">https://www.wsj.com/articles/pfizer-to-ask-regulat ...</a> 
+<a href="https://www.wsj.com/articles/pfizer-to-ask-regulators-to-authorize-covid-19-vaccine-booster-11625784072?mod=djemalertNEWS" target="_blank" rel="noreferer">wsj.com/articles/pfizer-to-ask-regulat ...</a> 
 
 
 Let's see the data from their "encouraging initial study" </div> 
@@ -189,7 +192,8 @@ Let's see the data from their "encouraging initial study" </div>
 <div class="content"> 
 Good to see the @US_FDA and @CDCgov weigh in on this @Pfizer annoucement H/T @sciencecohen 
 
-https://t.co/Pt9BnI3QPQ</div> 
+<a href="https://twitter.com/PeterSullivan4/status/1413297642566791170" target="_blank" rel="noreferer">twitter.com/PeterSullivan4/status/14132976 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 

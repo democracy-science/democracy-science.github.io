@@ -34,14 +34,14 @@ After the @US_FDA  had their best public communication of the pandemic, Paul fin
 <div class="thread-content"> 
 Another example of hybrid immunity—prior Covid plus vaccine—benefit with respect to durability of antibody levels to 10 months, in health care workers @JAMANetworkOpen 
 
-<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783618" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783618" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
 
 
 Confirmed prior covid needs to be recognized by @CDCgov as = one dose of vaccine </div> 
 <a href="/twitter/erictopol/images/E-DC8qaVcAkuXR7.jpg"  ><img src="/twitter/erictopol/images/E-DC8qaVcAkuXR7.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 And @SciReports today on Prior Covid + vaccination and variants of concern (concordant with a recent @ScienceTM report that 2 doses may be needed vs variants with immune escape)
 
-<a href="https://www.nature.com/articles/s41598-021-96879-3" target="_blank" rel="noreferer">https://www.nature.com/articles/s41598-021-96879-3</a> 
+<a href="https://www.nature.com/articles/s41598-021-96879-3" target="_blank" rel="noreferer">nature.com/articles/s41598-021-96879-3</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-DIsUQVkAU0pWG.jpg"  ><img src="/twitter/erictopol/images/E-DIsUQVkAU0pWG.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432367070197338114" target="_blank" rel="noreferer">08:38 UCT-7</a> 
@@ -58,14 +58,14 @@ It's an #AI of cells day
 
 "Architectural surgery" w/transfer learning
 
-<a href="https://www.nature.com/articles/s41587-021-01001-7#Sec50" target="_blank" rel="noreferer">https://www.nature.com/articles/s41587-021-01001-7 ...</a> 
+<a href="https://www.nature.com/articles/s41587-021-01001-7#Sec50" target="_blank" rel="noreferer">nature.com/articles/s41587-021-01001-7 ...</a> 
  @NatureBiotech @fabian_theis @ICBmunich 
 
 @MohammadLotfol1
 
 Live cell segmentation resource
 
-<a href="https://www.nature.com/articles/s41592-021-01249-6#Sec27" target="_blank" rel="noreferer">https://www.nature.com/articles/s41592-021-01249-6 ...</a> 
+<a href="https://www.nature.com/articles/s41592-021-01249-6#Sec27" target="_blank" rel="noreferer">nature.com/articles/s41592-021-01249-6 ...</a> 
  @naturemethods </div> 
 <a href="/twitter/erictopol/images/E-DrtsVUYAEZSDP.png"  ><img src="/twitter/erictopol/images/E-DrtsVUYAEZSDP.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-DrvAdUUAAuHts.jpg"  ><img src="/twitter/erictopol/images/E-DrvAdUUAAuHts.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-DsZvXVcAUwsNo.jpg"  ><img src="/twitter/erictopol/images/E-DsZvXVcAUwsNo.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-DsbECVEAQ46gq.jpg"  ><img src="/twitter/erictopol/images/E-DsbECVEAQ46gq.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -75,7 +75,7 @@ Live cell segmentation resource
 <div class="content"> 
 Antibodies to #SARSCoV2 receptor binding domain in saliva induced from prior covid, mRNA vaccine and J&amp;J vaccine. High levels of IgG in mRNA vaccinated. Salivary IgA also measured in this study.
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.22.21262168v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.22 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.22.21262168v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.22 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-D056rUUAElHBD.jpg"  ><img src="/twitter/erictopol/images/E-D056rUUAElHBD.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -105,7 +105,7 @@ The antibody response to vaccines among &gt;1600 health care workers:
 
  (median titer 9461 vs 1613 U/ML)
 
-<a href="https://jamanetwork.com/journals/jama/fullarticle/2783797" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jama/fullarticle/ ...</a> 
+<a href="https://jamanetwork.com/journals/jama/fullarticle/2783797" target="_blank" rel="noreferer">jamanetwork.com/journals/jama/fullarticle/ ...</a> 
 … 
 
 @JAMA_current </div> 
@@ -119,7 +119,7 @@ After ascending to an unprecedented level of hospitalizations, a descent has fin
 
 And test positivity reduced now to 12.5%
 
-<a href="https://newsnodes.com/us_state/FL" target="_blank" rel="noreferer">https://newsnodes.com/us_state/FL</a> 
+<a href="https://newsnodes.com/us_state/FL" target="_blank" rel="noreferer">newsnodes.com/us_state/FL</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-EOaFdVcAI96W9.jpg"  ><img src="/twitter/erictopol/images/E-EOaFdVcAI96W9.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -139,7 +139,7 @@ On understanding #LongCovid
 
 "Let not post-COVID-19 sequelae become our encephalitis lethargically of this century."
 
-<a href="https://www.acpjournals.org/doi/10.7326/M21-3072" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/10.7326/M21-3072</a> 
+<a href="https://www.acpjournals.org/doi/10.7326/M21-3072" target="_blank" rel="noreferer">acpjournals.org/doi/10.7326/M21-3072</a> 
 
 
 @AnnalsofIM by @PaulPauwaert </div> 
@@ -158,7 +158,7 @@ not lethargically</div>
 <div class="content"> 
 Two things we'd be far better off had they not occurred 
 
-Top: <a href="https://science.sciencemag.org/content/373/6557/844" target="_blank" rel="noreferer">https://science.sciencemag.org/content/373/6557/84 ...</a> 
+Top: <a href="https://science.sciencemag.org/content/373/6557/844" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6557/84 ...</a> 
 
 
 @ScienceMagazine @kakape @ScienceVisuals @nirja_desai
@@ -167,19 +167,12 @@ Bottom: H/T @macroliter </div>
 <a href="/twitter/erictopol/images/E-EkzRjUUAED-Ev.jpg"  ><img src="/twitter/erictopol/images/E-EkzRjUUAED-Ev.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1432479752854536199" target="_blank" rel="noreferer">16:06 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @cuttingforstone: wonderful chat with Robin Cook MD, on Medical Thrillers, Healthcare and his career. With my cohost @EricTopol @Medscap…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432505183590760450" target="_blank" rel="noreferer">17:47 UCT-7</a> 
 </div> 
 <div class="content"> 
 It seems it should be the other way around.....
 
-<a href="https://www.ft.com/content/ec9d43ec-b625-4f5b-b48d-7ff8c91e3093" target="_blank" rel="noreferer">https://www.ft.com/content/ec9d43ec-b625-4f5b-b48d ...</a> 
+<a href="https://www.ft.com/content/ec9d43ec-b625-4f5b-b48d-7ff8c91e3093" target="_blank" rel="noreferer">ft.com/content/ec9d43ec-b625-4f5b-b48d ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-FH2NgVIAIhFmC.jpg"  ><img src="/twitter/erictopol/images/E-FH2NgVIAIhFmC.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -189,7 +182,7 @@ It seems it should be the other way around.....
 <div class="content"> 
 New Zealand is achieving containment of its Delta "wave" @minhealthnz with 49 cases today
 
-<a href="https://www.health.govt.nz/news-media/media-releases/49-additional-community-cases-covid-19-1-new-case-managed-isolation-facility-over-76000-vaccines" target="_blank" rel="noreferer">https://www.health.govt.nz/news-media/media-releas ...</a> 
+<a href="https://www.health.govt.nz/news-media/media-releases/49-additional-community-cases-covid-19-1-new-case-managed-isolation-facility-over-76000-vaccines" target="_blank" rel="noreferer">health.govt.nz/news-media/media-releas ...</a> 
 
 
 An amazing graph of their pandemic confirmed and probable cases over &gt;18 months in a country of 4.9 million people </div> 
@@ -201,7 +194,7 @@ An amazing graph of their pandemic confirmed and probable cases over &gt;18 mont
 <div class="content"> 
 That's quite a top 10 list
 
-<a href="https://newsnodes.com/worldmonitor/" target="_blank" rel="noreferer">https://newsnodes.com/worldmonitor/</a> 
+<a href="https://newsnodes.com/worldmonitor/" target="_blank" rel="noreferer">newsnodes.com/worldmonitor/</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-FosrjVEAUf4Ju.jpg"  ><img src="/twitter/erictopol/images/E-FosrjVEAUf4Ju.jpg" alt="Twitter image" ></img></a></div> 
 

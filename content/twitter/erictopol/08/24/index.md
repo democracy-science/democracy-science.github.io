@@ -19,7 +19,7 @@ by @stephanpastis </div>
 <div class="content"> 
 How much more do we have to learn from studies here and multiple other countries to institute frequent rapid testing for universities and schools?
 
-<a href="https://www.nytimes.com/2021/08/22/health/university-illinois-covid.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/08/22/health/universi ...</a> 
+<a href="https://www.nytimes.com/2021/08/22/health/university-illinois-covid.html" target="_blank" rel="noreferer">nytimes.com/2021/08/22/health/universi ...</a> 
  @kchangnyt </div> 
 <a href="/twitter/erictopol/images/E9jv-bhUUAYKUYm.jpg"  ><img src="/twitter/erictopol/images/E9jv-bhUUAYKUYm.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9jxfN7VIAMSZ-f.jpg"  ><img src="/twitter/erictopol/images/E9jxfN7VIAMSZ-f.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -27,7 +27,7 @@ How much more do we have to learn from studies here and multiple other countries
 <a href="https://twitter.com/erictopol/status/1430165344648376340" target="_blank" rel="noreferer">06:49 UCT-7</a> 
 </div> 
 <div class="content"> 
-Debunking 7 of the multitude of myths and disinformation about covid vaccines <a href="https://www.sandiegouniontribune.com/news/health/story/2021-08-20/vax-facts-7-common-coronavirus-vaccine-myths-debunked" target="_blank" rel="noreferer">https://www.sandiegouniontribune.com/news/health/s ...</a> 
+Debunking 7 of the multitude of myths and disinformation about covid vaccines <a href="https://www.sandiegouniontribune.com/news/health/story/2021-08-20/vax-facts-7-common-coronavirus-vaccine-myths-debunked" target="_blank" rel="noreferer">sandiegouniontribune.com/news/health/s ...</a> 
  by @JonathanWosen @sdut </div> 
 <a href="/twitter/erictopol/images/E9j3XY-XMAEdy-G.jpg"  ><img src="/twitter/erictopol/images/E9j3XY-XMAEdy-G.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -37,7 +37,7 @@ Debunking 7 of the multitude of myths and disinformation about covid vaccines <a
 <div class="content"> 
 Just published @ScienceTM 
 
-<a href="https://stm.sciencemag.org/content/early/2021/08/23/scitranslmed.abh2624.full" target="_blank" rel="noreferer">https://stm.sciencemag.org/content/early/2021/08/2 ...</a> 
+<a href="https://stm.sciencemag.org/content/early/2021/08/23/scitranslmed.abh2624.full" target="_blank" rel="noreferer">stm.sciencemag.org/content/early/2021/08/2 ...</a> 
 
 
 284 patients w/ Covid:  type I IFN-specific autoantibodies in 25% with critical or severe disease, none with moderate disease; single cell RNA-seq of &gt;600,000 cells -&gt; role of ISG-1 gene and deficient response </div> 
@@ -53,7 +53,7 @@ Our covid times :-) </div>
 <div class="thread-content"> 
 The striking contrast of the Delta wave impact in the US compared with the UK
 
-<a href="https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/08/24/wor ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/08/24/wor ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9kCc2oXMAwl7_7.jpg"  ><img src="/twitter/erictopol/images/E9kCc2oXMAwl7_7.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430180291163918338" target="_blank" rel="noreferer">07:48 UCT-7</a> 
@@ -69,7 +69,8 @@ About 1.6 million Israelis have received booster shots.
 
 There’s been a flattening of the curves for severe illness and hospitalizations. 
 
-Awaiting further follow-up and full analysis but this early look is encouraging. https://t.co/GXB2M9AmOc</div> 
+Awaiting further follow-up and full analysis but this early look is encouraging. <a href="https://twitter.com/segal_eran/status/1430068336109441034" target="_blank" rel="noreferer">twitter.com/segal_eran/status/143006833610 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430181673384153098" target="_blank" rel="noreferer">07:54 UCT-7</a> 
 </div> 
@@ -80,7 +81,7 @@ There's this today, too, by @LittleMoiz </div>
 <div class="thread-content"> 
 With further evolution of Delta, there could be considerably more resistance to vaccines. 3 of 4 mutations (w/ Delta) studied here have already been seen @GISAID 
 
-<a href="https://www.biorxiv.org/thread-content/10.1101/2021.08.22.457114v1" target="_blank" rel="noreferer">https://www.biorxiv.org/thread-content/10.1101/2021.08.22 ...</a> 
+<a href="https://www.biorxiv.org/thread-content/10.1101/2021.08.22.457114v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.08.22 ...</a> 
  the case for a Delta-specific vaccine </div> 
 <a href="/twitter/erictopol/images/E9kWjsjVcAUYbbn.jpg"  ><img src="/twitter/erictopol/images/E9kWjsjVcAUYbbn.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430212931753443332" target="_blank" rel="noreferer">09:58 UCT-7</a> 
@@ -88,13 +89,14 @@ With further evolution of Delta, there could be considerably more resistance to 
 <div class="content"> 
 Very good critique thread by @macroliter on this report
 
-https://t.co/0uiBaKvY6u</div> 
+<a href="https://twitter.com/macroliter/status/1430182166294585352" target="_blank" rel="noreferer">twitter.com/macroliter/status/143018216629 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 6-month follow up of @BioNTech_Group/@Pfizer vaccination in a Kaiser Permanente cohort of  &gt;3.3 million: attrition of effectiveness over time vs infections, for Delta (-&gt; 53% at 4 months), yet high maintained protection vs hospitalizations (93%)
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3909743" target="_blank" rel="noreferer">https://papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3909743" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9kd7RfVoAMQmzY.jpg"  ><img src="/twitter/erictopol/images/E9kd7RfVoAMQmzY.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9kd8lmUUAQ53sB.jpg"  ><img src="/twitter/erictopol/images/E9kd8lmUUAQ53sB.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The authors conclude "Reductions in effectiveness against SARS-CoV-2 infections over time are likely primarily due to waning rather than Delta escaping vaccine protection"
@@ -108,18 +110,11 @@ Contrast w/ @Pfizer trial follow-up, pre-Delta
 
 "VE against COVID-19 was 91% (95% CI 89.0-93.2) through up to 6 months of follow-up"
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.07.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.28 ...</a> 
 
 
 Hard to dissect the time vs Delta or their interaction that accounts for the VE decline, but appears Delta is playing a role </div> 
 <a href="/twitter/erictopol/images/E9kkxiSUcAIwcxf.jpg"  ><img src="/twitter/erictopol/images/E9kkxiSUcAIwcxf.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1430219726161018881" target="_blank" rel="noreferer">10:25 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @hankgreen: The Pfizer vaccine becomes significantly less effective at preventing infections of  COVID (especially the delta variant) ov…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430241779001925632" target="_blank" rel="noreferer">11:53 UCT-7</a> 
@@ -129,7 +124,7 @@ A new study of neutralizing antibodies, memory B &amp; T cells after mRNA vaccin
 
 Helps to explain dichotomy of infection susceptibility d/t waning of antibodies and preserved protection vs severe illness d/t memory B, T cells
 
-<a href="https://www.biorxiv.org/content/10.1101/2021.08.23.457229v1" target="_blank" rel="noreferer">https://www.biorxiv.org/content/10.1101/2021.08.23 ...</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2021.08.23.457229v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.08.23 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9k721GVgAUFVzK.jpg"  ><img src="/twitter/erictopol/images/E9k721GVgAUFVzK.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -150,7 +145,7 @@ The same pattern in LA County as seen in other US counties and states (no nation
 
 The Delta wave (and time from vaccination) associated with a rise in breakthroughs yet steady snd strong protection from hospitalizations, age-adjusted
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e5.htm?s_cid=mm7034e5_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e5.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e5.htm?s_cid=mm7034e5_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7034e5.ht ...</a> 
  @CDCMMWR </div> 
 <a href="/twitter/erictopol/images/E9lJ0feUcAAxKGO.jpg"  ><img src="/twitter/erictopol/images/E9lJ0feUcAAxKGO.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -159,7 +154,7 @@ The effect of time from vaccination and Delta in frontline health care workers, 
 
 Decline in effectiveness vs infections (any) from 91% to 66% (point estimates), pre to intra-Delta wave
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e4.htm?s_cid=mm7034e4_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e4.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e4.htm?s_cid=mm7034e4_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7034e4.ht ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9knUPoVIAATvh6.jpg"  ><img src="/twitter/erictopol/images/E9knUPoVIAATvh6.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 65% Pfizer, 33% Moderna, 2% J&amp;J
@@ -175,7 +170,7 @@ Data not broken down by vaccine
 <div class="content"> 
 This is the right message, from the lead author @ashley_fowlkes 
 
-<a href="https://www.nytimes.com/live/2021/08/24/world/covid-delta-variant-vaccine" target="_blank" rel="noreferer">https://www.nytimes.com/live/2021/08/24/world/covi ...</a> 
+<a href="https://www.nytimes.com/live/2021/08/24/world/covid-delta-variant-vaccine" target="_blank" rel="noreferer">nytimes.com/live/2021/08/24/world/covi ...</a> 
 
 
 Key points
@@ -195,7 +190,7 @@ The most comprehensive global study of hypertension, &gt;100 million people, ~30
 
 It has doubled in frequency and remains poorly controlled, untreated, and undiagnosed w/ much geographic variability
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01330-1/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01330-1/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9lyJy6UYAMVYLF.jpg"  ><img src="/twitter/erictopol/images/E9lyJy6UYAMVYLF.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -203,7 +198,7 @@ It has doubled in frequency and remains poorly controlled, untreated, and undiag
 <a href="https://twitter.com/erictopol/status/1430339373938053125" target="_blank" rel="noreferer">18:20 UCT-7</a> 
 </div> 
 <div class="content"> 
-Sign of vaccine waning in new UK report among earliest vaccinees in ZOE COVID study of 1.2 million participants <a href="https://www.bbc.com/news/health-58322882" target="_blank" rel="noreferer">https://www.bbc.com/news/health-58322882</a> 
+Sign of vaccine waning in new UK report among earliest vaccinees in ZOE COVID study of 1.2 million participants <a href="https://www.bbc.com/news/health-58322882" target="_blank" rel="noreferer">bbc.com/news/health-58322882</a> 
  @bbchealth @timspector
 
 Protection from infection:
@@ -240,7 +235,7 @@ Approaching 100,000 US hospitalizations
 
 And the most ICU patients, &gt; 25,000, since the pandemic began here, per @BNODesk 
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
 
 
 and that at least 85,000 of these were 💉💉fully preventable </div> 

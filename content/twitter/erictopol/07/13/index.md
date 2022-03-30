@@ -19,7 +19,7 @@ by @Hilary_Price and @stephanpastis </div>
 <div class="content"> 
 How not to stay ahead of the Delta outbreak
 
-<a href="https://www.ft.com/content/f8e83ce5-037f-469d-bee9-aaa37f6e2554" target="_blank" rel="noreferer">https://www.ft.com/content/f8e83ce5-037f-469d-bee9 ...</a> 
+<a href="https://www.ft.com/content/f8e83ce5-037f-469d-bee9-aaa37f6e2554" target="_blank" rel="noreferer">ft.com/content/f8e83ce5-037f-469d-bee9 ...</a> 
  by @nikasgari @FT </div> 
 <a href="/twitter/erictopol/images/E6LbKrXVIAcy0DX.jpg"  ><img src="/twitter/erictopol/images/E6LbKrXVIAcy0DX.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -49,7 +49,7 @@ Or the new records of deaths each day for multiple countries with &gt;90% Delta 
 <div class="content"> 
 The outliers, the "extreme phenotypes": we're not learning enough from them in the pandemic and beyond. Breakthrough infections from vaccines and centenarians who resist covid are great examples, by @rkhamsi @nytopinion 
 
-<a href="https://www.nytimes.com/2021/07/12/opinion/covid-unusual-cases-study.html?searchResultPosition=1" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/12/opinion/covid-u ...</a> 
+<a href="https://www.nytimes.com/2021/07/12/opinion/covid-unusual-cases-study.html?searchResultPosition=1" target="_blank" rel="noreferer">nytimes.com/2021/07/12/opinion/covid-u ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6MCKWcVEAQUlso.jpg"  ><img src="/twitter/erictopol/images/E6MCKWcVEAQUlso.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -59,10 +59,10 @@ The outliers, the "extreme phenotypes": we're not learning enough from them in t
 <div class="content"> 
 The US Delta wave epicenter in Arkansas and Missouri is spreading to Louisiana. Nevada on its own is heating up to round out the top 4 states, all &gt;22 cases/100K people and rising hospitalizations, low vaccination
 
-<a href="https://theuscovidatlas.org" target="_blank" rel="noreferer">https://theuscovidatlas.org</a> 
+<a href="https://theuscovidatlas.org" target="_blank" rel="noreferer">theuscovidatlas.org</a> 
 
 
-<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/us/covid- ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/covid- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6MO4D8VkAUiLdH.jpg"  ><img src="/twitter/erictopol/images/E6MO4D8VkAUiLdH.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6MOVlIVoAEB3xN.jpg"  ><img src="/twitter/erictopol/images/E6MOVlIVoAEB3xN.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -72,7 +72,7 @@ The US Delta wave epicenter in Arkansas and Missouri is spreading to Louisiana. 
 <div class="content"> 
 "The potential role of reactivated viruses is worth studying" as a potential mechanism for #LongCovid 
 
-<a href="https://www.wsj.com/articles/are-latent-viruses-causing-long-covid-19-symptoms-patient-groups-push-for-testing-11626181200?mod=hp_listc_pos1" target="_blank" rel="noreferer">https://www.wsj.com/articles/are-latent-viruses-ca ...</a> 
+<a href="https://www.wsj.com/articles/are-latent-viruses-causing-long-covid-19-symptoms-patient-groups-push-for-testing-11626181200?mod=hp_listc_pos1" target="_blank" rel="noreferer">wsj.com/articles/are-latent-viruses-ca ...</a> 
  by @rddysum </div> 
 <a href="/twitter/erictopol/images/E6Mrbo_VUAgjx8r.jpg"  ><img src="/twitter/erictopol/images/E6Mrbo_VUAgjx8r.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -82,7 +82,7 @@ The US Delta wave epicenter in Arkansas and Missouri is spreading to Louisiana. 
 <div class="content"> 
 Is remote home monitoring for Covid safe and effective for avoiding hospitalization? A systematic review of 27 studies leaves this question unanswered.
 
-<a href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00245-5/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/eclinm/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00245-5/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/eclinm/article/ ...</a> 
  @EClinicalMed </div> 
 <a href="/twitter/erictopol/images/E6Ne6VEVIAAh9Al.jpg"  ><img src="/twitter/erictopol/images/E6Ne6VEVIAAh9Al.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 

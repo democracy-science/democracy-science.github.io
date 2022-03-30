@@ -14,7 +14,7 @@ Testing is up (still way short what it should be) and positivity is declining fo
 
 Log-plot: some flattening
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
 
 
 Too early to call, but hopeful </div> 
@@ -34,7 +34,7 @@ via @dvir_a </div>
 <div class="content"> 
 Over 600,000 3rd shots have been given for age &gt;60 as cases are surging in Israel, with much higher vaccination % than US
 
-<a href="https://www.ft.com/content/c0a111eb-c5b0-43f4-b569-5f7fd810a1b0" target="_blank" rel="noreferer">https://www.ft.com/content/c0a111eb-c5b0-43f4-b569 ...</a> 
+<a href="https://www.ft.com/content/c0a111eb-c5b0-43f4-b569-5f7fd810a1b0" target="_blank" rel="noreferer">ft.com/content/c0a111eb-c5b0-43f4-b569 ...</a> 
  @FT by @MehulAtLarge 
 
 @OurWorldInData </div> 
@@ -48,7 +48,7 @@ Just published @ScienceTM
 
 In people with prior covid, 2 doses of mRNA vaccination provided a better immune response than 1 against major variants of concern (Beta, Gamma)
 
-<a href="https://stm.sciencemag.org/content/early/2021/08/10/scitranslmed.abj0847" target="_blank" rel="noreferer">https://stm.sciencemag.org/content/early/2021/08/1 ...</a> 
+<a href="https://stm.sciencemag.org/content/early/2021/08/10/scitranslmed.abj0847" target="_blank" rel="noreferer">stm.sciencemag.org/content/early/2021/08/1 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8b-iCdWEAs0hsx.jpg"  ><img src="/twitter/erictopol/images/E8b-iCdWEAs0hsx.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -69,7 +69,7 @@ Just out @Nature
 
 The contribution of rare genomic variants to common medical conditions is greater than has been generally appreciated; insights from the @uk_biobank &gt;280,000 exome sequences, &gt;18,000 complex traits
 
-<a href="https://www.nature.com/articles/s41586-021-03855-y" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03855-y</a> 
+<a href="https://www.nature.com/articles/s41586-021-03855-y" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03855-y</a> 
 
 
 by @SlavePetrovski and collaborators </div> 
@@ -96,18 +96,13 @@ Louisiana has now past their peak hospitalizations for the pandemic, including t
 <div class="content"> 
 Why are US Delta wave hospitalizations rising so quickly and more extensively compared w/ UK?
 
-https://t.co/D2nTMJVLRX (my 1° concern)
+<a href="https://twitter.com/EricTopol/status/1424757740396695556" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1424757740396 ...</a> 
+ (my 1° concern)
 
 This thread by @VictimofMaths aptly highlights it's not just our lower US % vaccinated, but also the age of the vaccinees
 
-https://t.co/tM8L7JepnO</div> 
+<a href="https://twitter.com/VictimOfMaths/status/1425109797750333449" target="_blank" rel="noreferer">twitter.com/VictimOfMaths/status/142510979 ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1425161596851032068" target="_blank" rel="noreferer">11:26 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @carothers_kelly: @EricTopol I live here. I sent my five year old twins back to school today and cried the entire way home.</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -121,7 +116,7 @@ undetectable: 51%
 
 1000: 96%
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.09.21261290v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.08.09 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.09.21261290v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.09 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8c6TreVUAAqjYy.jpg"  ><img src="/twitter/erictopol/images/E8c6TreVUAAqjYy.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8c4_VYVkAUlJ3P.jpg"  ><img src="/twitter/erictopol/images/E8c4_VYVkAUlJ3P.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1425200518259875843" target="_blank" rel="noreferer">14:00 UCT-7</a> 
@@ -138,7 +133,7 @@ It adds to the "waning immunity" narrative. That less ability to neutralize the 
 <div class="content"> 
 Debunking the myth that vaccination promotes mutations. Being fully vaccinated actually suppresses them 
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.08.21261768v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.08 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.08.21261768v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.08 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8dU96RVcAMscya.jpg"  ><img src="/twitter/erictopol/images/E8dU96RVcAMscya.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -150,7 +145,7 @@ Good: "Fully vaccinated people have made up as few as 0.1% of and as many as 5% 
 
 But: no Delta data
 
-<a href="https://www.nytimes.com/interactive/2021/08/10/us/covid-breakthrough-infections-vaccines.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/08/10/us/ ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/08/10/us/covid-breakthrough-infections-vaccines.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank" rel="noreferer">nytimes.com/interactive/2021/08/10/us/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8dXs7TUYAAn6i0.png"  ><img src="/twitter/erictopol/images/E8dXs7TUYAAn6i0.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -160,7 +155,7 @@ But: no Delta data
 <div class="content"> 
 The best comprehensive review of the asymptomatic status with Covid,  &gt;350 studies, just out @PNASNews 
 
-<a href="https://www.pnas.org/content/118/34/e2109229118" target="_blank" rel="noreferer">https://www.pnas.org/content/118/34/e2109229118</a> 
+<a href="https://www.pnas.org/content/118/34/e2109229118" target="_blank" rel="noreferer">pnas.org/content/118/34/e2109229118</a> 
 
 
 Overall: true, never had symptoms 35%; children 47%
@@ -176,18 +171,11 @@ Overall: true, never had symptoms 35%; children 47%
 <div class="content"> 
 The Delta strain is so very contagious. Could that be because it has a shortened interval—the time from one infection to the next? A rigorous study from Singapore suggests this is unlikely 
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01697-4/fulltext#supplementaryMaterial" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01697-4/fulltext#supplementaryMaterial" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
 
 
 @sporeMOH @AdamJKucharski </div> 
 <a href="/twitter/erictopol/images/E8dyeZSVUAQsPrE.jpg"  ><img src="/twitter/erictopol/images/E8dyeZSVUAQsPrE.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8dygNoVIAIRNzi.jpg"  ><img src="/twitter/erictopol/images/E8dygNoVIAIRNzi.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8dyo1oVcAEsZ45.jpg"  ><img src="/twitter/erictopol/images/E8dyo1oVcAEsZ45.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1425252445546942466" target="_blank" rel="noreferer">17:27 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DrBrianKeating: Dr. @EricTopol will see you now! All things🦠-19, his recent appearance on @SamHarrisOrg's podcast, #ArtificalIntelligen…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1425278516283600898" target="_blank" rel="noreferer">19:10 UCT-7</a> 

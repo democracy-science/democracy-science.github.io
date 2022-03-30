@@ -7,13 +7,13 @@ category = "Twitter"
 <div class="thread-content"> 
 On the mix and match vaccine front, a 2nd new study shows a significantly better immune response for AZ then mRNA than either 2 AZ shots or 2 mRNA shots @TheLancetInfDis 
 
-<a href="https://www.nature.com/articles/s41591-021-01464-w" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01464-w</a> 
+<a href="https://www.nature.com/articles/s41591-021-01464-w" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01464-w</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7jCLv5VIAUm9Xi.jpg"  ><img src="/twitter/erictopol/images/E7jCLv5VIAUm9Xi.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421099255465316363" target="_blank" rel="noreferer">06:23 UCT-7</a> 
 </div> 
 <div class="content"> 
-Here's the one from earlier this week @NatureMedicine which showed the impact for neutralization antibody and T cell response <a href="https://www.nature.com/articles/s41591-021-01464-w" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01464-w</a> 
+Here's the one from earlier this week @NatureMedicine which showed the impact for neutralization antibody and T cell response <a href="https://www.nature.com/articles/s41591-021-01464-w" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01464-w</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7jBs5qVcAAeDF_.jpg"  ><img src="/twitter/erictopol/images/E7jBs5qVcAAeDF_.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -29,20 +29,22 @@ Hospitalizations are on a similar trajectory. </div>
 <div class="thread-content"> 
 These observations should lead to acceleration of the universal coronavirus vaccine, based upon broad nAbs, that is eminently doable, but we're not giving it the priority. 
 
-https://t.co/Qc1wziLKWG</div> 
+<a href="https://mobile.twitter.com/EricTopol/status/1382758611303100416" target="_blank" rel="noreferer">mobile.twitter.com/EricTopol/status/138275 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421140593007161346" target="_blank" rel="noreferer">09:08 UCT-7</a> 
 </div> 
 <div class="content"> 
 More on nAbs @Nature 
 
-https://t.co/D0jVKOYdF7</div> 
+<a href="https://www.nature.com/articles/d41586-021-02096-3" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02096-3</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 New @CDCMMWR on the Delta variant public gathering outbreak (incl "densely packed indoor events") in Barnstable Co involving 469 people, 74% among vaccinated, w/ similar viral load (Ct) as non-vaccinated. 
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7031e2.htm?s_cid=mm7031e2_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7031e2.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7031e2.htm?s_cid=mm7031e2_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7031e2.ht ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7jxzUNVEAYNq7t.jpg"  ><img src="/twitter/erictopol/images/E7jxzUNVEAYNq7t.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7jx1fuUUAMDPnW.jpg"  ><img src="/twitter/erictopol/images/E7jx1fuUUAMDPnW.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421154047776616451" target="_blank" rel="noreferer">10:01 UCT-7</a> 
@@ -67,7 +69,7 @@ And there is much evidence for people with prior covid to get 1 shot (even bette
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-On #LongCovid, @Dr2NisreenAlwan, a leading authority on this condition, has an exceptional perspective @ScienceMagazine today reviewing what we know, which is grossly insufficient, and what we need to do <a href="https://science.sciencemag.org/thread-content/373/6554/491.full" target="_blank" rel="noreferer">https://science.sciencemag.org/thread-content/373/6554/49 ...</a> 
+On #LongCovid, @Dr2NisreenAlwan, a leading authority on this condition, has an exceptional perspective @ScienceMagazine today reviewing what we know, which is grossly insufficient, and what we need to do <a href="https://science.sciencemag.org/thread-content/373/6554/491.full" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/373/6554/49 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7e3FmoVkAAV1iZ.png"  ><img src="/twitter/erictopol/images/E7e3FmoVkAAV1iZ.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7e3HJyUUAEOAYI.jpg"  ><img src="/twitter/erictopol/images/E7e3HJyUUAEOAYI.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7e3Il0UcAIBh0L.png"  ><img src="/twitter/erictopol/images/E7e3Il0UcAIBh0L.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7e3KFRUUAAvHUO.jpg"  ><img src="/twitter/erictopol/images/E7e3KFRUUAAvHUO.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421164143785103365" target="_blank" rel="noreferer">10:41 UCT-7</a> 
@@ -75,7 +77,7 @@ On #LongCovid, @Dr2NisreenAlwan, a leading authority on this condition, has an e
 <div class="content"> 
 This very good @bmj_latest #LongCovid review complements Prof Dr. Alwan's perspective piece
 
-<a href="https://www.bmj.com/content/374/bmj.n1648" target="_blank" rel="noreferer">https://www.bmj.com/content/374/bmj.n1648</a> 
+<a href="https://www.bmj.com/content/374/bmj.n1648" target="_blank" rel="noreferer">bmj.com/content/374/bmj.n1648</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7j9BQYVIAMrdF6.jpg"  ><img src="/twitter/erictopol/images/E7j9BQYVIAMrdF6.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7j9CmhVIAg9IkQ.jpg"  ><img src="/twitter/erictopol/images/E7j9CmhVIAg9IkQ.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7j9EHqVgAIEqeP.jpg"  ><img src="/twitter/erictopol/images/E7j9EHqVgAIEqeP.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7j9Fz1UYAEg-IR.jpg"  ><img src="/twitter/erictopol/images/E7j9Fz1UYAEg-IR.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -98,7 +100,8 @@ PS There is nothing new here either </div>
 <a href="https://twitter.com/erictopol/status/1421188503354830850" target="_blank" rel="noreferer">12:18 UCT-7</a> 
 </div> 
 <div class="content"> 
-The @US_FDA *finally* gets the message that its review for full approval of covid vaccines has to be THE priority (not among them) https://t.co/XTr0YKBzCD
+The @US_FDA *finally* gets the message that its review for full approval of covid vaccines has to be THE priority (not among them) <a href="https://www.statnews.com/2021/07/30/fda-under-pressure-plans-sprint-to-accelerate-review-of-pfizers-covid-19-vaccine-for-full-approval/?utm_content=bufferb95c2&utm_medium=social&utm_source=twitter&utm_campaign=twitter_organic" target="_blank" rel="noreferer">statnews.com/2021/07/30/fda-under-pres ...</a> 
+
 
 @statnews @NicholasFlork 
 
@@ -113,7 +116,7 @@ The UK has a covid U-turn
 
 The US has a mask U-turn
 
-<a href="https://www.ft.com/content/b76e7d97-0a51-4000-a120-d94a233baf96" target="_blank" rel="noreferer">https://www.ft.com/content/b76e7d97-0a51-4000-a120 ...</a> 
+<a href="https://www.ft.com/content/b76e7d97-0a51-4000-a120-d94a233baf96" target="_blank" rel="noreferer">ft.com/content/b76e7d97-0a51-4000-a120 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7kU8IlUcAQRZr4.jpg"  ><img src="/twitter/erictopol/images/E7kU8IlUcAQRZr4.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7kU-UmVUAExEWF.jpg"  ><img src="/twitter/erictopol/images/E7kU-UmVUAExEWF.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -131,7 +134,7 @@ While all covid vaccines offer some protection vs hospitalizations and deaths, t
 
 @meredithwadman explores this @ScienceMagazine 
 
-<a href="https://www.sciencemag.org/news/2021/07/overlooked-superpower-mrna-vaccines" target="_blank" rel="noreferer">https://www.sciencemag.org/news/2021/07/overlooked ...</a> 
+<a href="https://www.sciencemag.org/news/2021/07/overlooked-superpower-mrna-vaccines" target="_blank" rel="noreferer">sciencemag.org/news/2021/07/overlooked ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7kkqC6VIAILRf3.jpg"  ><img src="/twitter/erictopol/images/E7kkqC6VIAILRf3.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7klQ_FVEAIGMEI.jpg"  ><img src="/twitter/erictopol/images/E7klQ_FVEAIGMEI.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421210388327141376" target="_blank" rel="noreferer">13:45 UCT-7</a> 
@@ -139,12 +142,12 @@ While all covid vaccines offer some protection vs hospitalizations and deaths, t
 <div class="content"> 
 Links to the 2 papers in the Figure, another Figure from there @NatureMedicine one below
 
-<a href="https://mobile.twitter.com/EricTopol/status/1413925899443916800" target="_blank" rel="noreferer">https://mobile.twitter.com/EricTopol/status/141392 ...</a> 
+<a href="https://mobile.twitter.com/EricTopol/status/1413925899443916800" target="_blank" rel="noreferer">mobile.twitter.com/EricTopol/status/141392 ...</a> 
 
 
 And a thread on neutralizing Abs, a key driver
 
-<a href="https://twitter.com/EricTopol/status/1420870547039158273" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1420870547039 ...</a> 
+<a href="https://twitter.com/EricTopol/status/1420870547039158273" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1420870547039 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7km6R4UUAIft_e.jpg"  ><img src="/twitter/erictopol/images/E7km6R4UUAIft_e.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -167,7 +170,7 @@ So many things we can do, but are not doing, to reduce the hit and achieve conta
 <div class="content"> 
 Pattern recognition
 
-<a href="https://covidactnow.org/?s=21201043" target="_blank" rel="noreferer">https://covidactnow.org/?s=21201043</a> 
+<a href="https://covidactnow.org/?s=21201043" target="_blank" rel="noreferer">covidactnow.org/?s=21201043</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7k6136VIAUhlhu.jpg"  ><img src="/twitter/erictopol/images/E7k6136VIAUhlhu.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -186,20 +189,6 @@ Our covid times :-(
 
 by @MatttDavies </div> 
 <a href="/twitter/erictopol/images/E7lB3CuVgAE5ntb.jpg"  ><img src="/twitter/erictopol/images/E7lB3CuVgAE5ntb.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1421249677760991233" target="_blank" rel="noreferer">16:21 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @CFCHudsonValley: @KittyKicksAss @EricTopol Ditto in Austria. My kid, a teacher there, was tested 1 weekly, as were the students. If you…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1421249743263440897" target="_blank" rel="noreferer">16:21 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @KittyKicksAss: @EricTopol In Germany, people can get free tests once a week in town, many bars and restaurants have quick testing - fre…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421298609820106755" target="_blank" rel="noreferer">19:36 UCT-7</a> 

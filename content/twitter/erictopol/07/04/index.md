@@ -21,16 +21,9 @@ Worth emphasizing 1000X on long-term safety of vaccines:
 
 "In the history of vaccines, side effects have always appeared within two months of administration"—@DrPaulOffit 
 
-<a href="https://www.sandiegouniontribune.com/news/health/story/2021-05-31/misinformation-remains-the-biggest-hurdle-as-vaccination-effort-turns-to-cash-incentives" target="_blank" rel="noreferer">https://www.sandiegouniontribune.com/news/health/s ...</a> 
+<a href="https://www.sandiegouniontribune.com/news/health/story/2021-05-31/misinformation-remains-the-biggest-hurdle-as-vaccination-effort-turns-to-cash-incentives" target="_blank" rel="noreferer">sandiegouniontribune.com/news/health/s ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5dXVj-VIAI9yGk.jpg"  ><img src="/twitter/erictopol/images/E5dXVj-VIAI9yGk.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1411695941594226701" target="_blank" rel="noreferer">07:38 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @Kasparov63: America literally would not be America without immigrants. And it wouldn’t be America spiritually without generations of st…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1411703393035321345" target="_blank" rel="noreferer">08:08 UCT-7</a> 
@@ -42,7 +35,7 @@ A large survey of 13,000 Americans and Danes
 
 "The strongest predictors of vaccine skepticism ... were individual differences in political cynicism.. and in conspiratorial thinking"
 
-<a href="https://www.pnas.org/content/118/29/e2024597118" target="_blank" rel="noreferer">https://www.pnas.org/content/118/29/e2024597118</a> 
+<a href="https://www.pnas.org/content/118/29/e2024597118" target="_blank" rel="noreferer">pnas.org/content/118/29/e2024597118</a> 
 
 
 @M_B_Petersen @Fly_Lindholt </div> 
@@ -54,7 +47,7 @@ A large survey of 13,000 Americans and Danes
 <div class="content"> 
 The heightened infectiousness of the Delta variant is reflected by its rapid and diffuse spread throughout the world towards global dominance. Except for South America, new cases are now moving in the wrong direction.
 
-<a href="https://cov-lineages.org/global_report_B.1.617.2.html" target="_blank" rel="noreferer">https://cov-lineages.org/global_report_B.1.617.2.h ...</a> 
+<a href="https://cov-lineages.org/global_report_B.1.617.2.html" target="_blank" rel="noreferer">cov-lineages.org/global_report_B.1.617.2.h ...</a> 
 
 
 @OurWorldInData </div> 
@@ -66,16 +59,9 @@ The heightened infectiousness of the Delta variant is reflected by its rapid and
 <div class="content"> 
 So true.
 
-<a href="https://www.nytimes.com/2021/07/03/opinion/covid-vaccine-us-hesitancy.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/03/opinion/covid-v ...</a> 
+<a href="https://www.nytimes.com/2021/07/03/opinion/covid-vaccine-us-hesitancy.html" target="_blank" rel="noreferer">nytimes.com/2021/07/03/opinion/covid-v ...</a> 
  @nytopinion </div> 
 <a href="/twitter/erictopol/images/E5dyoFSUUAEvBlT.png"  ><img src="/twitter/erictopol/images/E5dyoFSUUAEvBlT.png" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1411725660062556162" target="_blank" rel="noreferer">09:36 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @TheLancet: Multiple clinic visits and limited service availability can obstruct participation in cardiac rehabilitation (CR). Could mob…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 While Delta is a formidable version of the virus, we have the tools to take it on.
@@ -87,7 +73,8 @@ Besides masks and distancing, there are 5 vaccines with some proof of protection
 <div class="content"> 
 Latest report here on Covaxin
 
-https://t.co/wSCDJEQxHS by @pokharelkrishna</div> 
+<a href="https://www.wsj.com/articles/indias-bharat-biotech-says-vaccine-is-effective-against-delta-variant-11625325879" target="_blank" rel="noreferer">wsj.com/articles/indias-bharat-biotech ...</a> 
+ by @pokharelkrishna</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -114,14 +101,16 @@ National average is 2.3% </div>
 <a href="https://twitter.com/erictopol/status/1411746049425698821" target="_blank" rel="noreferer">10:57 UCT-7</a> 
 </div> 
 <div class="content"> 
-Make that 10 days in a row https://t.co/MMu15BjqMI</div> 
+Make that 10 days in a row <a href="https://twitter.com/EricTopol/status/1411494583914041344" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1411494583914 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1411820173464461312" target="_blank" rel="noreferer">15:52 UCT-7</a> 
 </div> 
 <div class="content"> 
-The overwhelming net benefit for vaccination in kids.  Outstanding, by ⁦@jeremyfaust⁩ ⁦@celinegounder⁩ ⁦Katie Dickerson Mayes @nytopinion⁩  https://t.co/n50xWAAGtr</div> 
+The overwhelming net benefit for vaccination in kids.  Outstanding, by ⁦@jeremyfaust⁩ ⁦@celinegounder⁩ ⁦Katie Dickerson Mayes @nytopinion⁩  <a href="https://www.nytimes.com/2021/07/04/opinion/covid-vaccine-kids-risks.html" target="_blank" rel="noreferer">nytimes.com/2021/07/04/opinion/covid-v ...</a> 
+</div> 
 </div> 
 
 

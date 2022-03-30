@@ -28,7 +28,7 @@ Just published @ScienceMagazine
 
 The case for the animal origin of #SARSCoV2 
 
-<a href="https://science.sciencemag.org/content/early/2021/08/16/science.abh0117" target="_blank" rel="noreferer">https://science.sciencemag.org/content/early/2021/ ...</a> 
+<a href="https://science.sciencemag.org/content/early/2021/08/16/science.abh0117" target="_blank" rel="noreferer">science.sciencemag.org/content/early/2021/ ...</a> 
  w/ @ScienceVisuals </div> 
 <a href="/twitter/erictopol/images/E8_9SDWWYAUBXRS.jpg"  ><img src="/twitter/erictopol/images/E8_9SDWWYAUBXRS.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -48,9 +48,11 @@ Current top 5 cases/capita in the world for country/state population &gt; 1M
 
 5. Botswana 89/100,000
 
-https://t.co/dskhwTJ3sd
+<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&variant=1_Show&is_new=false" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/covid- ...</a> 
 
-https://t.co/hEwzulIPwJ</div> 
+
+<a href="https://newsnodes.com/worldmonitor/" target="_blank" rel="noreferer">newsnodes.com/worldmonitor/</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -70,7 +72,8 @@ New @ScienceMagazine, timely
 
 The struggle between vaccine nationalism and the need for global containment
 
-https://t.co/Nj4RVsUMuC by @thecewagnerlab @mcgillu @chadisaadroy @SineadEMorris @rebaker64 @JeremyFarrar @edwardcholmes @EvolveDotZoo @ZekeEmanuel and colleagues</div> 
+<a href="https://science.sciencemag.org/content/early/2021/08/16/science.abj7364" target="_blank" rel="noreferer">science.sciencemag.org/content/early/2021/ ...</a> 
+ by @thecewagnerlab @mcgillu @chadisaadroy @SineadEMorris @rebaker64 @JeremyFarrar @edwardcholmes @EvolveDotZoo @ZekeEmanuel and colleagues</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -83,7 +86,7 @@ But here we are. And we're not done yet </div>
 <div class="content"> 
 Good graph to show the states that are driving the 4th wave hospitalizations beyond prior limits
 
-<a href="https://www.nytimes.com/interactive/2021/08/17/us/covid-delta-hospitalizations.html?smid=tw-nytimes&smtyp=cur" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/08/17/us/ ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/08/17/us/covid-delta-hospitalizations.html?smid=tw-nytimes&smtyp=cur" target="_blank" rel="noreferer">nytimes.com/interactive/2021/08/17/us/ ...</a> 
  by @albertsun @giuliaheyward @nytgraphics </div> 
 <a href="/twitter/erictopol/images/E9Ac67XVcAAgOe0.jpg"  ><img src="/twitter/erictopol/images/E9Ac67XVcAAgOe0.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -95,7 +98,7 @@ Good graph to show the states that are driving the 4th wave hospitalizations bey
 
 Until today
 
-<a href="https://aip.scitation.org/doi/10.1063/5.0060307" target="_blank" rel="noreferer">https://aip.scitation.org/doi/10.1063/5.0060307</a> 
+<a href="https://aip.scitation.org/doi/10.1063/5.0060307" target="_blank" rel="noreferer">aip.scitation.org/doi/10.1063/5.0060307</a> 
 
 
 @AIP_Publishing why vigorous HW for ≥20 seconds is optimal </div> 
@@ -111,7 +114,7 @@ Discovery of 2C08, an antibody which is active against all major variants, inclu
 
 @ImmunityCP 
 
-<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00345-9" target="_blank" rel="noreferer">https://www.cell.com/immunity/fulltext/S1074-7613( ...</a> 
+<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00345-9" target="_blank" rel="noreferer">cell.com/immunity/fulltext/S1074-7613( ...</a> 
  @TheBcellArtist @WUSTLmed </div> 
 <a href="/twitter/erictopol/images/E9Az50dVoAQq8IC.jpg"  ><img src="/twitter/erictopol/images/E9Az50dVoAQq8IC.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -123,7 +126,7 @@ Israel's 4th wave
 
 An outstanding @FT editorial that succinctly summarizes the data, knowns, unknowns, boosters, need for masks among vaccinated
 
-<a href="https://www.ft.com/content/572112fd-a713-4b0f-99be-bfcbf8506205" target="_blank" rel="noreferer">https://www.ft.com/content/572112fd-a713-4b0f-99be ...</a> 
+<a href="https://www.ft.com/content/572112fd-a713-4b0f-99be-bfcbf8506205" target="_blank" rel="noreferer">ft.com/content/572112fd-a713-4b0f-99be ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9A8RIfVoAIFWpq.jpg"  ><img src="/twitter/erictopol/images/E9A8RIfVoAIFWpq.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -132,7 +135,7 @@ Mix and match vaccines, AZ then mRNA (@BioNTech_Group) achieves a very strong im
 
 This is the 1st report to look at mix vs Delta, specifically.
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01891-2/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01891-2/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  @TheLancet </div> 
 <a href="/twitter/erictopol/images/E9BvWhtUYAYF7ik.jpg"  ><img src="/twitter/erictopol/images/E9BvWhtUYAYF7ik.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9BvY0BVIAAZ9_f.jpg"  ><img src="/twitter/erictopol/images/E9BvY0BVIAAZ9_f.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1427765619575857157" target="_blank" rel="noreferer">15:53 UCT-7</a> 
@@ -140,7 +143,8 @@ This is the 1st report to look at mix vs Delta, specifically.
 <div class="content"> 
 The new reports adds on to a growing body of evidence about adenovirus-vector vaccine 1st, then mRNA 2nd dose, for a better immune response than from 2 doses of either (AZ + AZ or mRNA + mRNA). No data for benefit of reverse sequence (mRNA, then AZ)
 
-https://t.co/QfGrjMfbIk</div> 
+<a href="https://twitter.com/EricTopol/status/1426971389005754371" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1426971389005 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -149,7 +153,7 @@ https://t.co/QfGrjMfbIk</div>
 <div class="content"> 
 Last week I mentioned there was more to the US Delta breakthrough infections and hospitalizations (H) than apparent via the CDC website and other sources. Since then the @nytimes looked into it
 
-<a href="https://www.nytimes.com/2021/08/17/health/covid-vaccinated-infections.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/08/17/health/covid-va ...</a> 
+<a href="https://www.nytimes.com/2021/08/17/health/covid-vaccinated-infections.html" target="_blank" rel="noreferer">nytimes.com/2021/08/17/health/covid-va ...</a> 
 
 
 Still looking for all US (H) data...... </div> 

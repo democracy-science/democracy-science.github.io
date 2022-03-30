@@ -5,16 +5,16 @@ category = "Twitter"
 +++
 <div class="thread"> 
 <div class="thread-content"> 
-New large UK study confirms attrition of @Pfizer vaccine effectiveness vs Delta infections over time <a href="https://www.bloomberg.com/news/articles/2021-08-18/covid-vaccines-are-less-effective-against-delta-in-u-k-study" target="_blank" rel="noreferer">https://www.bloomberg.com/news/articles/2021-08-18 ...</a> 
+New large UK study confirms attrition of @Pfizer vaccine effectiveness vs Delta infections over time <a href="https://www.bloomberg.com/news/articles/2021-08-18/covid-vaccines-are-less-effective-against-delta-in-u-k-study" target="_blank" rel="noreferer">bloomberg.com/news/articles/2021-08-18 ...</a> 
  "By roughly 4 1/2 months after the 2nd dose, Pfizer’s shot will probably be about on par with Astra’s at preventing infections with a high viral burden" </div> 
 <a href="/twitter/erictopol/images/E9IG14qUcAE67WS.png"  ><img src="/twitter/erictopol/images/E9IG14qUcAE67WS.png" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428339231764582411" target="_blank" rel="noreferer">05:53 UCT-7</a> 
 </div> 
 <div class="content"> 
-Link to the preprint <a href="https://www.ndm.ox.ac.uk/files/coronavirus/covid-19-infection-survey/finalfinalcombinedve20210816.pdf" target="_blank" rel="noreferer">https://www.ndm.ox.ac.uk/files/coronavirus/covid-1 ...</a> 
+Link to the preprint <a href="https://www.ndm.ox.ac.uk/files/coronavirus/covid-19-infection-survey/finalfinalcombinedve20210816.pdf" target="_blank" rel="noreferer">ndm.ox.ac.uk/files/coronavirus/covid-1 ...</a> 
  and better graph than in preprint to show the effect of time 
 
-<a href="https://www.ft.com/content/49641651-e10a-45f6-a7cc-8b8c7b7a9710" target="_blank" rel="noreferer">https://www.ft.com/content/49641651-e10a-45f6-a7cc ...</a> 
+<a href="https://www.ft.com/content/49641651-e10a-45f6-a7cc-8b8c7b7a9710" target="_blank" rel="noreferer">ft.com/content/49641651-e10a-45f6-a7cc ...</a> 
  by @hannahkuchler @jburnmurdoch @FT </div> 
 <a href="/twitter/erictopol/images/E9J6NyDVkAAXsw_.jpg"  ><img src="/twitter/erictopol/images/E9J6NyDVkAAXsw_.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -22,8 +22,8 @@ Link to the preprint <a href="https://www.ndm.ox.ac.uk/files/coronavirus/covid-1
 <a href="https://twitter.com/erictopol/status/1428341915393531908" target="_blank" rel="noreferer">06:03 UCT-7</a> 
 </div> 
 <div class="content"> 
-Front page coverage today, with mention of new booster study that restored vaccine effectiveness vs infection in first group who received them (age &gt; 60) <a href="https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html?searchResultPosition=1" target="_blank" rel="noreferer">https://www.nytimes.com/2021/08/18/world/middleeas ...</a> 
- by @IKershner  <a href="https://twitter.com/EricTopol/status/1428053327737090048" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1428053327737 ...</a> 
+Front page coverage today, with mention of new booster study that restored vaccine effectiveness vs infection in first group who received them (age &gt; 60) <a href="https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html?searchResultPosition=1" target="_blank" rel="noreferer">nytimes.com/2021/08/18/world/middleeas ...</a> 
+ by @IKershner  <a href="https://twitter.com/EricTopol/status/1428053327737090048" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1428053327737 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E9J8ZA8UcAkGKwl.jpg"  ><img src="/twitter/erictopol/images/E9J8ZA8UcAkGKwl.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9J9PagVoAoyWzN.jpg"  ><img src="/twitter/erictopol/images/E9J9PagVoAoyWzN.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -56,10 +56,10 @@ US Virgin Islands 47/100,000K</div>
 <div class="content"> 
 Emphasizing Delta's high risk of pre-symptomatic transmission 
 
-<a href="https://www.nature.com/articles/d41586-021-02259-2" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02259-2</a> 
+<a href="https://www.nature.com/articles/d41586-021-02259-2" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02259-2</a> 
  @Nature 
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.12.21261991v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.12 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.12.21261991v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.12 ...</a> 
  note graphs unvaccinated, vaccinated, prior to symptom onset and comparison w/ ancestral strain </div> 
 <a href="/twitter/erictopol/images/E9KMJYRVgAUGD37.jpg"  ><img src="/twitter/erictopol/images/E9KMJYRVgAUGD37.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9KNMIyUYAM132V.jpg"  ><img src="/twitter/erictopol/images/E9KNMIyUYAM132V.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -68,7 +68,7 @@ We keep getting closer to discovering /defining antibodies that will take down t
 <hr><div class="thread-content"> 
 Here's another one, discovery of SARS2-38 mAb, a broad neutralizing antibody vs all the variants of concern. 3rd such study this week, all providing momentum towards a pan-coronavirus vaccine 
 
-<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00348-4" target="_blank" rel="noreferer">https://www.cell.com/immunity/fulltext/S1074-7613( ...</a> 
+<a href="https://www.cell.com/immunity/fulltext/S1074-7613(21)00348-4" target="_blank" rel="noreferer">cell.com/immunity/fulltext/S1074-7613( ...</a> 
  @ImmunityCP </div> 
 <a href="/twitter/erictopol/images/E9KknJgUUAMbVWD.jpg"  ><img src="/twitter/erictopol/images/E9KknJgUUAMbVWD.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428386917993705479" target="_blank" rel="noreferer">09:02 UCT-7</a> 
@@ -76,14 +76,14 @@ Here's another one, discovery of SARS2-38 mAb, a broad neutralizing antibody vs 
 <div class="content"> 
 More on the @NEJM report from yesterday, beginning of this thread
 
-<a href="https://www.sciencemag.org/news/2021/08/covid-19-vaccines-may-trigger-superimmunity-people-who-had-sars-long-ago" target="_blank" rel="noreferer">https://www.sciencemag.org/news/2021/08/covid-19-v ...</a> 
+<a href="https://www.sciencemag.org/news/2021/08/covid-19-vaccines-may-trigger-superimmunity-people-who-had-sars-long-ago" target="_blank" rel="noreferer">sciencemag.org/news/2021/08/covid-19-v ...</a> 
  by @sciencecohen @ScienceMagazine @NewsfromScience </div> 
 <a href="/twitter/erictopol/images/E9KmTqQVEAEgw2o.jpg"  ><img src="/twitter/erictopol/images/E9KmTqQVEAEgw2o.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 A summary table of the studies that have assessed mRNA vaccine effectiveness (VE) for Delta infections, updated with reports from yesterday, overall in line with estimate ~50-60%;  *does not pertain* to high VE for hospitalizations or deaths </div> 
 <a href="/twitter/erictopol/images/E9J_7QbVIAEZ06F.png"  ><img src="/twitter/erictopol/images/E9J_7QbVIAEZ06F.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-And a graphic summary @FT of some of these reports <a href="https://www.ft.com/thread-content/49641651-e10a-45f6-a7cc-8b8c7b7a9710" target="_blank" rel="noreferer">https://www.ft.com/thread-content/49641651-e10a-45f6-a7cc ...</a> 
+And a graphic summary @FT of some of these reports <a href="https://www.ft.com/thread-content/49641651-e10a-45f6-a7cc-8b8c7b7a9710" target="_blank" rel="noreferer">ft.com/thread-content/49641651-e10a-45f6-a7cc ...</a> 
 
 
 "Public Health England’s real-world studies in May painted a rosier picture...But the new studies appear more in line with research in Israel"
@@ -137,7 +137,7 @@ That's separate from a global inequity objection.</div>
 <div class="content"> 
 What an outstanding new feature by @kakape on evolution of #SARSCoV2 variants and its potential path forward
 
-<a href="https://science.sciencemag.org/content/373/6557/844" target="_blank" rel="noreferer">https://science.sciencemag.org/content/373/6557/84 ...</a> 
+<a href="https://science.sciencemag.org/content/373/6557/844" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6557/84 ...</a> 
 
 
 @ScienceMagazine @ScienceVisuals 👍🙏 </div> 
@@ -149,10 +149,10 @@ What an outstanding new feature by @kakape on evolution of #SARSCoV2 variants an
 <div class="content"> 
 Every day now the evidence from Israel for the benefit of boosters is mounting
 
-<a href="https://twitter.com/erlichya/status/1428420675375706115" target="_blank" rel="noreferer">https://twitter.com/erlichya/status/14284206753757 ...</a> 
+<a href="https://twitter.com/erlichya/status/1428420675375706115" target="_blank" rel="noreferer">twitter.com/erlichya/status/14284206753757 ...</a> 
  thread by @erlichya with @IsraelMOH slides from today
 
-And this be @segal_eran  <a href="https://twitter.com/segal_eran/status/1428428502139822089" target="_blank" rel="noreferer">https://twitter.com/segal_eran/status/142842850213 ...</a> 
+And this be @segal_eran  <a href="https://twitter.com/segal_eran/status/1428428502139822089" target="_blank" rel="noreferer">twitter.com/segal_eran/status/142842850213 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E9LNDgFVcAAcMyx.jpg"  ><img src="/twitter/erictopol/images/E9LNDgFVcAAcMyx.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -180,7 +180,7 @@ A break from covid...
 
 In the new issue @TheLancet, I had the privilege of working with @DrLesterColl on the #AI revolution in radiation oncology that is taking hold
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01798-0/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01798-0/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9MB7TXUUAA6W8r.jpg"  ><img src="/twitter/erictopol/images/E9MB7TXUUAA6W8r.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -190,7 +190,7 @@ In the new issue @TheLancet, I had the privilege of working with @DrLesterColl o
 <div class="content"> 
 Take notice of an effective defense against Delta.
 
-One of the highest per cent fully vaccinated cities in the US— 70% of the population (higher than Israel, UK, Canada) —achieves a turnaround 👏👏  <a href="https://twitter.com/Bob_Wachter/status/1428411925315031047" target="_blank" rel="noreferer">https://twitter.com/Bob_Wachter/status/14284119253 ...</a> 
+One of the highest per cent fully vaccinated cities in the US— 70% of the population (higher than Israel, UK, Canada) —achieves a turnaround 👏👏  <a href="https://twitter.com/Bob_Wachter/status/1428411925315031047" target="_blank" rel="noreferer">twitter.com/Bob_Wachter/status/14284119253 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E9MJYJIUcAAxNfx.jpg"  ><img src="/twitter/erictopol/images/E9MJYJIUcAAxNfx.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -203,7 +203,7 @@ Updated Oregon Delta wave data are informative of  impact of vaccination and bre
 
 —The absolute relative benefit of vaccination markedly increased
 
-<a href="https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Case-Report-08-19-2021.pdf" target="_blank" rel="noreferer">https://www.oregon.gov/oha/covid19/Documents/DataR ...</a> 
+<a href="https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Case-Report-08-19-2021.pdf" target="_blank" rel="noreferer">oregon.gov/oha/covid19/Documents/DataR ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9MlitaVoAErZ5K.jpg"  ><img src="/twitter/erictopol/images/E9MlitaVoAErZ5K.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428529845860929544" target="_blank" rel="noreferer">18:30 UCT-7</a> 

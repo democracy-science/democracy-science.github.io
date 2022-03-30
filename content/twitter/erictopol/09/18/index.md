@@ -16,7 +16,8 @@ A need for a booster 5 months later
 
 Yet major reluctance (Roberto’s wording“fuss”) to accept 3rd dose
 
-Unwillingness of large proportion of US population to get any vaccination https://t.co/pVgyxUIIwR</div> 
+Unwillingness of large proportion of US population to get any vaccination <a href="https://twitter.com/RobertoBurioni/status/1438997920041377800" target="_blank" rel="noreferer">twitter.com/RobertoBurioni/status/14389979 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -25,12 +26,12 @@ Unwillingness of large proportion of US population to get any vaccination https:
 <div class="content"> 
 Why was the age cutoff of 65 selected by the FDA Advisory Committee instead of clearcut Israeli data showing ~20-fold benefit of a booster in &gt; 1.1 million people age 60+?
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114255?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa211425 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114255?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa211425 ...</a> 
 
 
 2 US studies show risk age 65+ (no booster)
 
-<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e3.htm?s_cid=mm7037e3_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e3.ht ...</a> 
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e3.htm?s_cid=mm7037e3_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7037e3.ht ...</a> 
 
 
 No good reason. </div> 
@@ -42,12 +43,12 @@ No good reason. </div>
 <div class="content"> 
 Historical perspective of vaccine mandates in the US
 
-<a href="https://www.wsj.com/articles/the-long-history-of-vaccine-mandates-in-america-11631890699" target="_blank" rel="noreferer">https://www.wsj.com/articles/the-long-history-of-v ...</a> 
+<a href="https://www.wsj.com/articles/the-long-history-of-vaccine-mandates-in-america-11631890699" target="_blank" rel="noreferer">wsj.com/articles/the-long-history-of-v ...</a> 
  @DavidOshinsky 
 
 The case for them in &lt; 60 seconds @mehdirhasan 
 
-<a href="https://twitter.com/mehdirhasan/status/1438695474836480002" target="_blank" rel="noreferer">https://twitter.com/mehdirhasan/status/14386954748 ...</a> 
+<a href="https://twitter.com/mehdirhasan/status/1438695474836480002" target="_blank" rel="noreferer">twitter.com/mehdirhasan/status/14386954748 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_k6fgLVgAQa8CW.jpg"  ><img src="/twitter/erictopol/images/E_k6fgLVgAQa8CW.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_k7IByVkAUaYNp.jpg"  ><img src="/twitter/erictopol/images/E_k7IByVkAUaYNp.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -70,7 +71,7 @@ At least hospitalizations are continuing to decline </div>
 <div class="content"> 
 Remember the man who brought hydroxychloroquine to the forefront as the imminent cure for the pandemic?
 
-<a href="https://www.washingtonpost.com/world/europe/didier-raoult-hydroxychloroquine/2021/09/17/a56c5bd4-1574-11ec-a019-cb193b28aa73_story.html" target="_blank" rel="noreferer">https://www.washingtonpost.com/world/europe/didier ...</a> 
+<a href="https://www.washingtonpost.com/world/europe/didier-raoult-hydroxychloroquine/2021/09/17/a56c5bd4-1574-11ec-a019-cb193b28aa73_story.html" target="_blank" rel="noreferer">washingtonpost.com/world/europe/didier ...</a> 
  by @rick_n 
 
 It gets worse. An anti-vaxxer to boot. </div> 
@@ -80,7 +81,7 @@ It gets worse. An anti-vaxxer to boot. </div>
 <a href="https://twitter.com/erictopol/status/1439260647053664257" target="_blank" rel="noreferer">09:10 UCT-7</a> 
 </div> 
 <div class="content"> 
-Drs.Blackstock, @oni_blackstock and @uche_blackstock, review the critical role of Black musicians and physicians in the wake of the Nicki Minaj maelstrom <a href="https://www.washingtonpost.com/opinions/2021/09/17/nicki-minaj-vaccine-tweet-covid-infertility-misinformation/" target="_blank" rel="noreferer">https://www.washingtonpost.com/opinions/2021/09/17 ...</a> 
+Drs.Blackstock, @oni_blackstock and @uche_blackstock, review the critical role of Black musicians and physicians in the wake of the Nicki Minaj maelstrom <a href="https://www.washingtonpost.com/opinions/2021/09/17/nicki-minaj-vaccine-tweet-covid-infertility-misinformation/" target="_blank" rel="noreferer">washingtonpost.com/opinions/2021/09/17 ...</a> 
  @PostOpinions </div> 
 <a href="/twitter/erictopol/images/E_lF-q6UUAIU4vR.jpg"  ><img src="/twitter/erictopol/images/E_lF-q6UUAIU4vR.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_lGhq5UYA0egeg.jpg"  ><img src="/twitter/erictopol/images/E_lGhq5UYA0egeg.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -90,8 +91,8 @@ Drs.Blackstock, @oni_blackstock and @uche_blackstock, review the critical role o
 <div class="content"> 
 Mask wars go way back, too.
 
-<a href="https://www.nejm.org/media/doi/full/10.1056/NEJMp2112052" target="_blank" rel="noreferer">https://www.nejm.org/media/doi/full/10.1056/NEJMp2 ...</a> 
- @NEJM today  <a href="https://twitter.com/EricTopol/status/1439246636622835718" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1439246636622 ...</a> 
+<a href="https://www.nejm.org/media/doi/full/10.1056/NEJMp2112052" target="_blank" rel="noreferer">nejm.org/media/doi/full/10.1056/NEJMp2 ...</a> 
+ @NEJM today  <a href="https://twitter.com/EricTopol/status/1439246636622835718" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1439246636622 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E_lNBvfVkAIPSz2.jpg"  ><img src="/twitter/erictopol/images/E_lNBvfVkAIPSz2.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_lNDzVVQAITyNq.jpg"  ><img src="/twitter/erictopol/images/E_lNDzVVQAITyNq.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -109,7 +110,8 @@ More than 1,700 health care workers in San Diego are seeking religious exemption
 <div class="thread-content"> 
 A @CellCellPress commentary yesterday entitled "Keeping Pace with the #SARSCoV2 Variants" states 
 
-"The evidence so far suggests that effectiveness against hospitalizations and symptomatic illness is highly preserved against Delta" https://t.co/T8V6e5mMgF
+"The evidence so far suggests that effectiveness against hospitalizations and symptomatic illness is highly preserved against Delta" <a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01057-6" target="_blank" rel="noreferer">cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
+
 
 I'm calling it out. /1</div> 
 <hr><div class="thread-content"> 
@@ -123,7 +125,8 @@ This culminated in @TheLancet commentary this week by 2 FDA scientists, @WHO, an
 
 "To date, none of these studies has provided evidence of substantially declining protection against severe disease." That is pure denial. 
 
-https://t.co/KcoTIoNNcq /5</div> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
+ /5</div> 
 <hr><div class="thread-content"> 
 By ignoring/denying data, fully replicated by many independent reports, all that does is detract from public trust and discount the ability for people to process 2 messages: 
 
@@ -136,7 +139,7 @@ Denialism about any hole in the vaccination story isn't going to get us anywhere
 <a href="https://twitter.com/erictopol/status/1439300993645092866" target="_blank" rel="noreferer">11:51 UCT-7</a> 
 </div> 
 <div class="content"> 
-Along these lines, yesterday's CDC report of a statistically significant 14 per cent point drop (91&gt;77) vs hospitalization after 4 months for Pfizer's vaccine, irrespective of age, is notable <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
+Along these lines, yesterday's CDC report of a statistically significant 14 per cent point drop (91&gt;77) vs hospitalization after 4 months for Pfizer's vaccine, irrespective of age, is notable <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7038e1.htm?s_cid=mm7038e1_w" target="_blank" rel="noreferer">cdc.gov/mmwr/volumes/70/wr/mm7038e1.ht ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_lsDNAVUAEhzHT.jpg"  ><img src="/twitter/erictopol/images/E_lsDNAVUAEhzHT.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -146,7 +149,8 @@ Along these lines, yesterday's CDC report of a statistically significant 14 per 
 <div class="content"> 
 Responses to the @US_FDA @Pfizer booster review
 
-https://t.co/GR2mX5rmht
+<a href="https://www.nytimes.com/2021/09/18/world/fda-panel-boosters.html" target="_blank" rel="noreferer">nytimes.com/2021/09/18/world/fda-panel ...</a> 
+
 
 In alignment w/ @ashishkjha and @DrPaulOffit 
 
@@ -159,14 +163,8 @@ Would have liked to see a data-driven 60+ cutoff, but otherwise a very good outc
 <div class="content"> 
 These 3 6th grade girls deserve 2 awards, not just one for their impressive invention, but another for standing up to their school board for not requiring masks in order  to receive the first award 
 
-https://t.co/G80RKdYvyz</div> 
+<a href="https://www.11alive.com/article/news/health/coronavirus/cobb-county-6th-graders-skip-school-board-recognition-after-mask-request-was-denied/85-2db033ca-c4e6-4fe6-b368-ddc878646946" target="_blank" rel="noreferer">11alive.com/article/news/health/corona ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1439408627534598149" target="_blank" rel="noreferer">18:58 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @PeterHotez: So here it is: Since April 100,000 unvaccinated Americans needlessly lost their lives to Covid despite widespread availabil…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 

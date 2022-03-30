@@ -8,7 +8,8 @@ category = "Twitter"
 <a href="https://twitter.com/erictopol/status/1410599877713678350" target="_blank" rel="noreferer">07:03 UCT-7</a> 
 </div> 
 <div class="content"> 
-Some comments on the Delta variant and how that's making vaccine global equity even more pressing https://t.co/FV3jxutmRg</div> 
+Some comments on the Delta variant and how that's making vaccine global equity even more pressing <a href="https://twitter.com/rosemaryCNN/status/1410486203825152003" target="_blank" rel="noreferer">twitter.com/rosemaryCNN/status/14104862038 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -30,7 +31,7 @@ No time to let our guard down. </div>
 <div class="content"> 
 So we're at 73% of pre-covid normalcy?
 
-<a href="https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms" target="_blank" rel="noreferer">https://www.economist.com/graphic-detail/2021/07/0 ...</a> 
+<a href="https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms" target="_blank" rel="noreferer">economist.com/graphic-detail/2021/07/0 ...</a> 
  @TheEconomist </div> 
 <a href="/twitter/erictopol/images/E5OD6HrVoBEER6R.jpg"  ><img src="/twitter/erictopol/images/E5OD6HrVoBEER6R.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -40,7 +41,7 @@ So we're at 73% of pre-covid normalcy?
 <div class="content"> 
 Evolution of the virus to Delta and beyond: the impact of covid  immunity,  by natural infections or preferably via vaccine, and the unique mutations that occurred in Delta  that were not seen in Alpha, Beta and Gamma (P681R and NTD)
 
-<a href="https://www.economist.com/briefing/2021/07/03/the-new-variants-of-sars-cov-2-are-much-more-dangerous-to-the-unvaccinated" target="_blank" rel="noreferer">https://www.economist.com/briefing/2021/07/03/the- ...</a> 
+<a href="https://www.economist.com/briefing/2021/07/03/the-new-variants-of-sars-cov-2-are-much-more-dangerous-to-the-unvaccinated" target="_blank" rel="noreferer">economist.com/briefing/2021/07/03/the- ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5ONym4VUAM8nIy.png"  ><img src="/twitter/erictopol/images/E5ONym4VUAM8nIy.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5ON11fVoAEjp80.png"  ><img src="/twitter/erictopol/images/E5ON11fVoAEjp80.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -50,7 +51,7 @@ Evolution of the virus to Delta and beyond: the impact of covid  immunity,  by n
 <div class="content"> 
 In the face of the UK's increasing and high % vaccination, the Delta variant has led to 28,000 cases today. Hospitalizations are also rising, but the slope is far less and not like the prior waves, Alpha variant, or pre-vaccination
 
-<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">https://coronavirus.data.gov.uk</a> 
+<a href="https://coronavirus.data.gov.uk" target="_blank" rel="noreferer">coronavirus.data.gov.uk</a> 
   and @OurWorldInData </div> 
 <a href="/twitter/erictopol/images/E5OVgXGVcAEuQK_.jpg"  ><img src="/twitter/erictopol/images/E5OVgXGVcAEuQK_.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5OViRjVcAAd8SY.jpg"  ><img src="/twitter/erictopol/images/E5OViRjVcAAd8SY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -60,7 +61,7 @@ In the face of the UK's increasing and high % vaccination, the Delta variant has
 <div class="content"> 
 There's no shortage of data for vaccinations substantially preventing severe illness, hospitalizations and death.  Here they also are correlated with countries return to pre-covid life
 
-<a href="https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms" target="_blank" rel="noreferer">https://www.economist.com/graphic-detail/2021/07/0 ...</a> 
+<a href="https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms" target="_blank" rel="noreferer">economist.com/graphic-detail/2021/07/0 ...</a> 
  @TheEconomist </div> 
 <a href="/twitter/erictopol/images/E5ObNS6VEAU6RpJ.jpg"  ><img src="/twitter/erictopol/images/E5ObNS6VEAU6RpJ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -72,13 +73,6 @@ Very good timing for the best US vaccinations in many weeks. Over 1.6 million sh
 
 Maybe awareness of Delta is helping people get on board to build the immunity wall we need right now </div> 
 <a href="/twitter/erictopol/images/E5OjocFUUAMTika.jpg"  ><img src="/twitter/erictopol/images/E5OjocFUUAMTika.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1410654635803566095" target="_blank" rel="noreferer">10:40 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @m_scribe: “This is the toughest version of the virus, by far, that we’ve seen,” @EricTopol said about the delta variant. But vaccinatio…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 What is the opposite of immuncompromised?
@@ -89,7 +83,7 @@ This:
 
 Just out @ScienceMagazine 
 
-<a href="https://science.sciencemag.org/thread-content/early/2021/06/30/science.abh1766" target="_blank" rel="noreferer">https://science.sciencemag.org/thread-content/early/2021/ ...</a> 
+<a href="https://science.sciencemag.org/thread-content/early/2021/06/30/science.abh1766" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/early/2021/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5Oufm8VEAc6rgh.png"  ><img src="/twitter/erictopol/images/E5Oufm8VEAc6rgh.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5OuiqBVoAMw4EL.jpg"  ><img src="/twitter/erictopol/images/E5OuiqBVoAMw4EL.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1410664064318001152" target="_blank" rel="noreferer">11:18 UCT-7</a> 
@@ -136,7 +130,8 @@ Mississippi Delta
 <a href="/twitter/erictopol/images/E5Pp7bgVUAMirD7.jpg"  ><img src="/twitter/erictopol/images/E5Pp7bgVUAMirD7.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The @US_FDA's overdue full approval of mRNA vaccines is holding us back from getting millions of more people protected, at a time of urgent need, with the Delta variant on the rise. My guest essay @nytopinion https://t.co/VOUxXByyjM w/ thanks for editing @jopearl</div> 
+The @US_FDA's overdue full approval of mRNA vaccines is holding us back from getting millions of more people protected, at a time of urgent need, with the Delta variant on the rise. My guest essay @nytopinion <a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
+ w/ thanks for editing @jopearl</div> 
 <hr><div class="thread-content"> 
 I start off w/ the paradox of FDA's  accelerated approval of the Alzheimer's drug despite a 10-0 vote against it by their Advisory Committee, 2 clinical trials that did not show clinical benefit, and for any person w/Alzheimer's even though the trials were for early disease, MCI </div> 
 <a href="/twitter/erictopol/images/E5QOZXmVUAMBQnv.jpg"  ><img src="/twitter/erictopol/images/E5QOZXmVUAMBQnv.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
@@ -144,7 +139,7 @@ Then a brief review of the exceptionally large, completed clinical trials and re
 <a href="/twitter/erictopol/images/E5QQCevVgAIIKoJ.jpg"  ><img src="/twitter/erictopol/images/E5QQCevVgAIIKoJ.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The US vaccination campaign has hit a plateau, having peaked in April (up to 4.5 M /day) and fallen off since then, just getting abs over 1 million again today
 
-<a href="https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2020/us/covid- ...</a> 
+<a href="https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html" target="_blank" rel="noreferer">nytimes.com/interactive/2020/us/covid- ...</a> 
  /4 </div> 
 <a href="/twitter/erictopol/images/E5QQ5S7VEAIuGkw.jpg"  ><img src="/twitter/erictopol/images/E5QQ5S7VEAIuGkw.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 A key point is that the FDA began reviewing the full licensure applications (called BLAs) at the end of last year on a rolling, iterative basis. That was started 7 months ago and there was more than ample time to do plant inspections and review manufacturing/production issues /5</div> 
@@ -153,7 +148,7 @@ Now we face the Delta variant, the most efficient version of the virus yet for f
 
 Delta is now &gt;30% of infections, cases are starting to rise in several states
 
-<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/us/covid- ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/covid- ...</a> 
  6 </div> 
 <a href="/twitter/erictopol/images/E5QTTkHUcAEntOK.jpg"  ><img src="/twitter/erictopol/images/E5QTTkHUcAEntOK.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Full licensure by FDA will lead to required vaccination by health systems, the military, universities, private companies, etc (w/ accommodations of masks + frequent testing for people unwilling or unable to be vaccinated). Tens of millions of Americans will likely get vaxxed /7</div> 
@@ -168,7 +163,8 @@ The FDA, and @DrWoodcockFDA its acting Director, need to make this the #1 priori
 <a href="https://twitter.com/erictopol/status/1410802213086134279" target="_blank" rel="noreferer">20:27 UCT-7</a> 
 </div> 
 <div class="content"> 
-The lives and health of millions of Americans rest on the F.D.A.’s decision to fully license these vaccines. https://t.co/5MuMPNm3Bb</div> 
+The lives and health of millions of Americans rest on the F.D.A.’s decision to fully license these vaccines. <a href="https://twitter.com/nytopinion/status/1410800437570244609" target="_blank" rel="noreferer">twitter.com/nytopinion/status/141080043757 ...</a> 
+</div> 
 </div> 
 
 

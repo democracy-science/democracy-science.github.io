@@ -14,7 +14,7 @@ Just out @NEJM
 
 and what to do about it
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMp2112063?query=WB&cid=NEJM%20Weekend%20Briefing,%20October%2023,%202021%20DM401431_NEJM_Subscriber&bid=682395402" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMp2112063 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMp2112063?query=WB&cid=NEJM%20Weekend%20Briefing,%20October%2023,%202021%20DM401431_NEJM_Subscriber&bid=682395402" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMp2112063 ...</a> 
  by @MarshallChinMD @UChicago </div> 
 <a href="/twitter/erictopol/images/FCY7ZtQVQAAsg7D.jpg"  ><img src="/twitter/erictopol/images/FCY7ZtQVQAAsg7D.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -24,7 +24,7 @@ and what to do about it
 <div class="content"> 
 What happens when teens are not vaccinated
 
-<a href="https://www.ft.com/content/1f57838a-24d2-40d5-b314-2d8345a6e001" target="_blank" rel="noreferer">https://www.ft.com/content/1f57838a-24d2-40d5-b314 ...</a> 
+<a href="https://www.ft.com/content/1f57838a-24d2-40d5-b314-2d8345a6e001" target="_blank" rel="noreferer">ft.com/content/1f57838a-24d2-40d5-b314 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCY-FA5UYAIJM4s.jpg"  ><img src="/twitter/erictopol/images/FCY-FA5UYAIJM4s.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

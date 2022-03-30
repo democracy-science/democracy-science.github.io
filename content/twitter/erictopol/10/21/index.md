@@ -10,7 +10,7 @@ category = "Twitter"
 <div class="content"> 
 Good. It should never have been approved by @US_FDA 
 
-<a href="https://www.nytimes.com/2021/10/20/business/biogen-aduhelm-sales-q3-2021.html?searchResultPosition=1" target="_blank" rel="noreferer">https://www.nytimes.com/2021/10/20/business/biogen ...</a> 
+<a href="https://www.nytimes.com/2021/10/20/business/biogen-aduhelm-sales-q3-2021.html?searchResultPosition=1" target="_blank" rel="noreferer">nytimes.com/2021/10/20/business/biogen ...</a> 
  by @RebeccaDRobbins </div> 
 <a href="/twitter/erictopol/images/FCOiGhbVIAgCGZt.jpg"  ><img src="/twitter/erictopol/images/FCOiGhbVIAgCGZt.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -22,7 +22,7 @@ Just published @Nature
 
 An in-depth assessment of AZ then Pfizer vaccine immune response compared with 2 Pfizer doses, with better neutralizing antibody response by mix, across all major variants
 
-<a href="https://www.nature.com/articles/s41586-021-04120-y" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-04120-y</a> 
+<a href="https://www.nature.com/articles/s41586-021-04120-y" target="_blank" rel="noreferer">nature.com/articles/s41586-021-04120-y</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCOjxtlUcAQpX4c.jpg"  ><img src="/twitter/erictopol/images/FCOjxtlUcAQpX4c.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCOjzmtVkAEOqix.jpg"  ><img src="/twitter/erictopol/images/FCOjzmtVkAEOqix.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -30,7 +30,7 @@ An in-depth assessment of AZ then Pfizer vaccine immune response compared with 2
 <a href="https://twitter.com/erictopol/status/1451187748975509512" target="_blank" rel="noreferer">07:04 UCT-7</a> 
 </div> 
 <div class="content"> 
-Substantial racial inequities for the occurrence of breakthrough infections and the continued pathetic lack of tracking data @CDCgov <a href="https://www.washingtonpost.com/opinions/2021/10/18/racial-disparities-may-be-emerging-breakthrough-infections-we-must-track-them-better/" target="_blank" rel="noreferer">https://www.washingtonpost.com/opinions/2021/10/18 ...</a> 
+Substantial racial inequities for the occurrence of breakthrough infections and the continued pathetic lack of tracking data @CDCgov <a href="https://www.washingtonpost.com/opinions/2021/10/18/racial-disparities-may-be-emerging-breakthrough-infections-we-must-track-them-better/" target="_blank" rel="noreferer">washingtonpost.com/opinions/2021/10/18 ...</a> 
  by @oni_blackstock @alexskinnermph @JuliaRaifman @PostOpinions </div> 
 <a href="/twitter/erictopol/images/FCOniUkUYAoEQY0.jpg"  ><img src="/twitter/erictopol/images/FCOniUkUYAoEQY0.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -38,7 +38,7 @@ Substantial racial inequities for the occurrence of breakthrough infections and 
 <a href="https://twitter.com/erictopol/status/1451191447365976068" target="_blank" rel="noreferer">07:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-The United States has had almost 2 years to get its Covid testing right and still can't get its act together, cf many countries testing 4-5X per capita, providing free (or very low cost) home tests  <a href="https://www.ft.com/content/b903be05-0f82-4672-9245-5295a5c80c50" target="_blank" rel="noreferer">https://www.ft.com/content/b903be05-0f82-4672-9245 ...</a> 
+The United States has had almost 2 years to get its Covid testing right and still can't get its act together, cf many countries testing 4-5X per capita, providing free (or very low cost) home tests  <a href="https://www.ft.com/content/b903be05-0f82-4672-9245-5295a5c80c50" target="_blank" rel="noreferer">ft.com/content/b903be05-0f82-4672-9245 ...</a> 
  of critical importance in the Delta wave re:missing cases </div> 
 <a href="/twitter/erictopol/images/FCOp1PcUYBEaqLp.jpg"  ><img src="/twitter/erictopol/images/FCOp1PcUYBEaqLp.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -48,7 +48,7 @@ The United States has had almost 2 years to get its Covid testing right and stil
 <div class="content"> 
 There's nothing new about vaccine mandates. And they're globally pervasive.
 
-<a href="https://www.economist.com/graphic-detail/2021/10/23/the-impact-of-vaccine-mandates-is-modest-but-potentially-crucial" target="_blank" rel="noreferer">https://www.economist.com/graphic-detail/2021/10/2 ...</a> 
+<a href="https://www.economist.com/graphic-detail/2021/10/23/the-impact-of-vaccine-mandates-is-modest-but-potentially-crucial" target="_blank" rel="noreferer">economist.com/graphic-detail/2021/10/2 ...</a> 
  @TheEconomist </div> 
 <a href="/twitter/erictopol/images/FCO2F-CVQA81DsH.jpg"  ><img src="/twitter/erictopol/images/FCO2F-CVQA81DsH.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -58,7 +58,7 @@ There's nothing new about vaccine mandates. And they're globally pervasive.
 <div class="content"> 
 Severe Covid and the #brain: infection can induce "string vessels" in patients due to death of endothelial cells (lining blood vessels), signifying microvascular damage, verified in experimental models
 
-<a href="https://www.nature.com/articles/s41593-021-00926-1" target="_blank" rel="noreferer">https://www.nature.com/articles/s41593-021-00926-1</a> 
+<a href="https://www.nature.com/articles/s41593-021-00926-1" target="_blank" rel="noreferer">nature.com/articles/s41593-021-00926-1</a> 
  @NatureNeuro </div> 
 <a href="/twitter/erictopol/images/FCPFuPWVUAELKK-.jpg"  ><img src="/twitter/erictopol/images/FCPFuPWVUAELKK-.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -66,7 +66,7 @@ Severe Covid and the #brain: infection can induce "string vessels" in patients d
 <a href="https://twitter.com/erictopol/status/1451230021985603585" target="_blank" rel="noreferer">09:52 UCT-7</a> 
 </div> 
 <div class="content"> 
-Genomic evidence of at least 25 transmission events from and between fully vaccinated individuals in the Provincetown, Delta variant outbreak <a href="https://www.medrxiv.org/content/10.1101/2021.10.20.21265137v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.10.20 ...</a> 
+Genomic evidence of at least 25 transmission events from and between fully vaccinated individuals in the Provincetown, Delta variant outbreak <a href="https://www.medrxiv.org/content/10.1101/2021.10.20.21265137v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.20 ...</a> 
  While not common, it does occur. </div> 
 <a href="/twitter/erictopol/images/FCPNp9qUYAEfdRb.jpg"  ><img src="/twitter/erictopol/images/FCPNp9qUYAEfdRb.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -78,7 +78,8 @@ Genomic evidence of at least 25 transmission events from and between fully vacci
 
 #COVIDisAirborne, forget the 6-foot rule, attend to ventilation and air filtration
 
-https://t.co/jaotZHWAFB</div> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.19.21265208v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.19 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -102,7 +103,7 @@ The difficulty of navigating the pandemic with biased and absent data (like #Lon
 
 by @chrischirp and C Yates
 
-<a href="https://www.science.org/doi/10.1126/science.abi6602" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abi660 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abi6602" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abi660 ...</a> 
 
 
 many critical points of our data deficiencies that lead to poor assumptions and management </div> 
@@ -114,7 +115,7 @@ many critical points of our data deficiencies that lead to poor assumptions and 
 <div class="content"> 
 If the vaccine manufacturers shared their know-how, the global supply could increase substantially in as little as 3 months
 
-<a href="https://www.science.org/doi/10.1126/science.abm8724" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abm872 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abm8724" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abm872 ...</a> 
 
 
 @ScienceMagazine by @pritikrishtel and @_HassanF </div> 
@@ -126,7 +127,7 @@ If the vaccine manufacturers shared their know-how, the global supply could incr
 <div class="content"> 
 From the Oregon Poison Center @NEJM: cases of Ivermectin toxicity with severe confusional episodes, ataxia, seizures, hypotension with increasing frequency of inappropriate use
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2114907?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2114907 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2114907?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2114907 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCQGy0yVcAU1Yjx.jpg"  ><img src="/twitter/erictopol/images/FCQGy0yVcAU1Yjx.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -138,12 +139,12 @@ With cases increasing, the UK continues to suppress hospitalizations at 80% and 
 
 Whereas the US 4th (Delta) wave there's relative lack of suppression: reached 77% of peak hospitalizations (&gt;100K) and 62% deaths (2,090/d)
 
-<a href="https://www.ft.com/content/54159598-0aa7-4b65-943d-9832aba560f8" target="_blank" rel="noreferer">https://www.ft.com/content/54159598-0aa7-4b65-943d ...</a> 
+<a href="https://www.ft.com/content/54159598-0aa7-4b65-943d-9832aba560f8" target="_blank" rel="noreferer">ft.com/content/54159598-0aa7-4b65-943d ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCQI9bgVQAQd1H_.jpg"  ><img src="/twitter/erictopol/images/FCQI9bgVQAQd1H_.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The 1st randomized trial of a booster (3rd) shot in 10,000 people, placebo-controlled, shows 95.6% efficacy, with 5 cases (Pfizer vaccine) vs 109 in placebo group, Delta variant, broad benefit across age groups <a href="https://www.ft.com/thread-content/d4e58d38-37d6-40cd-9d72-6b9bfd0a3683" target="_blank" rel="noreferer">https://www.ft.com/thread-content/d4e58d38-37d6-40cd-9d72 ...</a> 
+The 1st randomized trial of a booster (3rd) shot in 10,000 people, placebo-controlled, shows 95.6% efficacy, with 5 cases (Pfizer vaccine) vs 109 in placebo group, Delta variant, broad benefit across age groups <a href="https://www.ft.com/thread-content/d4e58d38-37d6-40cd-9d72-6b9bfd0a3683" target="_blank" rel="noreferer">ft.com/thread-content/d4e58d38-37d6-40cd-9d72 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCOXkIjUYAwHYN6.png"  ><img src="/twitter/erictopol/images/FCOXkIjUYAwHYN6.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Until now there were only vaccine effectiveness reports without randomization, without a placebo control group, and multiple potential confounding factors. That’s what makes this trial report  significant proof of benefit of booster shots, at least for this vaccine regimen.</div> 
@@ -152,7 +153,8 @@ Current booster recommendations. They are going to need to be revised. </div>
 <a href="/twitter/erictopol/images/FCOgIl5VIAwa5QP.png"  ><img src="/twitter/erictopol/images/FCOgIl5VIAwa5QP.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Back in April I was totally against booster shots due to lack of evidence of attrition of effectiveness and obvious interest of the companies to promote them. Now the data are abundant and IMO definitive for their benefit. Age 40+ vs severe disease.
 
-https://t.co/OEXnh7WCNo</div> 
+<a href="https://twitter.com/erictopol/status/1383130179942322181?lang=en" target="_blank" rel="noreferer">twitter.com/erictopol/status/1383130179942 ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 Data for age 40+ vs severe disease, presented at FDA Advisory Committee </div> 
 <a href="/twitter/erictopol/images/FCQO9SuVQAIjzNW.jpg"  ><img src="/twitter/erictopol/images/FCQO9SuVQAIjzNW.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
@@ -166,15 +168,8 @@ The Israeli researchers and @IsraelMOH have done  extraordinary work of rapidly 
 <a href="https://twitter.com/erictopol/status/1451334518162354178" target="_blank" rel="noreferer">16:48 UCT-7</a> 
 </div> 
 <div class="content"> 
-An outstanding new review of the immune response to #SARSCoV2 infection and covid vaccines, with attention to reinfection, duration, and mechanisms <a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00407-0/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanres/article/ ...</a> 
+An outstanding new review of the immune response to #SARSCoV2 infection and covid vaccines, with attention to reinfection, duration, and mechanisms <a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00407-0/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanres/article/ ...</a> 
  @LancetRespirMed by @GC_Milne and colleagues </div> 
 <a href="/twitter/erictopol/images/FCQsljAUcAwpxlw.jpg"  ><img src="/twitter/erictopol/images/FCQsljAUcAwpxlw.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCQsm8JUcBUMvoJ.jpg"  ><img src="/twitter/erictopol/images/FCQsm8JUcBUMvoJ.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCQsxXNUcAMt6k3.jpg"  ><img src="/twitter/erictopol/images/FCQsxXNUcAMt6k3.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCQsp9bUcAwnhK-.jpg"  ><img src="/twitter/erictopol/images/FCQsp9bUcAwnhK-.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1451384089894789127" target="_blank" rel="noreferer">20:05 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @leonidkruglyak: @EricTopol That’s 95.6% effective as compared to two doses + placebo! 🤯</div> 
-</div> 
 
 

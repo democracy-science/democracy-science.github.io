@@ -30,10 +30,10 @@ Also highlights that the booster rate across the US is remarkably low. </div>
 <div class="content"> 
 8. New data today from the UK shows boosters restore vaccine effectiveness for protection vs symptomatic infection to over 90% (AZ 93%, Pfizer 94%)
 
-<a href="https://khub.net/documents/135939561/390853656/Effectiveness+of+BNT162b2+%28Comirnaty%2C+Pfizer-BioNTech%29+COVID-19+booster+vaccine+against+covid-19+related+symptoms+in+England.docx/a366af4e-9c7f-ce86-bc58-1cb3b88e3378" target="_blank" rel="noreferer">https://khub.net/documents/135939561/390853656/Eff ...</a> 
+<a href="https://khub.net/documents/135939561/390853656/Effectiveness+of+BNT162b2+%28Comirnaty%2C+Pfizer-BioNTech%29+COVID-19+booster+vaccine+against+covid-19+related+symptoms+in+England.docx/a366af4e-9c7f-ce86-bc58-1cb3b88e3378" target="_blank" rel="noreferer">khub.net/documents/135939561/390853656/Eff ...</a> 
 
 
-<a href="https://www.gov.uk/government/news/boosters-give-over-90-protection-against-symptomatic-covid-19-in-adults-over-50" target="_blank" rel="noreferer">https://www.gov.uk/government/news/boosters-give-o ...</a> 
+<a href="https://www.gov.uk/government/news/boosters-give-over-90-protection-against-symptomatic-covid-19-in-adults-over-50" target="_blank" rel="noreferer">gov.uk/government/news/boosters-give-o ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEPqs7wVIA0Y8O5.png"  ><img src="/twitter/erictopol/images/FEPqs7wVIA0Y8O5.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -41,7 +41,8 @@ Also highlights that the booster rate across the US is remarkably low. </div>
 <a href="https://twitter.com/erictopol/status/1460280417521602565" target="_blank" rel="noreferer">09:15 UCT-7</a> 
 </div> 
 <div class="content"> 
-This adds to California, Colorado, and New Mexico states. It is noteworthy because (1) the decision is fully backed by the data and (2) it overrides the FDA and CDC guidelines for boosters which are far more restrictive by age criteria (65+). https://t.co/6ssceXtzw3</div> 
+This adds to California, Colorado, and New Mexico states. It is noteworthy because (1) the decision is fully backed by the data and (2) it overrides the FDA and CDC guidelines for boosters which are far more restrictive by age criteria (65+). <a href="https://twitter.com/MarkLevineNYC/status/1460274055567843334" target="_blank" rel="noreferer">twitter.com/MarkLevineNYC/status/146027405 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -49,19 +50,20 @@ Countering waning immunity
 
 The new data from England today shows a booster (3rd) shot increased vaccine effectiveness from 44% to 93% for Astra Zeneca and from 62.5 to 94% for Pfizer, vs symptomatic infection, age 50+
 
-<a href="https://khub.net/documents/135939561/390853656/Effectiveness+of+BNT162b2+%28Comirnaty%2C+Pfizer-BioNTech%29+COVID-19+booster+vaccine+against+covid-19+related+symptoms+in+England.docx/a366af4e-9c7f-ce86-bc58-1cb3b88e3378" target="_blank" rel="noreferer">https://khub.net/documents/135939561/390853656/Eff ...</a> 
+<a href="https://khub.net/documents/135939561/390853656/Effectiveness+of+BNT162b2+%28Comirnaty%2C+Pfizer-BioNTech%29+COVID-19+booster+vaccine+against+covid-19+related+symptoms+in+England.docx/a366af4e-9c7f-ce86-bc58-1cb3b88e3378" target="_blank" rel="noreferer">khub.net/documents/135939561/390853656/Eff ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEPtWbyVIAYdShu.png"  ><img src="/twitter/erictopol/images/FEPtWbyVIAYdShu.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 This report is the first to provide solid evidence for 3rd shot clinical impact of another vaccine (AZ, all prior reports were with Pfizer's) and adds to the RCT and Israeli data summarized in 1 and 2 below
 
-https://t.co/oN8UxnxXsW</div> 
+<a href="https://twitter.com/EricTopol/status/1459570332377907200" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1459570332377 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1460286542593679362" target="_blank" rel="noreferer">09:40 UCT-7</a> 
 </div> 
 <div class="content"> 
 The new data led to a change in policy, expanding 3rd shot boosters to all age 40+ in the UK
 
-<a href="https://www.ft.com/content/8330da6c-031d-4613-8f55-5b0269eaac00" target="_blank" rel="noreferer">https://www.ft.com/content/8330da6c-031d-4613-8f55 ...</a> 
+<a href="https://www.ft.com/content/8330da6c-031d-4613-8f55-5b0269eaac00" target="_blank" rel="noreferer">ft.com/content/8330da6c-031d-4613-8f55 ...</a> 
  [currently 65+ in the US] </div> 
 <a href="/twitter/erictopol/images/FEP6t0aVcAUXhUL.jpg"  ><img src="/twitter/erictopol/images/FEP6t0aVcAUXhUL.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -71,7 +73,7 @@ The new data led to a change in policy, expanding 3rd shot boosters to all age 4
 <div class="content"> 
 Here's the @FT graph of the study (Table below) from England today showing marked efficacy of the 3rd shots for 2 different vaccines vs vaccinated with 2 shots and vs unvaccinated 
 
-via @jburnmurdoch  <a href="https://twitter.com/EricTopol/status/1460273570987212800" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1460273570987 ...</a> 
+via @jburnmurdoch  <a href="https://twitter.com/EricTopol/status/1460273570987212800" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1460273570987 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FEQYQiOVQAEhp2u.png"  ><img src="/twitter/erictopol/images/FEQYQiOVQAEhp2u.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -83,7 +85,7 @@ The surge in Europe, yet another manifestation of vaccines working—saving live
 <div class="content"> 
 Yes, there are surges, as seen here, but the high % vaccinated countries of Western Europe are generally in far better shape with respect to hospitalizations, ICU, and deaths compared with many in Eastern/Central Europe
 
-<a href="https://www.ft.com/content/057665d4-5234-45cc-b96b-8d6c189803cc" target="_blank" rel="noreferer">https://www.ft.com/content/057665d4-5234-45cc-b96b ...</a> 
+<a href="https://www.ft.com/content/057665d4-5234-45cc-b96b-8d6c189803cc" target="_blank" rel="noreferer">ft.com/content/057665d4-5234-45cc-b96b ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FERCjMHVIAMAtTO.jpg"  ><img src="/twitter/erictopol/images/FERCjMHVIAMAtTO.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -97,7 +99,7 @@ This sums up the US approach to vaccinations </div>
 <div class="thread-content"> 
 The neutralizing antibody level from Covid vaccines correlates with clinical outcomes across vaccines and major variants
 
-<a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00267-6/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanmic/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00267-6/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanmic/article/ ...</a> 
  @LancetMicrobe </div> 
 <a href="/twitter/erictopol/images/FERofknVUAkZeI5.jpg"  ><img src="/twitter/erictopol/images/FERofknVUAkZeI5.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 And predicts the restoration of protection from booster (third shots) at 6 months </div> 
@@ -118,7 +120,8 @@ Two notable data points on booster shot effectiveness (VE) vs symptomatic infect
 
 1. Astra Zeneca jumped to 93%, had not reached 80% before w/💉💉
 
-https://t.co/UtWHYNVswb
+<a href="https://twitter.com/EricTopol/status/1460273570987212800" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1460273570987 ...</a> 
+
 
 2. Pfizer VE in UK &amp; Israel = 94%; matched by 96% RCT for efficacy 3 vs [2 shots + placebo] in &gt;10K people</div> 
 </div> 
@@ -129,7 +132,7 @@ https://t.co/UtWHYNVswb
 <div class="content"> 
 US new cases 7-day average up to 85,000 today with nearly 147,000 added, a 14% increase from a week ago
 
-<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">https://newsnodes.com/us</a> 
+<a href="https://newsnodes.com/us" target="_blank" rel="noreferer">newsnodes.com/us</a> 
  </div> 
 <a href="/twitter/erictopol/images/FESKwysVEAERS9Q.jpg"  ><img src="/twitter/erictopol/images/FESKwysVEAERS9Q.jpg" alt="Twitter image" ></img></a></div> 
 

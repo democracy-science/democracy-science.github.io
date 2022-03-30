@@ -5,19 +5,12 @@ category = "Twitter"
 +++
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1441035122497634311" target="_blank" rel="noreferer">06:42 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @EricTopol: New large dataset of US Medicare (age 65+) population subgroup: 2.7 million Pfizer; 2.9 million Moderna vaccinated, w/ ~30,0…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1441043402800304138" target="_blank" rel="noreferer">07:14 UCT-7</a> 
 </div> 
 <div class="content"> 
 How to make a Delta variant specific vaccine
 
-<a href="https://www.wsj.com/articles/covid-19-vaccines-can-be-updated-for-the-delta-variant-heres-how-11632399254" target="_blank" rel="noreferer">https://www.wsj.com/articles/covid-19-vaccines-can ...</a> 
+<a href="https://www.wsj.com/articles/covid-19-vaccines-can-be-updated-for-the-delta-variant-heres-how-11632399254" target="_blank" rel="noreferer">wsj.com/articles/covid-19-vaccines-can ...</a> 
  good schematic by @joshulick @acervantesc </div> 
 <a href="/twitter/erictopol/images/E_-dT0yVgAkyiLh.jpg"  ><img src="/twitter/erictopol/images/E_-dT0yVgAkyiLh.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -42,7 +35,8 @@ The big picture on the pandemic
 
 @JeremyFarrar in conversation
 
-https://t.co/y2AQJMwVD9
+<a href="https://www.medscape.com/viewarticle/957150" target="_blank" rel="noreferer">medscape.com/viewarticle/957150</a> 
+
 
 w/ transcript</div> 
 </div> 
@@ -51,7 +45,8 @@ w/ transcript</div>
 <a href="https://twitter.com/erictopol/status/1441055777339281413" target="_blank" rel="noreferer">08:04 UCT-7</a> 
 </div> 
 <div class="content"> 
-Great explainer by @Craig_A_Spencer on the differences of contagiousness between vaccinated and unvaccinated people https://t.co/j7lQVON79q @TheAtlantic</div> 
+Great explainer by @Craig_A_Spencer on the differences of contagiousness between vaccinated and unvaccinated people <a href="https://www.theatlantic.com/ideas/archive/2021/09/the-vaccinated-arent-just-as-likely-to-spread-covid/620161/" target="_blank" rel="noreferer">theatlantic.com/ideas/archive/2021/09/ ...</a> 
+ @TheAtlantic</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -60,16 +55,9 @@ Great explainer by @Craig_A_Spencer on the differences of contagiousness between
 <div class="content"> 
 Just published @NEJM
 
-Finally, the means to accurately quantify kidney function independent of race <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2102953?query=featured_home#article_references" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa210295 ...</a> 
+Finally, the means to accurately quantify kidney function independent of race <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2102953?query=featured_home#article_references" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210295 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E__BUItVUAAq1S0.jpg"  ><img src="/twitter/erictopol/images/E__BUItVUAAq1S0.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1441089264838606857" target="_blank" rel="noreferer">10:17 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @kavitapmd: Pretty critical slide presented by @CDCgov staff at  #ACIP - clear benefit in 65+ but it is not a trivial benefit in the 50-…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1441102800117587974" target="_blank" rel="noreferer">11:10 UCT-7</a> 
@@ -85,7 +73,7 @@ A fantastic new @ScienceMagazine issue on human genomics
 
 and more
 
-<a href="https://www.science.org/doi/10.1126/science.abm1359" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abm135 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abm1359" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abm135 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E__RPj4UUAM7DsR.jpg"  ><img src="/twitter/erictopol/images/E__RPj4UUAM7DsR.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E__TR1AVUAgKtd6.jpg"  ><img src="/twitter/erictopol/images/E__TR1AVUAgKtd6.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E__TT9wVIBEDNXb.jpg"  ><img src="/twitter/erictopol/images/E__TT9wVIBEDNXb.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E__TWGLVIAkAqGI.jpg"  ><img src="/twitter/erictopol/images/E__TWGLVIAkAqGI.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -97,7 +85,7 @@ Just published @ScienceMagazine
 
 How do we get better antibodies and vaccines vs #SARSCoV2?  A global consortium effort to define all the problematic epitopes that can give our immune response trouble
 
-<a href="https://www.science.org/doi/10.1126/science.abh2315" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abh231 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abh2315" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abh231 ...</a> 
 
 
 by @EOSaphire and collaborators @ljiresearch </div> 
@@ -109,7 +97,7 @@ by @EOSaphire and collaborators @ljiresearch </div>
 <div class="content"> 
 First it was LA County public schools;  now likely all California. An important potential precedent
 
-<a href="https://www.ft.com/content/e87e092b-543f-4639-816f-d797fe1589a7" target="_blank" rel="noreferer">https://www.ft.com/content/e87e092b-543f-4639-816f ...</a> 
+<a href="https://www.ft.com/content/e87e092b-543f-4639-816f-d797fe1589a7" target="_blank" rel="noreferer">ft.com/content/e87e092b-543f-4639-816f ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E__i-dHUYAAdrlF.jpg"  ><img src="/twitter/erictopol/images/E__i-dHUYAAdrlF.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -122,7 +110,7 @@ This is a big deal.
 
 —FDA admits there are no data for Moderna or J&amp;J
 
-<a href="https://www.statnews.com/2021/09/23/covid19-vaccine-boosters-cdc-acip/" target="_blank" rel="noreferer">https://www.statnews.com/2021/09/23/covid19-vaccin ...</a> 
+<a href="https://www.statnews.com/2021/09/23/covid19-vaccine-boosters-cdc-acip/" target="_blank" rel="noreferer">statnews.com/2021/09/23/covid19-vaccin ...</a> 
  and it'll take awhile
 
 —FDA/ACIP: Moderna vaccinees are not eligible for Pfizer boosters.
@@ -143,7 +131,8 @@ Likelihood of the happening........approaches zero.</div>
 <div class="content"> 
 We are now entering a 3rd shot/booster confusional state in the US with different recommendations between FDA and CDC [the latter ridiculously not supporting healthcare workforce, teachers, etc]. Plus all these uncertainties below.
 
-This is the last thing we need right now. https://t.co/ZYsm14sJiR</div> 
+This is the last thing we need right now. <a href="https://twitter.com/EricTopol/status/1441090034396844032" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1441090034396 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -163,7 +152,7 @@ Israel is descending from a severe 4th wave; main issue now is the unvaccinated
 
 "17 percent of eligible Israelis who have not received the vaccine account for 60 percent of coronavirus deaths in the past two weeks"
 
-<a href="https://www.haaretz.com/israel-news/israel-s-covid-czar-says-17-unvaccinated-a-strain-on-hospitals-1.10234830" target="_blank" rel="noreferer">https://www.haaretz.com/israel-news/israel-s-covid ...</a> 
+<a href="https://www.haaretz.com/israel-news/israel-s-covid-czar-says-17-unvaccinated-a-strain-on-hospitals-1.10234830" target="_blank" rel="noreferer">haaretz.com/israel-news/israel-s-covid ...</a> 
 
 
 @OurWorldInData </div> 
@@ -183,7 +172,7 @@ Most (&gt;3,000) of these lives would have been saved with prior vaccination. </
 <div class="thread-content"> 
 The aggressive and very successful New Zealand response to the Delta varaint included the ability to reduce Ro from 6 to 0.6 in just a few days
 
-<a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-source-cases" target="_blank" rel="noreferer">https://www.health.govt.nz/our-work/diseases-and-c ...</a> 
+<a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-source-cases" target="_blank" rel="noreferer">health.govt.nz/our-work/diseases-and-c ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E__Cs5WUcBIQUiQ.jpg"  ><img src="/twitter/erictopol/images/E__Cs5WUcBIQUiQ.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1441244747666886662" target="_blank" rel="noreferer">20:34 UCT-7</a> 
@@ -200,7 +189,8 @@ BTW they also donated a lot of vaccines today
 <a href="https://twitter.com/erictopol/status/1441245478243373058" target="_blank" rel="noreferer">20:37 UCT-7</a> 
 </div> 
 <div class="content"> 
-Wish the clear-eyed Dr. Jha was presiding. https://t.co/qEFfbgKOPa</div> 
+Wish the clear-eyed Dr. Jha was presiding. <a href="https://twitter.com/ashishkjha/status/1441164771781328908" target="_blank" rel="noreferer">twitter.com/ashishkjha/status/144116477178 ...</a> 
+</div> 
 </div> 
 
 

@@ -10,10 +10,10 @@ category = "Twitter"
 <div class="content"> 
 The mechanism of Covid toes: role of the type 1 interferon response, IgA autoantibodies and endothelial dysfunction
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.20707" target="_blank" rel="noreferer">https://onlinelibrary.wiley.com/doi/full/10.1111/b ...</a> 
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.20707" target="_blank" rel="noreferer">onlinelibrary.wiley.com/doi/full/10.1111/b ...</a> 
 
 
-<a href="https://www.theguardian.com/world/2021/oct/06/covid-toe-may-be-side-effect-immune-response-study?CMP=oth_b-aplnews_d-1" target="_blank" rel="noreferer">https://www.theguardian.com/world/2021/oct/06/covi ...</a> 
+<a href="https://www.theguardian.com/world/2021/oct/06/covid-toe-may-be-side-effect-immune-response-study?CMP=oth_b-aplnews_d-1" target="_blank" rel="noreferer">theguardian.com/world/2021/oct/06/covi ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBBfbODVkAA4Fpo.jpg"  ><img src="/twitter/erictopol/images/FBBfbODVkAA4Fpo.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBBfc-nVQAggPY5.jpg"  ><img src="/twitter/erictopol/images/FBBfc-nVQAggPY5.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBBf8qlUcAA-AhL.jpg"  ><img src="/twitter/erictopol/images/FBBf8qlUcAA-AhL.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -27,7 +27,8 @@ Zero deaths
 
 Vaccine effectiveness: 95% vs infections, with or without symptoms, 91% vs hospitalizations
 
-https://t.co/OuSTYVkLQn @JAMANetworkOpen</div> 
+<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2784769" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+ @JAMANetworkOpen</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -42,7 +43,7 @@ Thanks to #AI deep learning we can see inside cells, 3D high-resolution organell
 
 Just published @Nature 
 
-<a href="https://www.nature.com/articles/s41586-021-03977-3" target="_blank" rel="noreferer">https://www.nature.com/articles/s41586-021-03977-3</a> 
+<a href="https://www.nature.com/articles/s41586-021-03977-3" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03977-3</a> 
 
 
 @avweigel @HHMIJanelia and collaborators </div> 
@@ -52,7 +53,8 @@ Just published @Nature
 <div class="content"> 
 From the video in the paper with explanatory thread by @avweigel
 
-https://t.co/uwQ8xGPYyZ</div> 
+<a href="https://twitter.com/avweigel/status/1328688972793585664" target="_blank" rel="noreferer">twitter.com/avweigel/status/13286889727935 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -65,7 +67,7 @@ No one is safe until we all are safe, by Sarah Gilbert @JennerInstitute @NDMOxfo
 
 With a forecast of global vaccine supply for 2021
 
-<a href="https://www.science.org/doi/10.1126/scitranslmed.abl9900" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/scitranslmed.a ...</a> 
+<a href="https://www.science.org/doi/10.1126/scitranslmed.abl9900" target="_blank" rel="noreferer">science.org/doi/10.1126/scitranslmed.a ...</a> 
  @ScienceTM a large proportion are Sinopharm and Sinovac from China </div> 
 <a href="/twitter/erictopol/images/FBCRFn5VgAcEBxL.jpg"  ><img src="/twitter/erictopol/images/FBCRFn5VgAcEBxL.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBCQ6S_VEAM0SIH.jpg"  ><img src="/twitter/erictopol/images/FBCQ6S_VEAM0SIH.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -79,7 +81,7 @@ Pfizer vaccine waning in Qatar over time among ~115,000 vaccinees + controls
 
 Attrition in protection vs infections, including symptomatic (to 43%, 4 months), + Delta data; well preserved vs hospitalizations
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2114114" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMoa2114114</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2114114" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMoa2114114</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBCzqdkUYAQrxqa.jpg"  ><img src="/twitter/erictopol/images/FBCzqdkUYAQrxqa.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBC2SO6UUAUXde1.jpg"  ><img src="/twitter/erictopol/images/FBC2SO6UUAUXde1.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBC1L4cVUAYiZw5.png"  ><img src="/twitter/erictopol/images/FBC1L4cVUAYiZw5.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBC04AJVEAcq_tp.png"  ><img src="/twitter/erictopol/images/FBC04AJVEAcq_tp.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -89,10 +91,10 @@ Attrition in protection vs infections, including symptomatic (to 43%, 4 months),
 <div class="content"> 
 Two new @NEJM reports on Pfizer vaccine related myocarditis: very rare (~2 per 100,000) and usually mild; in-depth review of 190 cases, most cases were in males 16-29 years, 2nd dose
 
-<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2110737" target="_blank" rel="noreferer">http://www.nejm.org/doi/full/10.1056/NEJMoa2110737</a> 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa2110737" target="_blank" rel="noreferer">http://nejm.org/doi/full/10.1056/NEJMoa2110737</a> 
 
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2109730?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa210973 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2109730?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210973 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBCwzr2VEAUAdm-.jpg"  ><img src="/twitter/erictopol/images/FBCwzr2VEAUAdm-.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBCxT0eVkAMOtr8.jpg"  ><img src="/twitter/erictopol/images/FBCxT0eVkAMOtr8.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -102,7 +104,7 @@ Two new @NEJM reports on Pfizer vaccine related myocarditis: very rare (~2 per 1
 <div class="content"> 
 A prospective study of antibody response to the Pfizer vaccine in nearly 5,000 people out to 6 months: Significant reductions (both IgG and neutralizing) noted for men, age 65+, and among those immunosuppressed
 
-@NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114583?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa211458 ...</a> 
+@NEJM <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114583?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa211458 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBC4iJNVUAAbtQn.jpg"  ><img src="/twitter/erictopol/images/FBC4iJNVUAAbtQn.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FBC4kJ5VIAIxR-B.jpg"  ><img src="/twitter/erictopol/images/FBC4kJ5VIAIxR-B.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -110,15 +112,15 @@ A prospective study of antibody response to the Pfizer vaccine in nearly 5,000 p
 <a href="https://twitter.com/erictopol/status/1445865410822246407" target="_blank" rel="noreferer">14:35 UCT-7</a> 
 </div> 
 <div class="content"> 
-Clarification of the reduction of viral RNA load data from a prior report <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2107058" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa210705 ...</a> 
- (pre-Delta) showing, by any of 3 methods, marked reduction of viral load among infections in those vaccinated vs unvaccinated <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2113575?query=recirc_curatedRelated_article" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2113575 ...</a> 
+Clarification of the reduction of viral RNA load data from a prior report <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2107058" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210705 ...</a> 
+ (pre-Delta) showing, by any of 3 methods, marked reduction of viral load among infections in those vaccinated vs unvaccinated <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2113575?query=recirc_curatedRelated_article" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2113575 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBC8Gj5VcAcsmfa.jpg"  ><img src="/twitter/erictopol/images/FBC8Gj5VcAcsmfa.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Singapore has been a model country in the pandemic, with a very low case burden, one of the highest fully vaccinated rates (&gt;80% total population) in the world. The recent outbreak to its peak in cases tells us there's no room for Covid complacency
 
-<a href="https://covidsitrep.moh.gov.sg" target="_blank" rel="noreferer">https://covidsitrep.moh.gov.sg</a> 
+<a href="https://covidsitrep.moh.gov.sg" target="_blank" rel="noreferer">covidsitrep.moh.gov.sg</a> 
  </div> 
 <a href="/twitter/erictopol/images/FA-8HU1UcAs2Wgm.jpg"  ><img src="/twitter/erictopol/images/FA-8HU1UcAs2Wgm.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FA-913PUUA08prP.jpg"  ><img src="/twitter/erictopol/images/FA-913PUUA08prP.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1445885442163838978" target="_blank" rel="noreferer">15:55 UCT-7</a> 
@@ -126,7 +128,7 @@ Singapore has been a model country in the pandemic, with a very low case burden,
 <div class="content"> 
 Today another case record, but uncoupled with adverse clinical outcomes.  See @sporeMOH or website for details
 
-<a href="https://www.moh.gov.sg/news-highlights/details/update-on-local-covid-19-situation-(6-oct-2021)" target="_blank" rel="noreferer">https://www.moh.gov.sg/news-highlights/details/upd ...</a> 
+<a href="https://www.moh.gov.sg/news-highlights/details/update-on-local-covid-19-situation-(6-oct-2021)" target="_blank" rel="noreferer">moh.gov.sg/news-highlights/details/upd ...</a> 
 
 
 Over 340,000 people have had 3rd shot boosters </div> 
@@ -147,7 +149,7 @@ Data for Pfizer, Moderna, and AZ /2 </div>
 <a href="/twitter/erictopol/images/FBD7fWoVQAAZAuk.jpg"  ><img src="/twitter/erictopol/images/FBD7fWoVQAAZAuk.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The Qatar data were just published @NEJM
 
-<a href="https://twitter.com/EricTopol/status/1445856967860228102" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1445856967860 ...</a> 
+<a href="https://twitter.com/EricTopol/status/1445856967860228102" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1445856967860 ...</a> 
 
 
 Here are the ICATT data (age &lt;65), presented at the recent CDC ACIP meeting /3 </div> 

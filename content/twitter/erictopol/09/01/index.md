@@ -16,13 +16,13 @@ This doesn't look good
 
 "First findings from world’s largest study on #LongCovid  in children" 
 
-<a href="https://www.sciencemediacentre.org/first-findings-from-worlds-largest-study-on-long-covid-in-children/" target="_blank" rel="noreferer">https://www.sciencemediacentre.org/first-findings- ...</a> 
+<a href="https://www.sciencemediacentre.org/first-findings-from-worlds-largest-study-on-long-covid-in-children/" target="_blank" rel="noreferer">sciencemediacentre.org/first-findings- ...</a> 
 
 
-<a href="https://www.sciencemediacentre.org/expert-reaction-to-preprint-from-the-clock-study-looking-at-long-covid-in-children/" target="_blank" rel="noreferer">https://www.sciencemediacentre.org/expert-reaction ...</a> 
+<a href="https://www.sciencemediacentre.org/expert-reaction-to-preprint-from-the-clock-study-looking-at-long-covid-in-children/" target="_blank" rel="noreferer">sciencemediacentre.org/expert-reaction ...</a> 
 
 
-<a href="https://www.ft.com/thread-content/31c30156-e446-469a-86d6-a1b93ccf91a0" target="_blank" rel="noreferer">https://www.ft.com/thread-content/31c30156-e446-469a-86d6 ...</a> 
+<a href="https://www.ft.com/thread-content/31c30156-e446-469a-86d6-a1b93ccf91a0" target="_blank" rel="noreferer">ft.com/thread-content/31c30156-e446-469a-86d6 ...</a> 
   @mroliverbarnes @FT @AlabiOso where is the preprint to review? </div> 
 <a href="/twitter/erictopol/images/E-M_DYZVUAY2kay.jpg"  ><img src="/twitter/erictopol/images/E-M_DYZVUAY2kay.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1433063291979399171" target="_blank" rel="noreferer">06:44 UCT-7</a> 
@@ -30,7 +30,7 @@ This doesn't look good
 <div class="content"> 
 From the preprint and its supplementary material (thanks to @FanchetAldo for the link)
 
-<a href="https://assets.researchsquare.com/files/rs-798316/v1/8322114d-03ed-42ad-8fdb-883a05a64643.pdf?c=1628633145" target="_blank" rel="noreferer">https://assets.researchsquare.com/files/rs-798316/ ...</a> 
+<a href="https://assets.researchsquare.com/files/rs-798316/v1/8322114d-03ed-42ad-8fdb-883a05a64643.pdf?c=1628633145" target="_blank" rel="noreferer">assets.researchsquare.com/files/rs-798316/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-NDEFBVgAMAZlN.png"  ><img src="/twitter/erictopol/images/E-NDEFBVgAMAZlN.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-NDG1IVIAEUOb1.jpg"  ><img src="/twitter/erictopol/images/E-NDG1IVIAEUOb1.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -65,7 +65,7 @@ I don't think so. But while they are happening in select countries they seem lik
 
 Discussion by @DLeonhardt 
 
-<a href="https://twitter.com/DLeonhardt/status/1433051835913355266" target="_blank" rel="noreferer">https://twitter.com/DLeonhardt/status/143305183591 ...</a> 
+<a href="https://twitter.com/DLeonhardt/status/1433051835913355266" target="_blank" rel="noreferer">twitter.com/DLeonhardt/status/143305183591 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-NM9N-VkAMgJqk.jpg"  ><img src="/twitter/erictopol/images/E-NM9N-VkAMgJqk.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -75,18 +75,19 @@ Discussion by @DLeonhardt
 <div class="content"> 
 A soundbite that went viral but wasn't accurate
 
-https://t.co/EbeoYAg0Su @AP</div> 
+<a href="https://apnews.com/article/health-pandemics-coronavirus-pandemic-9845c7257300ff6546c20489e642a1ea" target="_blank" rel="noreferer">apnews.com/article/health-pandemics-corona ...</a> 
+ @AP</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 A repurposed drug JAK blocker, used for rheumatoid arthritis, discovered to have potential for severe Covid via #AI, in a randomized trial, has a very significant reduction of mortality (more than dexamethasone or IL-6 blockade) and excellent safety
 
-<a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00331-3/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanres/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00331-3/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanres/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-NdI_sUUAELupq.jpg"  ><img src="/twitter/erictopol/images/E-NdI_sUUAELupq.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Accompanying editorial
 
-<a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00358-1/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lanres/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00358-1/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lanres/article/ ...</a> 
 
 
 Yes, it's the 1st one.
@@ -98,7 +99,8 @@ And it gets little attention even though it's a big sign of progress </div>
 <div class="content"> 
 Great thread by @WesElyMD with context for why this is such an important finding 
 
-https://t.co/G5Hdycc6cm</div> 
+<a href="https://twitter.com/WesElyMD/status/1433084748835049478" target="_blank" rel="noreferer">twitter.com/WesElyMD/status/14330847488350 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -112,14 +114,6 @@ Mu (B.1.621), the recent @WHO designated variant of interest, doesn't look like 
 <a href="/twitter/erictopol/images/E-N6X_YVEAAJ2DL.jpg"  ><img src="/twitter/erictopol/images/E-N6X_YVEAAJ2DL.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-N6ZOuUcAEVhsq.jpg"  ><img src="/twitter/erictopol/images/E-N6ZOuUcAEVhsq.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-N6asGVcAUG_YW.jpg"  ><img src="/twitter/erictopol/images/E-N6asGVcAUG_YW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1433127686050701315" target="_blank" rel="noreferer">11:00 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @BillBramhall: Cartoon <a href="https://twitter.com/BillBramhall/status/1433127027217997824" target="_blank" rel="noreferer">https://twitter.com/BillBramhall/status/1433127027 ...</a> 
-</div> 
-<a href="/twitter/erictopol/images/E-N9bkaWYAQtDjT.jpg"  ><img src="/twitter/erictopol/images/E-N9bkaWYAQtDjT.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1433151366520721412" target="_blank" rel="noreferer">12:34 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -127,7 +121,7 @@ Viral load, Delta infections, vaccinations and boosters
 
 A new preprint suggests that viral load (by PCR Ct) of Pfizer breakthrough infections in initially much reduced (15-fold) but increases significantly by 3 months, and is reduced after a booster shot 
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.08.29.21262798v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.29 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.29.21262798v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.29 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-OSwykUYAI9MgN.png"  ><img src="/twitter/erictopol/images/E-OSwykUYAI9MgN.png" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -163,7 +157,7 @@ New @TheLancet
 
 The heightened immune response to longer spacing @AstraZeneca 1st -&gt; 2nd vaccine doses and the response 3rd booster dose, with high neutralizing antibodies and T cells
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01699-8/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01699-8/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-PD2HAUUAA1nBo.jpg"  ><img src="/twitter/erictopol/images/E-PD2HAUUAA1nBo.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-PD4APVcAcPjcJ.jpg"  ><img src="/twitter/erictopol/images/E-PD4APVcAcPjcJ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -180,7 +174,8 @@ The breakthrough attack rate went from pre-Delta 0.25/100,000 to Delta 5.7/100,0
 <a href="/twitter/erictopol/images/E-OjlpnWUAg6z5_.jpg"  ><img src="/twitter/erictopol/images/E-OjlpnWUAg6z5_.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Here's the link to the report
 
-https://t.co/nAEAmTTw03
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2112981?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2112981 ...</a> 
+
 
 which aligns to what I have been highlighting w/r to reduced mRNA vaccine effectiveness in the Delta wave vs *symptomatic* disease</div> 
 <hr><div class="thread-content"> 
@@ -193,7 +188,8 @@ It is NOT about protection from hospitalization or deaths, which is still well p
 <div class="content"> 
 Other studies in the past week with consistent findings of decline in protection vs symptomatic infections
 
-https://t.co/g9zIKkzLNq</div> 
+<a href="https://twitter.com/EricTopol/status/1431623165495496719" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1431623165495 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -202,8 +198,8 @@ https://t.co/g9zIKkzLNq</div>
 <div class="content"> 
 The kidneys are not getting enough attention in #LongCovid. A new, large study of ~90,000 people w/ Covid @DeptVetAffairs and controls
 
-<a href="https://jasn.asnjournals.org/content/early/2021/08/25/ASN.2021060734" target="_blank" rel="noreferer">https://jasn.asnjournals.org/content/early/2021/08 ...</a> 
- by @zalaly and colleagues @ASNKidney <a href="https://www.nytimes.com/2021/09/01/health/covid-kidney-damage.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/09/01/health/covid-ki ...</a> 
+<a href="https://jasn.asnjournals.org/content/early/2021/08/25/ASN.2021060734" target="_blank" rel="noreferer">jasn.asnjournals.org/content/early/2021/08 ...</a> 
+ by @zalaly and colleagues @ASNKidney <a href="https://www.nytimes.com/2021/09/01/health/covid-kidney-damage.html" target="_blank" rel="noreferer">nytimes.com/2021/09/01/health/covid-ki ...</a> 
  by @PamBelluck </div> 
 <a href="/twitter/erictopol/images/E-QJB2yVkAEQHBR.jpg"  ><img src="/twitter/erictopol/images/E-QJB2yVkAEQHBR.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-QJW_yVUAEV0kD.jpg"  ><img src="/twitter/erictopol/images/E-QJW_yVUAEV0kD.jpg" alt="Twitter image" ></img></a></div> 
 

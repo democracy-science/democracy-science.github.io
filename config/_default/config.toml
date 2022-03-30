@@ -24,5 +24,3 @@ pygmentsUseClasses = true
     tabWidth = 2
   [markup.goldmark.renderer]
     unsafe= true
-
-# copy menu data from howto? 

@@ -21,14 +21,14 @@ Proxy for vax efficacy?
 
 "A neut [neutralizing antibody] level that keeps us safe from Alpha won’t necessarily thwart Beta or Delta to the same extent. (There’s at least good news on T cells, which are much harder to stump with mutations)"
 
-<a href="https://www.theatlantic.com/science/archive/2021/07/correlates-of-protection-vaccine-immunity/619508/" target="_blank" rel="noreferer">https://www.theatlantic.com/science/archive/2021/0 ...</a> 
+<a href="https://www.theatlantic.com/science/archive/2021/07/correlates-of-protection-vaccine-immunity/619508/" target="_blank" rel="noreferer">theatlantic.com/science/archive/2021/0 ...</a> 
  by @KatherineJWu </div> 
 <a href="/twitter/erictopol/images/E606Z_XVIAU8uVY.jpg"  ><img src="/twitter/erictopol/images/E606Z_XVIAU8uVY.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Deaths and Delta
 
-Like hospitalizations in the US, they are up &gt;40% in the past 2 weeks, while cases are up 200% <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html?name=styln-coronavirus-live&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&variant=1_Show&is_new=false" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/us/covid- ...</a> 
+Like hospitalizations in the US, they are up &gt;40% in the past 2 weeks, while cases are up 200% <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html?name=styln-coronavirus-live&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&variant=1_Show&is_new=false" target="_blank" rel="noreferer">nytimes.com/interactive/2021/us/covid- ...</a> 
 
 
 The relative values don't convey the remarkable vaccine impact here and in UK, Portugal w/ higher, longer Delta hit 👇 </div> 
@@ -40,13 +40,6 @@ We're several weeks behind those countries. This log plot showing replication of
 <a href="/twitter/erictopol/images/E61Au7RVgAAWK73.jpg"  ><img src="/twitter/erictopol/images/E61Au7RVgAAWK73.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1417872882412056582" target="_blank" rel="noreferer">08:43 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DLeonhardt: The contrast between 1) the public statements of @US_FDA leaders about the Covid vaccines and 2) the agency's actions on th…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417875825060311040" target="_blank" rel="noreferer">08:55 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -56,17 +49,11 @@ These states are already at &gt; 50% of their pandemic peak for hospitalizations
 <a href="/twitter/erictopol/images/E61OMI1VgAIB3BS.jpg"  ><img src="/twitter/erictopol/images/E61OMI1VgAIB3BS.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1417882807737622535" target="_blank" rel="noreferer">09:22 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @DrTomFrieden: I’m hearing from vaccinated people who are frightened about breakthrough cases, the Delta variant, and new waves of Covid…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417888702735413251" target="_blank" rel="noreferer">09:46 UCT-7</a> 
 </div> 
 <div class="content"> 
-The #1 strategy to confront the #1 American public health issue. The FDA is a no show. https://t.co/hx7WM0qgax</div> 
+The #1 strategy to confront the #1 American public health issue. The FDA is a no show. <a href="https://twitter.com/DLeonhardt/status/1417873426069573638" target="_blank" rel="noreferer">twitter.com/DLeonhardt/status/141787342606 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -74,7 +61,8 @@ On "breakthrough" infections post-vaccination in India.
 
  ~5% of &gt;28,000 healthcare workers with mild symptoms, 0.29% led to hospitalization, no deaths; they were 83% suppressed by AZ and Bharat Biotech vaccines
 
-https://t.co/YZKLAmxZMZ</div> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889352" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417920130030333954" target="_blank" rel="noreferer">11:51 UCT-7</a> 
 </div> 
@@ -88,7 +76,8 @@ This is an encouraging finding from a well regarded group of researchers. The la
 <div class="content"> 
 Good thread on some of the data we've been hearing about (but not seeing) on the potential of "waning immunity" for people who got vaccinated early in the Israeli campaign. They also happened to be the most vulnerable. 
 
-Still many uncertainties. https://t.co/ME5yPVMwhC</div> 
+Still many uncertainties. <a href="https://twitter.com/Nadav_Eyal/status/1417923435737534467" target="_blank" rel="noreferer">twitter.com/Nadav_Eyal/status/141792343573 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -97,7 +86,7 @@ Still many uncertainties. https://t.co/ME5yPVMwhC</div>
 <div class="content"> 
 Household transmission of covid: tracing camp kids back to home shows their ability to transmit, less for age 7-17 than older, and mitigated by masks and distancing
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2031915?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2031915 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2031915?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2031915 ...</a> 
  @NEJM today by @CDCgov </div> 
 <a href="/twitter/erictopol/images/E62vXW1VUAITeMi.jpg"  ><img src="/twitter/erictopol/images/E62vXW1VUAITeMi.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E62vZAgUcAMCLaq.jpg"  ><img src="/twitter/erictopol/images/E62vZAgUcAMCLaq.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -105,7 +94,7 @@ Household transmission of covid: tracing camp kids back to home shows their abil
 <a href="https://twitter.com/erictopol/status/1417987504628584454" target="_blank" rel="noreferer">16:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-This advisory should be issued well beyond New Orleans. Like the US. <a href="https://www.ft.com/content/0494876b-6be8-4d42-8d1c-d4be8a955caa" target="_blank" rel="noreferer">https://www.ft.com/content/0494876b-6be8-4d42-8d1c ...</a> 
+This advisory should be issued well beyond New Orleans. Like the US. <a href="https://www.ft.com/content/0494876b-6be8-4d42-8d1c-d4be8a955caa" target="_blank" rel="noreferer">ft.com/content/0494876b-6be8-4d42-8d1c ...</a> 
  @FT 
 
 Had to edit "The Delta variant is alive and very much well in..." </div> 
@@ -122,7 +111,7 @@ Vaccine protection against the Delta variant from &gt;4,000 cases + comparison w
 <a href="/twitter/erictopol/images/E62OE-4UYAASgA4.jpg"  ><img src="/twitter/erictopol/images/E62OE-4UYAASgA4.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E62PRckVIAAtPEq.jpg"  ><img src="/twitter/erictopol/images/E62PRckVIAAtPEq.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 link and key figure
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2108891?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa210889 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2108891?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210889 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E62YMatVEAA_G4C.jpg"  ><img src="/twitter/erictopol/images/E62YMatVEAA_G4C.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1418013748531367938" target="_blank" rel="noreferer">18:03 UCT-7</a> 
@@ -132,7 +121,7 @@ Credit the UK's genome sequencing and national health data, @PHE_uk for these im
 
 (In contrast with the US lack of adequate genomic surveillance and deficient Delta @CDCgov tracking
 
-<a href="https://www.bloomberg.com/news/features/2021-07-21/us-isn-t-prepared-to-track-covid-variants-as-delta-mutation-spreads?cmpid=BBD072121_BIZ&utm_medium=email&utm_source=newsletter&utm_term=210721&utm_campaign=bloombergdaily" target="_blank" rel="noreferer">https://www.bloomberg.com/news/features/2021-07-21 ...</a> 
+<a href="https://www.bloomberg.com/news/features/2021-07-21/us-isn-t-prepared-to-track-covid-variants-as-delta-mutation-spreads?cmpid=BBD072121_BIZ&utm_medium=email&utm_source=newsletter&utm_term=210721&utm_campaign=bloombergdaily" target="_blank" rel="noreferer">bloomberg.com/news/features/2021-07-21 ...</a> 
  by @CynthiaLKoons </div> 
 <a href="/twitter/erictopol/images/E63L9nMUYAIIm_4.jpg"  ><img src="/twitter/erictopol/images/E63L9nMUYAIIm_4.jpg" alt="Twitter image" ></img></a></div> 
 

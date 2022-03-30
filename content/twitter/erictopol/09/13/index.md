@@ -10,7 +10,8 @@ category = "Twitter"
 <div class="content"> 
 Just published @Nature 
 
-The pivotal mechanism of #SARSCoV2 induction of cellular senescence (VIS) for severe lung disease, cytokine storm, thrombosis https://t.co/l2ivZvIOhN "a central pathogenic principal and valid therapeutic target"</div> 
+The pivotal mechanism of #SARSCoV2 induction of cellular senescence (VIS) for severe lung disease, cytokine storm, thrombosis <a href="https://www.nature.com/articles/s41586-021-03995-1" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03995-1</a> 
+ "a central pathogenic principal and valid therapeutic target"</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -25,7 +26,8 @@ It is behind the leaders by 20 per cent points. And it's one of the reasons its 
 <div class="content"> 
 BTW the US is 39th on the list of fully vaccinated
 
-https://t.co/CtQtGEAl0S</div> 
+<a href="https://ig.ft.com/coronavirus-vaccine-tracker/?areas=gbr&areas=isr&areas=usa&areas=eue&areas=can&areas=chn&areas=ind&cumulative=1&doses=total&populationAdjusted=1" target="_blank" rel="noreferer">ig.ft.com/coronavirus-vaccine-tracker/?are ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -42,7 +44,7 @@ Without such data, it'll be interesting to see how the US can make intelligent d
 <div class="content"> 
 With the data, there wouldn't be any guessing games about whether boosters are needed for the J&amp;J vaccine. We would know that already
 
-<a href="https://www.nytimes.com/2021/09/13/briefing/johnson-and-johnson-boosters-explainer.html?searchResultPosition=2" target="_blank" rel="noreferer">https://www.nytimes.com/2021/09/13/briefing/johnso ...</a> 
+<a href="https://www.nytimes.com/2021/09/13/briefing/johnson-and-johnson-boosters-explainer.html?searchResultPosition=2" target="_blank" rel="noreferer">nytimes.com/2021/09/13/briefing/johnso ...</a> 
  by @DLeonhardt </div> 
 <a href="/twitter/erictopol/images/E_KzucSUcAM--uM.jpg"  ><img src="/twitter/erictopol/images/E_KzucSUcAM--uM.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -59,7 +61,7 @@ Low tech surgery :-)
 <a href="https://twitter.com/erictopol/status/1437415563228180482" target="_blank" rel="noreferer">06:59 UCT-7</a> 
 </div> 
 <div class="content"> 
-A new @TheLancet viewpoint by an international panel on boosters: "To date, none of these studies has provided evidence of substantially declining protection against severe disease." <a href="https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb-assets/Lancet/pdfs/S0140673621020468-1631529799470.pdf" target="_blank" rel="noreferer">https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb ...</a> 
+A new @TheLancet viewpoint by an international panel on boosters: "To date, none of these studies has provided evidence of substantially declining protection against severe disease." <a href="https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb-assets/Lancet/pdfs/S0140673621020468-1631529799470.pdf" target="_blank" rel="noreferer">els-jbs-prod-cdn.jbs.elsevierhealth.com/pb ...</a> 
  But that'll change w/ this week's @NEJM Israel report, Pfizer💉, age &gt;60 </div> 
 <a href="/twitter/erictopol/images/E_K41FjVcAQAVIG.jpg"  ><img src="/twitter/erictopol/images/E_K41FjVcAQAVIG.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -68,20 +70,21 @@ Analysis of all covid deaths in England from Jan-July 2021 (total 51,281) shows 
 
 In contrast, 37.4% were among unvaccinated
 
-<a href="https://www.ft.com/thread-content/03c21dd0-f5cc-45f6-a10f-44ddd63a75af" target="_blank" rel="noreferer">https://www.ft.com/thread-content/03c21dd0-f5cc-45f6-a10f ...</a> 
+<a href="https://www.ft.com/thread-content/03c21dd0-f5cc-45f6-a10f-44ddd63a75af" target="_blank" rel="noreferer">ft.com/thread-content/03c21dd0-f5cc-45f6-a10f ...</a> 
  by @valentinaromei @FT </div> 
 <a href="/twitter/erictopol/images/E_KuXI2VEAQOf1d.jpg"  ><img src="/twitter/erictopol/images/E_KuXI2VEAQOf1d.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437421520268103680" target="_blank" rel="noreferer">07:22 UCT-7</a> 
 </div> 
 <div class="content"> 
-Here's the @ONS report on deaths by vaccination status https://t.co/pJlBeZwhVx</div> 
+Here's the @ONS report on deaths by vaccination status <a href="https://twitter.com/ons/status/1437332898110230535?s=12" target="_blank" rel="noreferer">twitter.com/ons/status/1437332898110230535 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437436770426114057" target="_blank" rel="noreferer">08:23 UCT-7</a> 
 </div> 
 <div class="content"> 
-A French nursing home outbreak involving 14 fully vaccinated residents with the Alpha (B.1.1.7) variant <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783985" target="_blank" rel="noreferer">https://jamanetwork.com/journals/jamanetworkopen/f ...</a> 
+A French nursing home outbreak involving 14 fully vaccinated residents with the Alpha (B.1.1.7) variant <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783985" target="_blank" rel="noreferer">jamanetwork.com/journals/jamanetworkopen/f ...</a> 
  @JAMANetworkOpen </div> 
 <a href="/twitter/erictopol/images/E_LLyvDVgAEoASt.jpg"  ><img src="/twitter/erictopol/images/E_LLyvDVgAEoASt.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -102,16 +105,9 @@ And declined further yesterday </div>
 <div class="content"> 
 Analysis of over 2 million #SARSCoV2 genomes to determine which mutations drive contagiousness 
 
-"Highlighting the key role of non-S (spike protein) mutations, particularly in N, ORF1b, and ORF1a, in promoting increased growth rate." <a href="https://www.medrxiv.org/content/10.1101/2021.09.07.21263228v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.09.07 ...</a> 
+"Highlighting the key role of non-S (spike protein) mutations, particularly in N, ORF1b, and ORF1a, in promoting increased growth rate." <a href="https://www.medrxiv.org/content/10.1101/2021.09.07.21263228v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.07 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_MDvddVQAADJ7E.jpg"  ><img src="/twitter/erictopol/images/E_MDvddVQAADJ7E.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1437512408726061062" target="_blank" rel="noreferer">13:24 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @MCSlab_uiuc: A 3rd shot may be needed for the older population since it is not expected that we will expand vaccine coverage to levels…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437516688916840449" target="_blank" rel="noreferer">13:41 UCT-7</a> 
@@ -119,7 +115,7 @@ RT @MCSlab_uiuc: A 3rd shot may be needed for the older population since it is n
 <div class="content"> 
 Today down to &lt;96,000 
 
-A 3-day streak of fewer hospitalizations; need to keep it going👍  <a href="https://twitter.com/EricTopol/status/1436840979462459395" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1436840979462 ...</a> 
+A 3-day streak of fewer hospitalizations; need to keep it going👍  <a href="https://twitter.com/EricTopol/status/1436840979462459395" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1436840979462 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E_MUXpRVgAEwACW.jpg"  ><img src="/twitter/erictopol/images/E_MUXpRVgAEwACW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -131,7 +127,7 @@ What proportion of Americans have some Covid-19 immunity (natural infection or v
 
 62%, with marked variability by age groups
 
-<a href="https://www.acpjournals.org/doi/pdf/10.7326/M21-2721" target="_blank" rel="noreferer">https://www.acpjournals.org/doi/pdf/10.7326/M21-27 ...</a> 
+<a href="https://www.acpjournals.org/doi/pdf/10.7326/M21-2721" target="_blank" rel="noreferer">acpjournals.org/doi/pdf/10.7326/M21-27 ...</a> 
 
 
 @AnnalsofIM by @Alison_Galvani @YaleSPH and colleagues </div> 
@@ -141,7 +137,7 @@ What proportion of Americans have some Covid-19 immunity (natural infection or v
 <a href="https://twitter.com/erictopol/status/1437540952072081411" target="_blank" rel="noreferer">15:17 UCT-7</a> 
 </div> 
 <div class="content"> 
-Israel has the *only* data for whether a 3rd shot can restore vaccine effectiveness (VE). This is how today's @TheLancet viewpoint disses that data and negates 3 CDC reports last week that VE vs hospitalizations falls for age &gt; 65 🧵<a href="https://twitter.com/EricTopol/status/1437415563228180482" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1437415563228 ...</a> 
+Israel has the *only* data for whether a 3rd shot can restore vaccine effectiveness (VE). This is how today's @TheLancet viewpoint disses that data and negates 3 CDC reports last week that VE vs hospitalizations falls for age &gt; 65 🧵<a href="https://twitter.com/EricTopol/status/1437415563228180482" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1437415563228 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_MrWGqVIAY2269.jpg"  ><img src="/twitter/erictopol/images/E_MrWGqVIAY2269.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -151,7 +147,7 @@ Israel has the *only* data for whether a 3rd shot can restore vaccine effectiven
 <div class="content"> 
 Pathetic infighting inside the @US_FDA and @WhiteHouse Administration about boosters is the last thing we need right now
 
-<a href="https://www.ft.com/content/af8da7d4-43ea-41d6-90ee-f959b3675cc5" target="_blank" rel="noreferer">https://www.ft.com/content/af8da7d4-43ea-41d6-90ee ...</a> 
+<a href="https://www.ft.com/content/af8da7d4-43ea-41d6-90ee-f959b3675cc5" target="_blank" rel="noreferer">ft.com/content/af8da7d4-43ea-41d6-90ee ...</a> 
  @kiranstacey 
 
 Note FDA disclaimer
@@ -168,7 +164,7 @@ The duration of the restored VE can be debated, but likely several months, at mi
 <hr><div class="thread-content"> 
 It's not the "general population" but there are over 70 million Americans age ≥ 60. They should not be sitting vulnerable while infighting takes place /3
 
-<a href="https://www.nytimes.com/2021/09/13/health/fda-coronavirus-booster-shots.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/09/13/health/fda-coro ...</a> 
+<a href="https://www.nytimes.com/2021/09/13/health/fda-coronavirus-booster-shots.html" target="_blank" rel="noreferer">nytimes.com/2021/09/13/health/fda-coro ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_NdhnMVQAMSQwn.jpg"  ><img src="/twitter/erictopol/images/E_NdhnMVQAMSQwn.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The need for 3rd shots for age &lt;60 or for Moderna's vaccine are unresolved at this time.
@@ -180,7 +176,7 @@ Frontline health care workers, who are short-staffed, and at increased risk for 
 <a href="https://twitter.com/erictopol/status/1437617018782449668" target="_blank" rel="noreferer">20:19 UCT-7</a> 
 </div> 
 <div class="content"> 
-This is not about global equity, which the Lancet essay was clearly advancing.  It's not either or. There are 76 million vaccine doses distributed in the US, not given,  that are not going to be sent OUS.  <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total" target="_blank" rel="noreferer">https://covid.cdc.gov/covid-data-tracker/#vaccinat ...</a> 
+This is not about global equity, which the Lancet essay was clearly advancing.  It's not either or. There are 76 million vaccine doses distributed in the US, not given,  that are not going to be sent OUS.  <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total" target="_blank" rel="noreferer">covid.cdc.gov/covid-data-tracker/#vaccinat ...</a> 
 
 
 and well over 15 million have already been wasted </div> 

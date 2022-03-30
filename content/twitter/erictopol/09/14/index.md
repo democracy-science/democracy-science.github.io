@@ -5,7 +5,7 @@ category = "Twitter"
 +++
 <div class="thread"> 
 <div class="thread-content"> 
-This is not about global equity, which the Lancet essay was clearly advancing.  It's not either or. There are 76 million vaccine doses distributed in the US, not given,  that are not going to be sent OUS.  <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total" target="_blank" rel="noreferer">https://covid.cdc.gov/covid-data-tracker/#vaccinat ...</a> 
+This is not about global equity, which the Lancet essay was clearly advancing.  It's not either or. There are 76 million vaccine doses distributed in the US, not given,  that are not going to be sent OUS.  <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total" target="_blank" rel="noreferer">covid.cdc.gov/covid-data-tracker/#vaccinat ...</a> 
 
 
 and well over 15 million have already been wasted </div> 
@@ -24,24 +24,9 @@ The UK's JCVI has reviewed all the data on this matter and is going forward with
 <div class="content"> 
 Deaths in the US 4th wave far exceeded expectations and the rates of peer countries with high vaccination rates. Quantifying the preventable lost lives and where
 
-<a href="https://www.nytimes.com/interactive/2021/09/14/opinion/states-undervaccination-deaths.html" target="_blank" rel="noreferer">https://www.nytimes.com/interactive/2021/09/14/opi ...</a> 
+<a href="https://www.nytimes.com/interactive/2021/09/14/opinion/states-undervaccination-deaths.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/09/14/opi ...</a> 
  @nytopinion @nytgraphics @2plus2make5 @jalinegerardin @Nat_Lash </div> 
 <a href="/twitter/erictopol/images/E_P6pllVEAkTedT.jpg"  ><img src="/twitter/erictopol/images/E_P6pllVEAkTedT.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1437777227551236102" target="_blank" rel="noreferer">06:56 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ashishkjha: I agree with this thread by @EricTopol
-
- 
-
-Some are arguing that there is no evidence for a 3rd short
-
-
-
-This is not correct. T…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437787150918037505" target="_blank" rel="noreferer">07:35 UCT-7</a> 
@@ -51,7 +36,7 @@ Just published @ScienceMagazine
 
 The durable impact of low dose @moderna_tx vaccine on memory T cells, how it compares w/ natural immunity, &amp; biologic relevance of cross-reactive T cells
 
-<a href="https://www.science.org/doi/10.1126/science.abj9853" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/science.abj985 ...</a> 
+<a href="https://www.science.org/doi/10.1126/science.abj9853" target="_blank" rel="noreferer">science.org/doi/10.1126/science.abj985 ...</a> 
 
 
 by @jmateust @profshanecrotty @Dani6020 and colleagues @ljiresearch </div> 
@@ -65,16 +50,9 @@ New @SciImmunology
 
 Discovery of CD8+ T cells in the tonsils lymphoid tissue with #SARSCoV2 specificity
 
-<a href="https://www.science.org/doi/10.1126/sciimmunol.abk0894" target="_blank" rel="noreferer">https://www.science.org/doi/10.1126/sciimmunol.abk ...</a> 
+<a href="https://www.science.org/doi/10.1126/sciimmunol.abk0894" target="_blank" rel="noreferer">science.org/doi/10.1126/sciimmunol.abk ...</a> 
   Not yet known if they might provide some protection from Covid-19 in people who have never been exposed </div> 
 <a href="/twitter/erictopol/images/E_QdxwlVUAAOckG.jpg"  ><img src="/twitter/erictopol/images/E_QdxwlVUAAOckG.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1437817165894148097" target="_blank" rel="noreferer">09:35 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @profshanecrotty: Thanks! Longer explanation here: https://t.co/LVYzrShXsR</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437822491477430274" target="_blank" rel="noreferer">09:56 UCT-7</a> 
@@ -82,7 +60,7 @@ RT @profshanecrotty: Thanks! Longer explanation here: https://t.co/LVYzrShXsR</d
 <div class="content"> 
 What the Delta wave did in New York City, a familiar pattern
 
-<a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page#daily" target="_blank" rel="noreferer">https://www1.nyc.gov/site/doh/covid/covid-19-data. ...</a> 
+<a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page#daily" target="_blank" rel="noreferer">www1.nyc.gov/site/doh/covid/covid-19-data. ...</a> 
 
 
 Beginning in July cases went up for both unvaccinated and vaccinated, but MUCH more in the former
@@ -107,40 +85,16 @@ Congratulations to my friend @kaifulee on the birthday of his new book #AI2041
 <div class="content"> 
 If you want to know about #SARSCoV2, vaccines, and where we are headed, you talk to @florian_krammer. So we did
 
-<a href="https://www.medscape.com/viewarticle/958292" target="_blank" rel="noreferer">https://www.medscape.com/viewarticle/958292</a> 
+<a href="https://www.medscape.com/viewarticle/958292" target="_blank" rel="noreferer">medscape.com/viewarticle/958292</a> 
  w/ @cuttingforstone @Medscape podcast
 
 A sample of his acumen from the transcript </div> 
 <a href="/twitter/erictopol/images/E_Q98dFVIAAwlhX.png"  ><img src="/twitter/erictopol/images/E_Q98dFVIAAwlhX.png" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1437847908930363394" target="_blank" rel="noreferer">11:37 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @segal_eran: New severely ill Covid-19 patients in Israel in the past week, per 100,000 people:
-
-
-
-Vaccinated with 3 doses: 0.28
-
-Vaccinate…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1437851640053133317" target="_blank" rel="noreferer">11:51 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @JoyHenningsenMD: 📣This timely discussion btwn ⁦@EricTopol⁩ &amp; ⁦@florian_krammer⁩ is a MUST-read 💯 and covers:
-
-
-
-▪️the #DeltaVariant traje…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Does abdominal #obesity reduce the immune response to @BioNTech_Group /@Pfizer's  vaccine?
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.10.21262710v1" target="_blank" rel="noreferer">https://www.medrxiv.org/thread-content/10.1101/2021.09.10 ...</a> 
+<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.10.21262710v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.09.10 ...</a> 
  Looks that way for people without prior Covid. As assessed by waist circumference ✓ (far better than BMI) serially, including after 3 months </div> 
 <a href="/twitter/erictopol/images/E_ROZ9WVkAAkLhl.jpg"  ><img src="/twitter/erictopol/images/E_ROZ9WVkAAkLhl.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437883016458604546" target="_blank" rel="noreferer">13:56 UCT-7</a> 
@@ -157,14 +111,14 @@ Key summary graphic
 
 Israeli data for &gt;1 million people, age ≥60 for unvaccinated, vaccinated 2-doses, and + booster: cases, severe disease, and deaths 
 
-from <a href="https://www.ft.com/content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" target="_blank" rel="noreferer">https://www.ft.com/content/cf83b3a1-fe06-4c9f-999c ...</a> 
+from <a href="https://www.ft.com/content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" target="_blank" rel="noreferer">ft.com/content/cf83b3a1-fe06-4c9f-999c ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_RvYB5UcAEMhb2.jpg"  ><img src="/twitter/erictopol/images/E_RvYB5UcAEMhb2.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
 New data on waning immunity justifying 3rd shot (boosters) from @PHE_uk today, reviewed and graphics @FT
 
-<a href="https://www.ft.com/thread-content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" target="_blank" rel="noreferer">https://www.ft.com/thread-content/cf83b3a1-fe06-4c9f-999c ...</a> 
+<a href="https://www.ft.com/thread-content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" target="_blank" rel="noreferer">ft.com/thread-content/cf83b3a1-fe06-4c9f-999c ...</a> 
 
 
 1. Astra Zeneca (red)  and Pfizer (blue) 💉waning of protection vs hospitalization, pronounced in age 65+
@@ -185,7 +139,7 @@ These updated data represent a marked contrast with earlier @PHE_uk reports of 8
 <a href="https://twitter.com/erictopol/status/1437912294629855232" target="_blank" rel="noreferer">15:53 UCT-7</a> 
 </div> 
 <div class="content"> 
-More, new reassuring data about mRNA vaccine (@BioNTech_Group) neutralization vs Delta plus, Lambda, and other variants of interest 👍<a href="https://www.biorxiv.org/content/10.1101/2021.09.13.460163v1" target="_blank" rel="noreferer">https://www.biorxiv.org/content/10.1101/2021.09.13 ...</a> 
+More, new reassuring data about mRNA vaccine (@BioNTech_Group) neutralization vs Delta plus, Lambda, and other variants of interest 👍<a href="https://www.biorxiv.org/content/10.1101/2021.09.13.460163v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.09.13 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_R9ZPtVkAAUyCS.jpg"  ><img src="/twitter/erictopol/images/E_R9ZPtVkAAUyCS.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_R9bh7VEAEJKhf.jpg"  ><img src="/twitter/erictopol/images/E_R9bh7VEAEJKhf.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -195,17 +149,17 @@ More, new reassuring data about mRNA vaccine (@BioNTech_Group) neutralization vs
 <div class="content"> 
 A randomized trial of daily antigen testing in &gt; 200 secondary schools in England
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01908-5/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01908-5/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
 
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02092-4/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02092-4/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  
 
 The tests had 99.93% specificity. The findings "point the way to policies that support continued in-person learning for contacts of positive cases" </div> 
 <a href="/twitter/erictopol/images/E_SXnHGVgAEv8em.jpg"  ><img src="/twitter/erictopol/images/E_SXnHGVgAEv8em.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_SYS_EVUAEMznr.jpg"  ><img src="/twitter/erictopol/images/E_SYS_EVUAEMznr.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-What an outstanding ★ feature on the long history of mRNA vaccines and their future potential, by @ElieDolgin @Nature <a href="https://www.nature.com/articles/d41586-021-02483-w" target="_blank" rel="noreferer">https://www.nature.com/articles/d41586-021-02483-w</a> 
+What an outstanding ★ feature on the long history of mRNA vaccines and their future potential, by @ElieDolgin @Nature <a href="https://www.nature.com/articles/d41586-021-02483-w" target="_blank" rel="noreferer">nature.com/articles/d41586-021-02483-w</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_SCxvzUcAI0mok.jpg"  ><img src="/twitter/erictopol/images/E_SCxvzUcAI0mok.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_SCzLEVkAAeO4b.jpg"  ><img src="/twitter/erictopol/images/E_SCzLEVkAAeO4b.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E_SC0kQVQAIZzR9.jpg"  ><img src="/twitter/erictopol/images/E_SC0kQVQAIZzR9.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437943780091432960" target="_blank" rel="noreferer">17:58 UCT-7</a> 
@@ -232,7 +186,8 @@ She's a hero of mine, and a Nobel laureate in the future. </div>
 <div class="content"> 
 Preview of tomorrow
 
-https://t.co/BsL0FXUNuh</div> 
+<a href="https://twitter.com/EricTopol/status/1437896925961867265" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1437896925961 ...</a> 
+</div> 
 </div> 
 
 

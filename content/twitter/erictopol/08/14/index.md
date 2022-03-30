@@ -28,7 +28,7 @@ Why is Delta so much more infectious than Alpha?
 
 The P681R mutation is a key culprit, in this work that pinpoints its role by reverting it back to wild-type, showing 🦠 replication drops to less than Alpha's
 
-<a href="https://www.biorxiv.org/content/10.1101/2021.08.12.456173v1" target="_blank" rel="noreferer">https://www.biorxiv.org/content/10.1101/2021.08.12 ...</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2021.08.12.456173v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.08.12 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8w1jtzUYAAfj5L.jpg"  ><img src="/twitter/erictopol/images/E8w1jtzUYAAfj5L.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8w1lVIUYAEmy6P.jpg"  ><img src="/twitter/erictopol/images/E8w1lVIUYAEmy6P.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -40,7 +40,7 @@ New @MedCellPress
 
 Prior Measles-Mumps-Rubella (MMR) or Tetanus-Diptheria-Pertussis (Tdap) vaccination induces a T-cell response that overlaps with #SARSCoV2 and appears to offer some (~20-30%) protection from severe Covid-19
 
-<a href="https://www.cell.com/med/fulltext/S2666-6340(21)00289-0#relatedArticles" target="_blank" rel="noreferer">https://www.cell.com/med/fulltext/S2666-6340(21)00 ...</a> 
+<a href="https://www.cell.com/med/fulltext/S2666-6340(21)00289-0#relatedArticles" target="_blank" rel="noreferer">cell.com/med/fulltext/S2666-6340(21)00 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8w_VJTVoAY5OBj.jpg"  ><img src="/twitter/erictopol/images/E8w_VJTVoAY5OBj.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -48,8 +48,8 @@ Prior Measles-Mumps-Rubella (MMR) or Tetanus-Diptheria-Pertussis (Tdap) vaccinat
 <a href="https://twitter.com/erictopol/status/1426602227003658240" target="_blank" rel="noreferer">10:50 UCT-7</a> 
 </div> 
 <div class="content"> 
-Here's Vermont, the highest vaccination state (67% of total population), also closely tracks cases and hospitalizations by vaccination status, indicating just how challenging Delta is and the need to gear up even when vaxxed  <a href="https://vtdigger.org/2021/08/13/limited-breakthrough-stats-show-heightened-threat-of-delta-variant/" target="_blank" rel="noreferer">https://vtdigger.org/2021/08/13/limited-breakthrou ...</a> 
-  <a href="https://twitter.com/EricTopol/status/1426257815409086466" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1426257815409 ...</a> 
+Here's Vermont, the highest vaccination state (67% of total population), also closely tracks cases and hospitalizations by vaccination status, indicating just how challenging Delta is and the need to gear up even when vaxxed  <a href="https://vtdigger.org/2021/08/13/limited-breakthrough-stats-show-heightened-threat-of-delta-variant/" target="_blank" rel="noreferer">vtdigger.org/2021/08/13/limited-breakthrou ...</a> 
+  <a href="https://twitter.com/EricTopol/status/1426257815409086466" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1426257815409 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E8xOt9XUcAAKWQW.jpg"  ><img src="/twitter/erictopol/images/E8xOt9XUcAAKWQW.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8xOkIJVoAEak6l.jpg"  ><img src="/twitter/erictopol/images/E8xOkIJVoAEak6l.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -59,7 +59,8 @@ Here's Vermont, the highest vaccination state (67% of total population), also cl
 <div class="content"> 
 The US starts to develop a plan for boosters
 
-https://t.co/WjgG0ckB29 by @SharonLNYT 
+<a href="https://www.nytimes.com/2021/08/14/us/covid-vaccine-third-shot-booster.html" target="_blank" rel="noreferer">nytimes.com/2021/08/14/us/covid-vaccin ...</a> 
+ by @SharonLNYT 
 
 Not mentioned
 
@@ -78,20 +79,6 @@ New records set daily, cases &gt;25,000, hospitalizations &gt;16,000, 31.9% test
 <a href="/twitter/erictopol/images/E8xdOUoVcAYyJjf.jpg"  ><img src="/twitter/erictopol/images/E8xdOUoVcAYyJjf.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8xde5DVIAM7cS8.jpg"  ><img src="/twitter/erictopol/images/E8xde5DVIAM7cS8.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8xdgyfVkAA3Iqx.jpg"  ><img src="/twitter/erictopol/images/E8xdgyfVkAA3Iqx.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8xeA-kVkAA5u80.jpg"  ><img src="/twitter/erictopol/images/E8xeA-kVkAA5u80.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1426621766550519808" target="_blank" rel="noreferer">12:08 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @JenniferCabala: Berlin never stopped masking. Medical grade required everywhere indoors. Workplaces and schools test everyone 2-3 times…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1426622570346864641" target="_blank" rel="noreferer">12:11 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @albertwenger: @EricTopol Was just in Berlin: medical grade masks on all public transport, free testing everywhere, pervasive contact tr…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1426625309105737728" target="_blank" rel="noreferer">12:22 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -103,15 +90,6 @@ Mississippi is next at 49%, also now at a pandemic peak of hospitalizations, 110
 <a href="/twitter/erictopol/images/E8xjUYpUYAAjBKB.jpg"  ><img src="/twitter/erictopol/images/E8xjUYpUYAAjBKB.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
 <div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1426626583029190657" target="_blank" rel="noreferer">12:27 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @PeterHotez: June 23, 2021 Fox News:
-
-INGRAHAM That's the infamous Dr. Peter Hotez, Governor. They just can't let the pandemic go. At som…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1426672618388611075" target="_blank" rel="noreferer">15:30 UCT-7</a> 
 </div> 
 <div class="content"> 
@@ -119,7 +97,7 @@ The Lambda variant is going out like a lamb.
 
 (from the hard to find pandemic good news list)
 
-<a href="https://outbreak.info/situation-reports?pango=C.37" target="_blank" rel="noreferer">https://outbreak.info/situation-reports?pango=C.37</a> 
+<a href="https://outbreak.info/situation-reports?pango=C.37" target="_blank" rel="noreferer">outbreak.info/situation-reports?pango=C.37</a> 
 
 
 It can't compete with Delta. </div> 

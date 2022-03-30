@@ -7,7 +7,7 @@ category = "Twitter"
 <div class="thread-content"> 
 Israel provided the initial and solid body of data that  booster shots restored effectiveness and helped achieve its turnaround. Now the UK adds to that
 
-<a href="https://www.ft.com/thread-content/e11add47-b1f9-4fe9-8faa-0bd72fc31367" target="_blank" rel="noreferer">https://www.ft.com/thread-content/e11add47-b1f9-4fe9-8faa ...</a> 
+<a href="https://www.ft.com/thread-content/e11add47-b1f9-4fe9-8faa-0bd72fc31367" target="_blank" rel="noreferer">ft.com/thread-content/e11add47-b1f9-4fe9-8faa ...</a> 
  @mroliverbarnes @jburnmurdoch 
 
 1.The improvement </div> 
@@ -28,7 +28,7 @@ Just published @NatureMedicine
 
 An in-depth analysis of the 25 children who died from Covid in England during the 1st year of the pandemic
 
-<a href="https://www.nature.com/articles/s41591-021-01578-1" target="_blank" rel="noreferer">https://www.nature.com/articles/s41591-021-01578-1</a> 
+<a href="https://www.nature.com/articles/s41591-021-01578-1" target="_blank" rel="noreferer">nature.com/articles/s41591-021-01578-1</a> 
 
 
 Great that 99.995% of children w/ a positive test survived (not what is driving the need for 💉in kids) </div> 
@@ -37,7 +37,7 @@ Great that 99.995% of children w/ a positive test survived (not what is driving 
 <div class="thread-content"> 
 An ugly patent battle by a company who received not just massive $ taxpayer and @NIH science support, but also the template for the vaccine from the #SARSCoV2 sequence with the 2-P substitution from NIH's Vaccine Research Center
 
-<a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html?searchResultPosition=1" target="_blank" rel="noreferer">https://www.nytimes.com/2021/11/09/us/moderna-vacc ...</a> 
+<a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html?searchResultPosition=1" target="_blank" rel="noreferer">nytimes.com/2021/11/09/us/moderna-vacc ...</a> 
  @SherylNYT @RebeccaDRobbins </div> 
 <a href="/twitter/erictopol/images/FD1uhKQVIAUAD99.jpg"  ><img src="/twitter/erictopol/images/FD1uhKQVIAUAD99.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1458812392993787906" target="_blank" rel="noreferer">08:02 UCT-7</a> 
@@ -45,13 +45,6 @@ An ugly patent battle by a company who received not just massive $ taxpayer and 
 <div class="content"> 
 Update. Good on @NIH </div> 
 <a href="/twitter/erictopol/images/FD6-E7sVkAYg_RM.jpg"  ><img src="/twitter/erictopol/images/FD6-E7sVkAYg_RM.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FD6-H2oUYAA591d.png"  ><img src="/twitter/erictopol/images/FD6-H2oUYAA591d.png" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1458824385842724866" target="_blank" rel="noreferer">08:50 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @UrnovFyodor: EVERY. SINGLE. ONE of these disease-causing point mutation can be fixed by editing. The clinicians and computational biolo…</div> 
-</div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Note that the drug interactions with Pfizer's pills are readily circumvented, since it's only a 5-day treatment course (you can read the linked piece)</div> 
@@ -61,7 +54,7 @@ Note that the drug interactions with Pfizer's pills are readily circumvented, si
 <div class="content"> 
 And @TheEconomist weighs in on this important development
 
-<a href="https://www.economist.com/science-and-technology/2021/11/13/new-antiviral-drugs-mark-a-big-turning-point-in-the-covid-19-pandemic" target="_blank" rel="noreferer">https://www.economist.com/science-and-technology/2 ...</a> 
+<a href="https://www.economist.com/science-and-technology/2021/11/13/new-antiviral-drugs-mark-a-big-turning-point-in-the-covid-19-pandemic" target="_blank" rel="noreferer">economist.com/science-and-technology/2 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FD7KhiDVEAIN3Zr.png"  ><img src="/twitter/erictopol/images/FD7KhiDVEAIN3Zr.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FD7KmPqUUAUZGrK.png"  ><img src="/twitter/erictopol/images/FD7KmPqUUAUZGrK.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -84,28 +77,14 @@ And now this </div>
 <div class="content"> 
 Great @ScienceVisuals showing the difference in mechanism between these 2 pills in the course of #SARSCoV2 replication
 
-<a href="https://www.science.org/content/article/pfizer-antiviral-slashes-covid-19-hospitalizations" target="_blank" rel="noreferer">https://www.science.org/content/article/pfizer-ant ...</a> 
+<a href="https://www.science.org/content/article/pfizer-antiviral-slashes-covid-19-hospitalizations" target="_blank" rel="noreferer">science.org/content/article/pfizer-ant ...</a> 
 
 
 Paxlovid inhibits the main protease (Mpro) that creates other essential proteins
 
-Molnupiravar induces lethal mutagenesis  <a href="https://twitter.com/EricTopol/status/1458607826515890176" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1458607826515 ...</a> 
+Molnupiravar induces lethal mutagenesis  <a href="https://twitter.com/EricTopol/status/1458607826515890176" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1458607826515 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/FD77OK0VcAYOYQy.jpg"  ><img src="/twitter/erictopol/images/FD77OK0VcAYOYQy.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1458900543842119697" target="_blank" rel="noreferer">13:52 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @florian_krammer: @EricTopol @nytimes Yeah, its missing data from about 40 studies.</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1458900746699632664" target="_blank" rel="noreferer">13:53 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @michaelmina_lab: I agree. This is another incomplete and skewed @nytimes effort regarding COVID recently. The graphics are nice, but, c…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1458934962808262658" target="_blank" rel="noreferer">16:09 UCT-7</a> 
@@ -113,7 +92,8 @@ RT @michaelmina_lab: I agree. This is another incomplete and skewed @nytimes eff
 <div class="content"> 
 People with Prior Covid "have pronounced deficiencies in functional Spike-specific T cell responses and the ability to neutralize [with antibodies] the current variants of concern"
 
-https://t.co/BtK7bC3Adm
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.08.21266035v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.08 ...</a> 
+
 
 There's false assurance on "natural immunity" protection; it's not enough.</div> 
 </div> 
@@ -124,7 +104,8 @@ There's false assurance on "natural immunity" protection; it's not enough.</div>
 <div class="content"> 
 Oh, cases are "nonsensical"
 
-Even though cases beget cases, beget #LongCovid, were the primary endpoint of efficacy for all vaccination trials, and have tracked with hospitalizations and deaths for every wave and recovery phase of the US pandemic https://t.co/KaNAPIUlIo</div> 
+Even though cases beget cases, beget #LongCovid, were the primary endpoint of efficacy for all vaccination trials, and have tracked with hospitalizations and deaths for every wave and recovery phase of the US pandemic <a href="https://twitter.com/mtracey/status/1458947883613437957" target="_blank" rel="noreferer">twitter.com/mtracey/status/145894788361343 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -162,7 +143,8 @@ Not a good look for the US. </div>
 <div class="content"> 
 "It’s our low rate of vaccination — we haven’t done what was necessary ...We are still below 70 percent, I don’t know how we can win this race against time with the fourth wave. I fear we’ve already lost.”
 
-https://t.co/sYyVzcSc8z @kbennhold</div> 
+<a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html" target="_blank" rel="noreferer">nytimes.com/2021/11/11/world/europe/ge ...</a> 
+ @kbennhold</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -172,7 +154,8 @@ Waning Vaccine Effectiveness" today
 
 It is misleading and missing key reports from New York State, Veterans Affairs, Puerto Rico, Israel, Qatar, the UK, and several others
 
-https://t.co/ST758q2d17</div> 
+<a href="https://www.nytimes.com/interactive/2021/11/11/science/vaccine-waning-immunity.html" target="_blank" rel="noreferer">nytimes.com/interactive/2021/11/11/sci ...</a> 
+</div> 
 <hr><div class="thread-content"> 
 Exemplifies bad messaging, skewed, incomplete data.
 

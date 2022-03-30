@@ -30,12 +30,12 @@ Highest cases/capita in the world, state or country, with population ≥ 1 milli
 <a href="https://twitter.com/erictopol/status/1424384555591421962" target="_blank" rel="noreferer">07:58 UCT-7</a> 
 </div> 
 <div class="content"> 
-The US Delta wave and the unexpected high hospitalizations and deaths <a href="https://nymag.com/intelligencer/2021/08/too-many-people-are-dying-of-covid-19-right-now.html" target="_blank" rel="noreferer">https://nymag.com/intelligencer/2021/08/too-many-p ...</a> 
+The US Delta wave and the unexpected high hospitalizations and deaths <a href="https://nymag.com/intelligencer/2021/08/too-many-people-are-dying-of-covid-19-right-now.html" target="_blank" rel="noreferer">nymag.com/intelligencer/2021/08/too-many-p ...</a> 
  by @dwallacewells @NYMag @intelligencer
 
 And David's thread
 
-<a href="https://twitter.com/dwallacewells/status/1424381651962970112" target="_blank" rel="noreferer">https://twitter.com/dwallacewells/status/142438165 ...</a> 
+<a href="https://twitter.com/dwallacewells/status/1424381651962970112" target="_blank" rel="noreferer">twitter.com/dwallacewells/status/142438165 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8RtN6QVEAEVsUr.jpg"  ><img src="/twitter/erictopol/images/E8RtN6QVEAEVsUr.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -58,20 +58,21 @@ Peak 3rd wave: 250,000 cases/7d avg; 125,000 hospitalizations, &gt; 2M tests/day
 
 Current 4th wave: 110,000 cases/7d avg; 63,000 hospitalizations , ~1M tests/day
 
-https://t.co/pyRjKpHnKl</div> 
+<a href="https://coronavirus.jhu.edu/testing/individual-states" target="_blank" rel="noreferer">coronavirus.jhu.edu/testing/individual-sta ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
 Reassuring. Current data from San Diego County, California's 2nd largest, which tracks vaccinated status and vaccine for new cases, ~58% total population vaccinated (national 50%).
 
-<a href="https://www.sandiegouniontribune.com/news/health/story/2021-08-07/some-san-diegans-are-seeking-and-getting-covid-19-vaccine-boosters" target="_blank" rel="noreferer">https://www.sandiegouniontribune.com/news/health/s ...</a> 
+<a href="https://www.sandiegouniontribune.com/news/health/story/2021-08-07/some-san-diegans-are-seeking-and-getting-covid-19-vaccine-boosters" target="_blank" rel="noreferer">sandiegouniontribune.com/news/health/s ...</a> 
 
 
 But March -&gt; June are before Delta </div> 
 <a href="/twitter/erictopol/images/E8SE1wUVoAI55x5.jpg"  ><img src="/twitter/erictopol/images/E8SE1wUVoAI55x5.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 You can see the test positivity rate climbing with Delta to 9% but testing is much less than half of the 3rd wave
 
-<a href="https://www.sandiegocounty.gov/thread-content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Watch.pdf" target="_blank" rel="noreferer">https://www.sandiegocounty.gov/thread-content/dam/sdc/hhs ...</a> 
+<a href="https://www.sandiegocounty.gov/thread-content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Watch.pdf" target="_blank" rel="noreferer">sandiegocounty.gov/thread-content/dam/sdc/hhs ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8SH2g7UYAExdqu.jpg"  ><img src="/twitter/erictopol/images/E8SH2g7UYAExdqu.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1424415226649214981" target="_blank" rel="noreferer">10:00 UCT-7</a> 
@@ -84,7 +85,8 @@ So while breakthrough infections rose (small %) and the benefit of vaccines is m
 <a href="https://twitter.com/erictopol/status/1424470614010564608" target="_blank" rel="noreferer">13:40 UCT-7</a> 
 </div> 
 <div class="content"> 
-This should be the norm, supplying high quality masks free charge to all who choose to use them, to help reduce the Delta wave hit https://t.co/slc888ZjyS</div> 
+This should be the norm, supplying high quality masks free charge to all who choose to use them, to help reduce the Delta wave hit <a href="https://twitter.com/ScottGottliebMD/status/1424458131434655746" target="_blank" rel="noreferer">twitter.com/ScottGottliebMD/status/1424458 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -96,7 +98,8 @@ The other is our testing, &lt;&lt; 1/2 of 3rd wave, w/
 
 very poor availability 
 
-A no show: home rapid antigen tests, which should be freely provided to every household to help safely open schools https://t.co/h9CvtLIsdH</div> 
+A no show: home rapid antigen tests, which should be freely provided to every household to help safely open schools <a href="https://twitter.com/EricTopol/status/1423726051474108417" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1423726051474 ...</a> 
+</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1424483206275821568" target="_blank" rel="noreferer">14:30 UCT-7</a> 
 </div> 
@@ -111,25 +114,8 @@ February 2021
 
 "Biden has proposed spending $50 billion to vastly expand rapid testing as part of his push to return most K-8 students to classes within his first 100 days"
 
-https://t.co/8F1sG8S6Um</div> 
+<a href="https://apnews.com/article/joe-biden-pandemics-coronavirus-pandemic-b72e56902c9a682201dc7e2e95530551" target="_blank" rel="noreferer">apnews.com/article/joe-biden-pandemics-cor ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1424489006792724485" target="_blank" rel="noreferer">14:53 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @kallmemeg: America does not have a national health service. 
-
-
-
-If they did, I’ve no doubt they would be tracking the #COVID19 pandemic b…</div> 
-</div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1424499173378781186" target="_blank" rel="noreferer">15:34 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @FinchTH: @EricTopol And Botswana wouldn’t be #2 on that list if it had access to vaccines to the same degree LA and FL do.</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 

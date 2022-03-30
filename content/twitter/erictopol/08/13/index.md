@@ -57,7 +57,8 @@ The situation in Israel
 
 And the 3 week spacing of the 2 doses likely inferior to 8-12 weeks
 
-https://t.co/qWA4nvMGVR</div> 
+<a href="https://www.ft.com/content/c21e2053-0373-4b8e-80b7-fad10f235604" target="_blank" rel="noreferer">ft.com/content/c21e2053-0373-4b8e-80b7 ...</a> 
+</div> 
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
@@ -65,7 +66,7 @@ These are the kind of data that need to be communicated to the public, as tracke
 
 Yes, with Delta the breakthrough cases have increased but the benefit of vaccination has gone up markedly
 
-<a href="https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Report-08-2021.pdf" target="_blank" rel="noreferer">https://www.oregon.gov/oha/covid19/Documents/DataR ...</a> 
+<a href="https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Report-08-2021.pdf" target="_blank" rel="noreferer">oregon.gov/oha/covid19/Documents/DataR ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8sVuCrVgAE1aIR.jpg"  ><img src="/twitter/erictopol/images/E8sVuCrVgAE1aIR.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1426264951434276868" target="_blank" rel="noreferer">12:30 UCT-7</a> 
@@ -73,7 +74,7 @@ Yes, with Delta the breakthrough cases have increased but the benefit of vaccina
 <div class="content"> 
 The latest data from San Diego County, another place where this is tracked, along with hospitalizations—which have remained quite low despite the increase in breakthroughs. The same augmented benefit of vaccination in the Delta wave is readily apparent.
 
-<a href="https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Watch.pdf" target="_blank" rel="noreferer">https://www.sandiegocounty.gov/content/dam/sdc/hhs ...</a> 
+<a href="https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Watch.pdf" target="_blank" rel="noreferer">sandiegocounty.gov/content/dam/sdc/hhs ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8scOpuVEAA2uGi.jpg"  ><img src="/twitter/erictopol/images/E8scOpuVEAA2uGi.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -89,14 +90,15 @@ Every day. Posted for all.
 
 All these data are captured in EHRs, just not aggregated.
 
-https://t.co/X12xZmWghb</div> 
+<a href="https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant" target="_blank" rel="noreferer">theguardian.com/commentisfree/2021/aug ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1426326699092758528" target="_blank" rel="noreferer">16:35 UCT-7</a> 
 </div> 
 <div class="content"> 
-Impressive and a glimpse into the future. Sequencing #SARSCoV2 in hospitals rapidly identified 2 cases of B.1.621, community transmission in the UK, when 99% of cases were Delta. Done in &lt;24 hrs, instead of 10 days <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00482-5/fulltext" target="_blank" rel="noreferer">https://www.thelancet.com/journals/laninf/article/ ...</a> 
+Impressive and a glimpse into the future. Sequencing #SARSCoV2 in hospitals rapidly identified 2 cases of B.1.621, community transmission in the UK, when 99% of cases were Delta. Done in &lt;24 hrs, instead of 10 days <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00482-5/fulltext" target="_blank" rel="noreferer">thelancet.com/journals/laninf/article/ ...</a> 
 
 
 @TheLancetInfDis </div> 
@@ -116,7 +118,7 @@ Hospitalizations and Deaths </div>
 <div class="content"> 
 Smart. You go 🇨🇦
 
-<a href="https://www.ft.com/content/9b8436c0-26f8-4b2f-a8ee-0e2d9b3a452b" target="_blank" rel="noreferer">https://www.ft.com/content/9b8436c0-26f8-4b2f-a8ee ...</a> 
+<a href="https://www.ft.com/content/9b8436c0-26f8-4b2f-a8ee-0e2d9b3a452b" target="_blank" rel="noreferer">ft.com/content/9b8436c0-26f8-4b2f-a8ee ...</a> 
  @FT </div> 
 <a href="/twitter/erictopol/images/E8toNNXVEAIYobm.jpg"  ><img src="/twitter/erictopol/images/E8toNNXVEAIYobm.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 

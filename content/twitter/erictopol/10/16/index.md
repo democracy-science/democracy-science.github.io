@@ -7,7 +7,7 @@ category = "Twitter"
 <div class="thread-content"> 
 Why does the UK currently have 6-fold hospital admissions and a 3-fold higher death rate compared with Europe?
 
-<a href="https://www.ft.com/thread-content/34582534-4510-4d45-bcba-2f9e04005309" target="_blank" rel="noreferer">https://www.ft.com/thread-content/34582534-4510-4d45-bcba ...</a> 
+<a href="https://www.ft.com/thread-content/34582534-4510-4d45-bcba-2f9e04005309" target="_blank" rel="noreferer">ft.com/thread-content/34582534-4510-4d45-bcba ...</a> 
  @FT @mroliverbarnes @jburnmurdoch @danieldombey 
 
 Among possible explanations, two that stand out are less use of mitigation measures /1 </div> 
@@ -26,7 +26,7 @@ More reliance on Astra Zeneca vaccines offered as another possible contributing 
 <div class="content"> 
 Singapore has begun the descent from its Delta wave, which took its toll beyond a high case burden
 
-<a href="https://covidsitrep.moh.gov.sg" target="_blank" rel="noreferer">https://covidsitrep.moh.gov.sg</a> 
+<a href="https://covidsitrep.moh.gov.sg" target="_blank" rel="noreferer">covidsitrep.moh.gov.sg</a> 
 
 
 @OurWorldInData </div> 
@@ -40,7 +40,7 @@ Just published at @CellCellPress
 
 The pivotal importance of vaccine dose spacing. Comparison of a median 3.3 week vs 10.1 week spacing for the Pfizer vaccine shows longer lag yields much higher neutralizing antibody and CD4+ T cell response
 
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01221-6#relatedArticles" target="_blank" rel="noreferer">https://www.cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01221-6#relatedArticles" target="_blank" rel="noreferer">cell.com/cell/fulltext/S0092-8674(21)0 ...</a> 
  Delta example👇 </div> 
 <a href="/twitter/erictopol/images/FB1uMKmVUAMe1iZ.jpg"  ><img src="/twitter/erictopol/images/FB1uMKmVUAMe1iZ.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -61,7 +61,7 @@ Single dose: 70% protection vs symptomatic infection
 
 2-dose: 94% protection /3
 
-<a href="https://www.fda.gov/media/153129/download" target="_blank" rel="noreferer">https://www.fda.gov/media/153129/download</a> 
+<a href="https://www.fda.gov/media/153129/download" target="_blank" rel="noreferer">fda.gov/media/153129/download</a> 
  </div> 
 <a href="/twitter/erictopol/images/FB1acZ8UUAUeJ1x.jpg"  ><img src="/twitter/erictopol/images/FB1acZ8UUAUeJ1x.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 To start with, the 1-shot 70% efficacy vs. symptomatic infections was considerably lower than the mRNA vaccines (95%), the primary endpoint of all Covid vaccine trials, and a proxy for protection vs hospitalizations and deaths 

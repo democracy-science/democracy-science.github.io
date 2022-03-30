@@ -16,7 +16,8 @@ by @planteink </div>
 <div class="thread-content"> 
 A meeting is scheduled Monday by @Pfizer to present unpublished data on the need for a vaccine booster to Tony Fauci, @NIHDirector, @vivek_murthy, @CDCDirector, @DrWoodcockFDA for elderly and vulnerable 
 
-https://t.co/q7iN7A97fj @yabutaleb7 @tylerpager @lauriemcginley2 @bylenasun</div> 
+<a href="https://www.washingtonpost.com/health/2021/07/10/covid-booster-shot-pfizer/" target="_blank" rel="noreferer">washingtonpost.com/health/2021/07/10/c ...</a> 
+ @yabutaleb7 @tylerpager @lauriemcginley2 @bylenasun</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1414229272672145410" target="_blank" rel="noreferer">07:25 UCT-7</a> 
 </div> 
@@ -35,10 +36,10 @@ Canada's vaccinations have reached 70% of their total population (the US is at 5
 <a href="https://twitter.com/erictopol/status/1414251862505582595" target="_blank" rel="noreferer">08:54 UCT-7</a> 
 </div> 
 <div class="content"> 
-The @sdut editorial today calling for full FDA approval of vaccines <a href="https://www.sandiegouniontribune.com/opinion/editorials/story/2021-07-09/fda-approve-covid-19-vaccines-to-lower-vaccine-hesitancy" target="_blank" rel="noreferer">https://www.sandiegouniontribune.com/opinion/edito ...</a> 
+The @sdut editorial today calling for full FDA approval of vaccines <a href="https://www.sandiegouniontribune.com/opinion/editorials/story/2021-07-09/fda-approve-covid-19-vaccines-to-lower-vaccine-hesitancy" target="_blank" rel="noreferer">sandiegouniontribune.com/opinion/edito ...</a> 
 
 
-supporting @nytopinion <a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">https://www.nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
+supporting @nytopinion <a href="https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html" target="_blank" rel="noreferer">nytimes.com/2021/07/01/opinion/fda-vac ...</a> 
  🙏 </div> 
 <a href="/twitter/erictopol/images/E6BuEOFVcAE-edF.jpg"  ><img src="/twitter/erictopol/images/E6BuEOFVcAE-edF.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -50,8 +51,8 @@ Updating #VaccinesWork vs Delta
 
 4 vaccines with clinical effectiveness data
 
-<a href="https://www.medrxiv.org/content/10.1101/2021.06.30.21259439v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.06.30 ...</a> 
- via @sayan94194742  <a href="https://twitter.com/EricTopol/status/1413968623815647235" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1413968623815 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.06.30.21259439v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.06.30 ...</a> 
+ via @sayan94194742  <a href="https://twitter.com/EricTopol/status/1413968623815647235" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1413968623815 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E6BxRfGVcAETQrs.jpg"  ><img src="/twitter/erictopol/images/E6BxRfGVcAETQrs.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -61,7 +62,7 @@ Updating #VaccinesWork vs Delta
 <div class="content"> 
 That's nearly 5 years.
 
-For symptomatic prior covid: "[we] estimate that neutralizing [PRNT50] antibody will remain detectable for around 1,717 days after symptom onset" <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881728" target="_blank" rel="noreferer">https://papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+For symptomatic prior covid: "[we] estimate that neutralizing [PRNT50] antibody will remain detectable for around 1,717 days after symptom onset" <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881728" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
 
 
 BTW For prior covid, neutralizing antibodies markedly higher w/ 1-dose vaccine </div> 
@@ -73,13 +74,6 @@ BTW For prior covid, neutralizing antibodies markedly higher w/ 1-dose vaccine <
 <div class="content"> 
 The Delta hit to the US is now extending from cases to hospitalizations, 13 states with &gt;65% Delta prevalence now with ≥25% increase of hospitalizations over past 14 days </div> 
 <a href="/twitter/erictopol/images/E6CCi3QVIAYBZGl.jpg"  ><img src="/twitter/erictopol/images/E6CCi3QVIAYBZGl.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1414328561167593475" target="_blank" rel="noreferer">13:59 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @florian_krammer: Well, they should make that a public meeting. Like a VRBPAC or ACIP meeting. Also, they should publish the data. This…</div> 
-</div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1414353013817319428" target="_blank" rel="noreferer">15:36 UCT-7</a> 
@@ -97,16 +91,5 @@ Duration of Delta variant dominance (green) in 4 countries with high vaccination
 @OurWorldInData and  <a href="http://covariants.org" target="_blank" rel="noreferer">http://covariants.org</a> 
  lastest July update </div> 
 <a href="/twitter/erictopol/images/E6DyvnUVgAAsT9Y.jpg"  ><img src="/twitter/erictopol/images/E6DyvnUVgAAsT9Y.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1414407955328372738" target="_blank" rel="noreferer">19:15 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @ashishkjha: These states where hospitalizations are rising?
-
-
-
-Not a single one hit the President's goal of 70% of adults with 1 shot.…</div> 
-</div> 
 
 

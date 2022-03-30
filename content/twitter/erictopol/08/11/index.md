@@ -28,21 +28,16 @@ Risk for breakthrough infection is 9-fold for unvaccinated
 <div class="content"> 
 These data (and much more) are collected for every patient admitted for covid hospitalization in the United States. It is unacceptable that they are not tracked  nationally and made available on a daily basis
 
-https://t.co/X12xZmWghb</div> 
+<a href="https://www.theguardian.com/commentisfree/2021/aug/09/america-is-flying-blind-when-it-comes-to-the-delta-variant" target="_blank" rel="noreferer">theguardian.com/commentisfree/2021/aug ...</a> 
 </div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1425458272463515658" target="_blank" rel="noreferer">07:05 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @VirusesImmunity: Breakthrough infections are uncommon. However, you can get #longcovid from breakthrough infection. We don’t know how f…</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1425460046964486145" target="_blank" rel="noreferer">07:12 UCT-7</a> 
 </div> 
 <div class="content"> 
-Good graphic. Let’s stop the talk about how Delta is as contagious as chickenpox. It isn’t. It’s bad enough to be the most contagious respiratory virus . https://t.co/IM2tzlI5eJ</div> 
+Good graphic. Let’s stop the talk about how Delta is as contagious as chickenpox. It isn’t. It’s bad enough to be the most contagious respiratory virus . <a href="https://twitter.com/NPRGoatsandSoda/status/1425435405223186439" target="_blank" rel="noreferer">twitter.com/NPRGoatsandSoda/status/1425435 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -57,7 +52,7 @@ Delta breakthrough infections among 62 healthcare workers vaccinated in Vietnam
 
 3. Transmission between vaccinated individuals
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733" target="_blank" rel="noreferer">https://papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8hKW-xUUAkm5aS.jpg"  ><img src="/twitter/erictopol/images/E8hKW-xUUAkm5aS.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8hKZZLVEAQWL16.jpg"  ><img src="/twitter/erictopol/images/E8hKZZLVEAQWL16.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8hKbPPVgBEENDL.jpg"  ><img src="/twitter/erictopol/images/E8hKbPPVgBEENDL.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -75,7 +70,8 @@ I'll send you a preprint to review that'll post soon</div>
 <div class="content"> 
 @ashishkjha I'm sure you saw this one posted a few days ago with 42% for Pfizer vs Delta infections
 
-https://t.co/NtD01k4iHu</div> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v2" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.06 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -106,7 +102,7 @@ Just published @NEJM
 
 A randomized trial of a 3rd dose of mRNA vaccine for people who have had an organ-transplant shows markedly improved immune response compared w/ placebo (&lt;-and why it's ideal to have this arm)
 
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2111462?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMc2111462 ...</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2111462?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMc2111462 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8ic44HWUAsA8zp.jpg"  ><img src="/twitter/erictopol/images/E8ic44HWUAsA8zp.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -114,7 +110,7 @@ A randomized trial of a 3rd dose of mRNA vaccine for people who have had an orga
 <a href="https://twitter.com/erictopol/status/1425564329768783874" target="_blank" rel="noreferer">14:06 UCT-7</a> 
 </div> 
 <div class="content"> 
-The @moderna_tx covid vaccine trial in 3,732 teens, placebo-controlled, published today @NEJM with both excellent safety profile and efficacy vs covid, and immune  response as least as good as young adults <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2109522?query=featured_home" target="_blank" rel="noreferer">https://www.nejm.org/doi/full/10.1056/NEJMoa210952 ...</a> 
+The @moderna_tx covid vaccine trial in 3,732 teens, placebo-controlled, published today @NEJM with both excellent safety profile and efficacy vs covid, and immune  response as least as good as young adults <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2109522?query=featured_home" target="_blank" rel="noreferer">nejm.org/doi/full/10.1056/NEJMoa210952 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8ifHk8WEAELTyz.jpg"  ><img src="/twitter/erictopol/images/E8ifHk8WEAELTyz.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8id415XEAYQfp4.jpg"  ><img src="/twitter/erictopol/images/E8id415XEAYQfp4.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
@@ -153,7 +149,7 @@ The Mayo Clinic study of 42% Pfizer vaccine efffectiveness vs Delta infections n
 <a href="https://twitter.com/erictopol/status/1425589829069271041" target="_blank" rel="noreferer">15:47 UCT-7</a> 
 </div> 
 <div class="content"> 
-New and important data on Delta breakthrough infections, large Qatar experience and follow-up of &gt; 1.2 million vaccinees <a href="https://www.medrxiv.org/content/10.1101/2021.08.11.21261885v1" target="_blank" rel="noreferer">https://www.medrxiv.org/content/10.1101/2021.08.11 ...</a> 
+New and important data on Delta breakthrough infections, large Qatar experience and follow-up of &gt; 1.2 million vaccinees <a href="https://www.medrxiv.org/content/10.1101/2021.08.11.21261885v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.11 ...</a> 
 
 
  2-doses vaccine effectiveness vs infections
@@ -171,7 +167,8 @@ Either 57.2%
 <a href="https://twitter.com/erictopol/status/1425598379174752256" target="_blank" rel="noreferer">16:21 UCT-7</a> 
 </div> 
 <div class="content"> 
-Important footnote to the new Qatar study    May not be full explanation but likely contributes https://t.co/27RrMDZYM4</div> 
+Important footnote to the new Qatar study    May not be full explanation but likely contributes <a href="https://twitter.com/BobWood12/status/1425595052655529988" target="_blank" rel="noreferer">twitter.com/BobWood12/status/1425595052655 ...</a> 
+</div> 
 </div> 
 <div class="tweet"> 
 <div class="profile"> 
@@ -180,7 +177,7 @@ Important footnote to the new Qatar study    May not be full explanation but lik
 <div class="content"> 
 Simplified table of the 5 reported studies for 2-dose mRNA vaccine effectiveness vs Delta infections. The Mayo &amp; Qatar studies did not account for time from vaccination (Pfizer longer duration). Infection definitions vary.  UK data: 8-12 wks btwn doses, others 3 wks 
 
-More to come  <a href="https://twitter.com/EricTopol/status/1425492860619481098" target="_blank" rel="noreferer">https://twitter.com/EricTopol/status/1425492860619 ...</a> 
+More to come  <a href="https://twitter.com/EricTopol/status/1425492860619481098" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1425492860619 ...</a> 
 </div> 
 <a href="/twitter/erictopol/images/E8jI2b_VEAEkkZg.jpg"  ><img src="/twitter/erictopol/images/E8jI2b_VEAEkkZg.jpg" alt="Twitter image" ></img></a></div> 
 <div class="tweet"> 
@@ -194,12 +191,5 @@ Already ~60% of peak pandemic.
 
 Beyond twice the normalized peak of the Delta waves in UK and Israel. </div> 
 <a href="/twitter/erictopol/images/E8jZHibVIAIeAbp.jpg"  ><img src="/twitter/erictopol/images/E8jZHibVIAIeAbp.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8jaP3tVcAIQQd9.jpg"  ><img src="/twitter/erictopol/images/E8jaP3tVcAIQQd9.jpg" alt="Twitter image" ></img></a></div> 
-<div class="tweet"> 
-<div class="profile"> 
-<a href="https://twitter.com/erictopol/status/1425630114478387203" target="_blank" rel="noreferer">18:28 UCT-7</a> 
-</div> 
-<div class="content"> 
-RT @veeslerlab: Sharing our latest preprint on #SARSCoV2 B.1.617.2 (delta), B.1.617.2+ (delta+) and B.1.617.1 (kappa) variants led by @Dr_M…</div> 
-</div> 
 
 
