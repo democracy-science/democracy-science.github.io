@@ -52,7 +52,7 @@ Then, why not always? And what is the real breakthrough risk?
 <div class="thread-content"> 
 There was little evidence of decline of vaccine efficacy in the 6 month follow-up of @Pfizer/@BioNTech_Group pivotal trial (6 mos, 91%), pre-Delta
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.28 ...</a> 
 
 
 In contrast, in Israel, with Delta that dropped to ~40% in vaccinees &gt; 6 months out. Now on the way back up  <a href="https://twitter.com/EricTopol/status/1428790213237563393" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1428790213237 ...</a> 
@@ -89,7 +89,7 @@ No conclusions are/were made. I just present the data. Obviously behavior, mitig
 <div class="thread-content"> 
 The mRNA vaccine story was by no means fast. Both it and lipid nanoparticles for its delivery took several decades
 
-<a href="https://www.nature.com/articles/s41578-021-00358-0?utm_source=twitter&utm_medium=social&utm_thread-content=organic&utm_campaign=NGMT_USG_JC01_GL_NRJournals" target="_blank" rel="noreferer">nature.com/articles/s41578-021-00358-0 ...</a> 
+<a href="https://www.nature.com/articles/s41578-021-00358-0?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_NRJournals" target="_blank" rel="noreferer">nature.com/articles/s41578-021-00358-0 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E9a2t4vVgAIanHa.jpg"  ><img src="/twitter/erictopol/images/E9a2t4vVgAIanHa.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1429533184065040384" target="_blank" rel="noreferer">12:57 UCT-7</a> 

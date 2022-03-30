@@ -33,7 +33,7 @@ How to cultivate a new #SARSCoV2 variant
 <div class="thread-content"> 
 This should not have happened.
 
-<a href="https://www.ft.com/thread-content/dee94219-a4c6-48f1-9aae-2bbcd11b3fa5" target="_blank" rel="noreferer">ft.com/thread-content/dee94219-a4c6-48f1-9aae ...</a> 
+<a href="https://www.ft.com/content/dee94219-a4c6-48f1-9aae-2bbcd11b3fa5" target="_blank" rel="noreferer">ft.com/content/dee94219-a4c6-48f1-9aae ...</a> 
 
 
 We🇺🇸have the tools in 2020-1 compared with 1918-9 to prevent fatalities, especially with vaccines that have reduced deaths (vs prior waves) by ~90% in many countries throughout the world </div> 

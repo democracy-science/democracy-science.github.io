@@ -32,7 +32,7 @@ All have substantial increases in hospitalizations, led by Nevada 29/100,000; AR
 <div class="thread-content"> 
 Vaccination prevented ~75% of hospitalizations in England's Delta wave, as determined by modeling
 
-<a href="https://www.ft.com/thread-content/0f11b219-0f1b-420e-8188-6651d1e749ff" target="_blank" rel="noreferer">ft.com/thread-content/0f11b219-0f1b-420e-8188 ...</a> 
+<a href="https://www.ft.com/content/0f11b219-0f1b-420e-8188-6651d1e749ff" target="_blank" rel="noreferer">ft.com/content/0f11b219-0f1b-420e-8188 ...</a> 
  @FT @mroliverbarnes @jburnmurdoch 
 
 "@PHE_UK estimates...vaccines being used in the UK are between 91 and 97 per cent effective in preventing hospitalisation." </div> 

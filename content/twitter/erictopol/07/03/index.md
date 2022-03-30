@@ -9,7 +9,7 @@ The high prevalence of the Delta variant in many US states.
 
 The trends are likely right but, in most states, the number of sequenced samples is very low, leading to overestimates of the per cent
 
-<a href="https://www.ft.com/thread-content/7c3a7e3a-6cef-48ae-89a6-01e1a6f15959" target="_blank" rel="noreferer">ft.com/thread-content/7c3a7e3a-6cef-48ae-89a6 ...</a> 
+<a href="https://www.ft.com/content/7c3a7e3a-6cef-48ae-89a6-01e1a6f15959" target="_blank" rel="noreferer">ft.com/content/7c3a7e3a-6cef-48ae-89a6 ...</a> 
  by @TWenseleers 
 
 and <a href="http://outbreak.info" target="_blank" rel="noreferer">http://outbreak.info</a> 

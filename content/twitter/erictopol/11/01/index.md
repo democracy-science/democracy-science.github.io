@@ -64,7 +64,7 @@ via @kianchungong </div>
 <div class="thread-content"> 
 If you've had Covid, the secret for not getting it again
 
-<a href="https://jamanetwork.com/journals/jama/fullarticle/2785918?guestAccessKey=6ee768d4-0daf-47a1-8177-ab636e03c6d3&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_thread-content=tfl&utm_term=110121" target="_blank" rel="noreferer">jamanetwork.com/journals/jama/fullarticle/ ...</a> 
+<a href="https://jamanetwork.com/journals/jama/fullarticle/2785918?guestAccessKey=6ee768d4-0daf-47a1-8177-ab636e03c6d3&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=110121" target="_blank" rel="noreferer">jamanetwork.com/journals/jama/fullarticle/ ...</a> 
  @JAMA_current </div> 
 <a href="/twitter/erictopol/images/FDIFWddUUAAU2J-.jpg"  ><img src="/twitter/erictopol/images/FDIFWddUUAAU2J-.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1455233087881703425" target="_blank" rel="noreferer">10:59 UCT-7</a> 

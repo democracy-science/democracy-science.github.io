@@ -144,7 +144,7 @@ Whereas the US 4th (Delta) wave there's relative lack of suppression: reached 77
 <a href="/twitter/erictopol/images/FCQI9bgVQAQd1H_.jpg"  ><img src="/twitter/erictopol/images/FCQI9bgVQAQd1H_.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The 1st randomized trial of a booster (3rd) shot in 10,000 people, placebo-controlled, shows 95.6% efficacy, with 5 cases (Pfizer vaccine) vs 109 in placebo group, Delta variant, broad benefit across age groups <a href="https://www.ft.com/thread-content/d4e58d38-37d6-40cd-9d72-6b9bfd0a3683" target="_blank" rel="noreferer">ft.com/thread-content/d4e58d38-37d6-40cd-9d72 ...</a> 
+The 1st randomized trial of a booster (3rd) shot in 10,000 people, placebo-controlled, shows 95.6% efficacy, with 5 cases (Pfizer vaccine) vs 109 in placebo group, Delta variant, broad benefit across age groups <a href="https://www.ft.com/content/d4e58d38-37d6-40cd-9d72-6b9bfd0a3683" target="_blank" rel="noreferer">ft.com/content/d4e58d38-37d6-40cd-9d72 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCOXkIjUYAwHYN6.png"  ><img src="/twitter/erictopol/images/FCOXkIjUYAwHYN6.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Until now there were only vaccine effectiveness reports without randomization, without a placebo control group, and multiple potential confounding factors. That’s what makes this trial report  significant proof of benefit of booster shots, at least for this vaccine regimen.</div> 

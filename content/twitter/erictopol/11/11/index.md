@@ -7,7 +7,7 @@ category = "Twitter"
 <div class="thread-content"> 
 Israel provided the initial and solid body of data that  booster shots restored effectiveness and helped achieve its turnaround. Now the UK adds to that
 
-<a href="https://www.ft.com/thread-content/e11add47-b1f9-4fe9-8faa-0bd72fc31367" target="_blank" rel="noreferer">ft.com/thread-content/e11add47-b1f9-4fe9-8faa ...</a> 
+<a href="https://www.ft.com/content/e11add47-b1f9-4fe9-8faa-0bd72fc31367" target="_blank" rel="noreferer">ft.com/content/e11add47-b1f9-4fe9-8faa ...</a> 
  @mroliverbarnes @jburnmurdoch 
 
 1.The improvement </div> 

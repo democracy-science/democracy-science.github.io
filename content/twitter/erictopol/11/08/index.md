@@ -73,7 +73,7 @@ We've learned more about respiratory virus transmission in the pandemic, challen
 <div class="thread-content"> 
 A Delta outbreak of 246 people (31% unvaccinated children, age &lt;12) that emanated from 2 children (solid red squares, G1)
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.05.21265712v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.11.05 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.05.21265712v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.05 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDsyWiaVEAIqHcQ.jpg"  ><img src="/twitter/erictopol/images/FDsyWiaVEAIqHcQ.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1457851872736264199" target="_blank" rel="noreferer">16:25 UCT-7</a> 

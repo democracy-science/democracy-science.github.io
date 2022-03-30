@@ -9,7 +9,7 @@ How could Austria, with a fully vaccinated rate of 64%, have the highest Covid c
 
 "Austria’s problem... is the large number of vaccine refuseniks nourished with conspiracy theories then amplified by far-right political parties."
 
-<a href="https://www.ft.com/thread-content/1b164c18-737f-4b82-b40d-e957b545e38e" target="_blank" rel="noreferer">ft.com/thread-content/1b164c18-737f-4b82-b40d ...</a> 
+<a href="https://www.ft.com/content/1b164c18-737f-4b82-b40d-e957b545e38e" target="_blank" rel="noreferer">ft.com/content/1b164c18-737f-4b82-b40d ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEuqm4JVkAoi-lH.jpg"  ><img src="/twitter/erictopol/images/FEuqm4JVkAoi-lH.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 In comparison to 64%..... </div> 
@@ -50,7 +50,7 @@ What's the difference between endemic and pandemic? </div>
 <a href="/twitter/erictopol/images/FEveVQbVUAA3gyE.jpg"  ><img src="/twitter/erictopol/images/FEveVQbVUAA3gyE.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The striking booster (3rd dose) effect of mRNA vaccines on neutralizing antibodies vs Delta, and in people with prior Covid who were vaccinated <a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.19.21266555v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.11.19 ...</a> 
+The striking booster (3rd dose) effect of mRNA vaccines on neutralizing antibodies vs Delta, and in people with prior Covid who were vaccinated <a href="https://www.medrxiv.org/content/10.1101/2021.11.19.21266555v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.19 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEwDCERUYAcHr96.jpg"  ><img src="/twitter/erictopol/images/FEwDCERUYAcHr96.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1462550488994377729" target="_blank" rel="noreferer">15:36 UCT-7</a> 

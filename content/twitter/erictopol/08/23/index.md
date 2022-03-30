@@ -72,7 +72,7 @@ A very different pattern than seen in the UK, similar graph by @PaulMainwood wit
 <a href="/twitter/erictopol/images/E9f1QNQVUCMQtLM.png"  ><img src="/twitter/erictopol/images/E9f1QNQVUCMQtLM.png" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-A notable difference between Israel and UK in their Delta waves <a href="https://www.ft.com/thread-content/23cdbf8c-b5ef-4596-bb46-f510606ab556" target="_blank" rel="noreferer">ft.com/thread-content/23cdbf8c-b5ef-4596-bb46 ...</a> 
+A notable difference between Israel and UK in their Delta waves <a href="https://www.ft.com/content/23cdbf8c-b5ef-4596-bb46-f510606ab556" target="_blank" rel="noreferer">ft.com/content/23cdbf8c-b5ef-4596-bb46 ...</a> 
  by @jburnmurdoch and @nikasgari @FT </div> 
 <a href="/twitter/erictopol/images/E9fLmPHUcAArgDl.jpg"  ><img src="/twitter/erictopol/images/E9fLmPHUcAArgDl.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 And a graph of higher rates of breakthrough over time in Israel </div> 

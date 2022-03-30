@@ -39,7 +39,7 @@ New data (via press briefing) on the 1-shot J&amp;J vaccine in &gt;477,000 healt
 <a href="/twitter/erictopol/images/E8HSRD2VoA4yP9i.png"  ><img src="/twitter/erictopol/images/E8HSRD2VoA4yP9i.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 There appears to be an important  mistake in @reuters reporting since the data, thanks to flagging by @GuerreiroSuado, shows the 71% pertains to protection from hospitalizations, not infections. That is not high relative to 2 dose AZ and mRNA 90+% 
 
-<a href="https://sacoronavirus.co.za/wp-thread-content/uploads/2021/08/Sisonke-Provisional-Results-6-August-2021GG2.pdf" target="_blank" rel="noreferer">sacoronavirus.co.za/wp-thread-content/uploads/202 ...</a> 
+<a href="https://sacoronavirus.co.za/wp-content/uploads/2021/08/Sisonke-Provisional-Results-6-August-2021GG2.pdf" target="_blank" rel="noreferer">sacoronavirus.co.za/wp-content/uploads/202 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8HaUkpUYAMjZak.jpg"  ><img src="/twitter/erictopol/images/E8HaUkpUYAMjZak.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1423674399710879744" target="_blank" rel="noreferer">08:56 UCT-7</a> 

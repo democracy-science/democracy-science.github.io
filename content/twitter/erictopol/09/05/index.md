@@ -42,7 +42,7 @@ Does Delta increase the risk of hospitalization compared with Alpha, independent
 
 A new study from Norway says no, not consistent with 2 recent reports from UK (2.3X risk) and Denmark (2.8X risk)
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.02.21263014v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.09.02 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.02.21263014v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.02 ...</a> 
 </div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1434608889756983298" target="_blank" rel="noreferer">13:06 UCT-7</a> 

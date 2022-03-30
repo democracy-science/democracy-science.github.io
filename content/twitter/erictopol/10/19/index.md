@@ -89,7 +89,7 @@ What do we know about AY.4.2, a sub-lineage of Delta,  with 2 notable spike muta
 
 Not much yet, may have small transmission edge over Delta
 
-<a href="https://www.ft.com/thread-content/f1ec9d5d-9e02-4cc4-95e7-1dcbb1844d43" target="_blank" rel="noreferer">ft.com/thread-content/f1ec9d5d-9e02-4cc4-95e7 ...</a> 
+<a href="https://www.ft.com/content/f1ec9d5d-9e02-4cc4-95e7-1dcbb1844d43" target="_blank" rel="noreferer">ft.com/content/f1ec9d5d-9e02-4cc4-95e7 ...</a> 
  @FT
 
 w/ @BallouxFrancois @jcbarret @GuptaR_lab </div> 
@@ -171,7 +171,7 @@ Reminder: a substantial minority of patients in the mAb clinical trials failed t
 <a href="/twitter/erictopol/images/FCF-aHdVUAATXUW.jpg"  ><img src="/twitter/erictopol/images/FCF-aHdVUAATXUW.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Considerable neutralizing antibody decline after both Pfizer and Astra Zeneca vaccines over 3-7 months in over 500 healthcare workers, but much less so in those with prior Covid  <a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.16.21264948v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.16 ...</a> 
+Considerable neutralizing antibody decline after both Pfizer and Astra Zeneca vaccines over 3-7 months in over 500 healthcare workers, but much less so in those with prior Covid  <a href="https://www.medrxiv.org/content/10.1101/2021.10.16.21264948v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.16 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCGnzEgVIAcceWG.jpg"  ><img src="/twitter/erictopol/images/FCGnzEgVIAcceWG.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FCGoX3DUUAEeiyW.jpg"  ><img src="/twitter/erictopol/images/FCGoX3DUUAEeiyW.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1450628305682460675" target="_blank" rel="noreferer">18:01 UCT-7</a> 

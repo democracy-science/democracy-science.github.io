@@ -81,7 +81,7 @@ There's this today, too, by @LittleMoiz </div>
 <div class="thread-content"> 
 With further evolution of Delta, there could be considerably more resistance to vaccines. 3 of 4 mutations (w/ Delta) studied here have already been seen @GISAID 
 
-<a href="https://www.biorxiv.org/thread-content/10.1101/2021.08.22.457114v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.08.22 ...</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2021.08.22.457114v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.08.22 ...</a> 
  the case for a Delta-specific vaccine </div> 
 <a href="/twitter/erictopol/images/E9kWjsjVcAUYbbn.jpg"  ><img src="/twitter/erictopol/images/E9kWjsjVcAUYbbn.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430212931753443332" target="_blank" rel="noreferer">09:58 UCT-7</a> 

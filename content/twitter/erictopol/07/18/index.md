@@ -16,7 +16,7 @@ by @sdutBreen @sdut </div>
 <div class="thread-content"> 
 The Delta variant and record high deaths in multiple countries with low vaccination, in contrast with those where high vaccination is saving lives by lessening the linkage to infections
 
-by @jburnmurdoch and @davidpilling @FT <a href="https://www.ft.com/thread-content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">ft.com/thread-content/fa4f248a-a476-491d-a5ce ...</a> 
+by @jburnmurdoch and @davidpilling @FT <a href="https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24" target="_blank" rel="noreferer">ft.com/content/fa4f248a-a476-491d-a5ce ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6leKRNUcAUYBZp.jpg"  ><img src="/twitter/erictopol/images/E6leKRNUcAUYBZp.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1416770508322791438" target="_blank" rel="noreferer">07:43 UCT-7</a> 
@@ -46,7 +46,7 @@ graphic from @atelentia @Nature <a href="https://www.nature.com/articles/s41586-
 <a href="/twitter/erictopol/images/E6l1PbgVkAU146B.jpg"  ><img src="/twitter/erictopol/images/E6l1PbgVkAU146B.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 We don't know much about the functional significance of the mutations in Lambda (C.37), a variant of interest that emerged in South America, that is also on a new path
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.06.26 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.06.26 ...</a> 
 
 
 <a href="https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know" target="_blank" rel="noreferer">nationalgeographic.com/science/article ...</a> 

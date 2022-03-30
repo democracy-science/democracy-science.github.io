@@ -42,7 +42,7 @@ For an astute perspective of this study for vaccination potential of treating/re
 <div class="thread-content"> 
 A hospital Delta outbreak starting with a Covid patient, infects 41 other: patients, staff (wearing masks), and family, of whom 39 (96%) were fully vaccinated but &gt; 5 months out. Transmission between health care workers
 
-<a href="https://www.eurosurveillance.org/thread-content/10.2807/1560-7917.ES.2021.26.39.2100822#html_fulltext" target="_blank" rel="noreferer">eurosurveillance.org/thread-content/10.2807/1 ...</a> 
+<a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.39.2100822#html_fulltext" target="_blank" rel="noreferer">eurosurveillance.org/content/10.2807/1 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FAn8b63UUAQScwh.jpg"  ><img src="/twitter/erictopol/images/FAn8b63UUAQScwh.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FAn8eCtVEAMA1ev.jpg"  ><img src="/twitter/erictopol/images/FAn8eCtVEAMA1ev.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1444348353702100993" target="_blank" rel="noreferer">10:07 UCT-7</a> 

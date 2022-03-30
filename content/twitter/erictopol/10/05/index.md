@@ -28,7 +28,7 @@ My conversation with @kaifulee, one of #AI's leading lights, author of AI Superp
 <div class="thread-content"> 
 A new report from Canada adds to those from UK and Denmark on the higher virulence of the Delta variant with a doubling of risk of hospitalization
 
-<a href="https://www.cmaj.ca/thread-content/early/2021/10/04/cmaj.211248" target="_blank" rel="noreferer">cmaj.ca/thread-content/early/2021/10/04/cmaj. ...</a> 
+<a href="https://www.cmaj.ca/content/early/2021/10/04/cmaj.211248" target="_blank" rel="noreferer">cmaj.ca/content/early/2021/10/04/cmaj. ...</a> 
  @CMAJ </div> 
 <a href="/twitter/erictopol/images/FA8t4LZVcAEYTO0.jpg"  ><img src="/twitter/erictopol/images/FA8t4LZVcAEYTO0.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1445427015230754819" target="_blank" rel="noreferer">09:33 UCT-7</a> 

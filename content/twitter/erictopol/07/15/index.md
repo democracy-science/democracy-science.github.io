@@ -93,7 +93,7 @@ A big day for 3D protein structure prediction via #AI deep learning. Down to ato
 <a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noreferer">nature.com/articles/s41586-021-03819-2</a> 
 
 
-<a href="https://science.sciencemag.org/thread-content/early/2021/07/14/science.abj8754" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/early/2021/ ...</a> 
+<a href="https://science.sciencemag.org/content/early/2021/07/14/science.abj8754" target="_blank" rel="noreferer">science.sciencemag.org/content/early/2021/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6Ws3kRUcAI6lEp.jpg"  ><img src="/twitter/erictopol/images/E6Ws3kRUcAI6lEp.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1415735058338484225" target="_blank" rel="noreferer">11:08 UCT-7</a> 

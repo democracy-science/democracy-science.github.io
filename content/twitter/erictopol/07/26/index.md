@@ -144,7 +144,7 @@ by @NicholasJIrons @AdrianRaftery1 @UWStat @UW</div>
 <div class="thread-content"> 
 Some caution on the UK's outlook, despite the recent case reduction and "92 per cent of adults in England and Wales have antibodies to #SARSCoV2  .. through vaccination or previous infection"
 
-<a href="https://www.ft.com/thread-content/cb86d9a8-665d-467e-9b92-4b80e905060c" target="_blank" rel="noreferer">ft.com/thread-content/cb86d9a8-665d-467e-9b92 ...</a> 
+<a href="https://www.ft.com/content/cb86d9a8-665d-467e-9b92-4b80e905060c" target="_blank" rel="noreferer">ft.com/content/cb86d9a8-665d-467e-9b92 ...</a> 
  @FT @clivecookson  @jburnmurdoch 
 
 1. Case decline may be slowing </div> 

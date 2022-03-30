@@ -29,7 +29,7 @@ UK Covid wave abating
 
 Boosters are having a benefit in advanced age group  (1st to receive 3rd shots)
 
-<a href="https://www.ft.com/thread-content/8f750986-5bf4-4544-a420-25f1d2d5aaf7" target="_blank" rel="noreferer">ft.com/thread-content/8f750986-5bf4-4544-a420 ...</a> 
+<a href="https://www.ft.com/content/8f750986-5bf4-4544-a420-25f1d2d5aaf7" target="_blank" rel="noreferer">ft.com/content/8f750986-5bf4-4544-a420 ...</a> 
  graph by @JamesWard73 </div> 
 <a href="/twitter/erictopol/images/FDhVbURVUAMj1TZ.jpg"  ><img src="/twitter/erictopol/images/FDhVbURVUAMj1TZ.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1457009132519649281" target="_blank" rel="noreferer">08:37 UCT-7</a> 

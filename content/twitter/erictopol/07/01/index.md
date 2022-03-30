@@ -83,7 +83,7 @@ This:
 
 Just out @ScienceMagazine 
 
-<a href="https://science.sciencemag.org/thread-content/early/2021/06/30/science.abh1766" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/early/2021/ ...</a> 
+<a href="https://science.sciencemag.org/content/early/2021/06/30/science.abh1766" target="_blank" rel="noreferer">science.sciencemag.org/content/early/2021/ ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E5Oufm8VEAc6rgh.png"  ><img src="/twitter/erictopol/images/E5Oufm8VEAc6rgh.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E5OuiqBVoAMw4EL.jpg"  ><img src="/twitter/erictopol/images/E5OuiqBVoAMw4EL.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1410664064318001152" target="_blank" rel="noreferer">11:18 UCT-7</a> 

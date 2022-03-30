@@ -9,7 +9,7 @@ When covid vaccination data are impossible
 
 1. &gt;100% of people vaccinated
 
-<a href="https://www.ft.com/thread-content/125fbaf8-175a-4e2e-852a-9995ca5176b2" target="_blank" rel="noreferer">ft.com/thread-content/125fbaf8-175a-4e2e-852a ...</a> 
+<a href="https://www.ft.com/content/125fbaf8-175a-4e2e-852a-9995ca5176b2" target="_blank" rel="noreferer">ft.com/content/125fbaf8-175a-4e2e-852a ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBa59heVcAI3QI6.jpg"  ><img src="/twitter/erictopol/images/FBa59heVcAI3QI6.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1447550036582141960" target="_blank" rel="noreferer">06:09 UCT-7</a> 

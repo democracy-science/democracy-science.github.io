@@ -26,7 +26,7 @@ Today Canada approved vaccinations for ages 5-11 <a href="https://twitter.com/Er
 <div class="thread-content"> 
 In the setting of a prison, transmission of Delta infections from fully vaccinated individuals was similar to that of unvaccinated 
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.12.21265796v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.11.12 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.12.21265796v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.12 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FEkZEMnVgAgJAiB.jpg"  ><img src="/twitter/erictopol/images/FEkZEMnVgAgJAiB.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1461741637416017922" target="_blank" rel="noreferer">10:02 UCT-7</a> 

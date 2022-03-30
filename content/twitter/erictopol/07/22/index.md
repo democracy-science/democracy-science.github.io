@@ -145,7 +145,7 @@ On Delta variant breakthrough infections in Houston:
 
 "Importantly, only 6.5% of all COVID-19 cases occurred in fully immunized individuals, and relatively few of these patients required hospitalization"
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.19.21260808v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.19 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.19.21260808v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.19 ...</a> 
  (+ yes, they are more common w/ Delta than prior🦠)</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1418314687448424448" target="_blank" rel="noreferer">13:59 UCT-7</a> 

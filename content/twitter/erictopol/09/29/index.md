@@ -28,7 +28,7 @@ What are the risks of Covid transmission related to air travel? Still much more 
 <div class="thread-content"> 
 The title tells the story:  No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic and Symptomatic Groups Infected with #SARSCoV2 Delta Variant
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.28.21264262v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.09.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.28 ...</a> 
  Findings extend prior reports of Delta asymptomatic infections in vaccinated </div> 
 <a href="/twitter/erictopol/images/FAd538TVUAMEPpj.jpg"  ><img src="/twitter/erictopol/images/FAd538TVUAMEPpj.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1443266213769928704" target="_blank" rel="noreferer">10:27 UCT-7</a> 

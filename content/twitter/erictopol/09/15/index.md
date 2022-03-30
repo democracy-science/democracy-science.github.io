@@ -129,7 +129,7 @@ Kudos to strong work by @yinonbaron @MiloLabWIS
 <div class="thread-content"> 
 New data on @Moderna_tx vaccine also shows waning of immunity,  36% fewer symptomatic breakthrough infections in an 8-month follow-up compared with 13-month, which the company says supports need for 3rd shots 
 
-<a href="https://www.ft.com/thread-content/160080b5-dc6b-47b0-b073-8aca600bc521" target="_blank" rel="noreferer">ft.com/thread-content/160080b5-dc6b-47b0-b073 ...</a> 
+<a href="https://www.ft.com/content/160080b5-dc6b-47b0-b073-8aca600bc521" target="_blank" rel="noreferer">ft.com/content/160080b5-dc6b-47b0-b073 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E_Wz94NVIAEm2WU.jpg"  ><img src="/twitter/erictopol/images/E_Wz94NVIAEm2WU.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1438259670615879682" target="_blank" rel="noreferer">14:53 UCT-7</a> 

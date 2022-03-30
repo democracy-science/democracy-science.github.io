@@ -5,7 +5,7 @@ category = "Twitter"
 +++
 <div class="thread"> 
 <div class="thread-content"> 
-Israel, where 3.4 million people have had a 3rd shot, required for its vaccine passport, is recovering from its 4th wave <a href="https://www.ft.com/thread-content/a1b2fd70-71b5-4e91-be0b-553b0e1e2639" target="_blank" rel="noreferer">ft.com/thread-content/a1b2fd70-71b5-4e91-be0b ...</a> 
+Israel, where 3.4 million people have had a 3rd shot, required for its vaccine passport, is recovering from its 4th wave <a href="https://www.ft.com/content/a1b2fd70-71b5-4e91-be0b-553b0e1e2639" target="_blank" rel="noreferer">ft.com/content/a1b2fd70-71b5-4e91-be0b ...</a> 
  @MehulAtLarge @FT data for 60+ </div> 
 <a href="/twitter/erictopol/images/FAyE-dHVgAYjxgk.jpg"  ><img src="/twitter/erictopol/images/FAyE-dHVgAYjxgk.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1444675844287303689" target="_blank" rel="noreferer">07:48 UCT-7</a> 
@@ -95,7 +95,7 @@ Getting everyone age 60+ vaccinated is mission critical.
 
 Many countries and US states have done that well; many are lagging
 
-<a href="https://www.ft.com/thread-content/3439145a-80a4-47ad-9ceb-54a0cb707cf7" target="_blank" rel="noreferer">ft.com/thread-content/3439145a-80a4-47ad-9ceb ...</a> 
+<a href="https://www.ft.com/content/3439145a-80a4-47ad-9ceb-54a0cb707cf7" target="_blank" rel="noreferer">ft.com/content/3439145a-80a4-47ad-9ceb ...</a> 
  @FT </div> 
 <a href="/twitter/erictopol/images/FA1PPleVgAsarGB.jpg"  ><img src="/twitter/erictopol/images/FA1PPleVgAsarGB.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1444899816299905024" target="_blank" rel="noreferer">22:38 UCT-7</a> 

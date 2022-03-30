@@ -77,12 +77,12 @@ New data have shed light on breakthrough infections across all age groups and mu
 
 1. The Israel data on restoration of protection vs severe illness with Pfizer booster shots among 4.6 million people
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.07 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.07 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBWrGBnVUAEFbHY.jpg"  ><img src="/twitter/erictopol/images/FBWrGBnVUAEFbHY.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 2. The New York State data for decline in protection from confirmed infections in all age groups for Pfizer, Moderna and J&amp;J vaccines among 8.8 million people
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.08.21264595v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.08 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.08.21264595v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.08 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBWszneVEAAYf4x.jpg"  ><img src="/twitter/erictopol/images/FBWszneVEAAYf4x.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 3. Summary of recent reports for decline (from &gt;90%) in vaccine effectiveness vs symptomatic infections for Pfizer, Moderna, and AZ vaccines </div> 
@@ -91,7 +91,7 @@ New data have shed light on breakthrough infections across all age groups and mu
 <a href="/twitter/erictopol/images/FBWuOe_VUAQKAOD.jpg"  ><img src="/twitter/erictopol/images/FBWuOe_VUAQKAOD.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 5. Nearly all breakthrough deaths occur in people over age 60. The Israel data for people 60+ shows protection from death with Pfizer boosters (14.7-fold, primary analysis)
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.07 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.07 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBWvD_VUcAAvd5u.jpg"  ><img src="/twitter/erictopol/images/FBWvD_VUcAAvd5u.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1447272731108524034" target="_blank" rel="noreferer">11:48 UCT-7</a> 

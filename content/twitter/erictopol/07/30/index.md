@@ -69,7 +69,7 @@ And there is much evidence for people with prior covid to get 1 shot (even bette
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-On #LongCovid, @Dr2NisreenAlwan, a leading authority on this condition, has an exceptional perspective @ScienceMagazine today reviewing what we know, which is grossly insufficient, and what we need to do <a href="https://science.sciencemag.org/thread-content/373/6554/491.full" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/373/6554/49 ...</a> 
+On #LongCovid, @Dr2NisreenAlwan, a leading authority on this condition, has an exceptional perspective @ScienceMagazine today reviewing what we know, which is grossly insufficient, and what we need to do <a href="https://science.sciencemag.org/content/373/6554/491.full" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6554/49 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E7e3FmoVkAAV1iZ.png"  ><img src="/twitter/erictopol/images/E7e3FmoVkAAV1iZ.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7e3HJyUUAEOAYI.jpg"  ><img src="/twitter/erictopol/images/E7e3HJyUUAEOAYI.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7e3Il0UcAIBh0L.png"  ><img src="/twitter/erictopol/images/E7e3Il0UcAIBh0L.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E7e3KFRUUAAvHUO.jpg"  ><img src="/twitter/erictopol/images/E7e3KFRUUAAvHUO.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1421164143785103365" target="_blank" rel="noreferer">10:41 UCT-7</a> 

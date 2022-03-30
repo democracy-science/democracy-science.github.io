@@ -78,7 +78,7 @@ Well beyond mink and deer reservoirs:
 
 "The World Organisation for Animal Health, known as OIE, has recorded 598 Covid outbreaks in animals affecting 14 species in 30 countries"
 
-<a href="https://www.ft.com/thread-content/70dffb85-5c17-4dac-a1a5-b79c58d91270" target="_blank" rel="noreferer">ft.com/thread-content/70dffb85-5c17-4dac-a1a5 ...</a> 
+<a href="https://www.ft.com/content/70dffb85-5c17-4dac-a1a5-b79c58d91270" target="_blank" rel="noreferer">ft.com/content/70dffb85-5c17-4dac-a1a5 ...</a> 
  @clivecookson </div> 
 <a href="/twitter/erictopol/images/FEfqu4cUUA4OQB7.jpg"  ><img src="/twitter/erictopol/images/FEfqu4cUUA4OQB7.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1461454679036989440" target="_blank" rel="noreferer">15:02 UCT-7</a> 

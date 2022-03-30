@@ -18,7 +18,7 @@ Stay positive </div>
 <div class="thread-content"> 
 Substantial waning of immunity for both neutralizing antibodies and T cell response at 7 months after Pfizer vaccination
 
-<a href="https://www.biorxiv.org/thread-content/10.1101/2021.09.30.462488v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.09.30 ...</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2021.09.30.462488v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.09.30 ...</a> 
  by @SutharLab @EmoryUniversity and collaborators </div> 
 <a href="/twitter/erictopol/images/FAnpgaJVcAM3cxt.jpg"  ><img src="/twitter/erictopol/images/FAnpgaJVcAM3cxt.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FAnpEzqVEAAHg2U.jpg"  ><img src="/twitter/erictopol/images/FAnpEzqVEAAHg2U.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1443943055216680960" target="_blank" rel="noreferer">07:17 UCT-7</a> 
@@ -155,7 +155,7 @@ Look what happens vs US with 30 per cent points lower fully vaccinated (56%)
 <div class="thread-content"> 
 Vaccination reduces transmission; the extent appears to vary with the vaccine and the #SARSCoV2 strain
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.28.21264260v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.09.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.28.21264260v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.28 ...</a> 
 
 
 Alpha: Pfizer 82%, AZ 63% reduction

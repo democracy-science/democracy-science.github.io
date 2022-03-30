@@ -49,7 +49,7 @@ As US schools opened, kids hospital admissions "plunged".
 
 Counter to many predictions
 
-<a href="https://www.bloomberg.com/news/articles/2021-10-26/pediatric-covid-hospital-visits-plunge-in-u-s-as-schools-reopen?utm_campaign=KHN%3A%20First%20Edition&utm_medium=email&_hsmi=175573134&_hsenc=p2ANqtz-_Uj6yMM087VcEHwpQnca8nGKHPGc-ZYwdS_pV_xAtlNq7y5L-hDkLVGAhVfdDbwRFtcg6dRfe3Bf3XcGjFvAWXGeTqTA&utm_thread-content=175573134&utm_source=hs_email" target="_blank" rel="noreferer">bloomberg.com/news/articles/2021-10-26 ...</a> 
+<a href="https://www.bloomberg.com/news/articles/2021-10-26/pediatric-covid-hospital-visits-plunge-in-u-s-as-schools-reopen?utm_campaign=KHN%3A%20First%20Edition&utm_medium=email&_hsmi=175573134&_hsenc=p2ANqtz-_Uj6yMM087VcEHwpQnca8nGKHPGc-ZYwdS_pV_xAtlNq7y5L-hDkLVGAhVfdDbwRFtcg6dRfe3Bf3XcGjFvAWXGeTqTA&utm_content=175573134&utm_source=hs_email" target="_blank" rel="noreferer">bloomberg.com/news/articles/2021-10-26 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FCuWwkHVcAATCH3.jpg"  ><img src="/twitter/erictopol/images/FCuWwkHVcAATCH3.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1454910426571935751" target="_blank" rel="noreferer">13:37 UCT-7</a> 

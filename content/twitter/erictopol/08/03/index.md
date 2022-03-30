@@ -155,7 +155,7 @@ Good question: Why is #SARSCoV2 prone to superspreading, following the Pareto 80
 <div class="thread-content"> 
 A large UK study of vaccination protection from Delta symptomatic breakthrough infections found effectiveness of ~60%  (combines AZ and Pfizer vaccines)
 
-<a href="https://www.ft.com/thread-content/df4db947-8697-49a7-b38b-e46bd86ba915" target="_blank" rel="noreferer">ft.com/thread-content/df4db947-8697-49a7-b38b ...</a> 
+<a href="https://www.ft.com/content/df4db947-8697-49a7-b38b-e46bd86ba915" target="_blank" rel="noreferer">ft.com/content/df4db947-8697-49a7-b38b ...</a> 
 
 
 <a href="https://www.reuters.com/world/uk/english-study-finds-50-60-reduced-risk-covid-double-vaccinated-2021-08-03/" target="_blank" rel="noreferer">reuters.com/world/uk/english-study-fin ...</a> 

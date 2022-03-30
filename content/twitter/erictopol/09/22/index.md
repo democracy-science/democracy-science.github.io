@@ -165,7 +165,7 @@ The side-by-side graphs are comparing vaccine efficacy (VE) from the original, l
 </div> 
 <div class="thread"> 
 <div class="thread-content"> 
-In both the US and England covid cases among children are at a record high. Here are the data from England, and a concern about transmission between children and parents <a href="https://www.ft.com/thread-content/1b884913-30cb-4b3e-9a2c-643287188387" target="_blank" rel="noreferer">ft.com/thread-content/1b884913-30cb-4b3e-9a2c ...</a> 
+In both the US and England covid cases among children are at a record high. Here are the data from England, and a concern about transmission between children and parents <a href="https://www.ft.com/content/1b884913-30cb-4b3e-9a2c-643287188387" target="_blank" rel="noreferer">ft.com/content/1b884913-30cb-4b3e-9a2c ...</a> 
  by @mroliverbarnes @jburnmurdoch @bethanstaton </div> 
 <a href="/twitter/erictopol/images/E_7W_lqVQAccFhW.jpg"  ><img src="/twitter/erictopol/images/E_7W_lqVQAccFhW.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 In the past 2 weeks in the US there has been a small ~10% reduction of cases among children, who comprise 26% of all cases

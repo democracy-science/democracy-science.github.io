@@ -96,7 +96,7 @@ Important new study on immunity (anti-spike Ab) waning and breakthrough infectio
 
 2.Anti-S correlated w/ risk of breakthroughs
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.05.21265968v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.11.05 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.05.21265968v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.05 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDxzYmyUYAEX4BS.jpg"  ><img src="/twitter/erictopol/images/FDxzYmyUYAEX4BS.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FDxzaFAUUAEOMmN.jpg"  ><img src="/twitter/erictopol/images/FDxzaFAUUAEOMmN.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 "Our data demonstrate the importance of booster doses to maintain protection in the elderly and clinically vulnerable and suggest that these should be prioritized to those who received ChAdOx1 [AZ vaccine] as their primary course."</div> 

@@ -70,7 +70,7 @@ Analysis of all covid deaths in England from Jan-July 2021 (total 51,281) shows 
 
 In contrast, 37.4% were among unvaccinated
 
-<a href="https://www.ft.com/thread-content/03c21dd0-f5cc-45f6-a10f-44ddd63a75af" target="_blank" rel="noreferer">ft.com/thread-content/03c21dd0-f5cc-45f6-a10f ...</a> 
+<a href="https://www.ft.com/content/03c21dd0-f5cc-45f6-a10f-44ddd63a75af" target="_blank" rel="noreferer">ft.com/content/03c21dd0-f5cc-45f6-a10f ...</a> 
  by @valentinaromei @FT </div> 
 <a href="/twitter/erictopol/images/E_KuXI2VEAQOf1d.jpg"  ><img src="/twitter/erictopol/images/E_KuXI2VEAQOf1d.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437421520268103680" target="_blank" rel="noreferer">07:22 UCT-7</a> 

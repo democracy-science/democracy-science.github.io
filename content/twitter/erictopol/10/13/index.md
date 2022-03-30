@@ -103,7 +103,7 @@ Minnesota hospitalizations are now &gt;80% of peak, before vaccinations, at near
 <div class="thread-content"> 
 A big mix and match vaccine report in 458 participants with Pfizer, Moderna, J&amp;J, then getting another vaccine 12 weeks later: markedly increased neutralizing antibody response by mixing (up to 76-fold) w/ these 9 combinations (Figure)
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.10.21264827v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.10 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.10.21264827v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.10 ...</a> 
  (not Delta strain) </div> 
 <a href="/twitter/erictopol/images/FBmKc1OVIAEPu8R.jpg"  ><img src="/twitter/erictopol/images/FBmKc1OVIAEPu8R.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The big takeaway from this dataset is the response to J&amp;J vaccine with a Moderna or Pfizer booster, taking that vaccine with low levels of neutralizing antibodies to close to parity with the mRNAs

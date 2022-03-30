@@ -39,7 +39,7 @@ Addressing the anti-vaxxer BS about vaccines not preventing transmission. It's n
 
 "Effectiveness of full vaccination of the index against transmission to unvaccinated household contacts was 63% (95%CI 46-75%)."
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.14.21264959v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.14 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.14.21264959v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.14 ...</a> 
 </div> 
 <hr><div class="thread-content"> 
 2. UK study with Delta by genome sequencing, household transmission reduced from 38% (via unvaxxed) to 25% (vaxxed), a 35% reduction

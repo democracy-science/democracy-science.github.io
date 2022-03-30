@@ -85,7 +85,7 @@ Their covid test positivity looks a little different, too
 <div class="thread-content"> 
 We don't know much about the functional significance of the mutations in Lambda (C.37), a variant of interest that emerged in South America, that is also on a new path
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.06.26 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.06.26.21259487v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.06.26 ...</a> 
 
 
 <a href="https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know" target="_blank" rel="noreferer">nationalgeographic.com/science/article ...</a> 
@@ -104,7 +104,7 @@ No sign a booster vs Delta is necessary (study is limited by small number of par
 
 @FT by @nikasgari </div> 
 <a href="/twitter/erictopol/images/E6TFTFgVIAEhkbe.jpg"  ><img src="/twitter/erictopol/images/E6TFTFgVIAEhkbe.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-A new lab study preprint compares the 2-dose mRNA vaccines with 1-dose J&amp;J for neutralizing antibodies vs Delta <a href="https://www.biorxiv.org/thread-content/10.1101/2021.07.19.452771v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.07.19 ...</a> 
+A new lab study preprint compares the 2-dose mRNA vaccines with 1-dose J&amp;J for neutralizing antibodies vs Delta <a href="https://www.biorxiv.org/content/10.1101/2021.07.19.452771v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.07.19 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6xYd5yVIAA9QCO.jpg"  ><img src="/twitter/erictopol/images/E6xYd5yVIAA9QCO.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1417626586292002819" target="_blank" rel="noreferer">16:24 UCT-7</a> 

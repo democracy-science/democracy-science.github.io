@@ -39,7 +39,7 @@ The latest on mask efficacy from the randomized trial of policy in 350,000 peopl
 <div class="thread-content"> 
 Does the @moderna_tx mRNA vaccine (including dose, dosing schedule) have an edge over @pfizer's, and what are the implications for boosters?
 
-<a href="https://www.ft.com/thread-content/aaddc31b-415d-43d0-b314-bc89a8b860e0" target="_blank" rel="noreferer">ft.com/thread-content/aaddc31b-415d-43d0-b314 ...</a> 
+<a href="https://www.ft.com/content/aaddc31b-415d-43d0-b314-bc89a8b860e0" target="_blank" rel="noreferer">ft.com/content/aaddc31b-415d-43d0-b314 ...</a> 
  @FT by @hannahkuchler </div> 
 <a href="/twitter/erictopol/images/E-cdAWMVEAIRi_J.jpg"  ><img src="/twitter/erictopol/images/E-cdAWMVEAIRi_J.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-cdDacVkAIW_ys.jpg"  ><img src="/twitter/erictopol/images/E-cdDacVkAIW_ys.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-cdGY3VgAAbHwt.jpg"  ><img src="/twitter/erictopol/images/E-cdGY3VgAAbHwt.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Links to the 2 studies reported this week on the difference in antibody response <a href="https://twitter.com/EricTopol/status/1433447242443091973" target="_blank" rel="noreferer">twitter.com/EricTopol/status/1433447242443 ...</a> 

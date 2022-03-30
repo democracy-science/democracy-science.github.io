@@ -95,7 +95,7 @@ The UK has done far better than the US for uncoupling cases from hospitalization
 <div class="thread-content"> 
 Important report from Puerto Rico (a model for 💉and the lowest US case/capita) for &gt; 2.2 million resident vaccinations
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.17.21265101v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.17 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.17.21265101v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.17 ...</a> 
 
 
 Significant waning over time, in the Delta phase, with drop down of effectiveness at 4+ months for J&amp;J to 30%, 60% Pfizer, 70% Moderna </div> 

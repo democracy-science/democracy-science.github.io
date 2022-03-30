@@ -83,7 +83,7 @@ Good progress. Delta descent metrics despite concerns about schools broadly open
 <div class="thread-content"> 
 Vaccination reduces transmission; the extent appears to vary with the vaccine and the #SARSCoV2 strain
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.28.21264260v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.09.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.28.21264260v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.28 ...</a> 
 
 
 Alpha: Pfizer 82%, AZ 63% reduction

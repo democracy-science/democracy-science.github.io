@@ -23,7 +23,7 @@ I like this "Propitiously Boring Implications for Vaccine Escape" 👍👍
 
 "The modest ensemble of mutations relative to the WT (wild-type) shown to reduce vaccine efficacy might constitute the majority of all possible escape mutations."
 
-<a href="https://www.biorxiv.org/thread-content/10.1101/2021.08.30.458225v1" target="_blank" rel="noreferer">biorxiv.org/thread-content/10.1101/2021.08.30 ...</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2021.08.30.458225v1" target="_blank" rel="noreferer">biorxiv.org/content/10.1101/2021.08.30 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E-IVgUVUUAMiNtM.jpg"  ><img src="/twitter/erictopol/images/E-IVgUVUUAMiNtM.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E-IVifsVgAItbWm.jpg"  ><img src="/twitter/erictopol/images/E-IVifsVgAItbWm.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1432732535205687296" target="_blank" rel="noreferer">08:50 UCT-7</a> 
@@ -110,7 +110,7 @@ New @PNASNews
 
 Exposure maps of airborne transmission and the flaws of models and current guidelines that have given a consistent and gross underestimate of infection risk 
 
-<a href="https://www.pnas.org/thread-content/118/37/e2105279118" target="_blank" rel="noreferer">pnas.org/thread-content/118/37/e2105279118</a> 
+<a href="https://www.pnas.org/content/118/37/e2105279118" target="_blank" rel="noreferer">pnas.org/content/118/37/e2105279118</a> 
  </div> 
 <hr><div class="thread-content"> 
 Effect of sneezing at different temperatures and humidity %, time to evaporation </div> 

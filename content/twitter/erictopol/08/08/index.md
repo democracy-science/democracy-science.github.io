@@ -72,7 +72,7 @@ But March -&gt; June are before Delta </div>
 <a href="/twitter/erictopol/images/E8SE1wUVoAI55x5.jpg"  ><img src="/twitter/erictopol/images/E8SE1wUVoAI55x5.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 You can see the test positivity rate climbing with Delta to 9% but testing is much less than half of the 3rd wave
 
-<a href="https://www.sandiegocounty.gov/thread-content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Watch.pdf" target="_blank" rel="noreferer">sandiegocounty.gov/thread-content/dam/sdc/hhs ...</a> 
+<a href="https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Watch.pdf" target="_blank" rel="noreferer">sandiegocounty.gov/content/dam/sdc/hhs ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8SH2g7UYAExdqu.jpg"  ><img src="/twitter/erictopol/images/E8SH2g7UYAExdqu.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1424415226649214981" target="_blank" rel="noreferer">10:00 UCT-7</a> 

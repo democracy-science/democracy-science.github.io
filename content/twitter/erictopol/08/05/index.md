@@ -9,7 +9,7 @@ The striking relationship between vaccination and hospitalization in US states.
 
 [#VaccinesWork vs Delta, in case you didn't know that]
 
-<a href="https://www.ft.com/thread-content/21ed4e9c-2b20-4a9d-bf38-6b76212beef8" target="_blank" rel="noreferer">ft.com/thread-content/21ed4e9c-2b20-4a9d-bf38 ...</a> 
+<a href="https://www.ft.com/content/21ed4e9c-2b20-4a9d-bf38-6b76212beef8" target="_blank" rel="noreferer">ft.com/content/21ed4e9c-2b20-4a9d-bf38 ...</a> 
  by @jburnmurdoch and @nikasgari @FT </div> 
 <a href="/twitter/erictopol/images/E8B4AxMVUAANn8_.jpg"  ><img src="/twitter/erictopol/images/E8B4AxMVUAANn8_.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 A preventable pandemic record set in FL with LA and AR not far behind </div> 
@@ -77,7 +77,7 @@ Many people are thinking about or have obtained antibody (Ab) tests after vaccin
 <a href="/twitter/erictopol/images/E8D8tzrUYAELDO5.jpg"  ><img src="/twitter/erictopol/images/E8D8tzrUYAELDO5.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-Great to see this profile feature on @j_g_allen in @ScienceMagazine today. He has been a leading light for the pandemic for the importance of air quality, masks, ventilation and more <a href="https://science.sciencemag.org/thread-content/373/6555/612" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/373/6555/61 ...</a> 
+Great to see this profile feature on @j_g_allen in @ScienceMagazine today. He has been a leading light for the pandemic for the importance of air quality, masks, ventilation and more <a href="https://science.sciencemag.org/content/373/6555/612" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6555/61 ...</a> 
 
 
 by @douglasstar with @ScienceVisuals </div> 
@@ -142,7 +142,7 @@ And nearly half-way to peak hospitalizations </div>
 <div class="thread-content"> 
 The Israeli data for increased mRNA-vaccination breakthrough infections and "waning immunity" is finally available 
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.03.21261496v1?__cf_chl_jschl_tk__=pmd_e2ea998b4d62d17a2afd596b60deedbd98393a3c-1628225627-0-gqNtZGzNAfijcnBszQfi" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.03 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.03.21261496v1?__cf_chl_jschl_tk__=pmd_e2ea998b4d62d17a2afd596b60deedbd98393a3c-1628225627-0-gqNtZGzNAfijcnBszQfi" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.03 ...</a> 
  h/t @Aiims1742 
 
 Overall 2X risk, no statistical significant difference between age groups, but trend of increase w/ age </div> 

@@ -90,7 +90,7 @@ Just published @ScienceMagazine
 
 A phenomenal, tour de force review of aerosol transmission of respiratory viruses, from the experts. #COVIDisAirborne 
 
- <a href="http://science.sciencemag.org/thread-content/373/6558/eabd9149.full" target="_blank" rel="noreferer">http://science.sciencemag.org/thread-content/373/6558/eab ...</a> 
+ <a href="http://science.sciencemag.org/content/373/6558/eabd9149.full" target="_blank" rel="noreferer">http://science.sciencemag.org/content/373/6558/eab ...</a> 
  w/ @ScienceVisuals </div> 
 <a href="/twitter/erictopol/images/E9vBT1WVoAA3kXS.jpg"  ><img src="/twitter/erictopol/images/E9vBT1WVoAA3kXS.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9vBV9NVcAI8IP4.jpg"  ><img src="/twitter/erictopol/images/E9vBV9NVcAI8IP4.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9vBXpbVUAMfObb.jpg"  ><img src="/twitter/erictopol/images/E9vBXpbVUAMfObb.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E9vBZWjVoAQmJ0H.jpg"  ><img src="/twitter/erictopol/images/E9vBZWjVoAQmJ0H.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430962537911123970" target="_blank" rel="noreferer">11:37 UCT-7</a> 
@@ -167,7 +167,7 @@ Today, on CoronaVac," and variants of concern, @TheLancetInfDis
 <div class="thread-content"> 
 Colleges and universities must require vaccination. With full FDA approval, only 753 of ~4000 have done so thus far. It shouldn't require the struggle as reviewed here
 
-<a href="http://science.sciencemag.org/thread-content/373/6558/945" target="_blank" rel="noreferer">http://science.sciencemag.org/thread-content/373/6558/945</a> 
+<a href="http://science.sciencemag.org/content/373/6558/945" target="_blank" rel="noreferer">http://science.sciencemag.org/content/373/6558/945</a> 
 
 
 @ScienceMagazine </div> 

@@ -100,7 +100,7 @@ The primacy of the antibody response after mRNA vaccination, how different level
 <div class="thread-content"> 
 The data from Israel, for fully mRNA vaccinated reduced protection vs severe illness from Delta, in age &gt; 60, down from 97% to 81%, is yet unpublished, but has led to a change in policy to offer booster shots for this age group
 
-<a href="https://www.ft.com/thread-content/b6a80442-a566-43ca-b23d-7793d417eddb" target="_blank" rel="noreferer">ft.com/thread-content/b6a80442-a566-43ca-b23d ...</a> 
+<a href="https://www.ft.com/content/b6a80442-a566-43ca-b23d-7793d417eddb" target="_blank" rel="noreferer">ft.com/content/b6a80442-a566-43ca-b23d ...</a> 
  by @MehulAtLarge @FT </div> 
 <a href="/twitter/erictopol/images/E7eepeSUcAI0TYz.jpg"  ><img src="/twitter/erictopol/images/E7eepeSUcAI0TYz.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 If this holds up, it's the first sign of a significant dropdown of protection against hospitalizations and death for these vaccines. I hope all of the data will be shared ASAP as the implications are big.</div> 

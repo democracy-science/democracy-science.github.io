@@ -43,7 +43,7 @@ The horrific tragedy in Indonesia, population 271 million, 4th largest in the wo
 <div class="thread-content"> 
 Good summary of the 2 methods, AlphaFold and RoseTTA-fold, that have big implications for catalyzing and advancing genomics, drug discovery, protein engineering and beyond
 
-<a href="https://science.sciencemag.org/thread-content/373/6552/262.summary" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/373/6552/26 ...</a> 
+<a href="https://science.sciencemag.org/content/373/6552/262.summary" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6552/26 ...</a> 
  @ScienceMagazine by @epennisi </div> 
 <a href="/twitter/erictopol/images/E6WygZ7VcAAS14l.jpg"  ><img src="/twitter/erictopol/images/E6WygZ7VcAAS14l.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E6WyhoWVEAIqDDM.jpg"  ><img src="/twitter/erictopol/images/E6WyhoWVEAIqDDM.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1416040089835106310" target="_blank" rel="noreferer">07:20 UCT-7</a> 
@@ -129,7 +129,7 @@ Reflecting Delta's challenge &amp; the unvaccinated
 
 The UK's cases &gt;51,000 today, highest since January Even w/ 88% of adults w/ at least 1 dose vaccination, hospitalizations are rising, projected to go much higher after reopening
 
-<a href="https://www.ft.com/thread-content/ba99bec3-b9ce-4c49-a5ac-d258e709d266" target="_blank" rel="noreferer">ft.com/thread-content/ba99bec3-b9ce-4c49-a5ac ...</a> 
+<a href="https://www.ft.com/content/ba99bec3-b9ce-4c49-a5ac-d258e709d266" target="_blank" rel="noreferer">ft.com/content/ba99bec3-b9ce-4c49-a5ac ...</a> 
  @FT @GeorgeWParker @Cliffcook </div> 
 <a href="/twitter/erictopol/images/E6cYSfyUUAE2w7Y.jpg"  ><img src="/twitter/erictopol/images/E6cYSfyUUAE2w7Y.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1416134334029828096" target="_blank" rel="noreferer">13:35 UCT-7</a> 

@@ -83,7 +83,7 @@ More on the @NEJM report from yesterday, beginning of this thread
 <div class="thread-content"> 
 A summary table of the studies that have assessed mRNA vaccine effectiveness (VE) for Delta infections, updated with reports from yesterday, overall in line with estimate ~50-60%;  *does not pertain* to high VE for hospitalizations or deaths </div> 
 <a href="/twitter/erictopol/images/E9J_7QbVIAEZ06F.png"  ><img src="/twitter/erictopol/images/E9J_7QbVIAEZ06F.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-And a graphic summary @FT of some of these reports <a href="https://www.ft.com/thread-content/49641651-e10a-45f6-a7cc-8b8c7b7a9710" target="_blank" rel="noreferer">ft.com/thread-content/49641651-e10a-45f6-a7cc ...</a> 
+And a graphic summary @FT of some of these reports <a href="https://www.ft.com/content/49641651-e10a-45f6-a7cc-8b8c7b7a9710" target="_blank" rel="noreferer">ft.com/content/49641651-e10a-45f6-a7cc ...</a> 
 
 
 "Public Health England’s real-world studies in May painted a rosier picture...But the new studies appear more in line with research in Israel"

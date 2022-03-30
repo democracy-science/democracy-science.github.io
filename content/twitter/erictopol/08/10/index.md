@@ -116,7 +116,7 @@ undetectable: 51%
 
 1000: 96%
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.09.21261290v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.09 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.09.21261290v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.09 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8c6TreVUAAqjYy.jpg"  ><img src="/twitter/erictopol/images/E8c6TreVUAAqjYy.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8c4_VYVkAUlJ3P.jpg"  ><img src="/twitter/erictopol/images/E8c4_VYVkAUlJ3P.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1425200518259875843" target="_blank" rel="noreferer">14:00 UCT-7</a> 

@@ -16,7 +16,7 @@ by @Patbagley and @MatttDavies </div>
 <div class="thread-content"> 
 An important new study from Qatar on waning of the Pfizer vaccine's protection against symptomatic infection at 6 months to &lt;50%, with preserved effectiveness vs hospitalization, adds to a growing body of consistent evidence for this dichotomy  
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.25.21262584v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.25 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.25.21262584v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.25 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E94kNcpVkAIWpoJ.png"  ><img src="/twitter/erictopol/images/E94kNcpVkAIWpoJ.png" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 This week's Kaiser Permanente @KPSCalResearch report from &gt;3.3 million people showed a decline of Pfizer  vaccine effectiveness against infections to 53%[95% CI 38,65] at ≥4 months yet preserved 93% VE against hospitalizations <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3909743" target="_blank" rel="noreferer">papers.ssrn.com/sol3/papers.cfm?abstract_i ...</a> 

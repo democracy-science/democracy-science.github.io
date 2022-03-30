@@ -27,7 +27,7 @@ Notably, the @CDCgov position on boosters is different from the @WhiteHouse</div
 <div class="thread-content"> 
 “We are in the early stages of what will be a substantial fifth wave”
 
-<a href="https://www.ft.com/thread-content/cde3ef32-a754-4aae-82ca-7d8153af51b7" target="_blank" rel="noreferer">ft.com/thread-content/cde3ef32-a754-4aae-82ca ...</a> 
+<a href="https://www.ft.com/content/cde3ef32-a754-4aae-82ca-7d8153af51b7" target="_blank" rel="noreferer">ft.com/content/cde3ef32-a754-4aae-82ca ...</a> 
   by @JamieSmythF @caitlinsgilbert
 
 With low vaccination % and waning, we are far less protected than countries in Europe experiencing a  surge </div> 
@@ -45,7 +45,7 @@ The UK's path towards improvement as much of Europe is worsening
 
 1. Boosters (3rd shots) are working, as seen by fewer hospital admissions among the age groups receiving them
 
-<a href="https://www.ft.com/thread-content/974487ab-54be-4b43-945c-597277aa1292" target="_blank" rel="noreferer">ft.com/thread-content/974487ab-54be-4b43-945c ...</a> 
+<a href="https://www.ft.com/content/974487ab-54be-4b43-945c-597277aa1292" target="_blank" rel="noreferer">ft.com/content/974487ab-54be-4b43-945c ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FE8PTc8UUAAY_FI.jpg"  ><img src="/twitter/erictopol/images/FE8PTc8UUAAY_FI.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 2. Infection-acquired immunity playing a role </div> 

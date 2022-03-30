@@ -39,7 +39,7 @@ We don't have an explanation for this glaring contradiction, which could include
 <a href="https://www.bbc.com/news/health-57929953" target="_blank" rel="noreferer">bbc.com/news/health-57929953</a> 
 </div> 
 <hr><div class="thread-content"> 
-It is clear that post-vaccination Delta infections are more common than prior versions of the virus, such as this preprint from yesterday /4 <a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.19.21260808v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.19 ...</a> 
+It is clear that post-vaccination Delta infections are more common than prior versions of the virus, such as this preprint from yesterday /4 <a href="https://www.medrxiv.org/content/10.1101/2021.07.19.21260808v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.19 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E6_B80QVEAQez1p.jpg"  ><img src="/twitter/erictopol/images/E6_B80QVEAQez1p.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 There is certain risk for infection Delta post-vaccination, even with the most potent vaccines, although the level of risk is uncertain (between 39-88% protection so far. The risk for severe illness (incl hospitalization/death) is extremely low (&lt;-can't be emphasized enough) /5</div> 

@@ -65,7 +65,7 @@ The text, and more details of baseline features and types of severe cases can be
 <div class="thread-content"> 
 A 3-shot vaccine that reduced a cancer by 87%
 
-<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02178-4/fulltext?utm_campaign=lancet&utm_thread-content=185960506&utm_medium=social&utm_source=twitter&hss_channel=tw-27013292" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02178-4/fulltext?utm_campaign=lancet&utm_content=185960506&utm_medium=social&utm_source=twitter&hss_channel=tw-27013292" target="_blank" rel="noreferer">thelancet.com/journals/lancet/article/ ...</a> 
  #VaccinesWork</div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1456061498481000448" target="_blank" rel="noreferer">17:51 UCT-7</a> 
@@ -116,7 +116,7 @@ Just published  @bmj_latest
 
 A focus of the pandemic toll has been on death, which ignores years of life lost (YYL). Among 31 countries, there has been &gt; 28 million YYL. The US, adjusted per capita, is among the highest
 
-<a href="https://www.bmj.com/thread-content/375/e066768" target="_blank" rel="noreferer">bmj.com/thread-content/375/e066768</a> 
+<a href="https://www.bmj.com/content/375/e066768" target="_blank" rel="noreferer">bmj.com/content/375/e066768</a> 
  </div> 
 <a href="/twitter/erictopol/images/FDTI71tUYAUXULh.jpg"  ><img src="/twitter/erictopol/images/FDTI71tUYAUXULh.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/FDTJEIyVIAMzNIF.jpg"  ><img src="/twitter/erictopol/images/FDTJEIyVIAMzNIF.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 That's YLL (typo), and here are 2 more Figures from the paper that convey the magnitude and how the US stands out as one of the highest YLL due to loss of lives among younger individuals, particularly men </div> 

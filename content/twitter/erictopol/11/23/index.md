@@ -66,7 +66,7 @@ These are important data, fully concordant with 2 recent studies, reinforcing wh
 <a href="/twitter/erictopol/images/FE5BkfkVkAIElo1.jpg"  ><img src="/twitter/erictopol/images/FE5BkfkVkAIElo1.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 A 25-50 fold increase in levels of neutralizing antibody of the booster (3rd dose) compared with the 2nd, and more rapidly generated
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.11.19.21266555v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.11.19 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.11.19.21266555v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.11.19 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FE5DF6sVUAESgS0.jpg"  ><img src="/twitter/erictopol/images/FE5DF6sVUAESgS0.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1463184442701201409" target="_blank" rel="noreferer">09:35 UCT-7</a> 

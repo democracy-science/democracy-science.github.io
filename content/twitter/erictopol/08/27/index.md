@@ -99,7 +99,7 @@ Otherwise, Helen, the data are specific to Pfizer</div>
 <div class="thread-content"> 
 The evidence of mRNA vaccine effectiveness (VE) waning grows: large Qatar experience shows substantial 5 month attrition for symptomatic infection VE below 50% and, to a lesser extent, vs hospitalization and death
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.25.21262584v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.25 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.25.21262584v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.25 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E90xzZbVUAEIX1v.png"  ><img src="/twitter/erictopol/images/E90xzZbVUAEIX1v.png" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E90xxQQUcAAsHLl.jpg"  ><img src="/twitter/erictopol/images/E90xxQQUcAAsHLl.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Here are the data over time for VE vs infection and hospitalization/death. For latter, relatively few cases after 20 weeks, wide and overlapping 95% confidence intervals, so decline in protection from hospitalization is uncertain, not statistically significant </div> 

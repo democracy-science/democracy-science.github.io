@@ -113,7 +113,7 @@ The largest healthcare company in the world makes headlines everywhere for a "9-
 <div class="thread-content"> 
 In Israel's Delta wave, a comparison of natural infection immunity versus 2-dose Pfizer mRNA vaccination for reinfection or breakthrough infections, respectively.
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.24.21262415v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.24 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.24 ...</a> 
 </div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1430621957226074113" target="_blank" rel="noreferer">13:03 UCT-7</a> 

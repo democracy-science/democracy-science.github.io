@@ -88,7 +88,7 @@ New reports on interferon (IFN) and Covid-19
 
 1. IFN Auto-antibodies in ~14% of patients w/ critical Covid, and are present pre-Covid, increasing with age (&gt;6% for over age 80)
 
-<a href="https://immunology.sciencemag.org/thread-content/6/62/eabl4340" target="_blank" rel="noreferer">immunology.sciencemag.org/thread-content/6/62/eab ...</a> 
+<a href="https://immunology.sciencemag.org/content/6/62/eabl4340" target="_blank" rel="noreferer">immunology.sciencemag.org/content/6/62/eab ...</a> 
  @SciImmunology </div> 
 <a href="/twitter/erictopol/images/E9QSVdyUYAMT4hS.jpg"  ><img src="/twitter/erictopol/images/E9QSVdyUYAMT4hS.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428788219961765890" target="_blank" rel="noreferer">11:37 UCT-7</a> 
@@ -133,7 +133,7 @@ Surgical face masks: 8-fold decrease
 
 Details here, preprint
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.17.21262169v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.17 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.17.21262169v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.17 ...</a> 
 </div> 
 <hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1428846323629838339" target="_blank" rel="noreferer">15:28 UCT-7</a> 

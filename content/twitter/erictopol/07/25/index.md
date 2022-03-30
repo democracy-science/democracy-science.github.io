@@ -158,7 +158,7 @@ The US Delta wave's impact on hospitalizations (H), now approaching 35,000 and p
 <a href="/twitter/erictopol/images/E7MSFwiUUAQUJw9.jpg"  ><img src="/twitter/erictopol/images/E7MSFwiUUAQUJw9.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-I still cannot understand why intranasal vaccines have not been given top priority, given their remarkable allure to block Covid transmission; an excellent explainer for why and status @ScienceMagazine <a href="https://science.sciencemag.org/thread-content/373/6553/397" target="_blank" rel="noreferer">science.sciencemag.org/thread-content/373/6553/39 ...</a> 
+I still cannot understand why intranasal vaccines have not been given top priority, given their remarkable allure to block Covid transmission; an excellent explainer for why and status @ScienceMagazine <a href="https://science.sciencemag.org/content/373/6553/397" target="_blank" rel="noreferer">science.sciencemag.org/content/373/6553/39 ...</a> 
 
 
 w/@ScienceVisuals </div> 

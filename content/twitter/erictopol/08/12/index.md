@@ -13,7 +13,7 @@ There are now 5 mRNA vaccine effectiveness studies for preventing Delta infectio
 <a href="/twitter/erictopol/images/E8lrtYHVkAAUXp6.jpg"  ><img src="/twitter/erictopol/images/E8lrtYHVkAAUXp6.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 This reduction of protection is quite different from the 6-month follow up of the Pfizer and Moderna pivotal trials which showed modest decline, but were against the original strain, not Delta
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.28 ...</a> 
 
 
 <a href="https://www.nytimes.com/2021/08/05/world/moderna-vaccine-efficacy.html" target="_blank" rel="noreferer">nytimes.com/2021/08/05/world/moderna-v ...</a> 
@@ -21,7 +21,7 @@ This reduction of protection is quite different from the 6-month follow up of th
 <a href="/twitter/erictopol/images/E8luJZiVIAQ2YrL.jpg"  ><img src="/twitter/erictopol/images/E8luJZiVIAQ2YrL.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 This vulnerability to infections appears to be driven by time since vaccine, such as seen in this Israeli analysis. The age trend is noted, not statistically significant 
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.08.03.21261496v1__cf_chl_jschl_tk__=pmd_e2ea998b4d62d17a2afd596b60deedbd98393a3c-1628225627-0-gqNtZGzNAfijcnBszQfi" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.08.03 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.08.03.21261496v1__cf_chl_jschl_tk__=pmd_e2ea998b4d62d17a2afd596b60deedbd98393a3c-1628225627-0-gqNtZGzNAfijcnBszQfi" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.08.03 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8lwJN5VcBI6ofh.jpg"  ><img src="/twitter/erictopol/images/E8lwJN5VcBI6ofh.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 Why the differences between Pfizer and Moderna?
@@ -67,7 +67,7 @@ A new study sheds light on viral load, viral culture, asymptomatic status among 
 
 "68% of individuals infected despite vaccination tested positive with Ct &lt;25, including at least 8 who were asymptomatic at the time of testing"
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.31.21261387v3" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.31 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v3" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.31 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/E8m2zgUUcAIZk0J.jpg"  ><img src="/twitter/erictopol/images/E8m2zgUUcAIZk0J.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8m237GVgAImGf2.jpg"  ><img src="/twitter/erictopol/images/E8m237GVgAImGf2.jpg" alt="Twitter image" ></img></a><a href="/twitter/erictopol/images/E8m3ANnUYAEx70i.jpg"  ><img src="/twitter/erictopol/images/E8m3ANnUYAEx70i.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1425873813888147459" target="_blank" rel="noreferer">10:36 UCT-7</a> 

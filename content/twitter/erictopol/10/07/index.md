@@ -83,7 +83,7 @@ New from Israel on booster restoration of Pfizer vaccine effectiveness across al
 
 "Across all age groups, rates of confirmed infection and severe illness were substantially lower among those who received a booster dose of the BNT162b2 vaccine"
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.10.07 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.10.07.21264626v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.10.07 ...</a> 
  </div> 
 <a href="/twitter/erictopol/images/FBIB8OLVQCUQ7W4.jpg"  ><img src="/twitter/erictopol/images/FBIB8OLVQCUQ7W4.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1446222771042729999" target="_blank" rel="noreferer">14:15 UCT-7</a> 

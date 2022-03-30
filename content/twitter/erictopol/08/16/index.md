@@ -20,7 +20,7 @@ Cases got down to zero in June after one of the most aggressive vaccination camp
 
 Then came Delta. </div> 
 <a href="/twitter/erictopol/images/E86xnJKVUAMyXbP.jpg"  ><img src="/twitter/erictopol/images/E86xnJKVUAMyXbP.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
-There is little evidence of waning immunity to the original strain at 6 months <a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
+There is little evidence of waning immunity to the original strain at 6 months <a href="https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1.full.pdf" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.28 ...</a> 
 
 
 In contrast to what is becoming clear with Delta </div> 

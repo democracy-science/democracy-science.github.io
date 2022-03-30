@@ -144,7 +144,7 @@ US overall  &gt;63,000/day 7-day average will rise quickly when FL and TX get go
 <div class="thread-content"> 
 The 6 month vaccine efficacy date from @Pfizer/@BioNTech_Group's randomized trial, new preprint
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.07.28 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.07.28 ...</a> 
 
 
 Any symptomatic infection

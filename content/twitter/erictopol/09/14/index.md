@@ -94,7 +94,7 @@ A sample of his acumen from the transcript </div>
 <div class="thread-content"> 
 Does abdominal #obesity reduce the immune response to @BioNTech_Group /@Pfizer's  vaccine?
 
-<a href="https://www.medrxiv.org/thread-content/10.1101/2021.09.10.21262710v1" target="_blank" rel="noreferer">medrxiv.org/thread-content/10.1101/2021.09.10 ...</a> 
+<a href="https://www.medrxiv.org/content/10.1101/2021.09.10.21262710v1" target="_blank" rel="noreferer">medrxiv.org/content/10.1101/2021.09.10 ...</a> 
  Looks that way for people without prior Covid. As assessed by waist circumference ✓ (far better than BMI) serially, including after 3 months </div> 
 <a href="/twitter/erictopol/images/E_ROZ9WVkAAkLhl.jpg"  ><img src="/twitter/erictopol/images/E_ROZ9WVkAAkLhl.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1437883016458604546" target="_blank" rel="noreferer">13:56 UCT-7</a> 
@@ -118,7 +118,7 @@ from <a href="https://www.ft.com/content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" t
 <div class="thread-content"> 
 New data on waning immunity justifying 3rd shot (boosters) from @PHE_uk today, reviewed and graphics @FT
 
-<a href="https://www.ft.com/thread-content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" target="_blank" rel="noreferer">ft.com/thread-content/cf83b3a1-fe06-4c9f-999c ...</a> 
+<a href="https://www.ft.com/content/cf83b3a1-fe06-4c9f-999c-7500090aee7c" target="_blank" rel="noreferer">ft.com/content/cf83b3a1-fe06-4c9f-999c ...</a> 
 
 
 1. Astra Zeneca (red)  and Pfizer (blue) 💉waning of protection vs hospitalization, pronounced in age 65+

@@ -7,7 +7,7 @@ category = "Twitter"
 <div class="thread-content"> 
 Why does the UK currently have 6-fold hospital admissions and a 3-fold higher death rate compared with Europe?
 
-<a href="https://www.ft.com/thread-content/34582534-4510-4d45-bcba-2f9e04005309" target="_blank" rel="noreferer">ft.com/thread-content/34582534-4510-4d45-bcba ...</a> 
+<a href="https://www.ft.com/content/34582534-4510-4d45-bcba-2f9e04005309" target="_blank" rel="noreferer">ft.com/content/34582534-4510-4d45-bcba ...</a> 
  @FT @mroliverbarnes @jburnmurdoch @danieldombey 
 
 Among possible explanations, two that stand out are less use of mitigation measures /1 </div> 

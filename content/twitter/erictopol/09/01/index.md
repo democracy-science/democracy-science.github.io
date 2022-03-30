@@ -22,7 +22,7 @@ This doesn't look good
 <a href="https://www.sciencemediacentre.org/expert-reaction-to-preprint-from-the-clock-study-looking-at-long-covid-in-children/" target="_blank" rel="noreferer">sciencemediacentre.org/expert-reaction ...</a> 
 
 
-<a href="https://www.ft.com/thread-content/31c30156-e446-469a-86d6-a1b93ccf91a0" target="_blank" rel="noreferer">ft.com/thread-content/31c30156-e446-469a-86d6 ...</a> 
+<a href="https://www.ft.com/content/31c30156-e446-469a-86d6-a1b93ccf91a0" target="_blank" rel="noreferer">ft.com/content/31c30156-e446-469a-86d6 ...</a> 
   @mroliverbarnes @FT @AlabiOso where is the preprint to review? </div> 
 <a href="/twitter/erictopol/images/E-M_DYZVUAY2kay.jpg"  ><img src="/twitter/erictopol/images/E-M_DYZVUAY2kay.jpg" alt="Twitter image" ></img></a><hr><div class="profile"> 
 <a href="https://twitter.com/erictopol/status/1433063291979399171" target="_blank" rel="noreferer">06:44 UCT-7</a> 

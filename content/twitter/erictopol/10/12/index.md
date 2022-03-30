@@ -118,7 +118,7 @@ How can you be the country that made the 1st Covid vaccines, did clinical trials
 <a href="/twitter/erictopol/images/FBh7gqdVEAA6cgd.jpg"  ><img src="/twitter/erictopol/images/FBh7gqdVEAA6cgd.jpg" alt="Twitter image" ></img></a></div> 
 <div class="thread"> 
 <div class="thread-content"> 
-The UK's vaccination campaign uncoupled its rise on cases from hospitalizations and deaths <a href="https://www.ft.com/thread-content/dac75674-3d6b-4eaa-b3fe-51af3b7b0f40" target="_blank" rel="noreferer">ft.com/thread-content/dac75674-3d6b-4eaa-b3fe ...</a> 
+The UK's vaccination campaign uncoupled its rise on cases from hospitalizations and deaths <a href="https://www.ft.com/content/dac75674-3d6b-4eaa-b3fe-51af3b7b0f40" target="_blank" rel="noreferer">ft.com/content/dac75674-3d6b-4eaa-b3fe ...</a> 
  by @martinwolf_ @FT </div> 
 <a href="/twitter/erictopol/images/FBiWIbUXoAgUPHL.jpg"  ><img src="/twitter/erictopol/images/FBiWIbUXoAgUPHL.jpg" alt="Twitter image" ></img></a><hr><div class="thread-content"> 
 The new UK report on its pandemic management "ranks as one of its most important public health failures" /2

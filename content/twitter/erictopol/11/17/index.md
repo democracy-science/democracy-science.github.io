@@ -130,7 +130,7 @@ New @BMJ_latest
 
 A systematic review of 72 studies of public health measures vs Covid: mask wearing reduced infections 53%, physical distancing by 25%
 
-<a href="https://www.bmj.com/thread-content/375/e068302" target="_blank" rel="noreferer">bmj.com/thread-content/375/e068302</a> 
+<a href="https://www.bmj.com/content/375/e068302" target="_blank" rel="noreferer">bmj.com/content/375/e068302</a> 
 
 
 (link issue to be resolved) </div> 
